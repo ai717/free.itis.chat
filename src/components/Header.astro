@@ -1,21 +1,12 @@
 ---
 import { SearchModal } from './SearchModal';
 import { ThemeToggle } from './ThemeToggle';
+import { NavCategories } from './NavCategories';
 import { getAllResources } from '../utils/resources';
 import { CATEGORIES } from '../data/categories';
 
 const allResources = getAllResources();
 const currentPath = Astro.url.pathname;
-
-// Short labels for clean, non-wrapping header navigation
-const SHORT_NAMES: Record<string, string> = {
-  ai: 'AI 神器',
-  adblock: '去广告',
-  media: '影音媒体',
-  software: '系统工具',
-  books: '电子书',
-  dev: '开发者',
-};
 ---
 
 <header class="sticky top-0 z-40 w-full glass-nav transition-all">
@@ -39,35 +30,13 @@ const SHORT_NAMES: Record<string, string> = {
           </div>
         </a>
 
-        {/* Navigation Categories - strictly whitespace-nowrap to avoid ugly line-breaks */}
-        <nav class="hidden lg:flex items-center gap-1 pl-3 border-l border-slate-200 dark:border-white/10 text-xs xl:text-sm shrink-0">
-          <a
-            href="/"
-            class={`px-2.5 py-1.5 rounded-lg font-medium whitespace-nowrap transition-colors ${
-              currentPath === '/'
-                ? 'text-cyan-700 dark:text-cyan-400 bg-slate-100 dark:bg-white/[0.05]'
-                : 'text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-white/[0.03]'
-            }`}
-          >
-            首页精选
-          </a>
-          {CATEGORIES.map((cat) => {
-            const isActive = currentPath === `/${cat.id}` || currentPath === `/${cat.id}/`;
-            const shortName = SHORT_NAMES[cat.id] || cat.name.split(' ')[0];
-            return (
-              <a
-                href={`/${cat.id}`}
-                class={`px-2.5 py-1.5 rounded-lg text-xs font-medium whitespace-nowrap transition-colors ${
-                  isActive
-                    ? 'text-cyan-700 dark:text-cyan-400 bg-slate-100 dark:bg-white/[0.05]'
-                    : 'text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-white/[0.03]'
-                }`}
-              >
-                {shortName}
-              </a>
-            );
-          })}
-        </nav>
+        {/* Dynamic Nav Categories: shows 4 popular items, collapses remaining into dropdown */}
+        <NavCategories
+          client:load
+          categories={CATEGORIES}
+          currentPath={currentPath}
+          visibleCount={4}
+        />
       </div>
 
       {/* Right Controls: Search, Theme Toggle, Submit Button & External Link */}
