@@ -1,9 +1,10 @@
 import React, { useState, useMemo, useEffect, useRef } from 'react';
 import type { ResourceItem, CategoryMeta } from '../types';
 import { ResourceListItem } from './ResourceListItem';
-import { Search, Tag, ShieldCheck, AlertTriangle, ArrowUpDown, Sparkles, Code, ArrowDownAZ } from 'lucide-react';
+import { Search, Tag, ShieldCheck, AlertTriangle, ArrowUpDown, Sparkles, Code, ArrowDownAZ, Dices } from 'lucide-react';
 import { useCurrentLang } from '../utils/i18n';
 import { scoreResource } from '../utils/score';
+import { sampleFeaturedResources } from '../utils/featuredSampler';
 
 export type SortOption = 'recommended' | 'starred' | 'opensource' | 'name-asc';
 
@@ -12,6 +13,7 @@ interface ResourceListProps {
   categories?: CategoryMeta[];
   groupByCategory?: boolean;
   activeCategory?: string;
+  enableShuffle?: boolean;
 }
 
 export const ResourceList: React.FC<ResourceListProps> = ({
@@ -19,12 +21,79 @@ export const ResourceList: React.FC<ResourceListProps> = ({
   categories = [],
   groupByCategory = false,
   activeCategory,
+  enableShuffle = false,
 }) => {
   const [lang] = useCurrentLang();
+  const [currentResources, setCurrentResources] = useState<ResourceItem[]>(resources);
   const [filterQuery, setFilterQuery] = useState('');
   const [selectedTag, setSelectedTag] = useState<string | null>(null);
   const [statusFilter, setStatusFilter] = useState<'all' | 'verified' | 'warning'>('all');
   const [sortBy, setSortBy] = useState<SortOption>('recommended');
+  const [isShuffling, setIsShuffling] = useState(false);
+  const poolRef = useRef<ResourceItem[] | null>(null);
+
+  // Sync resources if parent changes (e.g. category change)
+  useEffect(() => {
+    if (!enableShuffle) {
+      setCurrentResources(resources);
+    }
+  }, [resources, enableShuffle]);
+
+  // Client-side dynamic random pool shuffle on mount for home page
+  useEffect(() => {
+    if (!enableShuffle) return;
+
+    let isMounted = true;
+    const fetchPoolAndRotate = async () => {
+      try {
+        const res = await fetch('/featured-pool.json');
+        if (!res.ok) return;
+        const pool: ResourceItem[] = await res.json();
+        if (!isMounted || !Array.isArray(pool) || pool.length === 0) return;
+        poolRef.current = pool;
+
+        // Perform client-side random shuffle so every visitor/refresh gets a fresh batch!
+        const freshSample = sampleFeaturedResources(pool, 100);
+        setCurrentResources(freshSample);
+      } catch (e) {
+        console.error('Failed to load featured pool', e);
+      }
+    };
+
+    fetchPoolAndRotate();
+
+    return () => {
+      isMounted = false;
+    };
+  }, [enableShuffle]);
+
+  // Handle manual "Shuffle 100" button click
+  const handleShuffle = async () => {
+    if (isShuffling) return;
+    setIsShuffling(true);
+
+    try {
+      let pool = poolRef.current;
+      if (!pool || pool.length === 0) {
+        const res = await fetch('/featured-pool.json');
+        if (res.ok) {
+          pool = await res.json();
+          poolRef.current = pool;
+        }
+      }
+
+      if (pool && pool.length > 0) {
+        const freshSample = sampleFeaturedResources(pool, 100);
+        setCurrentResources(freshSample);
+      }
+    } catch (e) {
+      console.error('Shuffle error', e);
+    } finally {
+      setTimeout(() => {
+        setIsShuffling(false);
+      }, 400);
+    }
+  };
 
   // Reset selected tag when language switches so obsolete tags don't stick
   useEffect(() => {
@@ -34,7 +103,7 @@ export const ResourceList: React.FC<ResourceListProps> = ({
   // Popular tags (reactively localized)
   const popularTags = useMemo(() => {
     const counts = new Map<string, number>();
-    resources.forEach((r) => {
+    currentResources.forEach((r) => {
       const tagsList = lang === 'en' && r.tagsEn ? r.tagsEn : r.tags;
       tagsList.forEach((t) => counts.set(t, (counts.get(t) || 0) + 1));
     });
@@ -42,13 +111,13 @@ export const ResourceList: React.FC<ResourceListProps> = ({
       .sort((a, b) => b[1] - a[1])
       .slice(0, 16)
       .map(([tag]) => tag);
-  }, [resources, lang]);
+  }, [currentResources, lang]);
 
   // Filter and sort items
   const filteredItems = useMemo(() => {
     const q = filterQuery.toLowerCase().trim();
     // 1. Filter
-    const matched = resources.filter((item) => {
+    const matched = currentResources.filter((item) => {
       const itemTags = lang === 'en' && item.tagsEn ? item.tagsEn : item.tags;
       if (selectedTag && !itemTags.includes(selectedTag) && !item.tags.includes(selectedTag)) {
         return false;
@@ -280,6 +349,20 @@ export const ResourceList: React.FC<ResourceListProps> = ({
               </button>
             </div>
           </div>
+
+          {/* Shuffle 100 Button (Homepage Only) */}
+          {enableShuffle && (
+            <button
+              type="button"
+              onClick={handleShuffle}
+              disabled={isShuffling}
+              className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-semibold text-cyan-700 dark:text-cyan-300 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-500/10 dark:hover:bg-cyan-500/20 border border-cyan-300/80 dark:border-cyan-500/30 transition-all cursor-pointer shadow-xs active:scale-95 disabled:opacity-60 whitespace-nowrap"
+              title={lang === 'en' ? 'Randomly pick another 100 tools from 1,865 starred gems' : '从全网 1,865 款高星宝藏中无感随机换一批 100 款'}
+            >
+              <Dices className={`w-3.5 h-3.5 text-cyan-600 dark:text-cyan-400 transition-transform duration-500 ${isShuffling ? 'rotate-180 scale-110' : ''}`} />
+              <span>{lang === 'en' ? 'Shuffle 100' : '换一批 100 款'}</span>
+            </button>
+          )}
         </div>
 
         {/* Popular Tags Pills */}

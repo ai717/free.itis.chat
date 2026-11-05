@@ -108,10 +108,10 @@ const homeSchema = [
         </div>
         <span
           class="text-xs text-slate-500 dark:text-slate-400"
-          data-i18n-zh="精选 100 款社区高星神级工具 · 零广告纯开源 · 点击左侧探索 23 大分类全部 16,000+ 资源"
-          data-i18n-en="100 Handpicked Community Gems · Ad-Free & Open-Source · Click sidebar to explore all 16,000+ items"
+          data-i18n-zh="精选 100 款社区高星神级工具 · 零广告纯开源 · 支持刷新换一批 · 点击左侧探索 23 大分类全部 16,000+ 资源"
+          data-i18n-en="100 Handpicked Community Gems · Ad-Free & Open-Source · Click Shuffle for more · Click sidebar to explore all 16,000+ items"
         >
-          精选 100 款社区高星神级工具 · 零广告纯开源 · 点击左侧探索 23 大分类全部 16,000+ 资源
+          精选 100 款社区高星神级工具 · 零广告纯开源 · 支持刷新换一批 · 点击左侧探索 23 大分类全部 16,000+ 资源
         </span>
       </div>
 
@@ -119,6 +119,7 @@ const homeSchema = [
         client:load
         resources={featuredResources}
         groupByCategory={false}
+        enableShuffle={true}
       />
     </div>
   </div>
