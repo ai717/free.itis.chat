@@ -9,14 +9,14 @@
     "tags": [
       "社区精选",
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Featured",
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -36,13 +36,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -62,13 +62,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -88,13 +88,13 @@
     "category": "storage",
     "tags": [
       "开源",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Open Source",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -111,20 +111,20 @@
     "id": "storage-rawgraphs",
     "name": "RAWGraphs",
     "url": "https://app.rawgraphs.io/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "社区精选",
       "开源",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Featured",
       "Open Source",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -139,20 +139,20 @@
     "id": "storage-draw-io",
     "name": "draw.io",
     "url": "https://www.drawio.com/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "社区精选",
       "开源",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Featured",
       "Open Source",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -173,14 +173,14 @@
     "tags": [
       "社区精选",
       "开源",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Featured",
       "Open Source",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -201,14 +201,14 @@
     "tags": [
       "社区精选",
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Featured",
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -228,13 +228,13 @@
     "category": "storage",
     "tags": [
       "开源",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Open Source",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -254,13 +254,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -280,13 +280,13 @@
     "category": "storage",
     "tags": [
       "开源",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Open Source",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -306,13 +306,13 @@
     "category": "storage",
     "tags": [
       "开源",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Open Source",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -332,13 +332,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -358,13 +358,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -384,17 +384,17 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
-    "safeguardStatus": "warning",
-    "warningText": "避坑警告: Sites that don't necessarily meet the criteria to be called unsafe but still aren't recommended for different reasons.",
-    "warningTextEn": "Caveat: Sites that don't necessarily meet the criteria to be called unsafe but still aren't recommended for different reasons.",
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -410,17 +410,17 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -436,13 +436,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -457,20 +457,20 @@
     "id": "storage-cloudflare-dns",
     "name": "Cloudflare DNS",
     "url": "https://www.cloudflare.com/products/dns/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "社区精选",
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Featured",
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -485,20 +485,20 @@
     "id": "storage-desec",
     "name": "deSEC",
     "url": "https://desec.io/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "社区精选",
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Featured",
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -518,13 +518,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -544,13 +544,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -570,13 +570,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -596,13 +596,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -622,13 +622,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -648,13 +648,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -674,13 +674,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -700,13 +700,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -726,13 +726,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -754,13 +754,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -782,13 +782,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -810,13 +810,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -836,13 +836,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -862,13 +862,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -890,13 +890,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -913,18 +913,18 @@
     "id": "storage-public-dns-indexes",
     "name": "Public DNS indexes",
     "url": "https://www.publicdns.xyz/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -939,20 +939,20 @@
     "id": "storage-cloudflare-1-1-1-1",
     "name": "Cloudflare 1.1.1.1",
     "url": "https://developers.cloudflare.com/1.1.1.1/ip-addresses/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "社区精选",
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Featured",
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -973,14 +973,14 @@
     "tags": [
       "社区精选",
       "开源",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Featured",
       "Open Source",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -1000,13 +1000,13 @@
     "category": "storage",
     "tags": [
       "开源",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Open Source",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -1021,18 +1021,18 @@
     "id": "storage-unbound",
     "name": "Unbound",
     "url": "https://www.nlnetlabs.nl/projects/unbound/",
-    "description": "支持私有化自建部署, Validating, Recursive, Caching Resolver · GitHub",
+    "description": "支持自建部署, Validating, Recursive, Caching Resolver · GitHub",
     "descriptionEn": "Self-Hosted, Validating, Recursive, Caching Resolver / GitHub",
     "category": "storage",
     "tags": [
       "开源",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Open Source",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -1046,58 +1046,6 @@
     ]
   },
   {
-    "id": "storage-control-d",
-    "name": "Control D",
-    "url": "https://controld.com/free-dns",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "category": "storage",
-    "tags": [
-      "免费",
-      "云存储",
-      "数据备份"
-    ],
-    "tagsEn": [
-      "Free",
-      "Cloud Storage",
-      "Backup"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "storage-nextdns",
-    "name": "NextDNS",
-    "url": "https://nextdns.io",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "category": "storage",
-    "tags": [
-      "开源",
-      "云存储",
-      "数据备份"
-    ],
-    "tagsEn": [
-      "Open Source",
-      "Cloud Storage",
-      "Backup"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": "https://github.com/yokoffing/NextDNS-Config",
-    "platforms": []
-  },
-  {
     "id": "storage-tiarap",
     "name": "Tiarap",
     "url": "https://tiar.app/",
@@ -1106,39 +1054,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "storage-rethink-dns",
-    "name": "Rethink DNS",
-    "url": "https://rethinkdns.com/configure",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "category": "storage",
-    "tags": [
-      "免费",
-      "云存储",
-      "数据备份"
-    ],
-    "tagsEn": [
-      "Free",
-      "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -1153,18 +1075,18 @@
     "id": "storage-dnsbunker",
     "name": "DNSBunker",
     "url": "https://dnsbunker.org/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -1179,22 +1101,22 @@
     "id": "storage-hagezi-dns",
     "name": "HaGeZi DNS",
     "url": "https://github.com/hagezi/dns-servers",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "开源",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Open Source",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -1205,18 +1127,18 @@
     "id": "storage-bancuh",
     "name": "Bancuh",
     "url": "https://bancuh.com/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "开源",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Open Source",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -1231,18 +1153,18 @@
     "id": "storage-adguard",
     "name": "AdGuard",
     "url": "https://adguard-dns.io/en/public-dns.html",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "开源",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Open Source",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -1257,18 +1179,18 @@
     "id": "storage-dns-for-family",
     "name": "DNS for Family",
     "url": "https://dnsforfamily.com/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -1283,18 +1205,18 @@
     "id": "storage-dns-forge",
     "name": "DNS Forge",
     "url": "https://dnsforge.de/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -1309,18 +1231,18 @@
     "id": "storage-hurricane-electric",
     "name": "Hurricane Electric",
     "url": "https://dns.he.net/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -1335,18 +1257,18 @@
     "id": "storage-uncensoreddns",
     "name": "UncensoredDNS",
     "url": "https://blog.uncensoreddns.org/dns-servers/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -1361,18 +1283,18 @@
     "id": "storage-dns-sb",
     "name": "dns.sb",
     "url": "https://dns.sb/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -1387,18 +1309,18 @@
     "id": "storage-f0rc3run",
     "name": "F0rc3Run",
     "url": "https://forcerun.page.gd/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "开源",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Open Source",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -1413,18 +1335,18 @@
     "id": "storage-v2nodes",
     "name": "V2Nodes",
     "url": "https://v2nodes.com/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -1439,22 +1361,22 @@
     "id": "storage-v2ray-servers",
     "name": "v2ray servers",
     "url": "https://github.com/ebrasha/free-v2ray-public-list",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "开源",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Open Source",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -1465,18 +1387,18 @@
     "id": "storage-racevpn",
     "name": "RaceVPN",
     "url": "https://www.racevpn.com/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -1491,18 +1413,18 @@
     "id": "storage-greenssh",
     "name": "GreenSSH",
     "url": "https://www.greenssh.com/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -1517,18 +1439,18 @@
     "id": "storage-vpn-fail",
     "name": "vpn.fail",
     "url": "https://vpn.fail/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -1543,18 +1465,18 @@
     "id": "storage-vpn-jantit",
     "name": "VPN Jantit",
     "url": "https://www.vpnjantit.com/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -1574,13 +1496,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -1592,32 +1514,6 @@
     "platforms": []
   },
   {
-    "id": "storage-freesocks",
-    "name": "FreeSocks",
-    "url": "https://freesocks.org/",
-    "description": "Shadowsocks · GitHub",
-    "descriptionEn": "Shadowsocks / GitHub",
-    "category": "storage",
-    "tags": [
-      "开源",
-      "云存储",
-      "数据备份"
-    ],
-    "tagsEn": [
-      "Open Source",
-      "Cloud Storage",
-      "Backup"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": "https://github.com/unredacted/freesocks-control-plane",
-    "platforms": []
-  },
-  {
     "id": "storage-hi-load-vpn",
     "name": "Hi!Load VPN",
     "url": "https://t.me/hlvpnbot",
@@ -1626,13 +1522,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -1647,18 +1543,18 @@
     "id": "storage-sshocean",
     "name": "sshOcean",
     "url": "https://sshocean.com/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -1673,18 +1569,18 @@
     "id": "storage-freevpn",
     "name": "FreeVPN",
     "url": "https://www.freevpn.us/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -1699,18 +1595,18 @@
     "id": "storage-sshkit",
     "name": "SSHKit",
     "url": "https://sshkit.com/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -1725,18 +1621,18 @@
     "id": "storage-jagoanssh",
     "name": "JagoanSSH",
     "url": "https://www.jagoanssh.com/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -1751,18 +1647,18 @@
     "id": "storage-fastssh",
     "name": "fastssh",
     "url": "https://www.fastssh.com/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -1777,18 +1673,18 @@
     "id": "storage-opentunnel",
     "name": "OpenTunnel",
     "url": "https://opentunnel.net/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -1803,18 +1699,18 @@
     "id": "storage-howdy",
     "name": "Howdy",
     "url": "https://howdy.id/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -1834,13 +1730,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -1860,13 +1756,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -1881,18 +1777,18 @@
     "id": "storage-gd-demon---challenge-lis",
     "name": "⁠GD Demon / Challenge Lists",
     "url": "https://docs.google.com/document/d/1tYM7XWS18B7s2g4lplzF6qU2T8LHi3-kQkybGIhXlqE",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -1913,14 +1809,14 @@
     "tags": [
       "社区精选",
       "开源",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Featured",
       "Open Source",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -1941,14 +1837,14 @@
     "tags": [
       "社区精选",
       "开源",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Featured",
       "Open Source",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -1968,13 +1864,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -1994,13 +1890,13 @@
     "category": "storage",
     "tags": [
       "开源",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Open Source",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -2020,13 +1916,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -2046,13 +1942,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -2072,13 +1968,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -2098,13 +1994,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -2124,13 +2020,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -2150,13 +2046,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -2176,13 +2072,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -2202,13 +2098,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -2228,13 +2124,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -2254,13 +2150,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -2280,13 +2176,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -2301,18 +2197,18 @@
     "id": "storage-impossible-levels-list",
     "name": "Impossible Levels List",
     "url": "https://impossiblelevels.com/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -2327,18 +2223,18 @@
     "id": "storage-nine-circles-demonlist",
     "name": "Nine Circles Demonlist",
     "url": "https://ninecirclesdemonlist.com/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -2358,13 +2254,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -2376,32 +2272,6 @@
     "platforms": []
   },
   {
-    "id": "storage-internet-archival-bot",
-    "name": "⁠Internet Archival Bot",
-    "url": "https://internet-archival.xyz/",
-    "description": "Discord Internet Archival Bot · Discord · GitHub",
-    "descriptionEn": "Discord Internet Archival Bot / Discord / GitHub",
-    "category": "storage",
-    "tags": [
-      "开源",
-      "云存储",
-      "数据备份"
-    ],
-    "tagsEn": [
-      "Open Source",
-      "Cloud Storage",
-      "Backup"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": "https://github.com/Pendonym/Internet-Archival-Bot",
-    "platforms": []
-  },
-  {
     "id": "storage-archive-org-downloader",
     "name": "Archive.org-Downloader",
     "url": "https://github.com/MiniGlome/Archive.org-Downloader",
@@ -2410,17 +2280,17 @@
     "category": "storage",
     "tags": [
       "开源",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Open Source",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -2436,13 +2306,13 @@
     "category": "storage",
     "tags": [
       "开源",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Open Source",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -2462,17 +2332,17 @@
     "category": "storage",
     "tags": [
       "开源",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Open Source",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -2483,20 +2353,20 @@
     "id": "storage-themoeway",
     "name": "TheMoeWay",
     "url": "https://learnjapanese.moe/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "社区精选",
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Featured",
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -2516,17 +2386,17 @@
     "category": "storage",
     "tags": [
       "开源",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Open Source",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -2542,13 +2412,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -2568,13 +2438,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -2594,17 +2464,17 @@
     "category": "storage",
     "tags": [
       "开源",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Open Source",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -2615,22 +2485,22 @@
     "id": "storage-android-readers",
     "name": "Android Readers",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_manga",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -2644,24 +2514,24 @@
     "id": "storage-suwayomi",
     "name": "Suwayomi",
     "url": "https://github.com/Suwayomi",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "社区精选",
       "开源",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Featured",
       "Open Source",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
@@ -2672,20 +2542,20 @@
     "id": "storage-extensions",
     "name": "Extensions",
     "url": "https://keiyoushi.github.io/",
-    "description": "浏览器扩展s, 2 · Desktop 客户端",
+    "description": "Extensions, 2 · Desktop Client",
     "descriptionEn": "Extensions, 2 / Desktop Client",
     "category": "storage",
     "tags": [
       "社区精选",
       "开源",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Featured",
       "Open Source",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -2708,14 +2578,14 @@
     "tags": [
       "社区精选",
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Featured",
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -2730,20 +2600,20 @@
     "id": "storage-musescore-com",
     "name": "Musescore.com",
     "url": "https://musescore.com/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "社区精选",
       "开源",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Featured",
       "Open Source",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -2758,22 +2628,22 @@
     "id": "storage-8notes",
     "name": "8notes",
     "url": "https://www.8notes.com/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
-    "safeguardStatus": "warning",
-    "warningText": "避坑警告: Sites that don't necessarily meet the criteria to be called unsafe but still aren't recommended for different reasons.",
-    "warningTextEn": "Caveat: Sites that don't necessarily meet the criteria to be called unsafe but still aren't recommended for different reasons.",
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -2784,22 +2654,22 @@
     "id": "storage-notes-box",
     "name": "Notes Box",
     "url": "https://notes-box.com/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
-    "safeguardStatus": "warning",
-    "warningText": "避坑警告: Sites that don't necessarily meet the criteria to be called unsafe but still aren't recommended for different reasons.",
-    "warningTextEn": "Caveat: Sites that don't necessarily meet the criteria to be called unsafe but still aren't recommended for different reasons.",
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -2810,18 +2680,18 @@
     "id": "storage-musopen",
     "name": "Musopen",
     "url": "https://musopen.org/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -2836,18 +2706,18 @@
     "id": "storage-free-scores",
     "name": "Free Scores",
     "url": "https://www.free-scores.com/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -2859,21 +2729,21 @@
     "platforms": []
   },
   {
-    "id": "storage-free-scores",
+    "id": "storage-free-scores-2",
     "name": "free-scores",
     "url": "https://www.free-scores.com/free-sheet-music.php",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -2888,18 +2758,18 @@
     "id": "storage-bateristaspt",
     "name": "bateristaspt",
     "url": "https://www.bateristaspt.com/membros/drumscores/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -2914,18 +2784,18 @@
     "id": "storage-tchunes",
     "name": "tchunes",
     "url": "https://www.daev.ca/tchunes/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -2945,13 +2815,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -2971,13 +2841,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -2997,13 +2867,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -3023,13 +2893,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -3049,13 +2919,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -3075,39 +2945,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "storage-music-manuscripts-online",
-    "name": "Music Manuscripts Online",
-    "url": "https://www.themorgan.org/music",
-    "description": "Music Manuscripts",
-    "descriptionEn": "Music Manuscripts",
-    "category": "storage",
-    "tags": [
-      "免费",
-      "云存储",
-      "数据备份"
-    ],
-    "tagsEn": [
-      "Free",
-      "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -3127,13 +2971,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -3153,13 +2997,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -3179,13 +3023,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -3205,13 +3049,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -3231,13 +3075,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -3257,13 +3101,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -3283,13 +3127,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -3309,13 +3153,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -3335,13 +3179,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -3361,13 +3205,13 @@
     "category": "storage",
     "tags": [
       "开源",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Open Source",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -3387,13 +3231,13 @@
     "category": "storage",
     "tags": [
       "开源",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Open Source",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -3405,53 +3249,27 @@
     "platforms": []
   },
   {
-    "id": "storage-z-ai",
-    "name": "⁠Z.ai",
-    "url": "https://chat.z.ai/",
-    "description": "AI Presentation Generators",
-    "descriptionEn": "AI Presentation Generators",
-    "category": "storage",
-    "tags": [
-      "开源",
-      "云存储",
-      "数据备份"
-    ],
-    "tagsEn": [
-      "Open Source",
-      "Cloud Storage",
-      "Backup"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": "https://github.com/presenton/presenton",
-    "platforms": []
-  },
-  {
     "id": "storage-proxy-list",
     "name": "PROXY List",
     "url": "https://github.com/TheSpeedX/PROXY-List",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "社区精选",
       "开源",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Featured",
       "Open Source",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
@@ -3467,13 +3285,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -3488,20 +3306,20 @@
     "id": "storage-opnxng",
     "name": "OpnXNG",
     "url": "https://opnxng.com/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "社区精选",
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Featured",
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -3516,20 +3334,20 @@
     "id": "storage-gettempnumber",
     "name": "gettempnumber",
     "url": "https://gettempnumber.com/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "社区精选",
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Featured",
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -3544,20 +3362,20 @@
     "id": "storage-us-phone-number",
     "name": "us-phone-number",
     "url": "https://us-phone-number.com/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "社区精选",
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Featured",
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -3572,20 +3390,20 @@
     "id": "storage-sms24",
     "name": "sms24",
     "url": "https://www.sms24.me/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "社区精选",
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Featured",
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -3600,20 +3418,20 @@
     "id": "storage-receive-sms",
     "name": "receive-sms",
     "url": "https://receive-sms.cc/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "社区精选",
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Featured",
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -3628,20 +3446,20 @@
     "id": "storage-smsonline",
     "name": "⁠SMSOnline",
     "url": "https://www.smsonline.cloud/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "社区精选",
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Featured",
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -3661,17 +3479,17 @@
     "category": "storage",
     "tags": [
       "开源",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Open Source",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -3688,14 +3506,14 @@
     "tags": [
       "社区精选",
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Featured",
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -3716,14 +3534,14 @@
     "tags": [
       "社区精选",
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Featured",
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -3744,14 +3562,14 @@
     "tags": [
       "社区精选",
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Featured",
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -3772,14 +3590,14 @@
     "tags": [
       "社区精选",
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Featured",
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -3800,14 +3618,14 @@
     "tags": [
       "社区精选",
       "开源",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Featured",
       "Open Source",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -3827,13 +3645,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -3853,13 +3671,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -3879,13 +3697,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -3897,34 +3715,6 @@
     "platforms": []
   },
   {
-    "id": "storage-sidebery",
-    "name": "Sidebery",
-    "url": "https://github.com/mbnuqw/sidebery",
-    "description": "Firefox",
-    "descriptionEn": "Firefox",
-    "category": "storage",
-    "tags": [
-      "社区精选",
-      "开源",
-      "云存储",
-      "数据备份"
-    ],
-    "tagsEn": [
-      "Featured",
-      "Open Source",
-      "Cloud Storage",
-      "Backup"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": true,
-    "isStarred": true,
-    "isCollection": false,
-    "githubUrl": "https://github.com/mbnuqw/sidebery",
-    "platforms": []
-  },
-  {
     "id": "storage-react-typescript-cheatsh",
     "name": "React TypeScript Cheatsheets",
     "url": "https://react-typescript-cheatsheet.netlify.app",
@@ -3933,13 +3723,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -3959,13 +3749,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -3985,13 +3775,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -4011,13 +3801,13 @@
     "category": "storage",
     "tags": [
       "开源",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Open Source",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -4037,13 +3827,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -4058,20 +3848,20 @@
     "id": "storage-coursevania",
     "name": "Coursevania",
     "url": "https://coursevania.com/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "社区精选",
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Featured",
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -4086,20 +3876,20 @@
     "id": "storage-couponscorpion",
     "name": "CouponScorpion",
     "url": "https://couponscorpion.com/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "社区精选",
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Featured",
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -4119,13 +3909,13 @@
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
@@ -4145,17 +3935,17 @@
     "category": "storage",
     "tags": [
       "开源",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Open Source",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -4171,17 +3961,17 @@
     "category": "storage",
     "tags": [
       "开源",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Open Source",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -4192,22 +3982,22 @@
     "id": "storage-udemy-downloader",
     "name": "udemy-downloader",
     "url": "https://github.com/Puyodead1/udemy-downloader",
-    "description": "Udemy Downloader",
+    "description": "Udemy 下载器",
     "descriptionEn": "Udemy Downloader",
     "category": "storage",
     "tags": [
       "开源",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Open Source",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -4218,18 +4008,18 @@
     "id": "storage-udemy-download-guide",
     "name": "Udemy Download Guide",
     "url": "https://docs.google.com/document/d/1W91OS9rj7h9DBp5UwR68lA2zMEtqNmxdGaNVmBktIaw/",
-    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
-    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
       "免费",
-      "云存储",
-      "数据备份"
+      "网盘存储",
+      "对象存储"
     ],
     "tagsEn": [
       "Free",
       "Cloud Storage",
-      "Backup"
+      "Object Storage"
     ],
     "safeguardStatus": "verified",
     "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",

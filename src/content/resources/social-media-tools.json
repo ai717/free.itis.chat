@@ -3,8 +3,8 @@
     "id": "social-media-tools-disroot",
     "name": "Disroot",
     "url": "https://disroot.org/en/services",
-    "description": "社媒视频高清下载、无追踪前端与隐私镜像",
-    "descriptionEn": "社媒视频高清下载、无追踪前端与隐私镜像",
+    "description": "Social video extractors, 去追踪第三方隐私前端s, and clean mirrors.",
+    "descriptionEn": "Social video extractors, privacy frontends, and clean mirrors.",
     "category": "social-media-tools",
     "tags": [
       "免费",
@@ -32,8 +32,8 @@
     "id": "social-media-tools-chat---forum-sites",
     "name": "Chat / Forum Sites",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_chat_.2F_forums",
-    "description": "社媒视频高清下载、无追踪前端与隐私镜像",
-    "descriptionEn": "社媒视频高清下载、无追踪前端与隐私镜像",
+    "description": "Social video extractors, 去追踪第三方隐私前端s, and clean mirrors.",
+    "descriptionEn": "Social video extractors, privacy frontends, and clean mirrors.",
     "category": "social-media-tools",
     "tags": [
       "免费",
@@ -45,9 +45,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -71,9 +71,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -82,34 +82,6 @@
       "mac",
       "android"
     ]
-  },
-  {
-    "id": "social-media-tools-grayjay",
-    "name": "GrayJay",
-    "url": "https://grayjay.app/",
-    "description": "YouTube, Twitch, Rumble, etc. · Guide · Plugins · Add Platforms, 2, 3 · GitLab",
-    "descriptionEn": "YouTube, Twitch, Rumble, etc. / Guide / Plugins / Add Platforms, 2, 3 / GitLab",
-    "category": "social-media-tools",
-    "tags": [
-      "社区精选",
-      "开源",
-      "社媒嗅探",
-      "隐私前端"
-    ],
-    "tagsEn": [
-      "Featured",
-      "Open Source",
-      "Scraper",
-      "Privacy Frontend"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": true,
-    "isStarred": true,
-    "isCollection": false,
-    "githubUrl": "https://github.com/grayjay-sources/grayjay-sources.github.io",
-    "platforms": []
   },
   {
     "id": "social-media-tools-socialblade",
@@ -171,7 +143,7 @@
     "id": "social-media-tools-libredirect",
     "name": "LibRedirect",
     "url": "https://github.com/libredirect/browser_extension",
-    "description": "Frontend Redirect 浏览器扩展s",
+    "description": "Frontend Redirect Extensions",
     "descriptionEn": "Frontend Redirect Extensions",
     "category": "social-media-tools",
     "tags": [
@@ -186,9 +158,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
@@ -201,7 +173,7 @@
     "id": "social-media-tools-numblr",
     "name": "Numblr",
     "url": "https://github.com/heyLu/numblr",
-    "description": "支持私有化自建部署 Frontend Redirect",
+    "description": "支持自建部署 Frontend Redirect",
     "descriptionEn": "Self-Hosted Frontend Redirect",
     "category": "social-media-tools",
     "tags": [
@@ -214,9 +186,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -252,32 +224,6 @@
     "platforms": []
   },
   {
-    "id": "social-media-tools-pinterest-power-menu",
-    "name": "⁠Pinterest Power Menu",
-    "url": "https://github.com/Angel2mp3/Pinterest-Power-Menu",
-    "description": "Pinterest Improvement Script",
-    "descriptionEn": "Pinterest Improvement Script",
-    "category": "social-media-tools",
-    "tags": [
-      "开源",
-      "社媒嗅探",
-      "隐私前端"
-    ],
-    "tagsEn": [
-      "Open Source",
-      "Scraper",
-      "Privacy Frontend"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": "https://github.com/Angel2mp3/Pinterest-Power-Menu",
-    "platforms": []
-  },
-  {
     "id": "social-media-tools-grapper",
     "name": "⁠grapper",
     "url": "https://grapper.gab.net.eu.org/",
@@ -307,7 +253,7 @@
     "id": "social-media-tools-social-searcher",
     "name": "Social-Searcher",
     "url": "https://www.social-searcher.com/",
-    "description": "Social Media 专用搜索引擎s",
+    "description": "Social Media 独立搜索引擎s",
     "descriptionEn": "Social Media Search Engines",
     "category": "social-media-tools",
     "tags": [
@@ -346,9 +292,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -398,9 +344,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -515,8 +461,8 @@
     "id": "social-media-tools-chat-clients---discord-a",
     "name": "Chat Clients / Discord Alts",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_chat_tools",
-    "description": "社媒视频高清下载、无追踪前端与隐私镜像",
-    "descriptionEn": "社媒视频高清下载、无追踪前端与隐私镜像",
+    "description": "Social video extractors, 去追踪第三方隐私前端s, and clean mirrors.",
+    "descriptionEn": "Social video extractors, privacy frontends, and clean mirrors.",
     "category": "social-media-tools",
     "tags": [
       "免费",
@@ -528,9 +474,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -563,34 +509,6 @@
     "isStarred": true,
     "isCollection": false,
     "githubUrl": "https://github.com/FxEmbed/FxEmbed",
-    "platforms": []
-  },
-  {
-    "id": "social-media-tools-disblock-origin",
-    "name": "Disblock Origin",
-    "url": "https://codeberg.org/AllPurposeMat/Disblock-Origin",
-    "description": "Hide Nitro + Boost Ads",
-    "descriptionEn": "Hide Nitro + Boost Ads",
-    "category": "social-media-tools",
-    "tags": [
-      "社区精选",
-      "开源",
-      "社媒嗅探",
-      "隐私前端"
-    ],
-    "tagsEn": [
-      "Featured",
-      "Open Source",
-      "Scraper",
-      "Privacy Frontend"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": true,
-    "isStarred": true,
-    "isCollection": false,
-    "githubUrl": null,
     "platforms": []
   },
   {
@@ -705,7 +623,7 @@
     "id": "social-media-tools-answersoverflow",
     "name": "AnswersOverflow",
     "url": "https://www.answeroverflow.com/",
-    "description": "Discord 专用搜索引擎 · GitHub",
+    "description": "Discord 独立搜索引擎 · GitHub",
     "descriptionEn": "Discord Search Engine / GitHub",
     "category": "social-media-tools",
     "tags": [
@@ -770,9 +688,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -926,9 +844,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -1004,9 +922,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -1017,7 +935,7 @@
     "id": "social-media-tools-discord-tts-bot",
     "name": "Discord TTS Bot",
     "url": "https://docs.moonstar-x.dev/discord-tts-bot/",
-    "description": "Text to Speech for Discord",
+    "description": "文本转语音 (TTS) for Discord",
     "descriptionEn": "Text to Speech for Discord",
     "category": "social-media-tools",
     "tags": [
@@ -1112,9 +1030,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -1138,9 +1056,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -1190,9 +1108,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -1216,9 +1134,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -1283,7 +1201,7 @@
     "id": "social-media-tools-discord3rdparties",
     "name": "Discord3rdParties",
     "url": "https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties",
-    "description": "Discord 客户端s Index",
+    "description": "Discord Clients Index",
     "descriptionEn": "Discord Clients Index",
     "category": "social-media-tools",
     "tags": [
@@ -1296,9 +1214,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -1309,7 +1227,7 @@
     "id": "social-media-tools-vencord",
     "name": "Vencord",
     "url": "https://vencord.dev/",
-    "description": "Discord 客户端 Mod · Plugins",
+    "description": "Discord Client Mod · Plugins",
     "descriptionEn": "Discord Client Mod / Plugins",
     "category": "social-media-tools",
     "tags": [
@@ -1337,7 +1255,7 @@
     "id": "social-media-tools-equicord",
     "name": "Equicord",
     "url": "https://equicord.org",
-    "description": "Discord 客户端 Mod · Plugins",
+    "description": "Discord Client Mod · Plugins",
     "descriptionEn": "Discord Client Mod / Plugins",
     "category": "social-media-tools",
     "tags": [
@@ -1365,7 +1283,7 @@
     "id": "social-media-tools-webcord",
     "name": "WebCord",
     "url": "https://github.com/SpacingBat3/WebCord",
-    "description": "Privacy-Hardened 客户端 · Discord",
+    "description": "Privacy-Hardened Client · Discord",
     "descriptionEn": "Privacy-Hardened Client / Discord",
     "category": "social-media-tools",
     "tags": [
@@ -1380,9 +1298,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
@@ -1395,7 +1313,7 @@
     "id": "social-media-tools-legcord",
     "name": "Legcord",
     "url": "https://legcord.app/",
-    "description": "Discord 客户端 · Privacy-Fork · Discord · GitHub",
+    "description": "Discord Client · Privacy-Fork · Discord · GitHub",
     "descriptionEn": "Discord Client / Privacy-Fork / Discord / GitHub",
     "category": "social-media-tools",
     "tags": [
@@ -1421,7 +1339,7 @@
     "id": "social-media-tools-replugged",
     "name": "Replugged",
     "url": "https://replugged.dev/",
-    "description": "Discord 客户端 Mod · Discord · GitHub",
+    "description": "Discord Client Mod · Discord · GitHub",
     "descriptionEn": "Discord Client Mod / Discord / GitHub",
     "category": "social-media-tools",
     "tags": [
@@ -1447,7 +1365,7 @@
     "id": "social-media-tools-betterdiscord",
     "name": "BetterDiscord",
     "url": "https://betterdiscord.app/",
-    "description": "Discord 客户端 Mod · Plugins · Banned Plugins · Discord · GitHub",
+    "description": "Discord Client Mod · Plugins · Banned Plugins · Discord · GitHub",
     "descriptionEn": "Discord Client Mod / Plugins / Banned Plugins / Discord / GitHub",
     "category": "social-media-tools",
     "tags": [
@@ -1473,7 +1391,7 @@
     "id": "social-media-tools-discordo",
     "name": "Discordo",
     "url": "https://github.com/ayn2op/discordo",
-    "description": "Discord Terminal 客户端",
+    "description": "Discord Terminal Client",
     "descriptionEn": "Discord Terminal Client",
     "category": "social-media-tools",
     "tags": [
@@ -1486,9 +1404,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -1499,7 +1417,7 @@
     "id": "social-media-tools-dorion",
     "name": "Dorion",
     "url": "https://spikehd.dev/projects/dorion/",
-    "description": "Discord 客户端 Mod · GitHub",
+    "description": "Discord Client Mod · GitHub",
     "descriptionEn": "Discord Client Mod / GitHub",
     "category": "social-media-tools",
     "tags": [
@@ -1538,9 +1456,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -1548,38 +1466,10 @@
     "platforms": []
   },
   {
-    "id": "social-media-tools-spacebar",
-    "name": "Spacebar",
-    "url": "https://github.com/spacebarchat/spacebarchat",
-    "description": "支持私有化自建部署 · Discord Compatible",
-    "descriptionEn": "Self-Hosted / Discord Compatible",
-    "category": "social-media-tools",
-    "tags": [
-      "开源",
-      "社媒嗅探",
-      "隐私前端"
-    ],
-    "tagsEn": [
-      "Open Source",
-      "Scraper",
-      "Privacy Frontend"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": "https://github.com/spacebarchat/spacebarchat",
-    "platforms": [
-      "docker"
-    ]
-  },
-  {
     "id": "social-media-tools-dissent",
     "name": "Dissent",
     "url": "https://github.com/diamondburned/dissent",
-    "description": "GTK4 Discord 客户端",
+    "description": "GTK4 Discord Client",
     "descriptionEn": "GTK4 Discord Client",
     "category": "social-media-tools",
     "tags": [
@@ -1592,9 +1482,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -1631,7 +1521,7 @@
     "id": "social-media-tools-client-themes",
     "name": "Client Themes",
     "url": "https://betterdiscord.app/themes",
-    "description": "客户端 Theme Index",
+    "description": "Client Theme Index",
     "descriptionEn": "Client Theme Index",
     "category": "social-media-tools",
     "tags": [
@@ -1713,7 +1603,7 @@
     "id": "social-media-tools-bd-editor",
     "name": "BD Editor",
     "url": "https://bdeditor.dev/",
-    "description": "客户端 Theme Editor",
+    "description": "Client Theme Editor",
     "descriptionEn": "Client Theme Editor",
     "category": "social-media-tools",
     "tags": [
@@ -1866,32 +1756,6 @@
     "platforms": []
   },
   {
-    "id": "social-media-tools-pfps-gg",
-    "name": "Pfps.gg",
-    "url": "https://pfps.gg/",
-    "description": "Find Discord Avatars",
-    "descriptionEn": "Find Discord Avatars",
-    "category": "social-media-tools",
-    "tags": [
-      "免费",
-      "社媒嗅探",
-      "隐私前端"
-    ],
-    "tagsEn": [
-      "Free",
-      "Scraper",
-      "Privacy Frontend"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
     "id": "social-media-tools-usrbg",
     "name": "USRBG",
     "url": "https://git.is-hardly.online/USRBG/USRBG",
@@ -1947,7 +1811,7 @@
     "id": "social-media-tools-discord-emoji-downloader",
     "name": "Discord-Emoji-Downloader",
     "url": "https://thatiemsz.github.io/Discord-Emoji-Downloader/",
-    "description": "Emoji Downloader",
+    "description": "Emoji 下载器",
     "descriptionEn": "Emoji Downloader",
     "category": "social-media-tools",
     "tags": [
@@ -2130,32 +1994,6 @@
     "platforms": []
   },
   {
-    "id": "social-media-tools-jellyfin-rpc",
-    "name": "Jellyfin RPC",
-    "url": "https://github.com/Radiicall/jellyfin-rpc",
-    "description": "Jellyfin Rich Presence",
-    "descriptionEn": "Jellyfin Rich Presence",
-    "category": "social-media-tools",
-    "tags": [
-      "开源",
-      "社媒嗅探",
-      "隐私前端"
-    ],
-    "tagsEn": [
-      "Open Source",
-      "Scraper",
-      "Privacy Frontend"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": "https://github.com/Radiicall/jellyfin-rpc",
-    "platforms": []
-  },
-  {
     "id": "social-media-tools-youtubediscordpresence",
     "name": "⁠YouTubeDiscordPresence",
     "url": "https://github.com/XFG16/YouTubeDiscordPresence",
@@ -2172,9 +2010,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -2198,9 +2036,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -2224,9 +2062,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -2330,9 +2168,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -2434,9 +2272,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -2551,7 +2389,7 @@
     "id": "social-media-tools-wispbyte",
     "name": "⁠Wispbyte",
     "url": "https://wispbyte.com/",
-    "description": "Free Discord Bot Server Hosting · 512MB RAM · 1GB Disk · 无限制使用 Bandwidth",
+    "description": "Free Discord Bot Server Hosting · 512MB RAM · 1GB Disk · Unlimited Bandwidth",
     "descriptionEn": "Free Discord Bot Server Hosting / 512MB RAM / 1GB Disk / Unlimited Bandwidth",
     "category": "social-media-tools",
     "tags": [
@@ -2577,7 +2415,7 @@
     "id": "social-media-tools-red-discordbot",
     "name": "Red Discordbot",
     "url": "https://github.com/Cog-Creators/Red-DiscordBot",
-    "description": "支持 Docker 自建部署 Discord Moderation Bots",
+    "description": "Self-Hostable Discord Moderation Bots",
     "descriptionEn": "Self-Hostable Discord Moderation Bots",
     "category": "social-media-tools",
     "tags": [
@@ -2590,9 +2428,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -2749,9 +2587,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -3258,7 +3096,7 @@
     "id": "social-media-tools-reddit-enhancement-suite",
     "name": "Reddit Enhancement Suite",
     "url": "https://redditenhancementsuite.com/",
-    "description": "Reddit Enhancement 浏览器扩展s · Scripts",
+    "description": "Reddit Enhancement Extensions · Scripts",
     "descriptionEn": "Reddit Enhancement Extensions / Scripts",
     "category": "social-media-tools",
     "tags": [
@@ -3303,9 +3141,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
@@ -3331,9 +3169,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
@@ -3580,32 +3418,6 @@
     "platforms": []
   },
   {
-    "id": "social-media-tools-powerdeletesuite",
-    "name": "PowerDeleteSuite",
-    "url": "https://github.com/j0be/PowerDeleteSuite",
-    "description": "Reddit Auto Post Delete",
-    "descriptionEn": "Reddit Auto Post Delete",
-    "category": "social-media-tools",
-    "tags": [
-      "开源",
-      "社媒嗅探",
-      "隐私前端"
-    ],
-    "tagsEn": [
-      "Open Source",
-      "Scraper",
-      "Privacy Frontend"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": "https://github.com/j0be/PowerDeleteSuite",
-    "platforms": []
-  },
-  {
     "id": "social-media-tools-snoosnoop",
     "name": "SnooSnoop",
     "url": "https://snoosnoop.com/",
@@ -3648,9 +3460,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -3752,39 +3564,13 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
     "githubUrl": "https://github.com/aesy/reddit-comment-highlights",
-    "platforms": []
-  },
-  {
-    "id": "social-media-tools-infini-wtf",
-    "name": "infini.wtf",
-    "url": "https://infini.wtf/",
-    "description": "Reddit Image Search",
-    "descriptionEn": "Reddit Image Search",
-    "category": "social-media-tools",
-    "tags": [
-      "免费",
-      "社媒嗅探",
-      "隐私前端"
-    ],
-    "tagsEn": [
-      "Free",
-      "Scraper",
-      "Privacy Frontend"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
     "platforms": []
   },
   {
@@ -3804,9 +3590,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -3830,9 +3616,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -3843,7 +3629,7 @@
     "id": "social-media-tools-lurker",
     "name": "⁠lurker",
     "url": "https://tangled.org/oppi.li/lurker",
-    "description": "支持 Docker 自建部署 Read-Only Reddit 客户端",
+    "description": "Self-Hostable Read-Only Reddit Client",
     "descriptionEn": "Self-Hostable Read-Only Reddit Client",
     "category": "social-media-tools",
     "tags": [
@@ -3868,36 +3654,10 @@
     ]
   },
   {
-    "id": "social-media-tools-gallery-dl",
-    "name": "gallery-dl",
-    "url": "https://codeberg.org/mikf/gallery-dl",
-    "description": "Reddit Bulk Image Downloader · Discord",
-    "descriptionEn": "Reddit Bulk Image Downloader / Discord",
-    "category": "social-media-tools",
-    "tags": [
-      "开源",
-      "社媒嗅探",
-      "隐私前端"
-    ],
-    "tagsEn": [
-      "Open Source",
-      "Scraper",
-      "Privacy Frontend"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
     "id": "social-media-tools-redvid",
     "name": "⁠Redvid",
     "url": "https://redvid.io/",
-    "description": "Reddit Media Downloader",
+    "description": "Reddit Media 下载器",
     "descriptionEn": "Reddit Media Downloader",
     "category": "social-media-tools",
     "tags": [
@@ -3923,7 +3683,7 @@
     "id": "social-media-tools-ripme",
     "name": "RipMe",
     "url": "https://github.com/RipMeApp/ripme",
-    "description": "Reddit Media Downloader",
+    "description": "Reddit Media 下载器",
     "descriptionEn": "Reddit Media Downloader",
     "category": "social-media-tools",
     "tags": [
@@ -3936,9 +3696,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -3949,7 +3709,7 @@
     "id": "social-media-tools-rapidsave",
     "name": "RapidSave",
     "url": "https://rapidsave.com/",
-    "description": "Reddit Video · GIF Downloader",
+    "description": "Reddit Video · GIF 下载器",
     "descriptionEn": "Reddit Video / GIF Downloader",
     "category": "social-media-tools",
     "tags": [
@@ -3975,8 +3735,8 @@
     "id": "social-media-tools-lemmy-tools",
     "name": "Lemmy Tools",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_lemmy_tools",
-    "description": "社媒视频高清下载、无追踪前端与隐私镜像",
-    "descriptionEn": "社媒视频高清下载、无追踪前端与隐私镜像",
+    "description": "Social video extractors, 去追踪第三方隐私前端s, and clean mirrors.",
+    "descriptionEn": "Social video extractors, privacy frontends, and clean mirrors.",
     "category": "social-media-tools",
     "tags": [
       "免费",
@@ -3988,9 +3748,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -4265,7 +4025,7 @@
     "id": "social-media-tools-reddit-answers",
     "name": "⁠Reddit Answers",
     "url": "https://www.reddit.com/answers/",
-    "description": "Reddit 专用搜索引擎",
+    "description": "Reddit 独立搜索引擎",
     "descriptionEn": "Reddit Search Engine",
     "category": "social-media-tools",
     "tags": [
@@ -4278,9 +4038,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -4304,9 +4064,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -4356,9 +4116,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -4410,9 +4170,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -4423,8 +4183,8 @@
     "id": "social-media-tools-multireddit-indexes",
     "name": "Multireddit Indexes",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits",
-    "description": "社媒视频高清下载、无追踪前端与隐私镜像",
-    "descriptionEn": "社媒视频高清下载、无追踪前端与隐私镜像",
+    "description": "Social video extractors, 去追踪第三方隐私前端s, and clean mirrors.",
+    "descriptionEn": "Social video extractors, privacy frontends, and clean mirrors.",
     "category": "social-media-tools",
     "tags": [
       "免费",
@@ -4436,9 +4196,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -4490,9 +4250,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -4656,32 +4416,6 @@
     "platforms": []
   },
   {
-    "id": "social-media-tools-telegago",
-    "name": "Telegago",
-    "url": "https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0",
-    "description": "Telegram CSEs",
-    "descriptionEn": "Telegram CSEs",
-    "category": "social-media-tools",
-    "tags": [
-      "免费",
-      "社媒嗅探",
-      "隐私前端"
-    ],
-    "tagsEn": [
-      "Free",
-      "Scraper",
-      "Privacy Frontend"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
     "id": "social-media-tools-saverestrictedcontentbot",
     "name": "SaveRestrictedContentBot",
     "url": "https://github.com/vasusen-code/SaveRestrictedContentBot",
@@ -4698,9 +4432,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -4750,9 +4484,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -4763,7 +4497,7 @@
     "id": "social-media-tools-thefeedreaderbot",
     "name": "TheFeedReaderBot",
     "url": "https://thefeedreaderbot.com/",
-    "description": "RSS Reader",
+    "description": "RSS 订阅聚合阅读器",
     "descriptionEn": "RSS Reader",
     "category": "social-media-tools",
     "tags": [
@@ -4864,38 +4598,10 @@
     "platforms": []
   },
   {
-    "id": "social-media-tools-ayugram",
-    "name": "AyuGram",
-    "url": "https://docs.ayugram.one/downloads/",
-    "description": "Desktop 客户端 · Portable · Chat · Telegram · GitHub",
-    "descriptionEn": "Desktop Client / Portable / Chat / Telegram / GitHub",
-    "category": "social-media-tools",
-    "tags": [
-      "社区精选",
-      "开源",
-      "社媒嗅探",
-      "隐私前端"
-    ],
-    "tagsEn": [
-      "Featured",
-      "Open Source",
-      "Scraper",
-      "Privacy Frontend"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": true,
-    "isStarred": true,
-    "isCollection": false,
-    "githubUrl": "https://github.com/AyuGram/AyuGramDesktop",
-    "platforms": []
-  },
-  {
     "id": "social-media-tools-materialgram",
     "name": "Materialgram",
     "url": "https://kukuruzka165.github.io/materialgram/",
-    "description": "Desktop 客户端 · Portable · GitHub",
+    "description": "Desktop Client · Portable · GitHub",
     "descriptionEn": "Desktop Client / Portable / GitHub",
     "category": "social-media-tools",
     "tags": [
@@ -4923,7 +4629,7 @@
     "id": "social-media-tools-unigram",
     "name": "Unigram",
     "url": "https://github.com/UnigramDev/Unigram",
-    "description": "Desktop 客户端",
+    "description": "Desktop Client",
     "descriptionEn": "Desktop Client",
     "category": "social-media-tools",
     "tags": [
@@ -4938,9 +4644,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
@@ -4951,7 +4657,7 @@
     "id": "social-media-tools-forkgram",
     "name": "Forkgram",
     "url": "https://github.com/Forkgram/tdesktop",
-    "description": "Desktop 客户端",
+    "description": "Desktop Client",
     "descriptionEn": "Desktop Client",
     "category": "social-media-tools",
     "tags": [
@@ -4964,9 +4670,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -4977,7 +4683,7 @@
     "id": "social-media-tools-64gram",
     "name": "64Gram",
     "url": "https://github.com/TDesktop-x64/tdesktop",
-    "description": "Desktop 客户端 · Telegram",
+    "description": "Desktop Client · Telegram",
     "descriptionEn": "Desktop Client / Telegram",
     "category": "social-media-tools",
     "tags": [
@@ -4990,9 +4696,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -5003,7 +4709,7 @@
     "id": "social-media-tools-vidogram",
     "name": "VidoGram",
     "url": "https://vidogram.org/",
-    "description": "Desktop 客户端",
+    "description": "Desktop Client",
     "descriptionEn": "Desktop Client",
     "category": "social-media-tools",
     "tags": [
@@ -5029,7 +4735,7 @@
     "id": "social-media-tools-vanillatg",
     "name": "VanillaTG",
     "url": "https://t.me/VanillaTG",
-    "description": "客户端 Themes",
+    "description": "Client Themes",
     "descriptionEn": "Client Themes",
     "category": "social-media-tools",
     "tags": [
@@ -5094,9 +4800,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -5107,7 +4813,7 @@
     "id": "social-media-tools-tg-filestreambot",
     "name": "TG-FileStreamBot",
     "url": "https://github.com/EverythingSuckz/TG-FileStreamBot",
-    "description": "Telegram File Streaming",
+    "description": "Telegram File 在线流媒体",
     "descriptionEn": "Telegram File Streaming",
     "category": "social-media-tools",
     "tags": [
@@ -5120,9 +4826,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -5133,7 +4839,7 @@
     "id": "social-media-tools-wzml-x",
     "name": "WZML-X",
     "url": "https://github.com/SilentDemonSD/WZML-X",
-    "description": "Media Downloaders",
+    "description": "Media 下载器s",
     "descriptionEn": "Media Downloaders",
     "category": "social-media-tools",
     "tags": [
@@ -5146,39 +4852,13 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
     "githubUrl": "https://github.com/SilentDemonSD/WZML-X",
-    "platforms": []
-  },
-  {
-    "id": "social-media-tools-musvkrobot",
-    "name": "Musvkrobot",
-    "url": "https://t.me/musvkrobot",
-    "description": "Video Downloader",
-    "descriptionEn": "Video Downloader",
-    "category": "social-media-tools",
-    "tags": [
-      "免费",
-      "社媒嗅探",
-      "隐私前端"
-    ],
-    "tagsEn": [
-      "Free",
-      "Scraper",
-      "Privacy Frontend"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
     "platforms": []
   },
   {
@@ -5276,9 +4956,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -5289,7 +4969,7 @@
     "id": "social-media-tools-convrt-bot",
     "name": "convrt_bot",
     "url": "https://t.me/convrt_bot",
-    "description": "File Converters",
+    "description": "跨格式文件转换器s",
     "descriptionEn": "File Converters",
     "category": "social-media-tools",
     "tags": [
@@ -5328,9 +5008,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -5432,9 +5112,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -5458,9 +5138,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -5484,9 +5164,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -5562,9 +5242,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -5679,8 +5359,8 @@
     "id": "social-media-tools-youtube-ad---sponsorbloc",
     "name": "YouTube Ad + Sponsorblock",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking",
-    "description": "社媒视频高清下载、无追踪前端与隐私镜像",
-    "descriptionEn": "社媒视频高清下载、无追踪前端与隐私镜像",
+    "description": "Social video extractors, 去追踪第三方隐私前端s, and clean mirrors.",
+    "descriptionEn": "Social video extractors, privacy frontends, and clean mirrors.",
     "category": "social-media-tools",
     "tags": [
       "免费",
@@ -5692,9 +5372,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -5774,9 +5454,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -5854,9 +5534,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -5867,7 +5547,7 @@
     "id": "social-media-tools-youtube-subscription-his",
     "name": "YouTube Subscription History",
     "url": "https://xxluke.de/subscription-history/",
-    "description": "Subscription History Tracker",
+    "description": "Subscription History Tracker 节点",
     "descriptionEn": "Subscription History Tracker",
     "category": "social-media-tools",
     "tags": [
@@ -5906,9 +5586,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -5932,9 +5612,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -6064,9 +5744,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -6077,7 +5757,7 @@
     "id": "social-media-tools-speechchat",
     "name": "SpeechChat",
     "url": "https://speechchat.com/",
-    "description": "Text to Speech 客户端",
+    "description": "文本转语音 (TTS) Client",
     "descriptionEn": "Text to Speech Client",
     "category": "social-media-tools",
     "tags": [
@@ -6116,9 +5796,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -6142,9 +5822,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -6272,9 +5952,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -6371,7 +6051,7 @@
     "id": "social-media-tools-improvedtube",
     "name": "ImprovedTube",
     "url": "https://improvedtube.com/",
-    "description": "YouTube Enhancement 浏览器扩展s",
+    "description": "YouTube Enhancement Extensions",
     "descriptionEn": "YouTube Enhancement Extensions",
     "category": "social-media-tools",
     "tags": [
@@ -6412,9 +6092,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -6438,9 +6118,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -6464,9 +6144,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -6490,9 +6170,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -6568,9 +6248,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -6648,9 +6328,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -6754,43 +6434,14 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
     "githubUrl": "https://github.com/WesselKroos/youtube-ambilight",
     "platforms": []
-  },
-  {
-    "id": "social-media-tools-android",
-    "name": "Android",
-    "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_youtube_apps",
-    "description": "Mobile YouTube Apps",
-    "descriptionEn": "Mobile YouTube Apps",
-    "category": "social-media-tools",
-    "tags": [
-      "免费",
-      "社媒嗅探",
-      "隐私前端"
-    ],
-    "tagsEn": [
-      "Free",
-      "Scraper",
-      "Privacy Frontend"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": true,
-    "githubUrl": null,
-    "platforms": [
-      "mac",
-      "android"
-    ]
   },
   {
     "id": "social-media-tools-freetube",
@@ -6849,60 +6500,6 @@
     "platforms": []
   },
   {
-    "id": "social-media-tools-yout-ube",
-    "name": "YouT-ube",
-    "url": "https://www.yout-ube.com/",
-    "description": "Use YouTube Full Window Player · Bypass uBO Delay",
-    "descriptionEn": "Use YouTube Full Window Player / Bypass uBO Delay",
-    "category": "social-media-tools",
-    "tags": [
-      "免费",
-      "社媒嗅探",
-      "隐私前端"
-    ],
-    "tagsEn": [
-      "Free",
-      "Scraper",
-      "Privacy Frontend"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": [
-      "win"
-    ]
-  },
-  {
-    "id": "social-media-tools-ytch",
-    "name": "YTCH",
-    "url": "https://ytch.tv/",
-    "description": "Random TV Style YouTube · Custom Channels",
-    "descriptionEn": "Random TV Style YouTube / Custom Channels",
-    "category": "social-media-tools",
-    "tags": [
-      "免费",
-      "社媒嗅探",
-      "隐私前端"
-    ],
-    "tagsEn": [
-      "Free",
-      "Scraper",
-      "Privacy Frontend"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
     "id": "social-media-tools-youtube-notes",
     "name": "YouTube Notes",
     "url": "https://instadeq.com/youtube-notes/",
@@ -6919,9 +6516,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "warning",
-    "warningText": "避坑警告: Sites that don't necessarily meet the criteria to be called unsafe but still aren't recommended for different reasons.",
-    "warningTextEn": "Caveat: Sites that don't necessarily meet the criteria to be called unsafe but still aren't recommended for different reasons.",
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -7036,7 +6633,7 @@
     "id": "social-media-tools-piped",
     "name": "Piped",
     "url": "https://piped.private.coffee/",
-    "description": "YouTube Frontend · 需注册账号使用 · GitHub",
+    "description": "YouTube Frontend · Requires Sign-Up · GitHub",
     "descriptionEn": "YouTube Frontend / Requires Sign-Up / GitHub",
     "category": "social-media-tools",
     "tags": [
@@ -7075,9 +6672,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -7137,32 +6734,6 @@
     "platforms": []
   },
   {
-    "id": "social-media-tools-yewtube",
-    "name": "YewTube",
-    "url": "https://github.com/mps-youtube/yewtube",
-    "description": "Terminal YouTube Players",
-    "descriptionEn": "Terminal YouTube Players",
-    "category": "social-media-tools",
-    "tags": [
-      "开源",
-      "社媒嗅探",
-      "隐私前端"
-    ],
-    "tagsEn": [
-      "Open Source",
-      "Scraper",
-      "Privacy Frontend"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": "https://github.com/mps-youtube/yewtube",
-    "platforms": []
-  },
-  {
     "id": "social-media-tools-vacuumtube",
     "name": "VacuumTube",
     "url": "https://github.com/shy1132/VacuumTube",
@@ -7179,9 +6750,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -7189,37 +6760,11 @@
     "platforms": []
   },
   {
-    "id": "social-media-tools-video-adblockers",
-    "name": "Video Adblockers",
-    "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking",
-    "description": "社媒视频高清下载、无追踪前端与隐私镜像",
-    "descriptionEn": "社媒视频高清下载、无追踪前端与隐私镜像",
-    "category": "social-media-tools",
-    "tags": [
-      "免费",
-      "社媒嗅探",
-      "隐私前端"
-    ],
-    "tagsEn": [
-      "Free",
-      "Scraper",
-      "Privacy Frontend"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": true,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
     "id": "social-media-tools-video-transcribers",
     "name": "Video Transcribers",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25BA_subtitle_tools",
-    "description": "社媒视频高清下载、无追踪前端与隐私镜像",
-    "descriptionEn": "社媒视频高清下载、无追踪前端与隐私镜像",
+    "description": "Social video extractors, 去追踪第三方隐私前端s, and clean mirrors.",
+    "descriptionEn": "Social video extractors, privacy frontends, and clean mirrors.",
     "category": "social-media-tools",
     "tags": [
       "免费",
@@ -7231,9 +6776,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -7337,9 +6882,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -7521,9 +7066,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -7534,7 +7079,7 @@
     "id": "social-media-tools-playlists-at",
     "name": "playlists.at",
     "url": "https://playlists.at/",
-    "description": "Playlist Creators · Chrome 浏览器扩展",
+    "description": "Playlist Creators · Chrome Extension",
     "descriptionEn": "Playlist Creators / Chrome Extension",
     "category": "social-media-tools",
     "tags": [
@@ -7577,9 +7122,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -7603,9 +7148,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -7762,8 +7307,8 @@
       "Privacy Frontend"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: More Complete Lists",
-    "warningTextEn": "Caveat: More Complete Lists",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -7800,7 +7345,7 @@
     "id": "social-media-tools-yt-dl-gui-index",
     "name": "YT-DL GUI Index",
     "url": "https://www.reddit.com/r/youtubedl/wiki/info-guis",
-    "description": "List of YouTube Downloader GUIs",
+    "description": "List of YouTube 下载器 GUIs",
     "descriptionEn": "List of YouTube Downloader GUIs",
     "category": "social-media-tools",
     "tags": [
@@ -7813,35 +7358,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": true,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "social-media-tools-multi-site-downloaders",
-    "name": "Multi-Site Downloaders",
-    "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download",
-    "description": "社媒视频高清下载、无追踪前端与隐私镜像",
-    "descriptionEn": "社媒视频高清下载、无追踪前端与隐私镜像",
-    "category": "social-media-tools",
-    "tags": [
-      "免费",
-      "社媒嗅探",
-      "隐私前端"
-    ],
-    "tagsEn": [
-      "Free",
-      "Scraper",
-      "Privacy Frontend"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -7867,9 +7386,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
@@ -7877,66 +7396,10 @@
     "platforms": []
   },
   {
-    "id": "social-media-tools-jdownloader",
-    "name": "JDownloader",
-    "url": "https://jdownloader.org/",
-    "description": "YouTube Downloader App",
-    "descriptionEn": "YouTube Downloader App",
-    "category": "social-media-tools",
-    "tags": [
-      "社区精选",
-      "免费",
-      "社媒嗅探",
-      "隐私前端"
-    ],
-    "tagsEn": [
-      "Featured",
-      "Free",
-      "Scraper",
-      "Privacy Frontend"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": true,
-    "isStarred": true,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "social-media-tools-yt-dlp",
-    "name": "yt-dlp",
-    "url": "https://github.com/yt-dlp/yt-dlp",
-    "description": "YT-DL CLIs · TUIs",
-    "descriptionEn": "YT-DL CLIs / TUIs",
-    "category": "social-media-tools",
-    "tags": [
-      "社区精选",
-      "开源",
-      "社媒嗅探",
-      "隐私前端"
-    ],
-    "tagsEn": [
-      "Featured",
-      "Open Source",
-      "Scraper",
-      "Privacy Frontend"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": true,
-    "isStarred": true,
-    "isCollection": false,
-    "githubUrl": "https://github.com/yt-dlp/yt-dlp",
-    "platforms": []
-  },
-  {
     "id": "social-media-tools-youtubedownloader",
     "name": "YoutubeDownloader",
     "url": "https://github.com/Tyrrrz/YoutubeDownloader",
-    "description": "YouTube Downloader App",
+    "description": "YouTube 下载器 App",
     "descriptionEn": "YouTube Downloader App",
     "category": "social-media-tools",
     "tags": [
@@ -7951,9 +7414,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
@@ -7990,7 +7453,7 @@
     "id": "social-media-tools-yt1s",
     "name": "⁠YT1s",
     "url": "https://yt1s.com.co/",
-    "description": "Online YT-DL Downloaders",
+    "description": "Online YT-DL 下载器s",
     "descriptionEn": "Online YT-DL Downloaders",
     "category": "social-media-tools",
     "tags": [
@@ -8044,7 +7507,7 @@
     "id": "social-media-tools-pinchflat",
     "name": "Pinchflat",
     "url": "https://github.com/kieraneglin/pinchflat",
-    "description": "支持私有化自建部署 YT-DLP",
+    "description": "支持自建部署 YT-DLP",
     "descriptionEn": "Self-Hosted YT-DLP",
     "category": "social-media-tools",
     "tags": [
@@ -8057,23 +7520,23 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
     "githubUrl": "https://github.com/kieraneglin/pinchflat",
     "platforms": [
-      "web",
-      "docker"
+      "docker",
+      "web"
     ]
   },
   {
     "id": "social-media-tools-ytarchive",
     "name": "ytarchive",
     "url": "https://github.com/Kethsar/ytarchive",
-    "description": "YouTube Livestream Downloader",
+    "description": "YouTube Livestream 下载器",
     "descriptionEn": "YouTube Livestream Downloader",
     "category": "social-media-tools",
     "tags": [
@@ -8086,9 +7549,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -8164,39 +7627,13 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
     "githubUrl": "https://github.com/egbertbouman/youtube-comment-downloader",
-    "platforms": []
-  },
-  {
-    "id": "social-media-tools-ytsubdl",
-    "name": "⁠ytsubdl",
-    "url": "https://ytsubdl.com/",
-    "description": "Extract Subtitles · Transcript from YouTube Videos",
-    "descriptionEn": "Extract Subtitles / Transcript from YouTube Videos",
-    "category": "social-media-tools",
-    "tags": [
-      "免费",
-      "社媒嗅探",
-      "隐私前端"
-    ],
-    "tagsEn": [
-      "Free",
-      "Scraper",
-      "Privacy Frontend"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
     "platforms": []
   },
   {
@@ -8257,7 +7694,7 @@
     "id": "social-media-tools-youtube-advanced-search",
     "name": "YouTube Advanced Search",
     "url": "https://playlists.at/youtube/search/",
-    "description": "专用搜索引擎",
+    "description": "独立搜索引擎",
     "descriptionEn": "Search Engine",
     "category": "social-media-tools",
     "tags": [
@@ -8315,7 +7752,7 @@
     "id": "social-media-tools-comb-io",
     "name": "comb.io",
     "url": "https://comb.io/",
-    "description": "Clip · Phrase 专用搜索引擎s",
+    "description": "Clip · Phrase 独立搜索引擎s",
     "descriptionEn": "Clip / Phrase Search Engines",
     "category": "social-media-tools",
     "tags": [
@@ -8406,9 +7843,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -8447,32 +7884,6 @@
     "url": "https://likesearch.kaustlabs.com/",
     "description": "Search Your Liked YouTube Videos",
     "descriptionEn": "Search Your Liked YouTube Videos",
-    "category": "social-media-tools",
-    "tags": [
-      "免费",
-      "社媒嗅探",
-      "隐私前端"
-    ],
-    "tagsEn": [
-      "Free",
-      "Scraper",
-      "Privacy Frontend"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "social-media-tools-hackertube",
-    "name": "⁠HackerTube",
-    "url": "https://hackertube.org/",
-    "description": "Educational YouTube Videos",
-    "descriptionEn": "Educational YouTube Videos",
     "category": "social-media-tools",
     "tags": [
       "免费",
@@ -8627,7 +8038,7 @@
     "id": "social-media-tools-youtube-video-finder",
     "name": "YouTube Video Finder",
     "url": "https://findyoutubevideo.thetechrobo.ca/",
-    "description": "Multi-Archive 专用搜索引擎s",
+    "description": "Multi-Archive 独立搜索引擎s",
     "descriptionEn": "Multi-Archive Search Engines",
     "category": "social-media-tools",
     "tags": [
@@ -8652,60 +8063,6 @@
     "platforms": []
   },
   {
-    "id": "social-media-tools-tubeup",
-    "name": "Tubeup",
-    "url": "https://github.com/bibanon/tubeup",
-    "description": "YouTube Video to IA Uploader",
-    "descriptionEn": "YouTube Video to IA Uploader",
-    "category": "social-media-tools",
-    "tags": [
-      "开源",
-      "社媒嗅探",
-      "隐私前端"
-    ],
-    "tagsEn": [
-      "Open Source",
-      "Scraper",
-      "Privacy Frontend"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": "https://github.com/bibanon/tubeup",
-    "platforms": []
-  },
-  {
-    "id": "social-media-tools-tube-archivist",
-    "name": "Tube Archivist",
-    "url": "https://www.tubearchivist.com/",
-    "description": "支持私有化自建部署 YouTube Media Server · GitHub",
-    "descriptionEn": "Self-Hosted YouTube Media Server / GitHub",
-    "category": "social-media-tools",
-    "tags": [
-      "开源",
-      "社媒嗅探",
-      "隐私前端"
-    ],
-    "tagsEn": [
-      "Open Source",
-      "Scraper",
-      "Privacy Frontend"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": "https://github.com/tubearchivist/tubearchivist",
-    "platforms": [
-      "docker"
-    ]
-  },
-  {
     "id": "social-media-tools-yark",
     "name": "yark",
     "url": "https://github.com/Owez/yark",
@@ -8722,9 +8079,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -8732,7 +8089,7 @@
     "platforms": []
   },
   {
-    "id": "social-media-tools-filmot",
+    "id": "social-media-tools-filmot-2",
     "name": "Filmot",
     "url": "https://filmot.com/unlistedSearch",
     "description": "Search · Watch Unlisted YouTube Videos",
@@ -8862,32 +8219,6 @@
     "platforms": []
   },
   {
-    "id": "social-media-tools-piliplus",
-    "name": "PiliPlus",
-    "url": "https://github.com/bggRGjQaUbCoE/PiliPlus",
-    "description": "Desktop App",
-    "descriptionEn": "Desktop App",
-    "category": "social-media-tools",
-    "tags": [
-      "开源",
-      "社媒嗅探",
-      "隐私前端"
-    ],
-    "tagsEn": [
-      "Open Source",
-      "Scraper",
-      "Privacy Frontend"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": "https://github.com/bggRGjQaUbCoE/PiliPlus",
-    "platforms": []
-  },
-  {
     "id": "social-media-tools-bilibili-evolved",
     "name": "Bilibili-Evolved",
     "url": "https://github.com/the1812/Bilibili-Evolved",
@@ -8904,39 +8235,13 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
     "githubUrl": "https://github.com/the1812/Bilibili-Evolved",
-    "platforms": []
-  },
-  {
-    "id": "social-media-tools-bilibilisponsorblock",
-    "name": "BilibiliSponsorBlock",
-    "url": "https://www.bsbsb.top/",
-    "description": "Skip Sponsored Bilibili Ads · GitHub",
-    "descriptionEn": "Skip Sponsored Bilibili Ads / GitHub",
-    "category": "social-media-tools",
-    "tags": [
-      "开源",
-      "社媒嗅探",
-      "隐私前端"
-    ],
-    "tagsEn": [
-      "Open Source",
-      "Scraper",
-      "Privacy Frontend"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": "https://github.com/hanydd/BilibiliSponsorBlock",
     "platforms": []
   },
   {
@@ -9021,7 +8326,7 @@
     "id": "social-media-tools-wiliwili",
     "name": "wiliwili",
     "url": "http://www.xfangfang.cn/wiliwili/",
-    "description": "Gamepad 客户端",
+    "description": "Gamepad Client",
     "descriptionEn": "Gamepad Client",
     "category": "social-media-tools",
     "tags": [
@@ -9047,7 +8352,7 @@
     "id": "social-media-tools-twitch-extensions",
     "name": "Twitch Extensions",
     "url": "https://dashboard.twitch.tv/extensions/categories/43f48606-8b91-4149-94e6-02def012c79f",
-    "description": "Twitch 浏览器扩展s Index",
+    "description": "Twitch Extensions Index",
     "descriptionEn": "Twitch Extensions Index",
     "category": "social-media-tools",
     "tags": [
@@ -9075,7 +8380,7 @@
     "id": "social-media-tools-frankerfacez",
     "name": "FrankerFacez",
     "url": "https://www.frankerfacez.com/",
-    "description": "Twitch Enhancement 浏览器扩展s",
+    "description": "Twitch Enhancement Extensions",
     "descriptionEn": "Twitch Enhancement Extensions",
     "category": "social-media-tools",
     "tags": [
@@ -9120,9 +8425,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
@@ -9133,7 +8438,7 @@
     "id": "social-media-tools-stream-scheme",
     "name": "Stream Scheme",
     "url": "https://www.streamscheme.com/",
-    "description": "Livestreaming Guides · Resources",
+    "description": "Live在线流媒体 Guides · Resources",
     "descriptionEn": "Livestreaming Guides / Resources",
     "category": "social-media-tools",
     "tags": [
@@ -9187,7 +8492,7 @@
     "id": "social-media-tools-gumbo",
     "name": "Gumbo",
     "url": "https://github.com/seldszar/gumbo",
-    "description": "Twitch Stream Trackers",
+    "description": "Twitch Stream Tracker 节点s",
     "descriptionEn": "Twitch Stream Trackers",
     "category": "social-media-tools",
     "tags": [
@@ -9200,9 +8505,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -9304,9 +8609,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -9330,9 +8635,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -9356,9 +8661,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -9408,9 +8713,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -9460,9 +8765,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -9514,9 +8819,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -9566,9 +8871,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -9646,9 +8951,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -9812,36 +9117,10 @@
     "platforms": []
   },
   {
-    "id": "social-media-tools-rumble",
-    "name": "Rumble",
-    "url": "https://rumble.com/",
-    "description": "Twitch Alternative",
-    "descriptionEn": "Twitch Alternative",
-    "category": "social-media-tools",
-    "tags": [
-      "免费",
-      "社媒嗅探",
-      "隐私前端"
-    ],
-    "tagsEn": [
-      "Free",
-      "Scraper",
-      "Privacy Frontend"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
     "id": "social-media-tools-chatterino",
     "name": "Chatterino",
     "url": "https://chatterino.com/",
-    "description": "Twitch Chat 客户端s",
+    "description": "Twitch Chat Clients",
     "descriptionEn": "Twitch Chat Clients",
     "category": "social-media-tools",
     "tags": [
@@ -9869,7 +9148,7 @@
     "id": "social-media-tools-twitch-app",
     "name": "Twitch App",
     "url": "https://gitlab.com/linuxbombay/twitch-application/application",
-    "description": "Twitch Desktop 客户端s",
+    "description": "Twitch Desktop Clients",
     "descriptionEn": "Twitch Desktop Clients",
     "category": "social-media-tools",
     "tags": [
@@ -10016,9 +9295,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -10042,9 +9321,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -10055,7 +9334,7 @@
     "id": "social-media-tools-adguard-extra",
     "name": "AdGuard Extra",
     "url": "https://github.com/AdguardTeam/AdGuardExtra",
-    "description": "Twitch 广告拦截器 · 油猴用户脚本 Works Best",
+    "description": "Twitch 广告拦截器 · 油猴脚本 Works Best",
     "descriptionEn": "Twitch Adblocker / Userscript Works Best",
     "category": "social-media-tools",
     "tags": [
@@ -10070,9 +9349,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
@@ -10100,9 +9379,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
@@ -10126,9 +9405,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -10152,9 +9431,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -10178,9 +9457,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -10191,7 +9470,7 @@
     "id": "social-media-tools-purpletv",
     "name": "PurpleTV",
     "url": "https://purpletv.aeong.win/",
-    "description": "Mobile Ad-Free Twitch App · Alpha · Telegram",
+    "description": "Mobile 免广告 Twitch App · Alpha · Telegram",
     "descriptionEn": "Mobile Ad-Free Twitch App / Alpha / Telegram",
     "category": "social-media-tools",
     "tags": [
@@ -10219,7 +9498,7 @@
     "id": "social-media-tools-clipsgamelab",
     "name": "ClipsGameLab",
     "url": "https://clipsgamelab.github.io/#/download",
-    "description": "Video Downloaders",
+    "description": "视频下载提取器s",
     "descriptionEn": "Video Downloaders",
     "category": "social-media-tools",
     "tags": [
@@ -10245,7 +9524,7 @@
     "id": "social-media-tools-twitch-dl",
     "name": "twitch-dl",
     "url": "https://github.com/ihabunek/twitch-dl",
-    "description": "CLI Video Downloaders",
+    "description": "CLI 视频下载提取器s",
     "descriptionEn": "CLI Video Downloaders",
     "category": "social-media-tools",
     "tags": [
@@ -10258,9 +9537,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -10271,7 +9550,7 @@
     "id": "social-media-tools-twitch-downloader",
     "name": "Twitch Downloader",
     "url": "https://github.com/lay295/TwitchDownloader",
-    "description": "Desktop Video Downloaders",
+    "description": "Desktop 视频下载提取器s",
     "descriptionEn": "Desktop Video Downloaders",
     "category": "social-media-tools",
     "tags": [
@@ -10284,9 +9563,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -10310,9 +9589,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -10336,9 +9615,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -10349,7 +9628,7 @@
     "id": "social-media-tools-trends24",
     "name": "Trends24",
     "url": "https://trends24.in/",
-    "description": "Trending Hashtags Trackers",
+    "description": "Trending Hashtags Tracker 节点s",
     "descriptionEn": "Trending Hashtags Trackers",
     "category": "social-media-tools",
     "tags": [
@@ -10528,9 +9807,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "warning",
-    "warningText": "避坑警告: Sites that don't necessarily meet the criteria to be called unsafe but still aren't recommended for different reasons.",
-    "warningTextEn": "Caveat: Sites that don't necessarily meet the criteria to be called unsafe but still aren't recommended for different reasons.",
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -10580,9 +9859,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -10606,65 +9885,13 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
     "githubUrl": "https://github.com/stilliard/Twitter-detector",
-    "platforms": []
-  },
-  {
-    "id": "social-media-tools-tweetxer",
-    "name": "tweetXer",
-    "url": "https://github.com/lucahammer/tweetXer",
-    "description": "Delete X.com Posts",
-    "descriptionEn": "Delete X.com Posts",
-    "category": "social-media-tools",
-    "tags": [
-      "开源",
-      "社媒嗅探",
-      "隐私前端"
-    ],
-    "tagsEn": [
-      "Open Source",
-      "Scraper",
-      "Privacy Frontend"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": "https://github.com/lucahammer/tweetXer",
-    "platforms": []
-  },
-  {
-    "id": "social-media-tools-x-com-direct",
-    "name": "X.com Direct",
-    "url": "https://greasyfork.org/en/scripts/404632",
-    "description": "Removes t.co Tracking from X.com",
-    "descriptionEn": "Removes t.co Tracking from X.com",
-    "category": "social-media-tools",
-    "tags": [
-      "免费",
-      "社媒嗅探",
-      "隐私前端"
-    ],
-    "tagsEn": [
-      "Free",
-      "Scraper",
-      "Privacy Frontend"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
     "platforms": []
   },
   {
@@ -10684,9 +9911,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -10697,7 +9924,7 @@
     "id": "social-media-tools-twittermediaharvest",
     "name": "TwitterMediaHarvest",
     "url": "https://github.com/EltonChou/TwitterMediaHarvest",
-    "description": "Twitter Media Downloader",
+    "description": "Twitter Media 下载器",
     "descriptionEn": "Twitter Media Downloader",
     "category": "social-media-tools",
     "tags": [
@@ -10710,9 +9937,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -10762,39 +9989,13 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
     "githubUrl": "https://github.com/travisbrown/memory.lol",
-    "platforms": []
-  },
-  {
-    "id": "social-media-tools-ghost-archive",
-    "name": "Ghost Archive",
-    "url": "https://ghostarchive.org/",
-    "description": "Twitter Archive Services",
-    "descriptionEn": "Twitter Archive Services",
-    "category": "social-media-tools",
-    "tags": [
-      "免费",
-      "社媒嗅探",
-      "隐私前端"
-    ],
-    "tagsEn": [
-      "Free",
-      "Scraper",
-      "Privacy Frontend"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
     "platforms": []
   },
   {
@@ -10814,9 +10015,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -10883,7 +10084,7 @@
     "id": "social-media-tools-control-panel-for-twitte",
     "name": "Control Panel for Twitter",
     "url": "https://soitis.dev/control-panel-for-twitter",
-    "description": "Twitter Enhancement 浏览器扩展s",
+    "description": "Twitter Enhancement Extensions",
     "descriptionEn": "Twitter Enhancement Extensions",
     "category": "social-media-tools",
     "tags": [
@@ -10952,9 +10153,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -10978,9 +10179,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -11216,9 +10417,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -11257,7 +10458,7 @@
     "id": "social-media-tools-tuisky",
     "name": "Tuisky",
     "url": "https://github.com/sugyan/tuisky",
-    "description": "TUI 客户端",
+    "description": "TUI Client",
     "descriptionEn": "TUI Client",
     "category": "social-media-tools",
     "tags": [
@@ -11270,9 +10471,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -11309,7 +10510,7 @@
     "id": "social-media-tools-darksky",
     "name": "DarkSky",
     "url": "https://github.com/FireCubeStudios/DarkSky",
-    "description": "Bluesky 客户端 · Windows",
+    "description": "Bluesky Client · Windows",
     "descriptionEn": "Bluesky Client / Windows",
     "category": "social-media-tools",
     "tags": [
@@ -11322,9 +10523,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -11338,7 +10539,7 @@
     "id": "social-media-tools-fbpurity",
     "name": "FBPurity",
     "url": "https://www.fbpurity.com/",
-    "description": "Facebook Enhancement 浏览器扩展s",
+    "description": "Facebook Enhancement Extensions",
     "descriptionEn": "Facebook Enhancement Extensions",
     "category": "social-media-tools",
     "tags": [
@@ -11565,9 +10766,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -11617,9 +10818,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -11643,9 +10844,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -11682,8 +10883,8 @@
     "id": "social-media-tools-instagram-experiments-gu",
     "name": "Instagram Experiments Guide",
     "url": "https://github.com/daniiii5/Public-Guide",
-    "description": "社媒视频高清下载、无追踪前端与隐私镜像",
-    "descriptionEn": "社媒视频高清下载、无追踪前端与隐私镜像",
+    "description": "Social video extractors, 去追踪第三方隐私前端s, and clean mirrors.",
+    "descriptionEn": "Social video extractors, privacy frontends, and clean mirrors.",
     "category": "social-media-tools",
     "tags": [
       "开源",
@@ -11695,9 +10896,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -11708,7 +10909,7 @@
     "id": "social-media-tools-instaloader",
     "name": "Instaloader",
     "url": "https://instaloader.github.io/",
-    "description": "CLI Downloader · GitHub",
+    "description": "CLI 下载器 · GitHub",
     "descriptionEn": "CLI Downloader / GitHub",
     "category": "social-media-tools",
     "tags": [
@@ -11761,38 +10962,10 @@
     ]
   },
   {
-    "id": "social-media-tools-reelsave",
-    "name": "⁠ReelSave",
-    "url": "https://reelsave.app/",
-    "description": "Instagram 高清影视与音乐流媒体资源 Downloaders",
-    "descriptionEn": "Instagram Video / Audio Downloaders",
-    "category": "social-media-tools",
-    "tags": [
-      "免费",
-      "社媒嗅探",
-      "隐私前端"
-    ],
-    "tagsEn": [
-      "Free",
-      "Scraper",
-      "Privacy Frontend"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": [
-      "web"
-    ]
-  },
-  {
     "id": "social-media-tools-ig-helper",
     "name": "IG Helper",
     "url": "https://greasyfork.org/en/scripts/404535",
-    "description": "油猴用户脚本 Downloaders",
+    "description": "油猴脚本 下载器s",
     "descriptionEn": "Userscript Downloaders",
     "category": "social-media-tools",
     "tags": [
@@ -11820,7 +10993,7 @@
     "id": "social-media-tools-einzztools",
     "name": "EinzzTools",
     "url": "https://einzzcookie.org/",
-    "description": "TikTok User Lookup & Archive · Monitor · Viewer · Link Tracker · Comment & Video Exporter & more · Telegram",
+    "description": "TikTok User Lookup & Archive · Monitor · Viewer · Link Tracker 节点 · Comment & Video Exporter & more · Telegram",
     "descriptionEn": "TikTok User Lookup & Archive / Monitor / Viewer / Link Tracker / Comment & Video Exporter & more / Telegram",
     "category": "social-media-tools",
     "tags": [
@@ -11871,36 +11044,10 @@
     "platforms": []
   },
   {
-    "id": "social-media-tools-ssstik",
-    "name": "SSSTik",
-    "url": "https://ssstik.io/",
-    "description": "TikTok Video Downloaders",
-    "descriptionEn": "TikTok Video Downloaders",
-    "category": "social-media-tools",
-    "tags": [
-      "开源",
-      "社媒嗅探",
-      "隐私前端"
-    ],
-    "tagsEn": [
-      "Open Source",
-      "Scraper",
-      "Privacy Frontend"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": "https://github.com/Dinoosauro/tiktok-to-ytdlp",
-    "platforms": []
-  },
-  {
     "id": "social-media-tools-tiktok-tools",
     "name": "TikTok Tools",
     "url": "https://omar-thing.site/",
-    "description": "TikTok User Finder · Search · Story Viewer · Downloader · Link Tracker & more · Telegram",
+    "description": "TikTok User Finder · Search · Story Viewer · 下载器 · Link Tracker 节点 & more · Telegram",
     "descriptionEn": "TikTok User Finder / Search / Story Viewer / Downloader / Link Tracker & more / Telegram",
     "category": "social-media-tools",
     "tags": [
@@ -11949,58 +11096,6 @@
     "platforms": []
   },
   {
-    "id": "social-media-tools-tikfinity",
-    "name": "⁠TikFinity",
-    "url": "https://tikfinity.zerody.one/",
-    "description": "TikTok Live Toolkit · Discord",
-    "descriptionEn": "TikTok Live Toolkit / Discord",
-    "category": "social-media-tools",
-    "tags": [
-      "免费",
-      "社媒嗅探",
-      "隐私前端"
-    ],
-    "tagsEn": [
-      "Free",
-      "Scraper",
-      "Privacy Frontend"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "social-media-tools-tiktok-chat-reader",
-    "name": "TikTok Chat Reader",
-    "url": "https://tiktok-chat-reader.zerody.one/",
-    "description": "Live TikTok Chat Reader",
-    "descriptionEn": "Live TikTok Chat Reader",
-    "category": "social-media-tools",
-    "tags": [
-      "免费",
-      "社媒嗅探",
-      "隐私前端"
-    ],
-    "tagsEn": [
-      "Free",
-      "Scraper",
-      "Privacy Frontend"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
     "id": "social-media-tools-tiktok-control-panel",
     "name": "⁠TikTok Control Panel",
     "url": "https://github.com/ElectricArdvark/Tiktok-control-panel",
@@ -12017,9 +11112,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -12053,37 +11148,11 @@
     "platforms": []
   },
   {
-    "id": "social-media-tools-tiktok-cse",
-    "name": "TikTok CSE",
-    "url": "https://cse.google.com/cse?cx=c42f6b58703f83683",
-    "description": "TikTok Search",
-    "descriptionEn": "TikTok Search",
-    "category": "social-media-tools",
-    "tags": [
-      "免费",
-      "社媒嗅探",
-      "隐私前端"
-    ],
-    "tagsEn": [
-      "Free",
-      "Scraper",
-      "Privacy Frontend"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
     "id": "social-media-tools-bear-blog",
     "name": "Bear Blog",
     "url": "https://bearblog.dev/",
-    "description": "社媒视频高清下载、无追踪前端与隐私镜像",
-    "descriptionEn": "社媒视频高清下载、无追踪前端与隐私镜像",
+    "description": "Social video extractors, 去追踪第三方隐私前端s, and clean mirrors.",
+    "descriptionEn": "Social video extractors, privacy frontends, and clean mirrors.",
     "category": "social-media-tools",
     "tags": [
       "社区精选",
@@ -12162,7 +11231,7 @@
     "id": "social-media-tools-haven",
     "name": "Haven",
     "url": "https://havenweb.org/",
-    "description": "支持私有化自建部署 Blogging Platforms",
+    "description": "支持自建部署 Blogging Platforms",
     "descriptionEn": "Self-Hosted Blogging Platforms",
     "category": "social-media-tools",
     "tags": [
@@ -12183,8 +11252,8 @@
     "isCollection": false,
     "githubUrl": null,
     "platforms": [
-      "web",
-      "docker"
+      "docker",
+      "web"
     ]
   },
   {
@@ -12204,9 +11273,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "warning",
-    "warningText": "避坑警告: Sites that don't necessarily meet the criteria to be called unsafe but still aren't recommended for different reasons.",
-    "warningTextEn": "Caveat: Sites that don't necessarily meet the criteria to be called unsafe but still aren't recommended for different reasons.",
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -12282,9 +11351,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -12386,9 +11455,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -12399,7 +11468,7 @@
     "id": "social-media-tools-xkit",
     "name": "XKit",
     "url": "https://github.com/AprilSylph/XKit-Rewritten",
-    "description": "Tumblr Enhancement 浏览器扩展",
+    "description": "Tumblr Enhancement Extension",
     "descriptionEn": "Tumblr Enhancement Extension",
     "category": "social-media-tools",
     "tags": [
@@ -12412,9 +11481,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -12422,32 +11491,6 @@
     "platforms": [
       "web"
     ]
-  },
-  {
-    "id": "social-media-tools-tumbex",
-    "name": "tumbex",
-    "url": "https://www.tumbex.com/",
-    "description": "Tumblr Search",
-    "descriptionEn": "Tumblr Search",
-    "category": "social-media-tools",
-    "tags": [
-      "免费",
-      "社媒嗅探",
-      "隐私前端"
-    ],
-    "tagsEn": [
-      "Free",
-      "Scraper",
-      "Privacy Frontend"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
   },
   {
     "id": "social-media-tools-outbox-for-tumblr",
@@ -12466,9 +11509,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -12544,9 +11587,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -12570,9 +11613,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -12635,8 +11678,8 @@
     "id": "social-media-tools-fediverse-near-me",
     "name": "Fediverse Near Me",
     "url": "https://umap.openstreetmap.fr/en/map/fediverse-near-me_828094",
-    "description": "社媒视频高清下载、无追踪前端与隐私镜像",
-    "descriptionEn": "社媒视频高清下载、无追踪前端与隐私镜像",
+    "description": "Social video extractors, 去追踪第三方隐私前端s, and clean mirrors.",
+    "descriptionEn": "Social video extractors, privacy frontends, and clean mirrors.",
     "category": "social-media-tools",
     "tags": [
       "免费",
@@ -12661,7 +11704,7 @@
     "id": "social-media-tools-pixelfed",
     "name": "pixelfed",
     "url": "https://pixelfed.org/",
-    "description": "Decentralized Image Sharing Social Network · 需注册账号使用 · Tools · Android",
+    "description": "Decentralized Image Sharing Social Network · Requires Sign-Up · Tools · Android",
     "descriptionEn": "Decentralized Image Sharing Social Network / Requires Sign-Up / Tools / Android",
     "category": "social-media-tools",
     "tags": [
@@ -12712,7 +11755,7 @@
     "platforms": []
   },
   {
-    "id": "social-media-tools-fedidb",
+    "id": "social-media-tools-fedidb-2",
     "name": "FediDB",
     "url": "https://fedidb.org/",
     "description": "Network Statistics",
@@ -12936,9 +11979,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -13107,7 +12150,7 @@
     "id": "social-media-tools-mastodon-apps",
     "name": "Mastodon Apps",
     "url": "https://joinmastodon.org/apps",
-    "description": "Mastodon 客户端 List",
+    "description": "Mastodon Client List",
     "descriptionEn": "Mastodon Client List",
     "category": "social-media-tools",
     "tags": [
@@ -13135,7 +12178,7 @@
     "id": "social-media-tools-phanpy",
     "name": "Phanpy",
     "url": "https://phanpy.social/",
-    "description": "Mastodon 客户端s",
+    "description": "Mastodon Clients",
     "descriptionEn": "Mastodon Clients",
     "category": "social-media-tools",
     "tags": [
@@ -13527,7 +12570,7 @@
     "id": "social-media-tools-lemmy-apps",
     "name": "Lemmy Apps",
     "url": "https://join-lemmy.org/apps",
-    "description": "Lemmy 客户端 List",
+    "description": "Lemmy Client List",
     "descriptionEn": "Lemmy Client List",
     "category": "social-media-tools",
     "tags": [
@@ -13611,7 +12654,7 @@
     "id": "social-media-tools-lemmytools",
     "name": "LemmyTools",
     "url": "https://github.com/howdy-tsc/LemmyTools",
-    "description": "Lemmy Improvement 浏览器扩展",
+    "description": "Lemmy Improvement Extension",
     "descriptionEn": "Lemmy Improvement Extension",
     "category": "social-media-tools",
     "tags": [
@@ -13624,9 +12667,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -13639,7 +12682,7 @@
     "id": "social-media-tools-pixelfed-apps",
     "name": "Pixelfed Apps",
     "url": "https://pixelfed.org/mobile-apps",
-    "description": "Pixelfed 客户端 List",
+    "description": "Pixelfed Client List",
     "descriptionEn": "Pixelfed Client List",
     "category": "social-media-tools",
     "tags": [
@@ -13743,7 +12786,7 @@
     "id": "social-media-tools-peertube-apps",
     "name": "Peertube Apps",
     "url": "https://docs.joinpeertube.org/use/third-party-application",
-    "description": "Peertube 客户端 List",
+    "description": "Peertube Client List",
     "descriptionEn": "Peertube Client List",
     "category": "social-media-tools",
     "tags": [
@@ -13769,7 +12812,7 @@
     "id": "social-media-tools-sepia-search",
     "name": "Sepia Search",
     "url": "https://joinpeertube.org/browse-content",
-    "description": "Peertube 专用搜索引擎",
+    "description": "Peertube 独立搜索引擎",
     "descriptionEn": "Peertube Search Engine",
     "category": "social-media-tools",
     "tags": [
@@ -13873,7 +12916,7 @@
     "id": "social-media-tools-4chan-next",
     "name": "⁠4chan-neXT",
     "url": "https://4chan-next.com/",
-    "description": "4chan Features 油猴用户脚本",
+    "description": "4chan Features 油猴脚本",
     "descriptionEn": "4chan Features Userscript",
     "category": "social-media-tools",
     "tags": [
@@ -13898,36 +12941,10 @@
     ]
   },
   {
-    "id": "social-media-tools-chance",
-    "name": "Chance",
-    "url": "https://github.com/moffatman/chan",
-    "description": "4chan Mobile App",
-    "descriptionEn": "4chan Mobile App",
-    "category": "social-media-tools",
-    "tags": [
-      "开源",
-      "社媒嗅探",
-      "隐私前端"
-    ],
-    "tagsEn": [
-      "Open Source",
-      "Scraper",
-      "Privacy Frontend"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": "https://github.com/moffatman/chan",
-    "platforms": []
-  },
-  {
     "id": "social-media-tools-redditchan",
     "name": "RedditChan",
     "url": "https://reddit-chan.vercel.app/",
-    "description": "Reddit Style 4chan Web 客户端",
+    "description": "Reddit Style 4chan Web Client",
     "descriptionEn": "Reddit Style 4chan Web Client",
     "category": "social-media-tools",
     "tags": [
@@ -14022,9 +13039,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -14074,9 +13091,9 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -14152,39 +13169,13 @@
       "Scraper",
       "Privacy Frontend"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
     "githubUrl": "https://github.com/saxamaphone69/ss21",
-    "platforms": []
-  },
-  {
-    "id": "social-media-tools-4chansearch",
-    "name": "4chanSearch",
-    "url": "https://4chansearch.com/",
-    "description": "Search 4chan Archives",
-    "descriptionEn": "Search 4chan Archives",
-    "category": "social-media-tools",
-    "tags": [
-      "免费",
-      "社媒嗅探",
-      "隐私前端"
-    ],
-    "tagsEn": [
-      "Free",
-      "Scraper",
-      "Privacy Frontend"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
     "platforms": []
   },
   {

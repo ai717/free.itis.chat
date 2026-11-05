@@ -1,36 +1,10 @@
 [
   {
-    "id": "image-tools-editing-software",
-    "name": "Editing Software",
-    "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25BA_torrent_sites",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "Editing Software",
-    "category": "image-tools",
-    "tags": [
-      "免费",
-      "图像编辑",
-      "无损压缩"
-    ],
-    "tagsEn": [
-      "Free",
-      "Image Editor",
-      "Compression"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": true,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
     "id": "image-tools-android-editors",
     "name": "Android Editors",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_image_tools",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -42,9 +16,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -57,8 +31,8 @@
     "id": "image-tools-gimp",
     "name": "GIMP",
     "url": "https://www.gimp.org/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "社区精选",
@@ -88,8 +62,8 @@
     "id": "image-tools-imagemagick",
     "name": "ImageMagick",
     "url": "https://imagemagick.org/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "社区精选",
@@ -119,8 +93,8 @@
     "id": "image-tools-affinity",
     "name": "⁠Affinity",
     "url": "https://www.affinity.studio/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "开源",
@@ -148,8 +122,8 @@
     "id": "image-tools-paintfe",
     "name": "⁠PaintFE",
     "url": "https://paintfe.com/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "开源",
@@ -177,8 +151,8 @@
     "id": "image-tools-photon",
     "name": "Photon",
     "url": "https://tenzen.studio/photon/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -206,8 +180,8 @@
     "id": "image-tools-lazpaint",
     "name": "LazPaint",
     "url": "https://lazpaint.github.io/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "开源",
@@ -235,8 +209,8 @@
     "id": "image-tools-schist",
     "name": "⁠Schist",
     "url": "https://schist.app/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "开源",
@@ -265,8 +239,8 @@
     "id": "image-tools-photodemon",
     "name": "PhotoDemon",
     "url": "https://photodemon.org/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "开源",
@@ -293,8 +267,8 @@
     "id": "image-tools-rapidraw",
     "name": "⁠RapidRAW",
     "url": "https://www.getrapidraw.com/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "开源",
@@ -322,8 +296,8 @@
     "id": "image-tools-paint-net",
     "name": "Paint.net",
     "url": "https://paint.net/index.html",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "开源",
@@ -350,7 +324,7 @@
     "id": "image-tools-hugin",
     "name": "Hugin",
     "url": "https://hugin.sourceforge.io/",
-    "description": "Panorama Image Generator · Windows, macOS, Linux",
+    "description": "Panorama AI 图像生成工作流 · Windows, macOS, Linux",
     "descriptionEn": "Panorama Image Generator / Windows, macOS, Linux",
     "category": "image-tools",
     "tags": [
@@ -408,8 +382,8 @@
     "id": "image-tools-darkroom",
     "name": "Darkroom",
     "url": "https://apps.apple.com/us/app/darkroom-photo-video-editor/id953286746",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -436,8 +410,8 @@
     "id": "image-tools-seashore",
     "name": "SeaShore",
     "url": "https://sourceforge.net/projects/seashore/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -464,8 +438,8 @@
     "id": "image-tools-compositor",
     "name": "Compositor",
     "url": "https://robbietilton.com/compositor",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "开源",
@@ -492,7 +466,7 @@
     "id": "image-tools-pixlr",
     "name": "Pixlr",
     "url": "https://pixlr.com/",
-    "description": "Simple Editor · Hide Premium · 无限制使用 Saves",
+    "description": "Simple Editor · Hide Premium · Unlimited Saves",
     "descriptionEn": "Simple Editor / Hide Premium / Unlimited Saves",
     "category": "image-tools",
     "tags": [
@@ -599,7 +573,7 @@
     "platforms": []
   },
   {
-    "id": "image-tools-schist",
+    "id": "image-tools-schist-2",
     "name": "⁠Schist",
     "url": "https://try.schist.app/",
     "description": "Full-Featured · GitHub",
@@ -840,7 +814,7 @@
     "id": "image-tools-rembg",
     "name": "Rembg",
     "url": "https://github.com/danielgatis/rembg",
-    "description": "Background Remover · Windows, macOS, Linux, Docker",
+    "description": "一键抠图背景移除 · Windows, macOS, Linux, Docker",
     "descriptionEn": "Background Remover / Windows, macOS, Linux, Docker",
     "category": "image-tools",
     "tags": [
@@ -855,17 +829,17 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
     "githubUrl": "https://github.com/danielgatis/rembg",
     "platforms": [
       "win",
-      "mac",
-      "docker"
+      "docker",
+      "mac"
     ]
   },
   {
@@ -900,7 +874,7 @@
     "id": "image-tools-bg0",
     "name": "⁠BG0",
     "url": "https://bg0.dev/",
-    "description": "Background Remover · Web · GitHub",
+    "description": "一键抠图背景移除 · Web · GitHub",
     "descriptionEn": "Background Remover / Web / GitHub",
     "category": "image-tools",
     "tags": [
@@ -928,7 +902,7 @@
     "id": "image-tools-pixelcut",
     "name": "Pixelcut",
     "url": "https://www.pixelcut.ai/background-remover",
-    "description": "Background Remover · Web",
+    "description": "一键抠图背景移除 · Web",
     "descriptionEn": "Background Remover / Web",
     "category": "image-tools",
     "tags": [
@@ -956,7 +930,7 @@
     "id": "image-tools-adobe-express-background",
     "name": "Adobe Express Background Remover",
     "url": "https://www.adobe.com/express/feature/image/remove-background",
-    "description": "Background Remover · Web",
+    "description": "一键抠图背景移除 · Web",
     "descriptionEn": "Background Remover / Web",
     "category": "image-tools",
     "tags": [
@@ -984,7 +958,7 @@
     "id": "image-tools-cutout",
     "name": "Cutout",
     "url": "https://scadavide55.github.io/cutout/",
-    "description": "Background Remover · Web · GitHub",
+    "description": "一键抠图背景移除 · Web · GitHub",
     "descriptionEn": "Background Remover / Web / GitHub",
     "category": "image-tools",
     "tags": [
@@ -1012,7 +986,7 @@
     "id": "image-tools-bg-bye",
     "name": "BG Bye",
     "url": "https://bgbye.io/",
-    "description": "Background Remover · Web · GitHub",
+    "description": "一键抠图背景移除 · Web · GitHub",
     "descriptionEn": "Background Remover / Web / GitHub",
     "category": "image-tools",
     "tags": [
@@ -1040,7 +1014,7 @@
     "id": "image-tools-braindeadbackgroundremov",
     "name": "⁠BrainDeadBackgroundRemover",
     "url": "https://github.com/BizaNator/BrainDeadBackgroundRemover",
-    "description": "Background Remover · Windows",
+    "description": "一键抠图背景移除 · Windows",
     "descriptionEn": "Background Remover / Windows",
     "category": "image-tools",
     "tags": [
@@ -1053,9 +1027,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -1170,17 +1144,17 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
     "githubUrl": "https://github.com/nagadomi/nunif",
     "platforms": [
       "win",
-      "web",
-      "mac"
+      "mac",
+      "web"
     ]
   },
   {
@@ -1246,7 +1220,7 @@
     "id": "image-tools-incolor",
     "name": "InColor",
     "url": "https://www.myheritage.com/incolor",
-    "description": "B&W Image Colorization · Web · 需注册账号使用",
+    "description": "B&W Image Colorization · Web · Requires Sign-Up",
     "descriptionEn": "B&W Image Colorization / Web / Requires Sign-Up",
     "category": "image-tools",
     "tags": [
@@ -1287,9 +1261,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -1316,9 +1290,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -1473,7 +1447,7 @@
     "id": "image-tools-final2x",
     "name": "Final2x",
     "url": "https://github.com/Tohrusky/Final2x",
-    "description": "Image Upscaling · 支持私有化自建部署",
+    "description": "Image Upscaling · 支持自建部署",
     "descriptionEn": "Image Upscaling / Self-Hosted",
     "category": "image-tools",
     "tags": [
@@ -1486,9 +1460,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -1568,9 +1542,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -1596,9 +1570,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -1824,7 +1798,7 @@
     "id": "image-tools-tiler",
     "name": "Tiler",
     "url": "https://github.com/nuno-faria/tiler",
-    "description": "Mosaic Image Generator · Windows, macOS, Linux",
+    "description": "Mosaic AI 图像生成工作流 · Windows, macOS, Linux",
     "descriptionEn": "Mosaic Image Generator / Windows, macOS, Linux",
     "category": "image-tools",
     "tags": [
@@ -1837,9 +1811,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -2063,8 +2037,8 @@
     "id": "image-tools-ai-image-generators",
     "name": "AI Image Generators",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_image_generation",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -2076,9 +2050,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -2089,8 +2063,8 @@
     "id": "image-tools-art-education",
     "name": "Art Education",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_art_.2F_editing",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -2102,9 +2076,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -2128,9 +2102,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -2316,8 +2290,8 @@
     "githubUrl": null,
     "platforms": [
       "win",
-      "web",
       "mac",
+      "web",
       "android"
     ]
   },
@@ -2630,8 +2604,8 @@
     "isCollection": false,
     "githubUrl": "https://github.com/samalstudios/scissor-community",
     "platforms": [
-      "web",
-      "mac"
+      "mac",
+      "web"
     ]
   },
   {
@@ -2687,8 +2661,8 @@
     "isCollection": false,
     "githubUrl": null,
     "platforms": [
-      "web",
       "mac",
+      "web",
       "android"
     ]
   },
@@ -3224,9 +3198,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -3237,8 +3211,8 @@
     "id": "image-tools-pixel-art-animation",
     "name": "Pixel Art Animation",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_animation_tools",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -3250,9 +3224,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -3263,8 +3237,8 @@
     "id": "image-tools-ascii-art",
     "name": "ASCII Art",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_ascii_art",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -3276,9 +3250,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -3304,9 +3278,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
@@ -3574,8 +3548,8 @@
     "githubUrl": "https://github.com/fizzyedit/fizzy",
     "platforms": [
       "win",
-      "web",
-      "mac"
+      "mac",
+      "web"
     ]
   },
   {
@@ -3707,9 +3681,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -3858,8 +3832,8 @@
     "githubUrl": "https://github.com/Orama-Interactive/Pixelorama",
     "platforms": [
       "win",
-      "web",
-      "mac"
+      "mac",
+      "web"
     ]
   },
   {
@@ -4570,9 +4544,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -4819,7 +4793,7 @@
     "id": "image-tools-animorphgenerator",
     "name": "AnimorphGenerator",
     "url": "https://animorphgenerator.com/",
-    "description": "Animorph Image Generator",
+    "description": "Animorph AI 图像生成工作流",
     "descriptionEn": "Animorph Image Generator",
     "category": "image-tools",
     "tags": [
@@ -4890,32 +4864,6 @@
     "featured": false,
     "isStarred": false,
     "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "image-tools-design-resources",
-    "name": "Design Resources",
-    "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_design_resources",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "category": "image-tools",
-    "tags": [
-      "免费",
-      "图像编辑",
-      "无损压缩"
-    ],
-    "tagsEn": [
-      "Free",
-      "Image Editor",
-      "Compression"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": true,
     "githubUrl": null,
     "platforms": []
   },
@@ -5028,32 +4976,6 @@
     "platforms": [
       "web"
     ]
-  },
-  {
-    "id": "image-tools-cari",
-    "name": "CARI",
-    "url": "https://cari.institute/",
-    "description": "Design Aesthetics History",
-    "descriptionEn": "Design Aesthetics History",
-    "category": "image-tools",
-    "tags": [
-      "免费",
-      "图像编辑",
-      "无损压缩"
-    ],
-    "tagsEn": [
-      "Free",
-      "Image Editor",
-      "Compression"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
   },
   {
     "id": "image-tools-people-s-graphic-design-",
@@ -5347,8 +5269,8 @@
     "githubUrl": null,
     "platforms": [
       "win",
-      "web",
-      "mac"
+      "mac",
+      "web"
     ]
   },
   {
@@ -5621,32 +5543,6 @@
     "featured": false,
     "isStarred": false,
     "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "image-tools-svg-icons",
-    "name": "SVG Icons",
-    "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_svg_icons",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "category": "image-tools",
-    "tags": [
-      "免费",
-      "图像编辑",
-      "无损压缩"
-    ],
-    "tagsEn": [
-      "Free",
-      "Image Editor",
-      "Compression"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": true,
     "githubUrl": null,
     "platforms": []
   },
@@ -6869,9 +6765,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -6882,8 +6778,8 @@
     "id": "image-tools-gumroad",
     "name": "Gumroad",
     "url": "https://gumroad.com/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -6908,8 +6804,8 @@
     "id": "image-tools-salvaged",
     "name": "⁠Salvaged",
     "url": "https://salvaged.nu/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -6934,8 +6830,8 @@
     "id": "image-tools-cg-peers-archive",
     "name": "Cg_peers Archive",
     "url": "https://t.me/Cgpeers_archive",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -6960,8 +6856,8 @@
     "id": "image-tools-pngtree",
     "name": "PNGTree",
     "url": "https://pngtree.com/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -6986,8 +6882,8 @@
     "id": "image-tools-tianui",
     "name": "TianUI",
     "url": "https://www.titanui.com/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -7012,8 +6908,8 @@
     "id": "image-tools-designer-candies",
     "name": "Designer Candies",
     "url": "https://designercandies.net/category/freebies/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -7038,8 +6934,8 @@
     "id": "image-tools-psdly",
     "name": "PSDLY",
     "url": "https://www.psdly.co.uk/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -7064,8 +6960,8 @@
     "id": "image-tools-unblast",
     "name": "Unblast",
     "url": "https://unblast.com/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -7090,8 +6986,8 @@
     "id": "image-tools-gift4designer",
     "name": "Gift4Designer",
     "url": "https://gift4designer.net/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -7116,8 +7012,8 @@
     "id": "image-tools-cgperec",
     "name": "CGPerec",
     "url": "https://t.me/cgperec",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -7142,8 +7038,8 @@
     "id": "image-tools-searchgfx",
     "name": "SearchGFX",
     "url": "https://searchgfx.com/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -7168,8 +7064,8 @@
     "id": "image-tools-designersgan9",
     "name": "designersgan9",
     "url": "https://m.vk.com/designersgan9",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -7194,8 +7090,8 @@
     "id": "image-tools-free-design-files",
     "name": "Free_Design_Files",
     "url": "https://t.me/Free_Design_Files",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -7220,8 +7116,8 @@
     "id": "image-tools-wockupworld",
     "name": "WockupWorld",
     "url": "https://m.vk.com/mockupworld",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -7246,8 +7142,8 @@
     "id": "image-tools-onlygfx",
     "name": "OnlyGFX",
     "url": "https://www.onlygfx.com/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -7272,8 +7168,8 @@
     "id": "image-tools-the-gfx",
     "name": "The GFX",
     "url": "https://m.vk.com/the_gfx",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -7298,8 +7194,8 @@
     "id": "image-tools-graphics-materials",
     "name": "Graphics Materials",
     "url": "https://vk.com/topic-178186634_39330245",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -7324,8 +7220,8 @@
     "id": "image-tools-desiignertm",
     "name": "desiignertm",
     "url": "https://vk.com/desiignertm",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -7350,8 +7246,8 @@
     "id": "image-tools-all-psd",
     "name": "all_psd",
     "url": "https://vk.com/all_psd",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -7376,8 +7272,8 @@
     "id": "image-tools-playersdsg",
     "name": "Playersdsg",
     "url": "https://t.me/playersdsg",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -7402,8 +7298,8 @@
     "id": "image-tools-dope-editing",
     "name": "DOPE Editing",
     "url": "https://t.me/DOPE_editing",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -7428,8 +7324,8 @@
     "id": "image-tools-desgang",
     "name": "desgang",
     "url": "https://t.me/desgang",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -7454,8 +7350,8 @@
     "id": "image-tools-creativemrkt",
     "name": "creativemrkt",
     "url": "https://t.me/creativemrkt",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -7480,8 +7376,8 @@
     "id": "image-tools-freepsdvn",
     "name": "freepsdvn",
     "url": "https://freepsdvn.com/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -7506,8 +7402,8 @@
     "id": "image-tools-privatedesigner",
     "name": "PrivateDesigner",
     "url": "https://t.me/privatedesigner",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -7532,8 +7428,8 @@
     "id": "image-tools-solutioonn",
     "name": "Solutioonn",
     "url": "https://t.me/solutioonn",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -7558,8 +7454,8 @@
     "id": "image-tools-ae-project",
     "name": "ae-project",
     "url": "https://ae-project.su/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -7584,8 +7480,8 @@
     "id": "image-tools-godownloads",
     "name": "godownloads",
     "url": "https://www.godownloads.org/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -7662,8 +7558,8 @@
     "id": "image-tools-png-images---clipart",
     "name": "PNG Images / Clipart",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_png_images_.2F_clipart",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -7675,9 +7571,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -7716,7 +7612,7 @@
     "id": "image-tools-same-energy",
     "name": "same.energy",
     "url": "https://same.energy/",
-    "description": "Visual 专用搜索引擎",
+    "description": "Visual 独立搜索引擎",
     "descriptionEn": "Visual Search Engine",
     "category": "image-tools",
     "tags": [
@@ -7937,9 +7833,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -7976,7 +7872,7 @@
     "id": "image-tools-search-by-image",
     "name": "Search by Image",
     "url": "https://github.com/dessant/search-by-image",
-    "description": "Browser 浏览器扩展",
+    "description": "浏览器扩展插件",
     "descriptionEn": "Browser Extension",
     "category": "image-tools",
     "tags": [
@@ -7991,9 +7887,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
@@ -8034,7 +7930,7 @@
     "id": "image-tools-saucenao",
     "name": "SauceNao",
     "url": "https://saucenao.com/",
-    "description": "Reverse Image Search · Some NSFW · 浏览器扩展",
+    "description": "Reverse Image Search · Some NSFW · Extension",
     "descriptionEn": "Reverse Image Search / Some NSFW / Extension",
     "category": "image-tools",
     "tags": [
@@ -8079,9 +7975,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
@@ -8089,38 +7985,10 @@
     "platforms": []
   },
   {
-    "id": "image-tools-google-lens",
-    "name": "Google Lens",
-    "url": "https://lens.google/",
-    "description": "Reverse Image Search",
-    "descriptionEn": "Reverse Image Search",
-    "category": "image-tools",
-    "tags": [
-      "社区精选",
-      "免费",
-      "图像编辑",
-      "无损压缩"
-    ],
-    "tagsEn": [
-      "Featured",
-      "Free",
-      "Image Editor",
-      "Compression"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": true,
-    "isStarred": true,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
     "id": "image-tools-tineye",
     "name": "TinEye",
     "url": "https://tineye.com/",
-    "description": "Reverse Image Search · 浏览器扩展",
+    "description": "Reverse Image Search · Extension",
     "descriptionEn": "Reverse Image Search / Extension",
     "category": "image-tools",
     "tags": [
@@ -8355,32 +8223,6 @@
     "platforms": []
   },
   {
-    "id": "image-tools-trace-moe",
-    "name": "trace.moe",
-    "url": "https://trace.moe/",
-    "description": "Anime Reverse Image Search",
-    "descriptionEn": "Anime Reverse Image Search",
-    "category": "image-tools",
-    "tags": [
-      "免费",
-      "图像编辑",
-      "无损压缩"
-    ],
-    "tagsEn": [
-      "Free",
-      "Image Editor",
-      "Compression"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
     "id": "image-tools-pose-search",
     "name": "Pose Search",
     "url": "https://x6ud.github.io/pose-search/",
@@ -8449,9 +8291,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -8462,7 +8304,7 @@
     "id": "image-tools-downloader-la",
     "name": "Downloader.la",
     "url": "https://downloader.la/",
-    "description": "Paid Stock Photo Downloaders",
+    "description": "Paid Stock Photo 下载器s",
     "descriptionEn": "Paid Stock Photo Downloaders",
     "category": "image-tools",
     "tags": [
@@ -8490,7 +8332,7 @@
     "id": "image-tools-everypixel",
     "name": "EveryPixel",
     "url": "https://www.everypixel.com/",
-    "description": "Stock Photo 专用搜索引擎s",
+    "description": "Stock Photo 独立搜索引擎s",
     "descriptionEn": "Stock Photo Search Engines",
     "category": "image-tools",
     "tags": [
@@ -9222,7 +9064,7 @@
     "id": "image-tools-freepikuz-pro",
     "name": "freepikuz_pro",
     "url": "https://t.me/freepikuz_pro",
-    "description": "FreePik Downloader",
+    "description": "FreePik 下载器",
     "descriptionEn": "FreePik Downloader",
     "category": "image-tools",
     "tags": [
@@ -9248,7 +9090,7 @@
     "id": "image-tools-flickr-commons",
     "name": "Flickr Commons",
     "url": "https://www.flickr.com/commons",
-    "description": "Public Photo Archives · Downloader",
+    "description": "Public Photo Archives · 下载器",
     "descriptionEn": "Public Photo Archives / Downloader",
     "category": "image-tools",
     "tags": [
@@ -9274,7 +9116,7 @@
     "id": "image-tools-shutterstock-premium",
     "name": "Shutterstock Premium",
     "url": "https://t.me/shutterstockpremium",
-    "description": "Shutterstock Telegram Downloaders",
+    "description": "Shutterstock Telegram 下载器s",
     "descriptionEn": "Shutterstock Telegram Downloaders",
     "category": "image-tools",
     "tags": [
@@ -9427,32 +9269,6 @@
     "platforms": []
   },
   {
-    "id": "image-tools-digital-art-collections",
-    "name": "Digital Art Collections",
-    "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_art_galleries_.2F_collections",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "category": "image-tools",
-    "tags": [
-      "免费",
-      "图像编辑",
-      "无损压缩"
-    ],
-    "tagsEn": [
-      "Free",
-      "Image Editor",
-      "Compression"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": true,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
     "id": "image-tools-artstation",
     "name": "ArtStation",
     "url": "https://www.artstation.com/",
@@ -9512,7 +9328,7 @@
     "id": "image-tools-downloader",
     "name": "Downloader",
     "url": "https://github.com/Nandaka/PixivUtil2",
-    "description": "Downloader, 2 · Rankings · Official Frontend · Frontend List · Preview, 2 · Android",
+    "description": "下载器, 2 · Rankings · Official Frontend · Frontend List · Preview, 2 · Android",
     "descriptionEn": "Downloader, 2 / Rankings / Official Frontend / Frontend List / Preview, 2 / Android",
     "category": "image-tools",
     "tags": [
@@ -9527,9 +9343,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
@@ -9542,7 +9358,7 @@
     "id": "image-tools-danbooru",
     "name": "Danbooru",
     "url": "https://safebooru.donmai.us/",
-    "description": "Anime-Style Image Booru's · Downloader",
+    "description": "Anime-Style Image Booru's · 下载器",
     "descriptionEn": "Anime-Style Image Booru's / Downloader",
     "category": "image-tools",
     "tags": [
@@ -9780,7 +9596,7 @@
     "id": "image-tools-inkblot",
     "name": "InkBlot",
     "url": "https://inkblot.art/",
-    "description": "Online Art Gallery · Fanart · 需注册账号使用",
+    "description": "Online Art Gallery · Fanart · Requires Sign-Up",
     "descriptionEn": "Online Art Gallery / Fanart / Requires Sign-Up",
     "category": "image-tools",
     "tags": [
@@ -10001,9 +9817,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -10063,38 +9879,10 @@
     "platforms": []
   },
   {
-    "id": "image-tools-boorusama",
-    "name": "⁠Boorusama",
-    "url": "https://play.google.com/store/apps/details?id=com.degenk.boorusama",
-    "description": "Multi-Booru Apps · Android",
-    "descriptionEn": "Multi-Booru Apps / Android",
-    "category": "image-tools",
-    "tags": [
-      "开源",
-      "图像编辑",
-      "无损压缩"
-    ],
-    "tagsEn": [
-      "Open Source",
-      "Image Editor",
-      "Compression"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": "https://github.com/khoadng/Boorusama",
-    "platforms": [
-      "android"
-    ]
-  },
-  {
     "id": "image-tools-imgbrd-grabber",
     "name": "imgbrd-grabber",
     "url": "https://www.bionus.org/imgbrd-grabber/",
-    "description": "Booru Image Downloader",
+    "description": "Booru Image 下载器",
     "descriptionEn": "Booru Image Downloader",
     "category": "image-tools",
     "tags": [
@@ -10174,8 +9962,8 @@
     "id": "image-tools-album-artwork",
     "name": "Album Artwork",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_album_artwork",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -10187,9 +9975,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -10397,9 +10185,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -10410,8 +10198,8 @@
     "id": "image-tools-download-all-images",
     "name": "Download all Images",
     "url": "https://webextension.org/listing/save-images.html",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "开源",
@@ -10438,8 +10226,8 @@
     "id": "image-tools-cute-save-button",
     "name": "Cute Save Button",
     "url": "https://github.com/Dezaimasu/cute-button",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "开源",
@@ -10451,9 +10239,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -10464,8 +10252,8 @@
     "id": "image-tools-svgexport",
     "name": "svgexport",
     "url": "https://svgexport.io/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -10490,8 +10278,8 @@
     "id": "image-tools-svg-gobbler",
     "name": "SVG Gobbler",
     "url": "https://github.com/rossmoody/svg-gobbler",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "开源",
@@ -10503,9 +10291,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -10516,8 +10304,8 @@
     "id": "image-tools-image-picka",
     "name": "Image Picka",
     "url": "https://github.com/eight04/image-picka",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "开源",
@@ -10529,9 +10317,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -10624,7 +10412,7 @@
     "id": "image-tools-sketchfab",
     "name": "Sketchfab",
     "url": "https://sketchfab.com/",
-    "description": "Misc 3D Models · 需注册账号使用",
+    "description": "Misc 3D Models · Requires Sign-Up",
     "descriptionEn": "Misc 3D Models / Requires Sign-Up",
     "category": "image-tools",
     "tags": [
@@ -10650,7 +10438,7 @@
     "id": "image-tools-cults",
     "name": "Cults",
     "url": "https://cults3d.com/",
-    "description": "Printable 3D Models · 需注册账号使用",
+    "description": "Printable 3D Models · Requires Sign-Up",
     "descriptionEn": "Printable 3D Models / Requires Sign-Up",
     "category": "image-tools",
     "tags": [
@@ -10702,7 +10490,7 @@
     "id": "image-tools-3d-warehouse",
     "name": "3D Warehouse",
     "url": "https://3dwarehouse.sketchup.com/",
-    "description": "3D Models Compatible with SketchUp · 需注册账号使用",
+    "description": "3D Models Compatible with SketchUp · Requires Sign-Up",
     "descriptionEn": "3D Models Compatible with SketchUp / Requires Sign-Up",
     "category": "image-tools",
     "tags": [
@@ -10907,36 +10695,10 @@
     "platforms": []
   },
   {
-    "id": "image-tools-mcmaster",
-    "name": "⁠McMaster",
-    "url": "https://www.mcmaster.com/",
-    "description": "Industrial · Engineering 3D Models · 3D Printable Hardware Parts + Tools",
-    "descriptionEn": "Industrial / Engineering 3D Models / 3D Printable Hardware Parts + Tools",
-    "category": "image-tools",
-    "tags": [
-      "免费",
-      "图像编辑",
-      "无损压缩"
-    ],
-    "tagsEn": [
-      "Free",
-      "Image Editor",
-      "Compression"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
     "id": "image-tools-bimobject",
     "name": "⁠BIMobject",
     "url": "https://www.bimobject.com/",
-    "description": "Architecture · Engineering BIM & 3D Models · 需注册账号使用",
+    "description": "Architecture · Engineering BIM & 3D Models · Requires Sign-Up",
     "descriptionEn": "Architecture / Engineering BIM & 3D Models / Requires Sign-Up",
     "category": "image-tools",
     "tags": [
@@ -11224,7 +10986,7 @@
     "id": "image-tools-resources",
     "name": "Resources",
     "url": "https://awesome-blender.netlify.app/",
-    "description": "Resources, GitHub · 浏览器扩展s · Communities · Addons · Plugins · Textures · 客户端 Manager · Renderer · 3D Nodes · AI Render",
+    "description": "Resources, GitHub · Extensions · Communities · Addons · Plugins · Textures · Client Manager · Renderer · 3D Nodes · AI Render",
     "descriptionEn": "Resources, GitHub / Extensions / Communities / Addons / Plugins / Textures / Client Manager / Renderer / 3D Nodes / AI Render",
     "category": "image-tools",
     "tags": [
@@ -11334,7 +11096,7 @@
     "id": "image-tools-wings-3d",
     "name": "Wings 3D",
     "url": "https://www.wings3d.com/",
-    "description": "全平台跨平台支持 3D Modeling App · GitHub",
+    "description": "跨平台 3D Modeling App · GitHub",
     "descriptionEn": "Cross-Platform 3D Modeling App / GitHub",
     "category": "image-tools",
     "tags": [
@@ -11362,7 +11124,7 @@
     "id": "image-tools-dust3d",
     "name": "⁠Dust3D",
     "url": "https://dust3d.org/",
-    "description": "全平台跨平台支持 3D Modeling App · GitHub",
+    "description": "跨平台 3D Modeling App · GitHub",
     "descriptionEn": "Cross-Platform 3D Modeling App / GitHub",
     "category": "image-tools",
     "tags": [
@@ -11388,7 +11150,7 @@
     "id": "image-tools-bforartists",
     "name": "Bforartists",
     "url": "https://www.bforartists.de/",
-    "description": "全平台跨平台支持 3D Modeling App · Discord · GitHub",
+    "description": "跨平台 3D Modeling App · Discord · GitHub",
     "descriptionEn": "Cross-Platform 3D Modeling App / Discord / GitHub",
     "category": "image-tools",
     "tags": [
@@ -11414,7 +11176,7 @@
     "id": "image-tools-justsketchme",
     "name": "JustSketchMe",
     "url": "https://justsketch.me/",
-    "description": "全平台跨平台支持 3D Pose Reference Tool",
+    "description": "跨平台 3D Pose Reference Tool",
     "descriptionEn": "Cross-Platform 3D Pose Reference Tool",
     "category": "image-tools",
     "tags": [
@@ -11951,9 +11713,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -12081,9 +11843,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -12133,9 +11895,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -12185,9 +11947,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -12355,84 +12117,6 @@
     "platforms": []
   },
   {
-    "id": "image-tools-tinkercad",
-    "name": "Tinkercad",
-    "url": "https://www.tinkercad.com/",
-    "description": "Educational CAD Modeling",
-    "descriptionEn": "Educational CAD Modeling",
-    "category": "image-tools",
-    "tags": [
-      "免费",
-      "图像编辑",
-      "无损压缩"
-    ],
-    "tagsEn": [
-      "Free",
-      "Image Editor",
-      "Compression"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "image-tools-sendcutsend-education",
-    "name": "SendCutSend Education",
-    "url": "https://sendcutsend.com/education/",
-    "description": "CAD Engineering Study Guide · Videos · X",
-    "descriptionEn": "CAD Engineering Study Guide / Videos / X",
-    "category": "image-tools",
-    "tags": [
-      "免费",
-      "图像编辑",
-      "无损压缩"
-    ],
-    "tagsEn": [
-      "Free",
-      "Image Editor",
-      "Compression"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "image-tools-solidworks-practice-prob",
-    "name": "SOLIDWORKS Practice Problems",
-    "url": "https://www.solidworks.com/solution/education/practice-problems",
-    "description": "CAD Engineering Practice Exercises · X",
-    "descriptionEn": "CAD Engineering Practice Exercises / X",
-    "category": "image-tools",
-    "tags": [
-      "免费",
-      "图像编辑",
-      "无损压缩"
-    ],
-    "tagsEn": [
-      "Free",
-      "Image Editor",
-      "Compression"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
     "id": "image-tools-freecad",
     "name": "FreeCAD",
     "url": "https://www.freecad.org/",
@@ -12475,9 +12159,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -12518,7 +12202,7 @@
     "id": "image-tools-brl-cad",
     "name": "BRL-CAD",
     "url": "https://brlcad.org/",
-    "description": "全平台跨平台支持 CSG CAD Modeling",
+    "description": "跨平台 CSG CAD Modeling",
     "descriptionEn": "Cross-Platform CSG CAD Modeling",
     "category": "image-tools",
     "tags": [
@@ -12583,9 +12267,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -12619,32 +12303,6 @@
     "platforms": []
   },
   {
-    "id": "image-tools-creator-resources",
-    "name": "Creator Resources",
-    "url": "https://www.newgrounds.com/wiki/creator-resources/",
-    "description": "Art · Animation Resources",
-    "descriptionEn": "Art / Animation Resources",
-    "category": "image-tools",
-    "tags": [
-      "免费",
-      "图像编辑",
-      "无损压缩"
-    ],
-    "tagsEn": [
-      "Free",
-      "Image Editor",
-      "Compression"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": true,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
     "id": "image-tools-awesome-colab-notebooks",
     "name": "Awesome Colab Notebooks",
     "url": "https://github.com/amrzv/awesome-colab-notebooks",
@@ -12662,8 +12320,8 @@
       "Compression"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Sites that don't necessarily meet the criteria to be called unsafe but still aren't recommended for different reasons.",
-    "warningTextEn": "Caveat: Sites that don't necessarily meet the criteria to be called unsafe but still aren't recommended for different reasons.",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -12674,8 +12332,8 @@
     "id": "image-tools-color-scheme-tools",
     "name": "Color Scheme Tools",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_color_schemes",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -12687,9 +12345,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -12743,9 +12401,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
@@ -12799,9 +12457,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -12825,9 +12483,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -13113,9 +12771,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -13139,9 +12797,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -13394,7 +13052,7 @@
     "id": "image-tools-compress-jpeg",
     "name": "Compress JPEG",
     "url": "https://compressjpeg.com/",
-    "description": "Batch Compressor · 无限制使用 Upload",
+    "description": "Batch Compressor · Unlimited Upload",
     "descriptionEn": "Batch Compressor / Unlimited Upload",
     "category": "image-tools",
     "tags": [
@@ -13625,9 +13283,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -13710,9 +13368,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -13994,9 +13652,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
@@ -14010,8 +13668,8 @@
     "id": "image-tools-normcap",
     "name": "⁠NormCap",
     "url": "https://dynobo.github.io/normcap/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "社区精选",
@@ -14056,9 +13714,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
@@ -14071,8 +13729,8 @@
     "id": "image-tools-i2ocr",
     "name": "i2ocr",
     "url": "https://www.i2ocr.com/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "社区精选",
@@ -14101,8 +13759,8 @@
     "id": "image-tools-gimagereader",
     "name": "gImageReader",
     "url": "https://github.com/manisandro/gImageReader",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "开源",
@@ -14114,9 +13772,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -14129,8 +13787,8 @@
     "id": "image-tools-umi-ocr",
     "name": "Umi-OCR",
     "url": "https://github.com/hiroi-sora/Umi-OCR/blob/main/README_en.md",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "开源",
@@ -14142,9 +13800,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -14157,8 +13815,8 @@
     "id": "image-tools-capture2text",
     "name": "Capture2Text",
     "url": "https://capture2text.sourceforge.net/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -14185,8 +13843,8 @@
     "id": "image-tools-imagetotext",
     "name": "ImageToText",
     "url": "https://www.imagetotext.info/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -14213,8 +13871,8 @@
     "id": "image-tools-glm-ocr",
     "name": "GLM-OCR",
     "url": "https://ocr.z.ai/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -14241,8 +13899,8 @@
     "id": "image-tools-ocr-space",
     "name": "OCR.SPACE",
     "url": "https://ocr.space/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -14269,8 +13927,8 @@
     "id": "image-tools-ocrtool",
     "name": "OCRTool",
     "url": "https://ocrtool.net/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -14297,8 +13955,8 @@
     "id": "image-tools-onlineocr",
     "name": "OnlineOCR",
     "url": "https://www.onlineocr.net/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -14325,8 +13983,8 @@
     "id": "image-tools-imageglass",
     "name": "ImageGlass",
     "url": "https://imageglass.org/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "社区精选",
@@ -14356,8 +14014,8 @@
     "id": "image-tools-irfanview",
     "name": "IrfanView",
     "url": "https://www.irfanview.com/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "社区精选",
@@ -14386,8 +14044,8 @@
     "id": "image-tools-qview",
     "name": "qView",
     "url": "https://interversehq.com/qview/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "社区精选",
@@ -14417,8 +14075,8 @@
     "id": "image-tools-jpegview",
     "name": "JPEGView",
     "url": "https://github.com/KrokusPokus/JPEGView_L",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "社区精选",
@@ -14432,9 +14090,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
@@ -14447,8 +14105,8 @@
     "id": "image-tools-zeiger",
     "name": "⁠Zeiger",
     "url": "https://zeigerviewer.com/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -14476,8 +14134,8 @@
     "id": "image-tools-quickview",
     "name": "QuickView",
     "url": "https://github.com/justnullname/QuickView",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "开源",
@@ -14489,9 +14147,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -14504,8 +14162,8 @@
     "id": "image-tools-faststone",
     "name": "FastStone",
     "url": "https://www.faststone.org/index.htm",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -14532,8 +14190,8 @@
     "id": "image-tools-xnview-mp",
     "name": "XnView MP",
     "url": "https://www.xnview.com/en/xnview/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -14561,8 +14219,8 @@
     "id": "image-tools-image-eye",
     "name": "Image Eye",
     "url": "https://www.fmjsoft.com/imageeye.html",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -14589,8 +14247,8 @@
     "id": "image-tools-nomacs",
     "name": "nomacs",
     "url": "https://nomacs.org/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "开源",
@@ -14618,8 +14276,8 @@
     "id": "image-tools-qimgv",
     "name": "qimgv",
     "url": "https://github.com/easymodo/qimgv",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "开源",
@@ -14631,9 +14289,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -14647,8 +14305,8 @@
     "id": "image-tools-minimal-image-viewer",
     "name": "⁠Minimal Image Viewer",
     "url": "https://github.com/deminimis/minimalimageviewer",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "开源",
@@ -14660,9 +14318,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -14675,8 +14333,8 @@
     "id": "image-tools-quick-picture-viewer",
     "name": "Quick Picture Viewer",
     "url": "https://moduleart.github.io/quick-picture-viewer/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -14703,8 +14361,8 @@
     "id": "image-tools-digikam",
     "name": "Digikam",
     "url": "https://www.digikam.org/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -14732,8 +14390,8 @@
     "id": "image-tools-oculante",
     "name": "oculante",
     "url": "https://github.com/woelper/oculante",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "开源",
@@ -14745,9 +14403,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -14760,8 +14418,8 @@
     "id": "image-tools-picview",
     "name": "PicView",
     "url": "https://picview.org/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -14789,8 +14447,8 @@
     "id": "image-tools-diffractor",
     "name": "Diffractor",
     "url": "https://www.diffractor.com/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "开源",
@@ -14817,8 +14475,8 @@
     "id": "image-tools-flyphotos",
     "name": "⁠FlyPhotos",
     "url": "https://github.com/riyasy/FlyPhotos",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "开源",
@@ -14830,9 +14488,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -14845,8 +14503,8 @@
     "id": "image-tools-photoqt",
     "name": "PhotoQt",
     "url": "https://photoqt.org/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "开源",
@@ -14873,8 +14531,8 @@
     "id": "image-tools-imagefanreloaded",
     "name": "ImagefanReloaded",
     "url": "https://github.com/mihnea-radulescu/imagefanreloaded",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "开源",
@@ -14886,9 +14544,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -14901,8 +14559,8 @@
     "id": "image-tools-imagine",
     "name": "⁠Imagine",
     "url": "https://www.nyam.pe.kr/dev/imagine/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -14929,8 +14587,8 @@
     "id": "image-tools-neeview",
     "name": "⁠NeeView",
     "url": "https://neelabo.github.io/NeeView/en-us/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "开源",
@@ -14957,8 +14615,8 @@
     "id": "image-tools-picturama",
     "name": "picturama",
     "url": "https://picturama.github.io/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "开源",
@@ -15028,9 +14686,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -15057,9 +14715,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -15073,8 +14731,8 @@
     "id": "image-tools-foss-photo-libraries",
     "name": "FOSS Photo Libraries",
     "url": "https://meichthys.github.io/foss_photo_libraries/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -15099,8 +14757,8 @@
     "id": "image-tools-android-galleries",
     "name": "Android Galleries",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_image_galleries",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -15112,9 +14770,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -15127,8 +14785,8 @@
     "id": "image-tools-immich",
     "name": "Immich",
     "url": "https://immich.app/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "社区精选",
@@ -15157,8 +14815,8 @@
     "id": "image-tools-damselfly",
     "name": "Damselfly",
     "url": "https://github.com/Webreaper/Damselfly",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "开源",
@@ -15170,24 +14828,24 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
     "githubUrl": "https://github.com/Webreaper/Damselfly",
     "platforms": [
-      "web",
-      "docker"
+      "docker",
+      "web"
     ]
   },
   {
     "id": "image-tools-lap",
     "name": "Lap",
     "url": "https://julyx10.github.io/lap/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "开源",
@@ -15215,8 +14873,8 @@
     "id": "image-tools-homegallery",
     "name": "HomeGallery",
     "url": "https://home-gallery.org/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -15243,8 +14901,8 @@
     "id": "image-tools-librephotos",
     "name": "LibrePhotos",
     "url": "https://github.com/LibrePhotos/librephotos",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "开源",
@@ -15256,9 +14914,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -15271,8 +14929,8 @@
     "id": "image-tools-lychee",
     "name": "Lychee",
     "url": "https://lycheeorg.github.io/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -15299,8 +14957,8 @@
     "id": "image-tools-photoprism",
     "name": "PhotoPrism",
     "url": "https://github.com/photoprism/photoprism",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "开源",
@@ -15312,9 +14970,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -15327,8 +14985,8 @@
     "id": "image-tools-photoview",
     "name": "Photoview",
     "url": "https://github.com/photoview/photoview",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "开源",
@@ -15340,9 +14998,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -15355,8 +15013,8 @@
     "id": "image-tools-photonix",
     "name": "Photonix",
     "url": "https://photonix.org/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -15439,8 +15097,8 @@
     "id": "image-tools-pigallery-2",
     "name": "PiGallery 2",
     "url": "https://bpatrik.github.io/pigallery2/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -15467,8 +15125,8 @@
     "id": "image-tools-chevereto",
     "name": "Chevereto",
     "url": "https://chevereto.com/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -15508,9 +15166,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -15605,7 +15263,7 @@
     "id": "image-tools-tixte",
     "name": "tixte",
     "url": "https://tixte.com/",
-    "description": "15GB Storage Total · Forever · 需注册账号使用",
+    "description": "15GB Storage Total · Forever · Requires Sign-Up",
     "descriptionEn": "15GB Storage Total / Forever / Requires Sign-Up",
     "category": "image-tools",
     "tags": [
@@ -15631,7 +15289,7 @@
     "id": "image-tools-lookimg",
     "name": "lookimg",
     "url": "https://lookimg.com/",
-    "description": "20MB · Forever · 需注册账号使用",
+    "description": "20MB · Forever · Requires Sign-Up",
     "descriptionEn": "20MB / Forever / Requires Sign-Up",
     "category": "image-tools",
     "tags": [
@@ -15657,7 +15315,7 @@
     "id": "image-tools-horizon",
     "name": "Horizon",
     "url": "https://horizon.pics/",
-    "description": "75MB (500MB Storage) · Forever · 需注册账号使用",
+    "description": "75MB (500MB Storage) · Forever · Requires Sign-Up",
     "descriptionEn": "75MB (500MB Storage) / Forever / Requires Sign-Up",
     "category": "image-tools",
     "tags": [
@@ -15763,34 +15421,8 @@
     "id": "image-tools-zonerama",
     "name": "Zonerama",
     "url": "https://eu.zonerama.com/",
-    "description": "无限制使用 · Forever",
+    "description": "Unlimited · Forever",
     "descriptionEn": "Unlimited / Forever",
-    "category": "image-tools",
-    "tags": [
-      "免费",
-      "图像编辑",
-      "无损压缩"
-    ],
-    "tagsEn": [
-      "Free",
-      "Image Editor",
-      "Compression"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "image-tools-ente",
-    "name": "Ente",
-    "url": "https://ente.com/",
-    "description": "无限制使用 · 10GB Cloud",
-    "descriptionEn": "Unlimited / 10GB Cloud",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -15815,7 +15447,7 @@
     "id": "image-tools-piczel",
     "name": "Piczel",
     "url": "https://piczel.tv/",
-    "description": "10MB · Forever · 需注册账号使用",
+    "description": "10MB · Forever · Requires Sign-Up",
     "descriptionEn": "10MB / Forever / Requires Sign-Up",
     "category": "image-tools",
     "tags": [
@@ -15867,7 +15499,7 @@
     "id": "image-tools-gotohp",
     "name": "⁠gotohp",
     "url": "https://rentry.co/FMHYB64#gotohp",
-    "description": "Save Morphe Session for 无限制使用 Google Photo Uploads",
+    "description": "Save Morphe Session for Unlimited Google Photo Uploads",
     "descriptionEn": "Save Morphe Session for Unlimited Google Photo Uploads",
     "category": "image-tools",
     "tags": [
@@ -15880,9 +15512,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -15906,9 +15538,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -15932,9 +15564,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -15994,36 +15626,6 @@
     "isCollection": false,
     "githubUrl": null,
     "platforms": []
-  },
-  {
-    "id": "image-tools-catbox",
-    "name": "Catbox",
-    "url": "https://catbox.moe/",
-    "description": "200MB · Forever · Proxy · ShareX Config · Tools · 浏览器扩展s",
-    "descriptionEn": "200MB / Forever / Proxy / ShareX Config / Tools / Extensions",
-    "category": "image-tools",
-    "tags": [
-      "社区精选",
-      "免费",
-      "图像编辑",
-      "无损压缩"
-    ],
-    "tagsEn": [
-      "Featured",
-      "Free",
-      "Image Editor",
-      "Compression"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": true,
-    "isStarred": true,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": [
-      "web"
-    ]
   },
   {
     "id": "image-tools-sxcu-net",
@@ -16471,7 +16073,7 @@
     "id": "image-tools-picoshare",
     "name": "PicoShare",
     "url": "https://github.com/mtlynch/picoshare",
-    "description": "支持私有化自建部署",
+    "description": "支持自建部署",
     "descriptionEn": "Self-Hosted",
     "category": "image-tools",
     "tags": [
@@ -16484,9 +16086,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -16499,7 +16101,7 @@
     "id": "image-tools-sharex",
     "name": "ShareX",
     "url": "https://getsharex.com/",
-    "description": "Screenshot & 开源无水印屏幕录制工具 Tool · Windows · Image Hosts · File Manager · Discord · GitHub",
+    "description": "Screenshot & 无水印屏幕录制 Tool · Windows · Image Hosts · File Manager · Discord · GitHub",
     "descriptionEn": "Screenshot & Screen Recorder Tool / Windows / Image Hosts / File Manager / Discord / GitHub",
     "category": "image-tools",
     "tags": [
@@ -16526,41 +16128,10 @@
     ]
   },
   {
-    "id": "image-tools-flameshot",
-    "name": "Flameshot",
-    "url": "https://flameshot.org/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "category": "image-tools",
-    "tags": [
-      "社区精选",
-      "开源",
-      "图像编辑",
-      "无损压缩"
-    ],
-    "tagsEn": [
-      "Featured",
-      "Open Source",
-      "Image Editor",
-      "Compression"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": true,
-    "isStarred": true,
-    "isCollection": false,
-    "githubUrl": "https://github.com/flameshot-org/flameshot",
-    "platforms": [
-      "win",
-      "mac"
-    ]
-  },
-  {
     "id": "image-tools-zipline",
     "name": "Zipline",
     "url": "https://zipline.diced.sh/",
-    "description": "支持私有化自建部署 ShareX Server · GitHub",
+    "description": "支持自建部署 ShareX Server · GitHub",
     "descriptionEn": "Self-Hosted ShareX Server / GitHub",
     "category": "image-tools",
     "tags": [
@@ -16590,8 +16161,8 @@
     "id": "image-tools-greenshot",
     "name": "Greenshot",
     "url": "https://getgreenshot.org/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "开源",
@@ -16619,8 +16190,8 @@
     "id": "image-tools-ksnip",
     "name": "KSnip",
     "url": "https://github.com/ksnip/ksnip",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "开源",
@@ -16632,9 +16203,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -16648,7 +16219,7 @@
     "id": "image-tools-fusebase-capture",
     "name": "FuseBase Capture",
     "url": "https://thefusebase.com/screenshot",
-    "description": "Chrome-based 浏览器扩展",
+    "description": "Chrome-based Extension",
     "descriptionEn": "Chrome-based Extension",
     "category": "image-tools",
     "tags": [
@@ -16676,8 +16247,8 @@
     "id": "image-tools-pixpinapp",
     "name": "PixpinApp",
     "url": "https://pixpin.cn/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -16705,8 +16276,8 @@
     "id": "image-tools-screenshotx",
     "name": "ScreenshotX",
     "url": "https://screenshotx.com/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -17363,8 +16934,8 @@
     "id": "image-tools-camera-comparisons",
     "name": "Camera Comparisons",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_cameras",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -17376,9 +16947,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -17402,9 +16973,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -17430,9 +17001,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -17495,7 +17066,7 @@
     "id": "image-tools-davinci-resolve",
     "name": "⁠DaVinci Resolve",
     "url": "https://www.blackmagicdesign.com/products/davinciresolve",
-    "description": "RAW Photo Editors · Windows, macOS, Linux",
+    "description": "RAW 在线图片编辑处理s · Windows, macOS, Linux",
     "descriptionEn": "RAW Photo Editors / Windows, macOS, Linux",
     "category": "image-tools",
     "tags": [
@@ -17810,8 +17381,8 @@
     "id": "image-tools-file-info---metadata",
     "name": "File Info / Metadata",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_file_info_.2F_metadata",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",
@@ -17823,9 +17394,9 @@
       "Image Editor",
       "Compression"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -17996,8 +17567,8 @@
     "id": "image-tools-picarta",
     "name": "Picarta",
     "url": "https://picarta.ai/",
-    "description": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
-    "descriptionEn": "在线免安装修图、矢量插画编辑与图片无损压缩工具",
+    "description": "Web 在线图片编辑处理s, vector graphics, and image compression tools.",
+    "descriptionEn": "Web photo editors, vector graphics, and image compression tools.",
     "category": "image-tools",
     "tags": [
       "免费",

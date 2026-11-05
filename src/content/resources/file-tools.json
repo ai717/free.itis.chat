@@ -3,8 +3,8 @@
     "id": "file-tools-file-scanners",
     "name": "File Scanners",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_online_scanners",
-    "description": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
-    "descriptionEn": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
+    "description": "Instant disk search, batch renamers, and lossless 跨格式文件转换器s.",
+    "descriptionEn": "Instant disk search, batch renamers, and lossless file converters.",
     "category": "file-tools",
     "tags": [
       "免费",
@@ -16,9 +16,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -44,9 +44,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
@@ -96,9 +96,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -122,9 +122,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -148,9 +148,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -176,9 +176,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -215,7 +215,7 @@
     "id": "file-tools-ab-download-manager",
     "name": "AB Download Manager",
     "url": "https://abdownloadmanager.com/",
-    "description": "高速多线程下载管理器 · Windows, macOS, Linux, Android · Firefox · Chrome · Telegram · GitHub",
+    "description": "Download Manager · Windows, macOS, Linux, Android · Firefox · Chrome · Telegram · GitHub",
     "descriptionEn": "Download Manager / Windows, macOS, Linux, Android / Firefox / Chrome / Telegram / GitHub",
     "category": "file-tools",
     "tags": [
@@ -239,40 +239,9 @@
     "githubUrl": "https://github.com/amir1376/ab-download-manager",
     "platforms": [
       "win",
-      "web",
       "mac",
+      "web",
       "android"
-    ]
-  },
-  {
-    "id": "file-tools-jdownloader",
-    "name": "JDownloader",
-    "url": "https://jdownloader.org/",
-    "description": "高速多线程下载管理器 · Windows, macOS, Linux",
-    "descriptionEn": "Download Manager / Windows, macOS, Linux",
-    "category": "file-tools",
-    "tags": [
-      "社区精选",
-      "免费",
-      "文件管理",
-      "格式转换"
-    ],
-    "tagsEn": [
-      "Featured",
-      "Free",
-      "File Tools",
-      "Converter"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": true,
-    "isStarred": true,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": [
-      "win",
-      "mac"
     ]
   },
   {
@@ -307,7 +276,7 @@
     "id": "file-tools-idm",
     "name": "IDM",
     "url": "https://rentry.co/FMHYB64#idm",
-    "description": "高速多线程下载管理器 · Firefox · Chrome · Windows",
+    "description": "Download Manager · Firefox · Chrome · Windows",
     "descriptionEn": "Download Manager / Firefox / Chrome / Windows",
     "category": "file-tools",
     "tags": [
@@ -322,9 +291,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
@@ -335,38 +304,10 @@
     ]
   },
   {
-    "id": "file-tools-go-speed",
-    "name": "Go Speed",
-    "url": "https://gopeed.com/",
-    "description": "高速多线程下载管理器 · All Platforms · 浏览器扩展 · Plugins · GitHub",
-    "descriptionEn": "Download Manager / All Platforms / Extension / Plugins / GitHub",
-    "category": "file-tools",
-    "tags": [
-      "开源",
-      "文件管理",
-      "格式转换"
-    ],
-    "tagsEn": [
-      "Open Source",
-      "File Tools",
-      "Converter"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": "https://github.com/GopeedLab/browser-extension",
-    "platforms": [
-      "web"
-    ]
-  },
-  {
     "id": "file-tools-rayburst",
     "name": "Rayburst",
     "url": "https://rayburst.pages.dev",
-    "description": "高速多线程下载管理器 · GitHub",
+    "description": "Download Manager · GitHub",
     "descriptionEn": "Download Manager / GitHub",
     "category": "file-tools",
     "tags": [
@@ -392,7 +333,7 @@
     "id": "file-tools-fdm",
     "name": "FDM",
     "url": "https://www.freedownloadmanager.org/",
-    "description": "高速多线程下载管理器 · YTDL Addon · Firefox · Chrome · Windows, macOS, Linux, Android",
+    "description": "Download Manager · YTDL Addon · Firefox · Chrome · Windows, macOS, Linux, Android",
     "descriptionEn": "Download Manager / YTDL Addon / Firefox / Chrome / Windows, macOS, Linux, Android",
     "category": "file-tools",
     "tags": [
@@ -414,8 +355,8 @@
     "githubUrl": "https://github.com/meowcateatrat/elephant",
     "platforms": [
       "win",
-      "web",
       "mac",
+      "web",
       "android"
     ]
   },
@@ -423,8 +364,8 @@
     "id": "file-tools-brisk",
     "name": "Brisk",
     "url": "https://github.com/BrisklyDev/brisk/",
-    "description": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
-    "descriptionEn": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
+    "description": "Instant disk search, batch renamers, and lossless 跨格式文件转换器s.",
+    "descriptionEn": "Instant disk search, batch renamers, and lossless file converters.",
     "category": "file-tools",
     "tags": [
       "开源",
@@ -436,9 +377,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -510,8 +451,8 @@
     "id": "file-tools-imfile",
     "name": "imFile",
     "url": "https://imfile.org/",
-    "description": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
-    "descriptionEn": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
+    "description": "Instant disk search, batch renamers, and lossless 跨格式文件转换器s.",
+    "descriptionEn": "Instant disk search, batch renamers, and lossless file converters.",
     "category": "file-tools",
     "tags": [
       "开源",
@@ -539,7 +480,7 @@
     "id": "file-tools-aria2-next",
     "name": "⁠Aria2 Next",
     "url": "https://github.com/AnInsomniacy/aria2-next",
-    "description": "Terminal 高速多线程下载管理器 · Download Bot · WebUI, 2 · Windows, macOS, Android",
+    "description": "Terminal Download Manager · Download Bot · WebUI, 2 · Windows, macOS, Android",
     "descriptionEn": "Terminal Download Manager / Download Bot / WebUI, 2 / Windows, macOS, Android",
     "category": "file-tools",
     "tags": [
@@ -552,17 +493,17 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
     "githubUrl": "https://github.com/AnInsomniacy/aria2-next",
     "platforms": [
       "win",
-      "web",
       "mac",
+      "web",
       "android"
     ]
   },
@@ -570,7 +511,7 @@
     "id": "file-tools-persepolis",
     "name": "Persepolis",
     "url": "https://persepolisdm.github.io/",
-    "description": "高速多线程下载管理器 · Windows, macOS, Linux · GitHub",
+    "description": "Download Manager · Windows, macOS, Linux · GitHub",
     "descriptionEn": "Download Manager / Windows, macOS, Linux / GitHub",
     "category": "file-tools",
     "tags": [
@@ -599,7 +540,7 @@
     "id": "file-tools-pyload",
     "name": "pyLoad",
     "url": "https://pyload.net/",
-    "description": "Lightweight 高速多线程下载管理器 · Windows, macOS, Linux · GitHub",
+    "description": "Lightweight Download Manager · Windows, macOS, Linux · GitHub",
     "descriptionEn": "Lightweight Download Manager / Windows, macOS, Linux / GitHub",
     "category": "file-tools",
     "tags": [
@@ -628,7 +569,7 @@
     "id": "file-tools-arrowdl",
     "name": "ArrowDL",
     "url": "https://www.arrow-dl.com/",
-    "description": "高速多线程下载管理器 · Firefox · Chrome · Windows, macOS, Linux · GitHub",
+    "description": "Download Manager · Firefox · Chrome · Windows, macOS, Linux · GitHub",
     "descriptionEn": "Download Manager / Firefox / Chrome / Windows, macOS, Linux / GitHub",
     "category": "file-tools",
     "tags": [
@@ -650,15 +591,15 @@
     "githubUrl": "https://github.com/setvisible/ArrowDL",
     "platforms": [
       "win",
-      "web",
-      "mac"
+      "mac",
+      "web"
     ]
   },
   {
     "id": "file-tools-varia",
     "name": "Varia",
     "url": "https://github.com/giantpinkrobots/varia",
-    "description": "高速多线程下载管理器 · Firefox · Chrome · Extesnsion · Windows, macOS, Linux",
+    "description": "Download Manager · Firefox · Chrome · Extesnsion · Windows, macOS, Linux",
     "descriptionEn": "Download Manager / Firefox / Chrome / Extesnsion / Windows, macOS, Linux",
     "category": "file-tools",
     "tags": [
@@ -671,24 +612,24 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
     "githubUrl": "https://github.com/giantpinkrobots/varia",
     "platforms": [
       "win",
-      "web",
-      "mac"
+      "mac",
+      "web"
     ]
   },
   {
     "id": "file-tools-surge",
     "name": "⁠Surge",
     "url": "https://github.com/surge-downloader/surge",
-    "description": "TUI 高速多线程下载管理器 · Firefox · Windows, macOS, Linux",
+    "description": "TUI Download Manager · Firefox · Windows, macOS, Linux",
     "descriptionEn": "TUI Download Manager / Firefox / Windows, macOS, Linux",
     "category": "file-tools",
     "tags": [
@@ -701,9 +642,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -717,7 +658,7 @@
     "id": "file-tools-cyberdrop-dl",
     "name": "Cyberdrop-DL",
     "url": "https://pypi.org/project/cyberdrop-dl-patched",
-    "description": "TUI 高速多线程下载管理器 · GitHub · Windows, macOS, Linux",
+    "description": "TUI Download Manager · GitHub · Windows, macOS, Linux",
     "descriptionEn": "TUI Download Manager / GitHub / Windows, macOS, Linux",
     "category": "file-tools",
     "tags": [
@@ -746,7 +687,7 @@
     "id": "file-tools-downthemall",
     "name": "DownThemAll",
     "url": "https://www.downthemall.org/",
-    "description": "Download Management 浏览器扩展 · Firefox · Chrome · GitHub",
+    "description": "Download Management Extension · Firefox · Chrome · GitHub",
     "descriptionEn": "Download Management Extension / Firefox / Chrome / GitHub",
     "category": "file-tools",
     "tags": [
@@ -774,7 +715,7 @@
     "id": "file-tools-http-downloader",
     "name": "HTTP Downloader",
     "url": "https://erickutcher.github.io/",
-    "description": "高速多线程下载管理器 for HTTP · FTP · SFTP · Firefox · Chrome · Windows · GitHub",
+    "description": "Download Manager for HTTP · FTP · SFTP · Firefox · Chrome · Windows · GitHub",
     "descriptionEn": "Download Manager for HTTP / FTP / SFTP / Firefox / Chrome / Windows / GitHub",
     "category": "file-tools",
     "tags": [
@@ -854,34 +795,6 @@
     "platforms": []
   },
   {
-    "id": "file-tools-peazip",
-    "name": "PeaZip",
-    "url": "https://peazip.github.io/",
-    "description": "全平台跨平台支持 File Archiver · GitHub",
-    "descriptionEn": "Cross-Platform File Archiver / GitHub",
-    "category": "file-tools",
-    "tags": [
-      "社区精选",
-      "开源",
-      "文件管理",
-      "格式转换"
-    ],
-    "tagsEn": [
-      "Featured",
-      "Open Source",
-      "File Tools",
-      "Converter"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": true,
-    "isStarred": true,
-    "isCollection": false,
-    "githubUrl": "https://github.com/peazip/PeaZip",
-    "platforms": []
-  },
-  {
     "id": "file-tools-compactgui",
     "name": "CompactGUI",
     "url": "https://github.com/IridiumIO/CompactGUI",
@@ -900,9 +813,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
@@ -952,9 +865,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -1004,9 +917,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -1235,7 +1148,7 @@
     "id": "file-tools-convert-to-it",
     "name": "Convert to it!",
     "url": "https://p2r3.github.io/convert/",
-    "description": "Offline · File Converter · Web · GitHub",
+    "description": "Offline · 跨格式文件转换器 · Web · GitHub",
     "descriptionEn": "Offline / File Converter / Web / GitHub",
     "category": "file-tools",
     "tags": [
@@ -1349,7 +1262,7 @@
     "id": "file-tools-filee",
     "name": "Filee",
     "url": "https://filee.sh/",
-    "description": "Offline · Drag & Drop File Converter · Windows, macOS, Linux · GitHub",
+    "description": "Offline · Drag & Drop 跨格式文件转换器 · Windows, macOS, Linux · GitHub",
     "descriptionEn": "Offline / Drag & Drop File Converter / Windows, macOS, Linux / GitHub",
     "category": "file-tools",
     "tags": [
@@ -1463,7 +1376,7 @@
     "id": "file-tools-xconvert",
     "name": "Xconvert",
     "url": "https://www.xconvert.com",
-    "description": "Online · File Converter · 400MB · Web",
+    "description": "Online · 跨格式文件转换器 · 400MB · Web",
     "descriptionEn": "Online / File Converter / 400MB / Web",
     "category": "file-tools",
     "tags": [
@@ -1491,7 +1404,7 @@
     "id": "file-tools-freeconvert",
     "name": "FreeConvert",
     "url": "https://www.freeconvert.com/",
-    "description": "Online · 无限制使用 · Clear Cookies · Web",
+    "description": "Online · Unlimited · Clear Cookies · Web",
     "descriptionEn": "Online / Unlimited / Clear Cookies / Web",
     "category": "file-tools",
     "tags": [
@@ -1519,7 +1432,7 @@
     "id": "file-tools-convertio",
     "name": "Convertio",
     "url": "https://convertio.co/",
-    "description": "Online · File Converter · 100MB · Web",
+    "description": "Online · 跨格式文件转换器 · 100MB · Web",
     "descriptionEn": "Online / File Converter / 100MB / Web",
     "category": "file-tools",
     "tags": [
@@ -1547,7 +1460,7 @@
     "id": "file-tools-anyconvert",
     "name": "AnyConvert",
     "url": "https://anyconv.com/",
-    "description": "Online · File Converter · 100MB · Web",
+    "description": "Online · 跨格式文件转换器 · 100MB · Web",
     "descriptionEn": "Online / File Converter / 100MB / Web",
     "category": "file-tools",
     "tags": [
@@ -1575,7 +1488,7 @@
     "id": "file-tools-miconv",
     "name": "MiConv",
     "url": "https://miconv.com/",
-    "description": "Online · File Converter · 75MB · Web",
+    "description": "Online · 跨格式文件转换器 · 75MB · Web",
     "descriptionEn": "Online / File Converter / 75MB / Web",
     "category": "file-tools",
     "tags": [
@@ -1603,7 +1516,7 @@
     "id": "file-tools-docpose",
     "name": "⁠Docpose",
     "url": "https://docpose.cloud/convert",
-    "description": "Online · File Converter · 25MB · Web",
+    "description": "Online · 跨格式文件转换器 · 25MB · Web",
     "descriptionEn": "Online / File Converter / 25MB / Web",
     "category": "file-tools",
     "tags": [
@@ -1631,7 +1544,7 @@
     "id": "file-tools-videoutils",
     "name": "videoutils",
     "url": "https://www.videoutils.com/",
-    "description": "Online · File Converter · 500MB · Web",
+    "description": "Online · 跨格式文件转换器 · 500MB · Web",
     "descriptionEn": "Online / File Converter / 500MB / Web",
     "category": "file-tools",
     "tags": [
@@ -1659,7 +1572,7 @@
     "id": "file-tools-convertfiles",
     "name": "ConvertFiles",
     "url": "https://www.convertfiles.com/",
-    "description": "Online · File Converter · 250MB · Web",
+    "description": "Online · 跨格式文件转换器 · 250MB · Web",
     "descriptionEn": "Online / File Converter / 250MB / Web",
     "category": "file-tools",
     "tags": [
@@ -1684,38 +1597,10 @@
     ]
   },
   {
-    "id": "file-tools-convertx",
-    "name": "⁠ConvertX",
-    "url": "https://github.com/C4illin/ConvertX",
-    "description": "支持私有化自建部署 File Converters",
-    "descriptionEn": "Self-Hosted File Converters",
-    "category": "file-tools",
-    "tags": [
-      "开源",
-      "文件管理",
-      "格式转换"
-    ],
-    "tagsEn": [
-      "Open Source",
-      "File Tools",
-      "Converter"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": "https://github.com/C4illin/ConvertX",
-    "platforms": [
-      "docker"
-    ]
-  },
-  {
     "id": "file-tools-doublecmd",
     "name": "DoubleCMD",
     "url": "https://doublecmd.sourceforge.io/",
-    "description": "全平台跨平台支持 File Managers",
+    "description": "跨平台 File Managers",
     "descriptionEn": "Cross-Platform File Managers",
     "category": "file-tools",
     "tags": [
@@ -2052,39 +1937,10 @@
     "platforms": []
   },
   {
-    "id": "file-tools-filebrowser-quantum",
-    "name": "FileBrowser Quantum",
-    "url": "https://filebrowserquantum.com/",
-    "description": "支持私有化自建部署 Web File Managers",
-    "descriptionEn": "Self-Hosted Web File Managers",
-    "category": "file-tools",
-    "tags": [
-      "开源",
-      "文件管理",
-      "格式转换"
-    ],
-    "tagsEn": [
-      "Open Source",
-      "File Tools",
-      "Converter"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": "https://github.com/gtsteffaniak/filebrowser",
-    "platforms": [
-      "web",
-      "docker"
-    ]
-  },
-  {
     "id": "file-tools-everything",
     "name": "Everything",
     "url": "https://voidtools.com/",
-    "description": "File 专用搜索引擎 · Date Searching",
+    "description": "File 独立搜索引擎 · Date Searching",
     "descriptionEn": "File Search Engine / Date Searching",
     "category": "file-tools",
     "tags": [
@@ -2112,7 +1968,7 @@
     "id": "file-tools-recoll",
     "name": "Recoll",
     "url": "https://www.recoll.org/",
-    "description": "全平台跨平台支持 专用搜索引擎s",
+    "description": "跨平台 独立搜索引擎s",
     "descriptionEn": "Cross-Platform Search Engines",
     "category": "file-tools",
     "tags": [
@@ -2138,7 +1994,7 @@
     "id": "file-tools-anytxt",
     "name": "AnyTXT",
     "url": "https://anytxt.net/",
-    "description": "Windows 专用搜索引擎s",
+    "description": "Windows 独立搜索引擎s",
     "descriptionEn": "Windows Search Engines",
     "category": "file-tools",
     "tags": [
@@ -2194,7 +2050,7 @@
     "id": "file-tools-fselect",
     "name": "fselect",
     "url": "https://github.com/jhspetersson/fselect",
-    "description": "SQL-like 专用搜索引擎",
+    "description": "SQL-like 独立搜索引擎",
     "descriptionEn": "SQL-like Search Engine",
     "category": "file-tools",
     "tags": [
@@ -2207,9 +2063,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -2233,9 +2089,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -2259,9 +2115,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -2341,9 +2197,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -2367,9 +2223,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -2393,9 +2249,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -2488,7 +2344,7 @@
     "id": "file-tools-syncthing",
     "name": "SyncThing",
     "url": "https://syncthing.net/",
-    "description": "全平台跨平台支持 File Sync · Android, 2 · Tray Support · GitHub",
+    "description": "跨平台 File Sync · Android, 2 · Tray Support · GitHub",
     "descriptionEn": "Cross-Platform File Sync / Android, 2 / Tray Support / GitHub",
     "category": "file-tools",
     "tags": [
@@ -2715,9 +2571,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -2890,7 +2746,7 @@
     "id": "file-tools-urbackup",
     "name": "UrBackup",
     "url": "https://www.urbackup.org/",
-    "description": "客户端 · Server File Backup",
+    "description": "Client · Server File Backup",
     "descriptionEn": "Client / Server File Backup",
     "category": "file-tools",
     "tags": [
@@ -3143,9 +2999,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -3179,37 +3035,11 @@
     "platforms": []
   },
   {
-    "id": "file-tools-image-metadata-tools",
-    "name": "Image Metadata Tools",
-    "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_photo_forensics_.2F_metadata",
-    "description": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
-    "descriptionEn": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
-    "category": "file-tools",
-    "tags": [
-      "免费",
-      "文件管理",
-      "格式转换"
-    ],
-    "tagsEn": [
-      "Free",
-      "File Tools",
-      "Converter"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": true,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
     "id": "file-tools-audio-metadata-tools",
     "name": "Audio Metadata Tools",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_audio_metadata",
-    "description": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
-    "descriptionEn": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
+    "description": "Instant disk search, batch renamers, and lossless 跨格式文件转换器s.",
+    "descriptionEn": "Instant disk search, batch renamers, and lossless file converters.",
     "category": "file-tools",
     "tags": [
       "免费",
@@ -3221,9 +3051,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -3234,7 +3064,7 @@
     "id": "file-tools-fileinfo",
     "name": "Fileinfo",
     "url": "https://fileinfo.com/",
-    "description": "File 浏览器扩展 Libraries",
+    "description": "File Extension Libraries",
     "descriptionEn": "File Extension Libraries",
     "category": "file-tools",
     "tags": [
@@ -3279,9 +3109,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
@@ -3305,9 +3135,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -3491,9 +3321,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -3863,9 +3693,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -4019,9 +3849,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -4045,39 +3875,13 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
     "githubUrl": "https://github.com/zeltox/Google-Drive-PDF-Downloader",
-    "platforms": []
-  },
-  {
-    "id": "file-tools-pdfcoffee",
-    "name": "PDFCoffee",
-    "url": "https://pdfcoffee.com/",
-    "description": "Upload PDF, Word or PowerPoint Files",
-    "descriptionEn": "Upload PDF, Word or PowerPoint Files",
-    "category": "file-tools",
-    "tags": [
-      "免费",
-      "文件管理",
-      "格式转换"
-    ],
-    "tagsEn": [
-      "Free",
-      "File Tools",
-      "Converter"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
     "platforms": []
   },
   {
@@ -4110,7 +3914,7 @@
     "id": "file-tools-ihatepdf",
     "name": "⁠ihatepdf",
     "url": "https://www.ihatepdf.cv/",
-    "description": "客户端-Side",
+    "description": "Client-Side",
     "descriptionEn": "Client-Side",
     "category": "file-tools",
     "tags": [
@@ -4138,7 +3942,7 @@
     "id": "file-tools-bentopdf",
     "name": "BentoPDF",
     "url": "https://bentopdf.com/",
-    "description": "客户端-Side · GitHub",
+    "description": "Client-Side · GitHub",
     "descriptionEn": "Client-Side / GitHub",
     "category": "file-tools",
     "tags": [
@@ -4166,7 +3970,7 @@
     "id": "file-tools-breezepdf",
     "name": "BreezePDF",
     "url": "https://breezepdf.com/",
-    "description": "客户端-Side",
+    "description": "Client-Side",
     "descriptionEn": "Client-Side",
     "category": "file-tools",
     "tags": [
@@ -4192,7 +3996,7 @@
     "id": "file-tools-pdfking",
     "name": "⁠PDFKing",
     "url": "https://pdfking.app/",
-    "description": "客户端-Side · Discord",
+    "description": "Client-Side · Discord",
     "descriptionEn": "Client-Side / Discord",
     "category": "file-tools",
     "tags": [
@@ -4218,7 +4022,7 @@
     "id": "file-tools-pdfcraft",
     "name": "PDFCraft",
     "url": "https://pdfcraft.devtoolcafe.com/",
-    "description": "客户端-Side · GitHub",
+    "description": "Client-Side · GitHub",
     "descriptionEn": "Client-Side / GitHub",
     "category": "file-tools",
     "tags": [
@@ -4231,9 +4035,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -4244,7 +4048,7 @@
     "id": "file-tools-itinypdf",
     "name": "⁠itinypdf",
     "url": "https://itinypdf.com/",
-    "description": "客户端-Side",
+    "description": "Client-Side",
     "descriptionEn": "Client-Side",
     "category": "file-tools",
     "tags": [
@@ -4270,7 +4074,7 @@
     "id": "file-tools-pdfwix",
     "name": "PDFWix",
     "url": "https://pdfwix.com/",
-    "description": "客户端-Side",
+    "description": "Client-Side",
     "descriptionEn": "Client-Side",
     "category": "file-tools",
     "tags": [
@@ -4296,7 +4100,7 @@
     "id": "file-tools-pdfkind",
     "name": "⁠PDFkind",
     "url": "https://pdfkind.com/",
-    "description": "客户端-Side",
+    "description": "Client-Side",
     "descriptionEn": "Client-Side",
     "category": "file-tools",
     "tags": [
@@ -4322,7 +4126,7 @@
     "id": "file-tools-digipdf",
     "name": "DigiPDF",
     "url": "https://digipdf.app/?lang=en_US",
-    "description": "客户端-Side · Source Code",
+    "description": "Client-Side · Source Code",
     "descriptionEn": "Client-Side / Source Code",
     "category": "file-tools",
     "tags": [
@@ -4504,8 +4308,8 @@
     "id": "file-tools-stirling",
     "name": "Stirling",
     "url": "https://stirling.com/",
-    "description": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
-    "descriptionEn": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
+    "description": "Instant disk search, batch renamers, and lossless 跨格式文件转换器s.",
+    "descriptionEn": "Instant disk search, batch renamers, and lossless file converters.",
     "category": "file-tools",
     "tags": [
       "社区精选",
@@ -4535,8 +4339,8 @@
     "id": "file-tools-pdf24",
     "name": "PDF24",
     "url": "https://www.pdf24.org/",
-    "description": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
-    "descriptionEn": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
+    "description": "Instant disk search, batch renamers, and lossless 跨格式文件转换器s.",
+    "descriptionEn": "Instant disk search, batch renamers, and lossless file converters.",
     "category": "file-tools",
     "tags": [
       "社区精选",
@@ -4566,8 +4370,8 @@
     "id": "file-tools-pdf4qt",
     "name": "⁠PDF4QT",
     "url": "https://jakubmelka.github.io/",
-    "description": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
-    "descriptionEn": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
+    "description": "Instant disk search, batch renamers, and lossless 跨格式文件转换器s.",
+    "descriptionEn": "Instant disk search, batch renamers, and lossless file converters.",
     "category": "file-tools",
     "tags": [
       "开源",
@@ -4591,37 +4395,11 @@
     ]
   },
   {
-    "id": "file-tools-foxit",
-    "name": "Foxit",
-    "url": "https://www.foxit.com/pdf-reader/",
-    "description": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
-    "descriptionEn": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
-    "category": "file-tools",
-    "tags": [
-      "开源",
-      "文件管理",
-      "格式转换"
-    ],
-    "tagsEn": [
-      "Open Source",
-      "File Tools",
-      "Converter"
-    ],
-    "safeguardStatus": "warning",
-    "warningText": "存在特定注意事项或使用限制，请参考说明。",
-    "warningTextEn": "Contains specific caveats or usage restrictions.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": "https://github.com/fmhy/edit",
-    "platforms": []
-  },
-  {
     "id": "file-tools-xpdfreader",
     "name": "xPDFReader",
     "url": "https://www.xpdfreader.com/",
-    "description": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
-    "descriptionEn": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
+    "description": "Instant disk search, batch renamers, and lossless 跨格式文件转换器s.",
+    "descriptionEn": "Instant disk search, batch renamers, and lossless file converters.",
     "category": "file-tools",
     "tags": [
       "免费",
@@ -4649,8 +4427,8 @@
     "id": "file-tools-pdf-arranger",
     "name": "PDF Arranger",
     "url": "https://github.com/pdfarranger/pdfarranger",
-    "description": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
-    "descriptionEn": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
+    "description": "Instant disk search, batch renamers, and lossless 跨格式文件转换器s.",
+    "descriptionEn": "Instant disk search, batch renamers, and lossless file converters.",
     "category": "file-tools",
     "tags": [
       "开源",
@@ -4662,9 +4440,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -4716,9 +4494,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -4729,7 +4507,7 @@
     "id": "file-tools-pdfconvert",
     "name": "PDFconvert",
     "url": "https://docupub.com/pdfconvert/",
-    "description": "PDF File Converters",
+    "description": "PDF 跨格式文件转换器s",
     "descriptionEn": "PDF File Converters",
     "category": "file-tools",
     "tags": [
@@ -4768,9 +4546,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -4809,7 +4587,7 @@
     "id": "file-tools-issuu",
     "name": "Issuu",
     "url": "https://issuu.com/",
-    "description": "Convert PDF Files to Webpages, Flipbooks, Brochures & More · Downloader",
+    "description": "Convert PDF Files to Webpages, Flipbooks, Brochures & More · 下载器",
     "descriptionEn": "Convert PDF Files to Webpages, Flipbooks, Brochures & More / Downloader",
     "category": "file-tools",
     "tags": [
@@ -4860,32 +4638,6 @@
     "platforms": [
       "web"
     ]
-  },
-  {
-    "id": "file-tools-dangerzone",
-    "name": "Dangerzone",
-    "url": "https://dangerzone.rocks/",
-    "description": "Convert Malicious PDFs to Safe Files · GitHub",
-    "descriptionEn": "Convert Malicious PDFs to Safe Files / GitHub",
-    "category": "file-tools",
-    "tags": [
-      "开源",
-      "文件管理",
-      "格式转换"
-    ],
-    "tagsEn": [
-      "Open Source",
-      "File Tools",
-      "Converter"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": "https://github.com/freedomofpress/dangerzone",
-    "platforms": []
   },
   {
     "id": "file-tools-localsend",
@@ -5062,35 +4814,6 @@
     ]
   },
   {
-    "id": "file-tools-warpinator",
-    "name": "Warpinator",
-    "url": "https://github.com/linuxmint/warpinator",
-    "description": "Local · Windows, Linux, Android",
-    "descriptionEn": "Local / Windows, Linux, Android",
-    "category": "file-tools",
-    "tags": [
-      "开源",
-      "文件管理",
-      "格式转换"
-    ],
-    "tagsEn": [
-      "Open Source",
-      "File Tools",
-      "Converter"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": "https://github.com/linuxmint/warpinator",
-    "platforms": [
-      "win",
-      "android"
-    ]
-  },
-  {
     "id": "file-tools-phone-link",
     "name": "⁠Phone Link",
     "url": "https://www.microsoft.com/windows/sync-across-your-devices",
@@ -5167,9 +4890,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -5196,9 +4919,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -5225,9 +4948,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -5283,9 +5006,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -5466,7 +5189,7 @@
     "id": "file-tools-resources",
     "name": "Resources",
     "url": "https://awesome.ipfs.tech/",
-    "description": "Resources, 2 · 浏览器扩展 · Desktop · IPFS Cluster",
+    "description": "Resources, 2 · Extension · Desktop · IPFS Cluster",
     "descriptionEn": "Resources, 2 / Extension / Desktop / IPFS Cluster",
     "category": "file-tools",
     "tags": [
@@ -5494,8 +5217,8 @@
     "id": "file-tools-aqross",
     "name": "aQRoss",
     "url": "https://aqross.app/",
-    "description": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
-    "descriptionEn": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
+    "description": "Instant disk search, batch renamers, and lossless 跨格式文件转换器s.",
+    "descriptionEn": "Instant disk search, batch renamers, and lossless file converters.",
     "category": "file-tools",
     "tags": [
       "开源",
@@ -5516,8 +5239,8 @@
     "githubUrl": "https://github.com/claudiodangelis/qrcp",
     "platforms": [
       "win",
-      "web",
-      "mac"
+      "mac",
+      "web"
     ]
   },
   {
@@ -5554,7 +5277,7 @@
     "id": "file-tools-filezilla",
     "name": "FileZilla",
     "url": "https://filezilla-project.org/",
-    "description": "FTP 客户端 · Windows, macOS, Linux · Warning",
+    "description": "FTP Client · Windows, macOS, Linux · Warning",
     "descriptionEn": "FTP Client / Windows, macOS, Linux / Warning",
     "category": "file-tools",
     "tags": [
@@ -5635,7 +5358,7 @@
     "id": "file-tools-winscp",
     "name": "WinSCP",
     "url": "https://winscp.net/eng/index.php",
-    "description": "FTP 客户端 · Windows",
+    "description": "FTP Client · Windows",
     "descriptionEn": "FTP Client / Windows",
     "category": "file-tools",
     "tags": [
@@ -5689,41 +5412,11 @@
     ]
   },
   {
-    "id": "file-tools-pairdrop",
-    "name": "PairDrop",
-    "url": "https://pairdrop.net/",
-    "description": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
-    "descriptionEn": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
-    "category": "file-tools",
-    "tags": [
-      "社区精选",
-      "开源",
-      "文件管理",
-      "格式转换"
-    ],
-    "tagsEn": [
-      "Featured",
-      "Open Source",
-      "File Tools",
-      "Converter"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": true,
-    "isStarred": true,
-    "isCollection": false,
-    "githubUrl": "https://github.com/schlagmichdoch/pairdrop",
-    "platforms": [
-      "web"
-    ]
-  },
-  {
     "id": "file-tools-justbeamit",
     "name": "JustBeamIt",
     "url": "https://justbeamit.com/",
-    "description": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
-    "descriptionEn": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
+    "description": "Instant disk search, batch renamers, and lossless 跨格式文件转换器s.",
+    "descriptionEn": "Instant disk search, batch renamers, and lossless file converters.",
     "category": "file-tools",
     "tags": [
       "社区精选",
@@ -5749,7 +5442,7 @@
     ]
   },
   {
-    "id": "file-tools-surge",
+    "id": "file-tools-surge-2",
     "name": "Surge",
     "url": "https://github.com/rule110-io/surge",
     "description": "P2P App · Windows, macOS",
@@ -5765,9 +5458,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -5781,8 +5474,8 @@
     "id": "file-tools-toffeeshare",
     "name": "ToffeeShare",
     "url": "https://toffeeshare.com/",
-    "description": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
-    "descriptionEn": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
+    "description": "Instant disk search, batch renamers, and lossless 跨格式文件转换器s.",
+    "descriptionEn": "Instant disk search, batch renamers, and lossless file converters.",
     "category": "file-tools",
     "tags": [
       "开源",
@@ -5809,8 +5502,8 @@
     "id": "file-tools-station307",
     "name": "⁠Station307",
     "url": "https://www.station307.com/",
-    "description": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
-    "descriptionEn": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
+    "description": "Instant disk search, batch renamers, and lossless 跨格式文件转换器s.",
+    "descriptionEn": "Instant disk search, batch renamers, and lossless file converters.",
     "category": "file-tools",
     "tags": [
       "免费",
@@ -5837,8 +5530,8 @@
     "id": "file-tools-new-space",
     "name": "new.space",
     "url": "https://new.space/",
-    "description": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
-    "descriptionEn": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
+    "description": "Instant disk search, batch renamers, and lossless 跨格式文件转换器s.",
+    "descriptionEn": "Instant disk search, batch renamers, and lossless file converters.",
     "category": "file-tools",
     "tags": [
       "免费",
@@ -5858,8 +5551,8 @@
     "isCollection": false,
     "githubUrl": null,
     "platforms": [
-      "web",
-      "mac"
+      "mac",
+      "web"
     ]
   },
   {
@@ -5888,16 +5581,16 @@
     "githubUrl": "https://github.com/saljam/webwormhole",
     "platforms": [
       "win",
-      "web",
-      "mac"
+      "mac",
+      "web"
     ]
   },
   {
     "id": "file-tools-clip-fish",
     "name": "⁠Clip Fish",
     "url": "https://clip.fish/",
-    "description": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
-    "descriptionEn": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
+    "description": "Instant disk search, batch renamers, and lossless 跨格式文件转换器s.",
+    "descriptionEn": "Instant disk search, batch renamers, and lossless file converters.",
     "category": "file-tools",
     "tags": [
       "开源",
@@ -5976,8 +5669,8 @@
     "id": "file-tools-video-file-hosts",
     "name": "Video File Hosts",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_video_file_hosts",
-    "description": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
-    "descriptionEn": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
+    "description": "Instant disk search, batch renamers, and lossless 跨格式文件转换器s.",
+    "descriptionEn": "Instant disk search, batch renamers, and lossless file converters.",
     "category": "file-tools",
     "tags": [
       "免费",
@@ -5989,9 +5682,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -6002,8 +5695,8 @@
     "id": "file-tools-image-file-hosts",
     "name": "Image File Hosts",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_image_hosts",
-    "description": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
-    "descriptionEn": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
+    "description": "Instant disk search, batch renamers, and lossless 跨格式文件转换器s.",
+    "descriptionEn": "Instant disk search, batch renamers, and lossless file converters.",
     "category": "file-tools",
     "tags": [
       "免费",
@@ -6015,9 +5708,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -6028,7 +5721,7 @@
     "id": "file-tools-gofile",
     "name": "Gofile",
     "url": "https://gofile.io/",
-    "description": "1TB Monthly · 无限制使用 · 10 Days After Last Download · Manager Export",
+    "description": "1TB Monthly · Unlimited · 10 Days After Last Download · Manager Export",
     "descriptionEn": "1TB Monthly / Unlimited / 10 Days After Last Download / Manager Export",
     "category": "file-tools",
     "tags": [
@@ -6112,7 +5805,7 @@
     "id": "file-tools-vikingfile",
     "name": "VikingFile",
     "url": "https://vikingfile.com/",
-    "description": "无限制使用 · 15 Days After Last Download · Use Adblock · Discord",
+    "description": "Unlimited · 15 Days After Last Download · Use Adblock · Discord",
     "descriptionEn": "Unlimited / 15 Days After Last Download / Use Adblock / Discord",
     "category": "file-tools",
     "tags": [
@@ -6328,7 +6021,7 @@
     "id": "file-tools-filekeeper",
     "name": "⁠Filekeeper",
     "url": "https://filekeeper.net/",
-    "description": "无限制使用 · 7 Days After Last Download · Requires Signup",
+    "description": "Unlimited · 7 Days After Last Download · Requires Signup",
     "descriptionEn": "Unlimited / 7 Days After Last Download / Requires Signup",
     "category": "file-tools",
     "tags": [
@@ -6458,7 +6151,7 @@
     "id": "file-tools-transfer-it",
     "name": "Transfer.it",
     "url": "https://transfer.it/",
-    "description": "无限制使用 · 90 Days · Owned by MEGA.nz",
+    "description": "Unlimited · 90 Days · Owned by MEGA.nz",
     "descriptionEn": "Unlimited / 90 Days / Owned by MEGA.nz",
     "category": "file-tools",
     "tags": [
@@ -6848,7 +6541,7 @@
     "id": "file-tools-hostb",
     "name": "hostb",
     "url": "https://hostb.org/",
-    "description": "无限制使用 · 30 Days After Last Download · Source Code",
+    "description": "Unlimited · 30 Days After Last Download · Source Code",
     "descriptionEn": "Unlimited / 30 Days After Last Download / Source Code",
     "category": "file-tools",
     "tags": [
@@ -6874,7 +6567,7 @@
     "id": "file-tools-mixdrop",
     "name": "MixDrop",
     "url": "https://mixdrop.ag/",
-    "description": "无限制使用 · 60 Days · Requires Signup",
+    "description": "Unlimited · 60 Days · Requires Signup",
     "descriptionEn": "Unlimited / 60 Days / Requires Signup",
     "category": "file-tools",
     "tags": [
@@ -6926,7 +6619,7 @@
     "id": "file-tools-filebin",
     "name": "Filebin",
     "url": "https://filebin.net/",
-    "description": "无限制使用 · 6 Days · Warning",
+    "description": "Unlimited · 6 Days · Warning",
     "descriptionEn": "Unlimited / 6 Days / Warning",
     "category": "file-tools",
     "tags": [
@@ -6952,7 +6645,7 @@
     "id": "file-tools-file-kiwi",
     "name": "file.kiwi",
     "url": "https://file.kiwi/",
-    "description": "无限制使用 · 90 Hours · File Expiry",
+    "description": "Unlimited · 90 Hours · File Expiry",
     "descriptionEn": "Unlimited / 90 Hours / File Expiry",
     "category": "file-tools",
     "tags": [
@@ -6978,7 +6671,7 @@
     "id": "file-tools-filefast",
     "name": "FileFast",
     "url": "https://file.fast/",
-    "description": "5GB · 无限制使用 · Discord",
+    "description": "5GB · Unlimited · Discord",
     "descriptionEn": "5GB / Unlimited / Discord",
     "category": "file-tools",
     "tags": [
@@ -7030,7 +6723,7 @@
     "id": "file-tools-savedly",
     "name": "⁠Savedly",
     "url": "https://savedly.net/",
-    "description": "无限制使用 · 7 Days",
+    "description": "Unlimited · 7 Days",
     "descriptionEn": "Unlimited / 7 Days",
     "category": "file-tools",
     "tags": [
@@ -8122,7 +7815,7 @@
     "id": "file-tools-filego",
     "name": "FileGo",
     "url": "https://filego.app/",
-    "description": "2GB · 30 Days · 需注册账号使用",
+    "description": "2GB · 30 Days · Requires Sign-Up",
     "descriptionEn": "2GB / 30 Days / Requires Sign-Up",
     "category": "file-tools",
     "tags": [
@@ -8148,7 +7841,7 @@
     "id": "file-tools-filespayouts",
     "name": "FilesPayouts",
     "url": "https://filespayouts.com/",
-    "description": "10GB · Forever · 需注册账号使用",
+    "description": "10GB · Forever · Requires Sign-Up",
     "descriptionEn": "10GB / Forever / Requires Sign-Up",
     "category": "file-tools",
     "tags": [
@@ -8174,7 +7867,7 @@
     "id": "file-tools-clicknupload",
     "name": "Clicknupload",
     "url": "https://clicknupload.click",
-    "description": "10GB · 8 Days · 需注册账号使用",
+    "description": "10GB · 8 Days · Requires Sign-Up",
     "descriptionEn": "10GB / 8 Days / Requires Sign-Up",
     "category": "file-tools",
     "tags": [
@@ -8266,8 +7959,8 @@
       "Converter"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: More Complete Lists",
-    "warningTextEn": "Caveat: More Complete Lists",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -8330,8 +8023,8 @@
     "id": "file-tools-self-hosted-cloud-storag",
     "name": "Self-Hosted Cloud Storage",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_server_.2F_selfhosting",
-    "description": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
-    "descriptionEn": "磁盘毫秒搜索、文件重命名与跨格式无损转换器",
+    "description": "Instant disk search, batch renamers, and lossless 跨格式文件转换器s.",
+    "descriptionEn": "Instant disk search, batch renamers, and lossless file converters.",
     "category": "file-tools",
     "tags": [
       "免费",
@@ -8343,9 +8036,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -8466,34 +8159,8 @@
     "id": "file-tools-filen",
     "name": "Filen",
     "url": "https://filen.io/",
-    "description": "10GB · 3 Months · ~$3.84 (10TB Pro X) · 需注册账号使用 for Sharing",
+    "description": "10GB · 3 Months · ~$3.84 (10TB Pro X) · Requires Sign-Up for Sharing",
     "descriptionEn": "10GB / 3 Months / ~$3.84 (10TB Pro X) / Requires Sign-Up for Sharing",
-    "category": "file-tools",
-    "tags": [
-      "免费",
-      "文件管理",
-      "格式转换"
-    ],
-    "tagsEn": [
-      "Free",
-      "File Tools",
-      "Converter"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "file-tools-dropbox",
-    "name": "Dropbox",
-    "url": "https://www.dropbox.com/",
-    "description": "1 or 2GB · 12 Months · ~$4.15 (15TB Advanced)",
-    "descriptionEn": "1 or 2GB / 12 Months / ~$4.15 (15TB Advanced)",
     "category": "file-tools",
     "tags": [
       "免费",
@@ -8616,32 +8283,6 @@
     "isStarred": false,
     "isCollection": false,
     "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "file-tools-keybase",
-    "name": "Keybase",
-    "url": "https://keybase.io/",
-    "description": "250GB · Forever · GitHub",
-    "descriptionEn": "250GB / Forever / GitHub",
-    "category": "file-tools",
-    "tags": [
-      "开源",
-      "文件管理",
-      "格式转换"
-    ],
-    "tagsEn": [
-      "Open Source",
-      "File Tools",
-      "Converter"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": "https://github.com/keybase/client",
     "platforms": []
   },
   {
@@ -8895,9 +8536,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -8951,9 +8592,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
@@ -9260,7 +8901,7 @@
     "id": "file-tools-google-drive-cli",
     "name": "Google Drive CLI",
     "url": "https://github.com/glotlabs/gdrive",
-    "description": "Google Drive CLI 客户端",
+    "description": "Google Drive CLI Client",
     "descriptionEn": "Google Drive CLI Client",
     "category": "file-tools",
     "tags": [
@@ -9273,9 +8914,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -9286,7 +8927,7 @@
     "id": "file-tools-goodls",
     "name": "goodls",
     "url": "https://github.com/tanaikech/goodls",
-    "description": "Google Drive Downloader",
+    "description": "Google Drive 下载器",
     "descriptionEn": "Google Drive Downloader",
     "category": "file-tools",
     "tags": [
@@ -9299,9 +8940,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -9325,9 +8966,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -9351,9 +8992,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -9377,9 +9018,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -9496,7 +9137,7 @@
     "id": "file-tools-sharer",
     "name": "Sharer",
     "url": "https://sharer.pw",
-    "description": "Google Drive 局域网 · 点对点高速文件秒传工具",
+    "description": "Google Drive File Sharing",
     "descriptionEn": "Google Drive File Sharing",
     "category": "file-tools",
     "tags": [
@@ -9537,9 +9178,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
@@ -9550,7 +9191,7 @@
     "id": "file-tools-mega-account-generators",
     "name": "MEGA Account Generators",
     "url": "https://rentry.co/FMHYB64#mega-gen",
-    "description": "Account Gen · 无限制使用 Upload Size · Fix",
+    "description": "Account Gen · Unlimited Upload Size · Fix",
     "descriptionEn": "Account Gen / Unlimited Upload Size / Fix",
     "category": "file-tools",
     "tags": [
@@ -9565,9 +9206,9 @@
       "File Tools",
       "Converter"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,

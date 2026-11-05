@@ -3,7 +3,7 @@
     "id": "torrenting-rutracker",
     "name": "RuTracker",
     "url": "https://rutracker.org/",
-    "description": "影视、音乐、漫画与电子书聚合，需注册账号",
+    "description": "Video · Audio · Comics · Magazines · Requires Sign-Up",
     "descriptionEn": "Video / Audio / Comics / Magazines / Requires Sign-Up",
     "category": "torrenting",
     "tags": [
@@ -31,7 +31,7 @@
     "id": "torrenting-quick-translator",
     "name": "Quick Translator",
     "url": "https://github.com/L-at-nnes/rutracker-traduction",
-    "description": "Quick Translator · Wiki · Rules · Bypass 浏览器扩展, 2",
+    "description": "Quick Translator · Wiki · Rules · Bypass Extension, 2",
     "descriptionEn": "Quick Translator / Wiki / Rules / Bypass Extension, 2",
     "category": "torrenting",
     "tags": [
@@ -46,9 +46,9 @@
       "Torrent",
       "P2P"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
@@ -61,7 +61,7 @@
     "id": "torrenting-m0nkrus",
     "name": "m0nkrus",
     "url": "https://rentry.co/FMHYB64#m0nkrus",
-    "description": "专业影音剪辑与视觉设计工具",
+    "description": "Editing Software",
     "descriptionEn": "Editing Software",
     "category": "torrenting",
     "tags": [
@@ -76,9 +76,9 @@
       "Torrent",
       "P2P"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
@@ -104,9 +104,9 @@
       "Torrent",
       "P2P"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
@@ -117,7 +117,7 @@
     "id": "torrenting-1337x",
     "name": "1337x",
     "url": "https://1337x.to/home/",
-    "description": "高清影视与音乐流媒体资源 · Mirrors · User Ranks",
+    "description": "Video · Audio · Mirrors · User Ranks",
     "descriptionEn": "Video / Audio / Mirrors / User Ranks",
     "category": "torrenting",
     "tags": [
@@ -169,34 +169,8 @@
     "id": "torrenting-rarbg-dump",
     "name": "RARBG Dump",
     "url": "https://rarbgdump.com/",
-    "description": "高清影视与音乐流媒体资源 · Games · Books · Continuation Project",
+    "description": "Video · Audio · Games · Books · Continuation Project",
     "descriptionEn": "Video / Audio / Games / Books / Continuation Project",
-    "category": "torrenting",
-    "tags": [
-      "免费",
-      "BT种子",
-      "磁力搜索"
-    ],
-    "tagsEn": [
-      "Free",
-      "Torrent",
-      "P2P"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "torrenting-limetorrents",
-    "name": "LimeTorrents",
-    "url": "https://www.limetorrents.fun/",
-    "description": "影视、音乐与电子书综合资源平台",
-    "descriptionEn": "Video / Audio / Books",
     "category": "torrenting",
     "tags": [
       "免费",
@@ -221,7 +195,7 @@
     "id": "torrenting-rutor-info",
     "name": "rutor.info",
     "url": "https://rutor.is/",
-    "description": "影视、音乐与电子书综合资源平台 · ROMs · Magazines · Use Translator",
+    "description": "Video · Audio · Books · ROMs · Magazines · Use Translator",
     "descriptionEn": "Video / Audio / Books / ROMs / Magazines / Use Translator",
     "category": "torrenting",
     "tags": [
@@ -247,7 +221,7 @@
     "id": "torrenting-tr4ker",
     "name": "TR4KER",
     "url": "https://tr4ker.net/",
-    "description": "影视、音乐与电子书综合资源平台 · Signup Required",
+    "description": "Video · Audio · Books · Signup Required",
     "descriptionEn": "Video / Audio / Books / Signup Required",
     "category": "torrenting",
     "tags": [
@@ -273,7 +247,7 @@
     "id": "torrenting-uztracker",
     "name": "UZTracker",
     "url": "https://uztracker.me",
-    "description": "影视、音乐与电子书综合资源平台 · Use Translator",
+    "description": "Video · Audio · Books · Use Translator",
     "descriptionEn": "Video / Audio / Books / Use Translator",
     "category": "torrenting",
     "tags": [
@@ -299,7 +273,7 @@
     "id": "torrenting-nnm-club",
     "name": "NNM-Club",
     "url": "https://nnmclub.to/",
-    "description": "高清影视与音乐流媒体资源",
+    "description": "Video · Audio",
     "descriptionEn": "Video / Audio",
     "category": "torrenting",
     "tags": [
@@ -325,7 +299,7 @@
     "id": "torrenting-torrenting",
     "name": "Torrenting",
     "url": "https://www.torrenting.com/",
-    "description": "影视、音乐与电子书综合资源平台 · 需注册账号使用",
+    "description": "Video · Audio · Books · Requires Sign-Up",
     "descriptionEn": "Video / Audio / Books / Requires Sign-Up",
     "category": "torrenting",
     "tags": [
@@ -348,65 +322,11 @@
     "platforms": []
   },
   {
-    "id": "torrenting-knaben-info",
-    "name": "Knaben.info",
-    "url": "https://knaben.info/",
-    "description": "Torrent Site Proxies",
-    "descriptionEn": "Torrent Site Proxies",
-    "category": "torrenting",
-    "tags": [
-      "免费",
-      "BT种子",
-      "磁力搜索"
-    ],
-    "tagsEn": [
-      "Free",
-      "Torrent",
-      "P2P"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "torrenting-ext",
-    "name": "ExT",
-    "url": "https://ext.to/",
-    "description": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
-    "descriptionEn": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
-    "category": "torrenting",
-    "tags": [
-      "社区精选",
-      "免费",
-      "BT种子",
-      "磁力搜索"
-    ],
-    "tagsEn": [
-      "Featured",
-      "Free",
-      "Torrent",
-      "P2P"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": true,
-    "isStarred": true,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
     "id": "torrenting-knaben",
     "name": "Knaben",
     "url": "https://knaben.org/",
-    "description": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
-    "descriptionEn": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "description": "Decentralized 磁力种子索引检索s, clean P2P clients, and Tracker 节点s.",
+    "descriptionEn": "Decentralized torrent indexers, clean P2P clients, and trackers.",
     "category": "torrenting",
     "tags": [
       "社区精选",
@@ -433,7 +353,7 @@
     "id": "torrenting-damagnet",
     "name": "DaMagNet",
     "url": "https://damag.net/",
-    "description": "基于 DHT 分布式哈希表网络",
+    "description": "DHT-Based",
     "descriptionEn": "DHT-Based",
     "category": "torrenting",
     "tags": [
@@ -459,8 +379,8 @@
     "id": "torrenting-bt4g",
     "name": "BT4G",
     "url": "https://bt4gprx.com/",
-    "description": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
-    "descriptionEn": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "description": "Decentralized 磁力种子索引检索s, clean P2P clients, and Tracker 节点s.",
+    "descriptionEn": "Decentralized torrent indexers, clean P2P clients, and trackers.",
     "category": "torrenting",
     "tags": [
       "免费",
@@ -485,8 +405,8 @@
     "id": "torrenting-filemood",
     "name": "FileMood",
     "url": "https://filemood.com/",
-    "description": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
-    "descriptionEn": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "description": "Decentralized 磁力种子索引检索s, clean P2P clients, and Tracker 节点s.",
+    "descriptionEn": "Decentralized torrent indexers, clean P2P clients, and trackers.",
     "category": "torrenting",
     "tags": [
       "免费",
@@ -511,7 +431,7 @@
     "id": "torrenting-torrentproject",
     "name": "TorrentProject",
     "url": "https://torrentproject.cc/",
-    "description": "基于 DHT 分布式哈希表网络",
+    "description": "DHT-Based",
     "descriptionEn": "DHT-Based",
     "category": "torrenting",
     "tags": [
@@ -537,8 +457,8 @@
     "id": "torrenting-torrentquest",
     "name": "TorrentQuest",
     "url": "https://torrentquest.com/",
-    "description": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
-    "descriptionEn": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "description": "Decentralized 磁力种子索引检索s, clean P2P clients, and Tracker 节点s.",
+    "descriptionEn": "Decentralized torrent indexers, clean P2P clients, and trackers.",
     "category": "torrenting",
     "tags": [
       "免费",
@@ -563,8 +483,8 @@
     "id": "torrenting-extratorrent",
     "name": "ExtraTorrent",
     "url": "https://extratorrent.st/",
-    "description": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
-    "descriptionEn": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "description": "Decentralized 磁力种子索引检索s, clean P2P clients, and Tracker 节点s.",
+    "descriptionEn": "Decentralized torrent indexers, clean P2P clients, and trackers.",
     "category": "torrenting",
     "tags": [
       "免费",
@@ -589,8 +509,8 @@
     "id": "torrenting-cleanbay",
     "name": "Cleanbay",
     "url": "https://cleanbay.netlify.app/",
-    "description": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
-    "descriptionEn": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "description": "Decentralized 磁力种子索引检索s, clean P2P clients, and Tracker 节点s.",
+    "descriptionEn": "Decentralized torrent indexers, clean P2P clients, and trackers.",
     "category": "torrenting",
     "tags": [
       "开源",
@@ -615,8 +535,8 @@
     "id": "torrenting-torrents-csv",
     "name": "Torrents-CSV",
     "url": "https://torrents-csv.com/",
-    "description": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
-    "descriptionEn": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "description": "Decentralized 磁力种子索引检索s, clean P2P clients, and Tracker 节点s.",
+    "descriptionEn": "Decentralized torrent indexers, clean P2P clients, and trackers.",
     "category": "torrenting",
     "tags": [
       "开源",
@@ -641,7 +561,7 @@
     "id": "torrenting-the-black-hole-bay",
     "name": "⁠The Black Hole Bay",
     "url": "https://theblackholebay.lol/",
-    "description": "基于 DHT 分布式哈希表网络 · Discord",
+    "description": "DHT-Based · Discord",
     "descriptionEn": "DHT-Based / Discord",
     "category": "torrenting",
     "tags": [
@@ -667,8 +587,8 @@
     "id": "torrenting-snowfl",
     "name": "snowfl",
     "url": "https://snowfl.com/",
-    "description": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
-    "descriptionEn": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "description": "Decentralized 磁力种子索引检索s, clean P2P clients, and Tracker 节点s.",
+    "descriptionEn": "Decentralized torrent indexers, clean P2P clients, and trackers.",
     "category": "torrenting",
     "tags": [
       "免费",
@@ -693,8 +613,8 @@
     "id": "torrenting-torlock",
     "name": "Torlock",
     "url": "https://www.torlock.com/",
-    "description": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
-    "descriptionEn": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "description": "Decentralized 磁力种子索引检索s, clean P2P clients, and Tracker 节点s.",
+    "descriptionEn": "Decentralized torrent indexers, clean P2P clients, and trackers.",
     "category": "torrenting",
     "tags": [
       "免费",
@@ -719,8 +639,8 @@
     "id": "torrenting-uindex",
     "name": "uIndex",
     "url": "https://uindex.org/",
-    "description": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
-    "descriptionEn": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "description": "Decentralized 磁力种子索引检索s, clean P2P clients, and Tracker 节点s.",
+    "descriptionEn": "Decentralized torrent indexers, clean P2P clients, and trackers.",
     "category": "torrenting",
     "tags": [
       "免费",
@@ -771,7 +691,7 @@
     "id": "torrenting-0mag",
     "name": "0Mag",
     "url": "https://www.0mag.net/",
-    "description": "磁力链接去中心化搜索与分享平台",
+    "description": "Magnet Link Sharing Platform",
     "descriptionEn": "Magnet Link Sharing Platform",
     "category": "torrenting",
     "tags": [
@@ -810,9 +730,9 @@
       "Torrent",
       "P2P"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -851,7 +771,7 @@
     "id": "torrenting-torrentinim",
     "name": "Torrentinim",
     "url": "https://github.com/sergiotapia/torrentinim",
-    "description": "支持私有化自建部署 Torrent 专用搜索引擎s",
+    "description": "支持自建部署 Torrent 独立搜索引擎s",
     "descriptionEn": "Self-Hosted Torrent Search Engines",
     "category": "torrenting",
     "tags": [
@@ -864,9 +784,9 @@
       "Torrent",
       "P2P"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -879,7 +799,7 @@
     "id": "torrenting-qbittorrent",
     "name": "qBittorrent",
     "url": "https://www.qbittorrent.org/",
-    "description": "开源 BitTorrent · 磁力下载客户端 · Windows, macOS, Linux · Tools · GitHub",
+    "description": "BT · 种子客户端 · Windows, macOS, Linux · Tools · GitHub",
     "descriptionEn": "Torrent Client / Windows, macOS, Linux / Tools / GitHub",
     "category": "torrenting",
     "tags": [
@@ -903,15 +823,15 @@
     "githubUrl": "https://github.com/c0re100/qBittorrent-Enhanced-Edition",
     "platforms": [
       "win",
-      "web",
-      "mac"
+      "mac",
+      "web"
     ]
   },
   {
     "id": "torrenting-deluge",
     "name": "Deluge",
     "url": "https://www.deluge-torrent.org/",
-    "description": "开源 BitTorrent · 磁力下载客户端 · Plugins · Telegram Plugin · Windows, macOS, Linux",
+    "description": "BT · 种子客户端 · Plugins · Telegram Plugin · Windows, macOS, Linux",
     "descriptionEn": "Torrent Client / Plugins / Telegram Plugin / Windows, macOS, Linux",
     "category": "torrenting",
     "tags": [
@@ -942,7 +862,7 @@
     "id": "torrenting-transmission",
     "name": "Transmission",
     "url": "https://transmissionbt.com/",
-    "description": "开源 BitTorrent · 磁力下载客户端 · Windows, macOS, Linux",
+    "description": "BT · 种子客户端 · Windows, macOS, Linux",
     "descriptionEn": "Torrent Client / Windows, macOS, Linux",
     "category": "torrenting",
     "tags": [
@@ -973,7 +893,7 @@
     "id": "torrenting-rtorrent",
     "name": "rTorrent",
     "url": "https://rtorrent.net/",
-    "description": "开源 BitTorrent · 磁力下载客户端 · Extended · Tools, 2 · Mods · Linux · GitHub",
+    "description": "BT · 种子客户端 · Extended · Tools, 2 · Mods · Linux · GitHub",
     "descriptionEn": "Torrent Client / Extended / Tools, 2 / Mods / Linux / GitHub",
     "category": "torrenting",
     "tags": [
@@ -1015,8 +935,8 @@
       "P2P"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Considered [adware](https://www.virustotal.com/gui/file/26ffe686650ea56b23834f805f2a449b1ce745702f606a765887a6c3fc2aab09/), pre-adware versions exist, but it's best to use [open source](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients) clients",
-    "warningTextEn": "Caveat: Considered [adware](https://www.virustotal.com/gui/file/26ffe686650ea56b23834f805f2a449b1ce745702f606a765887a6c3fc2aab09/), pre-adware versions exist, but it's best to use [open source](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients) clients",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -1057,7 +977,7 @@
     "id": "torrenting-torrent-control",
     "name": "torrent-control",
     "url": "https://github.com/Mika-/torrent-control",
-    "description": "Easily Send Torrents to 客户端",
+    "description": "Easily Send Torrents to Client",
     "descriptionEn": "Easily Send Torrents to Client",
     "category": "torrenting",
     "tags": [
@@ -1070,9 +990,9 @@
       "Torrent",
       "P2P"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -1083,7 +1003,7 @@
     "id": "torrenting-tixati",
     "name": "Tixati",
     "url": "https://tixati.com/",
-    "description": "开源 BitTorrent · 磁力下载客户端 · Windows, Linux, Android",
+    "description": "BT · 种子客户端 · Windows, Linux, Android",
     "descriptionEn": "Torrent Client / Windows, Linux, Android",
     "category": "torrenting",
     "tags": [
@@ -1112,7 +1032,7 @@
     "id": "torrenting-biglybt",
     "name": "BiglyBT",
     "url": "https://www.biglybt.com/",
-    "description": "开源 BitTorrent · 磁力下载客户端 · Windows, macOS, Linux, Android",
+    "description": "BT · 种子客户端 · Windows, macOS, Linux, Android",
     "descriptionEn": "Torrent Client / Windows, macOS, Linux, Android",
     "category": "torrenting",
     "tags": [
@@ -1142,7 +1062,7 @@
     "id": "torrenting-liii",
     "name": "LIII",
     "url": "https://codecpack.co/download/LIII-BitTorrent-Client.html",
-    "description": "开源 BitTorrent · 磁力下载客户端 · Windows",
+    "description": "BT · 种子客户端 · Windows",
     "descriptionEn": "Torrent Client / Windows",
     "category": "torrenting",
     "tags": [
@@ -1167,69 +1087,10 @@
     ]
   },
   {
-    "id": "torrenting-wiztorrent",
-    "name": "WizTorrent",
-    "url": "https://wiztorrent.com/",
-    "description": "开源 BitTorrent · 磁力下载客户端 · Streaming · WebShare · Windows, macOS, Linux",
-    "descriptionEn": "Torrent Client / Streaming / WebShare / Windows, macOS, Linux",
-    "category": "torrenting",
-    "tags": [
-      "免费",
-      "BT种子",
-      "磁力搜索"
-    ],
-    "tagsEn": [
-      "Free",
-      "Torrent",
-      "P2P"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": [
-      "win",
-      "web",
-      "mac"
-    ]
-  },
-  {
-    "id": "torrenting-rqbit",
-    "name": "rqbit",
-    "url": "https://github.com/ikatson/rqbit/",
-    "description": "Lightweight 开源 BitTorrent · 磁力下载客户端 · Streaming · UPnP Integration · Windows, macOS, Linux",
-    "descriptionEn": "Lightweight Torrent Client / Streaming / UPnP Integration / Windows, macOS, Linux",
-    "category": "torrenting",
-    "tags": [
-      "开源",
-      "BT种子",
-      "磁力搜索"
-    ],
-    "tagsEn": [
-      "Open Source",
-      "Torrent",
-      "P2P"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": "https://github.com/ikatson/rqbit",
-    "platforms": [
-      "win",
-      "mac"
-    ]
-  },
-  {
     "id": "torrenting-pikatorrent",
     "name": "PikaTorrent",
     "url": "https://www.pikatorrent.com/",
-    "description": "开源 BitTorrent · 磁力下载客户端 · Windows, macOS, Linux, Android, iOS · GitHub",
+    "description": "BT · 种子客户端 · Windows, macOS, Linux, Android, iOS · GitHub",
     "descriptionEn": "Torrent Client / Windows, macOS, Linux, Android, iOS / GitHub",
     "category": "torrenting",
     "tags": [
@@ -1259,7 +1120,7 @@
     "id": "torrenting-distribyted",
     "name": "Distribyted",
     "url": "https://distribyted.com/",
-    "description": "开源 BitTorrent · 磁力下载客户端 · Windows, Linux · GitHub",
+    "description": "BT · 种子客户端 · Windows, Linux · GitHub",
     "descriptionEn": "Torrent Client / Windows, Linux / GitHub",
     "category": "torrenting",
     "tags": [
@@ -1287,7 +1148,7 @@
     "id": "torrenting-fragments",
     "name": "Fragments",
     "url": "https://apps.gnome.org/Fragments/",
-    "description": "开源 BitTorrent · 磁力下载客户端 · Linux",
+    "description": "BT · 种子客户端 · Linux",
     "descriptionEn": "Torrent Client / Linux",
     "category": "torrenting",
     "tags": [
@@ -1313,7 +1174,7 @@
     "id": "torrenting-bitflu",
     "name": "BitFlu",
     "url": "https://bitflu.workaround.ch/",
-    "description": "开源 BitTorrent · 磁力下载客户端 · Linux",
+    "description": "BT · 种子客户端 · Linux",
     "descriptionEn": "Torrent Client / Linux",
     "category": "torrenting",
     "tags": [
@@ -1339,7 +1200,7 @@
     "id": "torrenting-ktorrent",
     "name": "kTorrent",
     "url": "https://apps.kde.org/ktorrent/",
-    "description": "开源 BitTorrent · 磁力下载客户端 · Linux",
+    "description": "BT · 种子客户端 · Linux",
     "descriptionEn": "Torrent Client / Linux",
     "category": "torrenting",
     "tags": [
@@ -1365,7 +1226,7 @@
     "id": "torrenting-rats-search",
     "name": "Rats Search",
     "url": "https://github.com/DEgITx/rats-search",
-    "description": "Torrent Search 客户端",
+    "description": "Torrent Search Client",
     "descriptionEn": "Torrent Search Client",
     "category": "torrenting",
     "tags": [
@@ -1378,9 +1239,9 @@
       "Torrent",
       "P2P"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -1391,8 +1252,8 @@
     "id": "torrenting-download-torrents-throug",
     "name": "Download Torrents Through I2P",
     "url": "https://decentnet.github.io/blog/20200329-download-torrents-through-i2p.html",
-    "description": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
-    "descriptionEn": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "description": "Decentralized 磁力种子索引检索s, clean P2P clients, and Tracker 节点s.",
+    "descriptionEn": "Decentralized torrent indexers, clean P2P clients, and trackers.",
     "category": "torrenting",
     "tags": [
       "免费",
@@ -1430,9 +1291,9 @@
       "Torrent",
       "P2P"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -1482,9 +1343,9 @@
       "Torrent",
       "P2P"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -1508,9 +1369,9 @@
       "Torrent",
       "P2P"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -1534,9 +1395,9 @@
       "Torrent",
       "P2P"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -1562,9 +1423,9 @@
       "Torrent",
       "P2P"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -1616,9 +1477,9 @@
       "Torrent",
       "P2P"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -1642,9 +1503,9 @@
       "Torrent",
       "P2P"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -1668,9 +1529,9 @@
       "Torrent",
       "P2P"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -1683,7 +1544,7 @@
     "id": "torrenting-qbit-color-themes",
     "name": "qBit Color Themes",
     "url": "https://github.com/MahdiMirzadeh/qbittorrent",
-    "description": "客户端 Themes",
+    "description": "Client Themes",
     "descriptionEn": "Client Themes",
     "category": "torrenting",
     "tags": [
@@ -1696,9 +1557,9 @@
       "Torrent",
       "P2P"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -1722,9 +1583,9 @@
       "Torrent",
       "P2P"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -1737,8 +1598,8 @@
     "id": "torrenting-debrid---leeches",
     "name": "Debrid / Leeches",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_debrid_.2F_leeches",
-    "description": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
-    "descriptionEn": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "description": "Decentralized 磁力种子索引检索s, clean P2P clients, and Tracker 节点s.",
+    "descriptionEn": "Decentralized torrent indexers, clean P2P clients, and trackers.",
     "category": "torrenting",
     "tags": [
       "免费",
@@ -1750,41 +1611,13 @@
       "Torrent",
       "P2P"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
     "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "torrenting-torbox",
-    "name": "TorBox",
-    "url": "https://torbox.app/",
-    "description": "免费基础额度可用 · 10GB · 10 Monthly Downloads · Hosters · Unofficial Mobile 客户端, 2 · Subreddit · Discord · GitHub",
-    "descriptionEn": "Freemium / 10GB / 10 Monthly Downloads / Hosters / Unofficial Mobile Client, 2 / Subreddit / Discord / GitHub",
-    "category": "torrenting",
-    "tags": [
-      "社区精选",
-      "开源",
-      "BT种子",
-      "磁力搜索"
-    ],
-    "tagsEn": [
-      "Featured",
-      "Open Source",
-      "Torrent",
-      "P2P"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": true,
-    "isStarred": true,
-    "isCollection": false,
-    "githubUrl": "https://github.com/93Pd9s8Jt/atba",
     "platforms": []
   },
   {
@@ -1845,7 +1678,7 @@
     "id": "torrenting-webtor",
     "name": "webtor",
     "url": "https://webtor.io/",
-    "description": "无限制使用 · Download Speed Limited · 免注册登录，开箱即用 · SDK · Self-Host",
+    "description": "Unlimited · Download Speed Limited · No Sign-Up · SDK · Self-Host",
     "descriptionEn": "Unlimited / Download Speed Limited / No Sign-Up / SDK / Self-Host",
     "category": "torrenting",
     "tags": [
@@ -1866,8 +1699,8 @@
     "isCollection": false,
     "githubUrl": "https://github.com/webtor-io/embed-sdk-js",
     "platforms": [
-      "web",
-      "docker"
+      "docker",
+      "web"
     ]
   },
   {
@@ -1926,7 +1759,7 @@
     "id": "torrenting-private-trackers-general",
     "name": "Private Trackers General",
     "url": "https://clarasguide.valeena.workers.dev/Guides/private-trackers/",
-    "description": "Private Tracker Guides",
+    "description": "Private Tracker 节点 Guides",
     "descriptionEn": "Private Tracker Guides",
     "category": "torrenting",
     "tags": [
@@ -1939,9 +1772,9 @@
       "Torrent",
       "P2P"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -1952,7 +1785,7 @@
     "id": "torrenting-opensignup",
     "name": "OpenSignup",
     "url": "https://trackersignup.org/",
-    "description": "Tracker Status Updates",
+    "description": "Tracker 节点 Status Updates",
     "descriptionEn": "Tracker Status Updates",
     "category": "torrenting",
     "tags": [
@@ -1978,7 +1811,7 @@
     "id": "torrenting-tracker-pathways",
     "name": "⁠Tracker Pathways",
     "url": "https://trackerpathways.org/",
-    "description": "Private Tracker Pathways, Requirements, Invite Tiers",
+    "description": "Private Tracker 节点 Pathways, Requirements, Invite Tiers",
     "descriptionEn": "Private Tracker Pathways, Requirements, Invite Tiers",
     "category": "torrenting",
     "tags": [
@@ -2004,7 +1837,7 @@
     "id": "torrenting-r-trackers",
     "name": "r/trackers",
     "url": "https://reddit.com/r/trackers",
-    "description": "Tracker Discussion",
+    "description": "Tracker 节点 Discussion",
     "descriptionEn": "Tracker Discussion",
     "category": "torrenting",
     "tags": [
@@ -2030,7 +1863,7 @@
     "id": "torrenting-r-opensignups",
     "name": "r/OpenSignups",
     "url": "https://www.reddit.com/r/OpenSignups/",
-    "description": "Open Tracker Signup Subs",
+    "description": "Open Tracker 节点 Signup Subs",
     "descriptionEn": "Open Tracker Signup Subs",
     "category": "torrenting",
     "tags": [
@@ -2043,9 +1876,9 @@
       "Torrent",
       "P2P"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -2056,7 +1889,7 @@
     "id": "torrenting-private-tracker-spreadsh",
     "name": "Private Tracker Spreadsheet",
     "url": "https://hdvinnie.github.io/Private-Trackers-Spreadsheet/",
-    "description": "Private Tracker Lists",
+    "description": "Private Tracker 节点 Lists",
     "descriptionEn": "Private Tracker Lists",
     "category": "torrenting",
     "tags": [
@@ -2082,7 +1915,7 @@
     "id": "torrenting-opensignups",
     "name": "OpenSignups",
     "url": "https://t.me/trackersignup",
-    "description": "Open Signups Private Trackers · Telegram",
+    "description": "Open Signups Private Tracker 节点s · Telegram",
     "descriptionEn": "Open Signups Private Trackers / Telegram",
     "category": "torrenting",
     "tags": [
@@ -2134,7 +1967,7 @@
     "id": "torrenting-upload-assistant",
     "name": "Upload-Assistant",
     "url": "https://github.com/wastaken7/Upload-Assistant",
-    "description": "Private Tracker Auto-Upload",
+    "description": "Private Tracker 节点 Auto-Upload",
     "descriptionEn": "Private Tracker Auto-Upload",
     "category": "torrenting",
     "tags": [
@@ -2147,9 +1980,9 @@
       "Torrent",
       "P2P"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -2160,7 +1993,7 @@
     "id": "torrenting-ngosang",
     "name": "ngosang",
     "url": "https://ngosang.github.io/trackerslist/",
-    "description": "Tracker Lists",
+    "description": "Tracker 节点 Lists",
     "descriptionEn": "Tracker Lists",
     "category": "torrenting",
     "tags": [
@@ -2324,8 +2157,8 @@
     "id": "torrenting-port-forwarding-guide",
     "name": "Port Forwarding Guide",
     "url": "https://wispydocs.pages.dev/torrenting/#port-forwarding",
-    "description": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
-    "descriptionEn": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "description": "Decentralized 磁力种子索引检索s, clean P2P clients, and Tracker 节点s.",
+    "descriptionEn": "Decentralized torrent indexers, clean P2P clients, and trackers.",
     "category": "torrenting",
     "tags": [
       "免费",
@@ -2363,9 +2196,9 @@
       "Torrent",
       "P2P"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -2480,7 +2313,7 @@
     "id": "torrenting-magnet2list",
     "name": "magnet2list",
     "url": "https://hutstep.github.io/magnet2list/",
-    "description": "Convert Magnets to Tracker Lists",
+    "description": "Convert Magnets to Tracker 节点 Lists",
     "descriptionEn": "Convert Magnets to Tracker Lists",
     "category": "torrenting",
     "tags": [
@@ -2506,7 +2339,7 @@
     "id": "torrenting-openwebtorrent",
     "name": "OpenWebTorrent",
     "url": "https://openwebtorrent.com/",
-    "description": "Free Webtorrent Tracker",
+    "description": "Free Webtorrent Tracker 节点",
     "descriptionEn": "Free Webtorrent Tracker",
     "category": "torrenting",
     "tags": [
@@ -2560,7 +2393,7 @@
     "id": "torrenting-privtracker",
     "name": "PrivTracker",
     "url": "https://privtracker.com/",
-    "description": "Private BitTorrent Tracker Generator · GitHub",
+    "description": "Private BitTorrent Tracker 节点 Generator · GitHub",
     "descriptionEn": "Private BitTorrent Tracker Generator / GitHub",
     "category": "torrenting",
     "tags": [
@@ -2573,9 +2406,9 @@
       "Torrent",
       "P2P"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,

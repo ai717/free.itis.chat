@@ -3,8 +3,8 @@
     "id": "internet-tools-web-privacy-tools",
     "name": "Web Privacy Tools",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_web_privacy",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -16,9 +16,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -44,9 +44,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -59,7 +59,7 @@
     "id": "internet-tools-deploy-your-own-saas",
     "name": "deploy-your-own-saas",
     "url": "https://github.com/Atarity/deploy-your-own-saas",
-    "description": "支持私有化自建部署 Cloud Services",
+    "description": "支持自建部署 Cloud Services",
     "descriptionEn": "Self-Hosted Cloud Services",
     "category": "internet-tools",
     "tags": [
@@ -72,9 +72,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -135,34 +135,6 @@
     "isStarred": true,
     "isCollection": false,
     "githubUrl": "https://github.com/sindresorhus/fast-cli",
-    "platforms": []
-  },
-  {
-    "id": "internet-tools-safing-portmaster",
-    "name": "Safing Portmaster",
-    "url": "https://safing.io/",
-    "description": "Network Monitor · DNS Resolver · Firewall · Discord · GitHub",
-    "descriptionEn": "Network Monitor / DNS Resolver / Firewall / Discord / GitHub",
-    "category": "internet-tools",
-    "tags": [
-      "社区精选",
-      "开源",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Featured",
-      "Open Source",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": true,
-    "isStarred": true,
-    "isCollection": false,
-    "githubUrl": "https://github.com/safing",
     "platforms": []
   },
   {
@@ -457,7 +429,7 @@
     "id": "internet-tools-reticulum",
     "name": "⁠Reticulum",
     "url": "https://reticulum.network/",
-    "description": "Cryptographic Mesh Networking Stack · Multi-Platform 客户端 · Microcontroller Support",
+    "description": "Cryptographic Mesh Networking Stack · Multi-Platform Client · Microcontroller Support",
     "descriptionEn": "Cryptographic Mesh Networking Stack / Multi-Platform Client / Microcontroller Support",
     "category": "internet-tools",
     "tags": [
@@ -506,32 +478,6 @@
     "platforms": []
   },
   {
-    "id": "internet-tools-project-nomad",
-    "name": "Project NOMAD",
-    "url": "https://www.projectnomad.us/",
-    "description": "Self-Contained Offline Knowledge + Off-Grid Database · GitHub",
-    "descriptionEn": "Self-Contained Offline Knowledge + Off-Grid Database / GitHub",
-    "category": "internet-tools",
-    "tags": [
-      "开源",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Open Source",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": "https://github.com/Crosstalk-Solutions/project-nomad",
-    "platforms": []
-  },
-  {
     "id": "internet-tools-arcai",
     "name": "Arcai",
     "url": "https://arcai.com/",
@@ -574,9 +520,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -664,68 +610,11 @@
     "platforms": []
   },
   {
-    "id": "internet-tools-password-privacy---2fa",
-    "name": "Password Privacy / 2FA",
-    "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
-    "category": "internet-tools",
-    "tags": [
-      "免费",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Free",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": true,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "internet-tools-keepassxc",
-    "name": "KeePassXC",
-    "url": "https://keepassxc.org/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
-    "category": "internet-tools",
-    "tags": [
-      "社区精选",
-      "开源",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Featured",
-      "Open Source",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": true,
-    "isStarred": true,
-    "isCollection": false,
-    "githubUrl": "https://github.com/lgg/awesome-keepass",
-    "platforms": [
-      "win",
-      "mac"
-    ]
-  },
-  {
     "id": "internet-tools-bitwarden",
     "name": "Bitwarden",
     "url": "https://bitwarden.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "社区精选",
@@ -752,8 +641,8 @@
     "id": "internet-tools-proton-pass",
     "name": "Proton Pass",
     "url": "https://proton.me/pass",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "社区精选",
@@ -780,8 +669,8 @@
     "id": "internet-tools-keepass",
     "name": "KeePass",
     "url": "https://keepass.info/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "社区精选",
@@ -811,7 +700,7 @@
     "id": "internet-tools-keepassdx",
     "name": "KeePassDX",
     "url": "https://www.keepassdx.com/",
-    "description": "Keepass 客户端s · Android",
+    "description": "Keepass Clients · Android",
     "descriptionEn": "Keepass Clients / Android",
     "category": "internet-tools",
     "tags": [
@@ -841,7 +730,7 @@
     "id": "internet-tools-keepassium",
     "name": "KeePassium",
     "url": "https://keepassium.com/",
-    "description": "Keepass 客户端 · macOS, iOS · Subreddit · GitHub",
+    "description": "Keepass Client · macOS, iOS · Subreddit · GitHub",
     "descriptionEn": "Keepass Client / macOS, iOS / Subreddit / GitHub",
     "category": "internet-tools",
     "tags": [
@@ -871,8 +760,8 @@
     "id": "internet-tools-authpass",
     "name": "AuthPass",
     "url": "https://authpass.app/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "开源",
@@ -894,39 +783,11 @@
     "platforms": []
   },
   {
-    "id": "internet-tools-vaultwarden",
-    "name": "VaultWarden",
-    "url": "https://github.com/dani-garcia/vaultwarden",
-    "description": "支持私有化自建部署",
-    "descriptionEn": "Self-Hosted",
-    "category": "internet-tools",
-    "tags": [
-      "开源",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Open Source",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": "https://github.com/dani-garcia/vaultwarden",
-    "platforms": [
-      "docker"
-    ]
-  },
-  {
     "id": "internet-tools-lesspass",
     "name": "LessPass",
     "url": "https://lesspass.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "开源",
@@ -946,8 +807,8 @@
     "isCollection": false,
     "githubUrl": "https://github.com/lesspass/lesspass",
     "platforms": [
-      "web",
       "mac",
+      "web",
       "android"
     ]
   },
@@ -955,8 +816,8 @@
     "id": "internet-tools-keeweb",
     "name": "KeeWeb",
     "url": "https://keeweb.info/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "开源",
@@ -977,16 +838,16 @@
     "githubUrl": "https://github.com/keeweb/keeweb",
     "platforms": [
       "win",
-      "web",
-      "mac"
+      "mac",
+      "web"
     ]
   },
   {
     "id": "internet-tools-keypass",
     "name": "Keypass",
     "url": "https://github.com/yogeshpaliyal/KeyPass",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "开源",
@@ -998,9 +859,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -1013,8 +874,8 @@
     "id": "internet-tools-strongbox",
     "name": "Strongbox",
     "url": "https://strongboxsafe.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "开源",
@@ -1041,7 +902,7 @@
     "id": "internet-tools-seahorse",
     "name": "Seahorse",
     "url": "https://gitlab.gnome.org/GNOME/seahorse",
-    "description": "GNOME 端到端加密本地 · 云端密码管理器 · Linux",
+    "description": "GNOME 端到端密码管理器 · Linux",
     "descriptionEn": "GNOME Password Manager / Linux",
     "category": "internet-tools",
     "tags": [
@@ -1067,7 +928,7 @@
     "id": "internet-tools-gopass",
     "name": "gopass",
     "url": "https://www.gopass.pw/",
-    "description": "CLI 端到端加密本地 · 云端密码管理器 · Linux · GitHub",
+    "description": "CLI 端到端密码管理器 · Linux · GitHub",
     "descriptionEn": "CLI Password Manager / Linux / GitHub",
     "category": "internet-tools",
     "tags": [
@@ -1093,7 +954,7 @@
     "id": "internet-tools-bypass-paywalls-clean",
     "name": "Bypass Paywalls Clean",
     "url": "https://gitflic.ru/project/magnolia1234/bpc_uploads",
-    "description": "Browser 浏览器扩展 · X",
+    "description": "浏览器扩展插件 · X",
     "descriptionEn": "Browser Extension / X",
     "category": "internet-tools",
     "tags": [
@@ -1181,7 +1042,7 @@
     "id": "internet-tools-wallabag",
     "name": "wallabag",
     "url": "https://wallabag.org/",
-    "description": "支持私有化自建部署",
+    "description": "支持自建部署",
     "descriptionEn": "Self-Hosted",
     "category": "internet-tools",
     "tags": [
@@ -1367,7 +1228,7 @@
     "id": "internet-tools-linktree",
     "name": "Linktree",
     "url": "https://linktr.ee/",
-    "description": "无限制使用 · Custom URLs",
+    "description": "Unlimited · Custom URLs",
     "descriptionEn": "Unlimited / Custom URLs",
     "category": "internet-tools",
     "tags": [
@@ -1395,7 +1256,7 @@
     "id": "internet-tools-linkstack",
     "name": "Linkstack",
     "url": "https://linkstack.org",
-    "description": "无限制使用 · Custom URLs · 支持私有化自建部署",
+    "description": "Unlimited · Custom URLs · 支持自建部署",
     "descriptionEn": "Unlimited / Custom URLs / Self-Hosted",
     "category": "internet-tools",
     "tags": [
@@ -1422,38 +1283,10 @@
     ]
   },
   {
-    "id": "internet-tools-carrd",
-    "name": "Carrd",
-    "url": "https://carrd.com/",
-    "description": "无限制使用 · Custom URLs · Multiple Designs",
-    "descriptionEn": "Unlimited / Custom URLs / Multiple Designs",
-    "category": "internet-tools",
-    "tags": [
-      "社区精选",
-      "免费",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Featured",
-      "Free",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": true,
-    "isStarred": true,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
     "id": "internet-tools-wonderlink",
     "name": "⁠WonderLink",
     "url": "https://en.wonderlink.de/",
-    "description": "无限制使用 · Custom URLs",
+    "description": "Unlimited · Custom URLs",
     "descriptionEn": "Unlimited / Custom URLs",
     "category": "internet-tools",
     "tags": [
@@ -1479,7 +1312,7 @@
     "id": "internet-tools-biosites",
     "name": "BioSites",
     "url": "https://biosites.com/",
-    "description": "无限制使用 · Custom URLs",
+    "description": "Unlimited · Custom URLs",
     "descriptionEn": "Unlimited / Custom URLs",
     "category": "internet-tools",
     "tags": [
@@ -1507,7 +1340,7 @@
     "id": "internet-tools-alsoat",
     "name": "AlsoAt",
     "url": "https://alsoat.app",
-    "description": "无限制使用 · Custom URLs",
+    "description": "Unlimited · Custom URLs",
     "descriptionEn": "Unlimited / Custom URLs",
     "category": "internet-tools",
     "tags": [
@@ -1533,7 +1366,7 @@
     "id": "internet-tools-lnk-bio",
     "name": "⁠Lnk.Bio",
     "url": "https://lnk.bio/",
-    "description": "无限制使用 · Custom URLs",
+    "description": "Unlimited · Custom URLs",
     "descriptionEn": "Unlimited / Custom URLs",
     "category": "internet-tools",
     "tags": [
@@ -1600,9 +1433,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
@@ -1652,9 +1485,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -1719,8 +1552,8 @@
     "id": "internet-tools-discord-tools",
     "name": "Discord Tools",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25BA_discord_tools",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -1732,9 +1565,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -1745,8 +1578,8 @@
     "id": "internet-tools-telegram-tools",
     "name": "Telegram Tools",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25BA_telegram_tools",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -1758,35 +1591,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": true,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "internet-tools-privacy-focused-messenge",
-    "name": "Privacy-Focused Messengers",
-    "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_encrypted_messengers",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
-    "category": "internet-tools",
-    "tags": [
-      "免费",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Free",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -1797,8 +1604,8 @@
     "id": "internet-tools-irc-clients---resources",
     "name": "IRC Clients / Resources",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_irc_tools",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -1810,9 +1617,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -1823,8 +1630,8 @@
     "id": "internet-tools-xmpp-clients---resources",
     "name": "⁠XMPP Clients / Resources",
     "url": "https://xmpp.org/getting-started/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -1938,7 +1745,7 @@
     "id": "internet-tools-gajim",
     "name": "Gajim",
     "url": "https://gajim.org/",
-    "description": "XMPP 客户端 · Windows, macOS, Linux · GitLab",
+    "description": "XMPP Client · Windows, macOS, Linux · GitLab",
     "descriptionEn": "XMPP Client / Windows, macOS, Linux / GitLab",
     "category": "internet-tools",
     "tags": [
@@ -1991,15 +1798,15 @@
     "githubUrl": "https://github.com/ferdium/ferdium-app",
     "platforms": [
       "win",
-      "web",
-      "mac"
+      "mac",
+      "web"
     ]
   },
   {
     "id": "internet-tools-matterbridge",
     "name": "MatterBridge",
     "url": "https://github.com/42wim/matterbridge",
-    "description": "全平台跨平台支持 Chatbot Frameworks",
+    "description": "跨平台 Chatbot Frameworks",
     "descriptionEn": "Cross-Platform Chatbot Frameworks",
     "category": "internet-tools",
     "tags": [
@@ -2012,9 +1819,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -2049,8 +1856,8 @@
     "githubUrl": "https://github.com/awesome-fluxer/awesome-fluxer",
     "platforms": [
       "win",
-      "web",
-      "mac"
+      "mac",
+      "web"
     ]
   },
   {
@@ -2143,7 +1950,7 @@
     "id": "internet-tools-spacebar",
     "name": "Spacebar",
     "url": "https://github.com/spacebarchat/spacebarchat",
-    "description": "支持私有化自建部署 Chat Platform · Server Infrastructure",
+    "description": "支持自建部署 Chat Platform · Server Infrastructure",
     "descriptionEn": "Self-Hosted Chat Platform / Server Infrastructure",
     "category": "internet-tools",
     "tags": [
@@ -2156,9 +1963,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -2283,7 +2090,7 @@
     "id": "internet-tools-altus",
     "name": "Altus",
     "url": "https://github.com/amanharwara/altus",
-    "description": "WhatsApp 客户端 · Windows, macOS, Linux",
+    "description": "WhatsApp Client · Windows, macOS, Linux",
     "descriptionEn": "WhatsApp Client / Windows, macOS, Linux",
     "category": "internet-tools",
     "tags": [
@@ -2296,9 +2103,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -2325,9 +2132,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -2500,8 +2307,8 @@
     "isCollection": false,
     "githubUrl": "https://github.com/jitsi/jitsi-meet",
     "platforms": [
-      "web",
       "mac",
+      "web",
       "android"
     ]
   },
@@ -2621,7 +2428,7 @@
     "id": "internet-tools-coyim",
     "name": "CoyIM",
     "url": "https://coy.im/",
-    "description": "XMPP 客户端 · Windows, macOS, Linux",
+    "description": "XMPP Client · Windows, macOS, Linux",
     "descriptionEn": "XMPP Client / Windows, macOS, Linux",
     "category": "internet-tools",
     "tags": [
@@ -2650,7 +2457,7 @@
     "id": "internet-tools-prose",
     "name": "⁠Prose",
     "url": "https://prose.org/",
-    "description": "XMPP 客户端 · Windows, macOS, Web",
+    "description": "XMPP Client · Windows, macOS, Web",
     "descriptionEn": "XMPP Client / Windows, macOS, Web",
     "category": "internet-tools",
     "tags": [
@@ -2672,15 +2479,15 @@
     "githubUrl": null,
     "platforms": [
       "win",
-      "web",
-      "mac"
+      "mac",
+      "web"
     ]
   },
   {
     "id": "internet-tools-fluux",
     "name": "⁠Fluux",
     "url": "https://github.com/processone/fluux-messenger/",
-    "description": "XMPP 客户端 · Windows, macOS, Linux, Web",
+    "description": "XMPP Client · Windows, macOS, Linux, Web",
     "descriptionEn": "XMPP Client / Windows, macOS, Linux, Web",
     "category": "internet-tools",
     "tags": [
@@ -2693,24 +2500,24 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
     "githubUrl": "https://github.com/processone/fluux-messenger",
     "platforms": [
       "win",
-      "web",
-      "mac"
+      "mac",
+      "web"
     ]
   },
   {
     "id": "internet-tools-profanity",
     "name": "Profanity",
     "url": "https://profanity-im.github.io/",
-    "description": "XMPP 客户端 · Windows, macOS, Linux, Android · GitHub",
+    "description": "XMPP Client · Windows, macOS, Linux, Android · GitHub",
     "descriptionEn": "XMPP Client / Windows, macOS, Linux, Android / GitHub",
     "category": "internet-tools",
     "tags": [
@@ -2753,9 +2560,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -3008,7 +2815,7 @@
     "id": "internet-tools-qr-code-buddy",
     "name": "⁠QR Code Buddy",
     "url": "https://github.com/JMcrafter26/qr-code-buddy-extension",
-    "description": "Generator · Customizable · 浏览器扩展",
+    "description": "Generator · Customizable · Extension",
     "descriptionEn": "Generator / Customizable / Extension",
     "category": "internet-tools",
     "tags": [
@@ -3021,9 +2828,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -3049,43 +2856,15 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
     "githubUrl": "https://github.com/MarkHopper24/barcodrod.io",
     "platforms": [
       "win"
-    ]
-  },
-  {
-    "id": "internet-tools-barcode-scanner",
-    "name": "Barcode Scanner",
-    "url": "https://gitlab.com/Atharok/BarcodeScanner",
-    "description": "Scanner · Android",
-    "descriptionEn": "Scanner / Android",
-    "category": "internet-tools",
-    "tags": [
-      "免费",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Free",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": [
-      "android"
     ]
   },
   {
@@ -3105,9 +2884,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -3265,9 +3044,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -3304,8 +3083,8 @@
     "id": "internet-tools-android-rss-readers",
     "name": "Android RSS Readers",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_rss_readers",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -3317,9 +3096,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -3332,7 +3111,7 @@
     "id": "internet-tools-feedly",
     "name": "Feedly",
     "url": "https://feedly.com/news-reader",
-    "description": "RSS Reader · Multi-Platform · Notifier",
+    "description": "RSS 订阅聚合阅读器 · Multi-Platform · Notifier",
     "descriptionEn": "RSS Reader / Multi-Platform / Notifier",
     "category": "internet-tools",
     "tags": [
@@ -3360,7 +3139,7 @@
     "id": "internet-tools-rss-guard",
     "name": "RSS Guard",
     "url": "https://github.com/martinrotter/rssguard",
-    "description": "RSS Reader · Multi-Platform · Scraper · Discord",
+    "description": "RSS 订阅聚合阅读器 · Multi-Platform · Scraper · Discord",
     "descriptionEn": "RSS Reader / Multi-Platform / Scraper / Discord",
     "category": "internet-tools",
     "tags": [
@@ -3375,9 +3154,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
@@ -3388,7 +3167,7 @@
     "id": "internet-tools-inoreader",
     "name": "Inoreader",
     "url": "https://www.inoreader.com/",
-    "description": "RSS Reader · Multi-Platform · 需注册账号使用",
+    "description": "RSS 订阅聚合阅读器 · Multi-Platform · Requires Sign-Up",
     "descriptionEn": "RSS Reader / Multi-Platform / Requires Sign-Up",
     "category": "internet-tools",
     "tags": [
@@ -3416,7 +3195,7 @@
     "id": "internet-tools-feedbro",
     "name": "Feedbro",
     "url": "https://nodetics.com/feedbro/",
-    "description": "Browser 浏览器扩展s",
+    "description": "浏览器扩展插件s",
     "descriptionEn": "Browser Extensions",
     "category": "internet-tools",
     "tags": [
@@ -3446,7 +3225,7 @@
     "id": "internet-tools-fluent-reader",
     "name": "Fluent Reader",
     "url": "https://hyliu.me/fluent-reader/",
-    "description": "RSS Reader · Multi-Platform",
+    "description": "RSS 订阅聚合阅读器 · Multi-Platform",
     "descriptionEn": "RSS Reader / Multi-Platform",
     "category": "internet-tools",
     "tags": [
@@ -3472,7 +3251,7 @@
     "id": "internet-tools-feed-flow",
     "name": "Feed Flow",
     "url": "https://www.feedflow.dev/",
-    "description": "RSS Reader · Multi-Platform · GitHub",
+    "description": "RSS 订阅聚合阅读器 · Multi-Platform · GitHub",
     "descriptionEn": "RSS Reader / Multi-Platform / GitHub",
     "category": "internet-tools",
     "tags": [
@@ -3498,7 +3277,7 @@
     "id": "internet-tools-yarr",
     "name": "yarr",
     "url": "https://github.com/nkanaev/yarr",
-    "description": "RSS Reader · Multi-Platform",
+    "description": "RSS 订阅聚合阅读器 · Multi-Platform",
     "descriptionEn": "RSS Reader / Multi-Platform",
     "category": "internet-tools",
     "tags": [
@@ -3511,9 +3290,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -3524,7 +3303,7 @@
     "id": "internet-tools-newsblur",
     "name": "NewsBlur",
     "url": "https://www.newsblur.com/",
-    "description": "RSS Reader · Web-Based · GitHub",
+    "description": "RSS 订阅聚合阅读器 · Web-Based · GitHub",
     "descriptionEn": "RSS Reader / Web-Based / GitHub",
     "category": "internet-tools",
     "tags": [
@@ -3552,7 +3331,7 @@
     "id": "internet-tools-webfeed",
     "name": "WebFeed",
     "url": "https://tao.zz.ac/webfeed/turn-browser-into-feed-reader.html",
-    "description": "RSS Reader · Web-Based",
+    "description": "RSS 订阅聚合阅读器 · Web-Based",
     "descriptionEn": "RSS Reader / Web-Based",
     "category": "internet-tools",
     "tags": [
@@ -3580,7 +3359,7 @@
     "id": "internet-tools-junglereader",
     "name": "JungleReader",
     "url": "https://www.zajungle.com/",
-    "description": "RSS Reader · Web-Based",
+    "description": "RSS 订阅聚合阅读器 · Web-Based",
     "descriptionEn": "RSS Reader / Web-Based",
     "category": "internet-tools",
     "tags": [
@@ -3608,7 +3387,7 @@
     "id": "internet-tools-tiny-tiny-rss",
     "name": "⁠Tiny Tiny RSS",
     "url": "https://tt-rss.org/",
-    "description": "Docker Based RSS Reader · GitHub",
+    "description": "Docker Based RSS 订阅聚合阅读器 · GitHub",
     "descriptionEn": "Docker Based RSS Reader / GitHub",
     "category": "internet-tools",
     "tags": [
@@ -3636,7 +3415,7 @@
     "id": "internet-tools-newspipe",
     "name": "NewsPipe",
     "url": "https://github.com/cedricbonhomme/newspipe",
-    "description": "支持私有化自建部署 RSS Readers",
+    "description": "支持自建部署 RSS 订阅聚合阅读器s",
     "descriptionEn": "Self-Hosted RSS Readers",
     "category": "internet-tools",
     "tags": [
@@ -3649,9 +3428,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -3664,8 +3443,8 @@
     "id": "internet-tools-rss-bridge",
     "name": "RSS Bridge",
     "url": "https://rss-bridge.org/bridge01/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "社区精选",
@@ -3692,8 +3471,8 @@
     "id": "internet-tools-rsshub",
     "name": "RSSHub",
     "url": "https://docs.rsshub.app/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "开源",
@@ -3718,8 +3497,8 @@
     "id": "internet-tools-rss-finder",
     "name": "RSS Finder",
     "url": "https://rss-finder.rook1e.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "开源",
@@ -3744,8 +3523,8 @@
     "id": "internet-tools-fetchrss",
     "name": "FetchRSS",
     "url": "https://fetchrss.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -3770,8 +3549,8 @@
     "id": "internet-tools-rss-diffbot",
     "name": "RSS Diffbot",
     "url": "https://rss.diffbot.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -3796,8 +3575,8 @@
     "id": "internet-tools-rss-lookup",
     "name": "⁠RSS Lookup",
     "url": "https://www.rsslookup.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -3822,8 +3601,8 @@
     "id": "internet-tools-russhdown",
     "name": "RuSShdown",
     "url": "https://chaiaeran.github.io/RuSShdown/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -3848,8 +3627,8 @@
     "id": "internet-tools-politepaul",
     "name": "PolitePaul",
     "url": "https://politepaul.com/en/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -3874,8 +3653,8 @@
     "id": "internet-tools-janicek",
     "name": "Janicek",
     "url": "https://feed.janicek.co/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -3900,8 +3679,8 @@
     "id": "internet-tools-fivefilters",
     "name": "FiveFilters",
     "url": "https://createfeed.fivefilters.org/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -3952,8 +3731,8 @@
     "id": "internet-tools-reddit-search-tools",
     "name": "Reddit Search Tools",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_reddit_search",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -3965,9 +3744,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -4062,7 +3841,7 @@
     "id": "internet-tools-sitedorks",
     "name": "sitedorks",
     "url": "https://github.com/Zarcolio/sitedorks",
-    "description": "专用搜索引擎 Dorking Tools",
+    "description": "独立搜索引擎 Dorking Tools",
     "descriptionEn": "Search Engine Dorking Tools",
     "category": "internet-tools",
     "tags": [
@@ -4075,9 +3854,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -4101,9 +3880,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -4166,7 +3945,7 @@
     "id": "internet-tools-boardreader",
     "name": "BoardReader",
     "url": "https://boardreader.com/",
-    "description": "Forum 专用搜索引擎",
+    "description": "Forum 独立搜索引擎",
     "descriptionEn": "Forum Search Engine",
     "category": "internet-tools",
     "tags": [
@@ -4220,7 +3999,7 @@
     "id": "internet-tools-vhsearch",
     "name": "VHSearch",
     "url": "https://vhs.neocities.org/",
-    "description": "Neocities 专用搜索引擎",
+    "description": "Neocities 独立搜索引擎",
     "descriptionEn": "Neocities Search Engine",
     "category": "internet-tools",
     "tags": [
@@ -4324,7 +4103,7 @@
     "id": "internet-tools-wiby",
     "name": "Wiby",
     "url": "https://wiby.org/",
-    "description": "专用搜索引擎 for Lightweight Web Pages",
+    "description": "独立搜索引擎 for Lightweight Web Pages",
     "descriptionEn": "Search Engine for Lightweight Web Pages",
     "category": "internet-tools",
     "tags": [
@@ -4651,9 +4430,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -4765,36 +4544,10 @@
     "platforms": []
   },
   {
-    "id": "internet-tools-useful-forks",
-    "name": "useful-forks",
-    "url": "https://useful-forks.github.io/",
-    "description": "GitHub Fork Search",
-    "descriptionEn": "GitHub Fork Search",
-    "category": "internet-tools",
-    "tags": [
-      "免费",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Free",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
     "id": "internet-tools-mycroftproject",
     "name": "MycroftProject",
     "url": "https://mycroftproject.com/",
-    "description": "专用搜索引擎 Plugins",
+    "description": "独立搜索引擎 Plugins",
     "descriptionEn": "Search Engine Plugins",
     "category": "internet-tools",
     "tags": [
@@ -4820,34 +4573,8 @@
     "id": "internet-tools-fagan-finder",
     "name": "Fagan Finder",
     "url": "https://www.faganfinder.com/",
-    "description": "专用搜索引擎 Indexes",
+    "description": "独立搜索引擎 Indexes",
     "descriptionEn": "Search Engine Indexes",
-    "category": "internet-tools",
-    "tags": [
-      "免费",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Free",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": true,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "internet-tools-ai-search-engines",
-    "name": "AI Search Engines",
-    "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_specialized_chatbots",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -4872,8 +4599,8 @@
     "id": "internet-tools-privacy-search-engines",
     "name": "Privacy Search Engines",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -4885,9 +4612,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -4898,8 +4625,8 @@
     "id": "internet-tools-image-search-engines",
     "name": "Image Search Engines",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools/#wiki_.25B7_image_search_engines",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -4911,9 +4638,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -4945,15 +4672,15 @@
     "isCollection": false,
     "githubUrl": null,
     "platforms": [
-      "web",
-      "mac"
+      "mac",
+      "web"
     ]
   },
   {
     "id": "internet-tools-mwmbl",
     "name": "Mwmbl",
     "url": "https://mwmbl.org/",
-    "description": "Community Organized 专用搜索引擎 · GitHub",
+    "description": "Community Organized 独立搜索引擎 · GitHub",
     "descriptionEn": "Community Organized Search Engine / GitHub",
     "category": "internet-tools",
     "tags": [
@@ -5031,7 +4758,7 @@
     "id": "internet-tools-marginalia-search",
     "name": "Marginalia Search",
     "url": "https://marginalia-search.com/",
-    "description": "Text-Based 专用搜索引擎 · GitHub",
+    "description": "Text-Based 独立搜索引擎 · GitHub",
     "descriptionEn": "Text-Based Search Engine / GitHub",
     "category": "internet-tools",
     "tags": [
@@ -5057,7 +4784,7 @@
     "id": "internet-tools-theoldnet",
     "name": "TheOldNet",
     "url": "https://theoldnet.com/",
-    "description": "Oldschool · Retro Site 专用搜索引擎s",
+    "description": "Oldschool · Retro Site 独立搜索引擎s",
     "descriptionEn": "Oldschool / Retro Site Search Engines",
     "category": "internet-tools",
     "tags": [
@@ -5083,7 +4810,7 @@
     "id": "internet-tools-oceanhero",
     "name": "OceanHero",
     "url": "https://oceanhero.today/",
-    "description": "Ocean Protection 专用搜索引擎",
+    "description": "Ocean Protection 独立搜索引擎",
     "descriptionEn": "Ocean Protection Search Engine",
     "category": "internet-tools",
     "tags": [
@@ -5135,8 +4862,8 @@
     "id": "internet-tools-bing",
     "name": "Bing",
     "url": "https://www.bing.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -5161,8 +4888,8 @@
     "id": "internet-tools-google",
     "name": "Google",
     "url": "https://google.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -5187,8 +4914,8 @@
     "id": "internet-tools-lycos",
     "name": "Lycos",
     "url": "https://www.lycos.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -5213,8 +4940,8 @@
     "id": "internet-tools-webcrawler",
     "name": "WebCrawler",
     "url": "https://www.webcrawler.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -5241,8 +4968,8 @@
     "id": "internet-tools-andi",
     "name": "Andi",
     "url": "https://andisearch.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -5267,8 +4994,8 @@
     "id": "internet-tools-yandex",
     "name": "Yandex",
     "url": "https://yandex.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -5293,8 +5020,8 @@
     "id": "internet-tools-vuhuv",
     "name": "Vuhuv",
     "url": "https://vuhuv.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -5319,8 +5046,8 @@
     "id": "internet-tools-carrot2",
     "name": "Carrot2",
     "url": "https://search.carrot2.org/#/web",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -5347,8 +5074,8 @@
     "id": "internet-tools-yahoo",
     "name": "Yahoo",
     "url": "https://www.yahoo.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -5373,8 +5100,8 @@
     "id": "internet-tools-aol",
     "name": "AOL",
     "url": "https://search.aol.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -5399,8 +5126,8 @@
     "id": "internet-tools-etools-ch",
     "name": "eTools.ch",
     "url": "https://www.etools.ch/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -5425,7 +5152,7 @@
     "id": "internet-tools-cse-utopia",
     "name": "CSE Utopia",
     "url": "https://start.me/p/EL84Km/cse-utopia",
-    "description": "Custom 专用搜索引擎 Indexes",
+    "description": "Custom 独立搜索引擎 Indexes",
     "descriptionEn": "Custom Search Engine Indexes",
     "category": "internet-tools",
     "tags": [
@@ -5448,300 +5175,10 @@
     "platforms": []
   },
   {
-    "id": "internet-tools-hizsearch",
-    "name": "⁠HizSearch",
-    "url": "https://hizsearch.pages.dev/",
-    "description": "Multi-Site Game 专用搜索引擎s",
-    "descriptionEn": "Multi-Site Game Search Engines",
-    "category": "internet-tools",
-    "tags": [
-      "社区精选",
-      "开源",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Featured",
-      "Open Source",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": true,
-    "isStarred": true,
-    "isCollection": false,
-    "githubUrl": "https://github.com/hiz0147/HizSteamButton",
-    "platforms": []
-  },
-  {
-    "id": "internet-tools-justfreebooks",
-    "name": "JustFreeBooks",
-    "url": "https://www.justfreebooks.info/",
-    "description": "Multi-Site Book Search",
-    "descriptionEn": "Multi-Site Book Search",
-    "category": "internet-tools",
-    "tags": [
-      "免费",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Free",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "internet-tools-tv-streaming-cse",
-    "name": "TV Streaming CSE",
-    "url": "https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg",
-    "description": "Search TV Streaming Sites",
-    "descriptionEn": "Search TV Streaming Sites",
-    "category": "internet-tools",
-    "tags": [
-      "免费",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Free",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "internet-tools-streaming-cse",
-    "name": "Streaming CSE",
-    "url": "https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
-    "category": "internet-tools",
-    "tags": [
-      "免费",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Free",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "internet-tools-download-cse",
-    "name": "Download CSE",
-    "url": "https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z",
-    "description": "Search Download Sites",
-    "descriptionEn": "Search Download Sites",
-    "category": "internet-tools",
-    "tags": [
-      "免费",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Free",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "internet-tools-virgil-software-search",
-    "name": "Virgil Software Search",
-    "url": "https://virgil.samidy.com/?engine=software",
-    "description": "Search Software Sites",
-    "descriptionEn": "Search Software Sites",
-    "category": "internet-tools",
-    "tags": [
-      "开源",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Open Source",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": "https://github.com/SamidyFR/Virgil",
-    "platforms": []
-  },
-  {
-    "id": "internet-tools-torrent-cse",
-    "name": "Torrent CSE",
-    "url": "https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj",
-    "description": "Search General Torrent Sites",
-    "descriptionEn": "Search General Torrent Sites",
-    "category": "internet-tools",
-    "tags": [
-      "免费",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Free",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "internet-tools-audiobooks-cse",
-    "name": "Audiobooks CSE",
-    "url": "https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd",
-    "description": "Search Audiobook Sites",
-    "descriptionEn": "Search Audiobook Sites",
-    "category": "internet-tools",
-    "tags": [
-      "免费",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Free",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "internet-tools-comics-cse",
-    "name": "Comics CSE",
-    "url": "https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg",
-    "description": "Search Comic Sites",
-    "descriptionEn": "Search Comic Sites",
-    "category": "internet-tools",
-    "tags": [
-      "免费",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Free",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "internet-tools-manga-cse",
-    "name": "Manga CSE",
-    "url": "https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z",
-    "description": "Search Manga Sites",
-    "descriptionEn": "Search Manga Sites",
-    "category": "internet-tools",
-    "tags": [
-      "免费",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Free",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "internet-tools-virgil-apk-search",
-    "name": "Virgil APK Search",
-    "url": "https://virgil.samidy.com/?engine=android#gsc.tab=0",
-    "description": "Search Android APK Sites",
-    "descriptionEn": "Search Android APK Sites",
-    "category": "internet-tools",
-    "tags": [
-      "免费",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Free",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": [
-      "android"
-    ]
-  },
-  {
     "id": "internet-tools-extensions-cse",
     "name": "Extensions CSE",
     "url": "https://cse.google.com/cse?cx=86d64a73544824102",
-    "description": "Search 浏览器扩展 Sites",
+    "description": "Search Extension Sites",
     "descriptionEn": "Search Extension Sites",
     "category": "internet-tools",
     "tags": [
@@ -5792,193 +5229,11 @@
     "platforms": []
   },
   {
-    "id": "internet-tools-fonts-cse",
-    "name": "Fonts CSE",
-    "url": "https://cse.google.com/cse?cx=82154ebab193e493d",
-    "description": "Search Font Sites",
-    "descriptionEn": "Search Font Sites",
-    "category": "internet-tools",
-    "tags": [
-      "免费",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Free",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "internet-tools-video-download-cse",
-    "name": "Video Download CSE",
-    "url": "https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr",
-    "description": "Search Video Download Sites",
-    "descriptionEn": "Search Video Download Sites",
-    "category": "internet-tools",
-    "tags": [
-      "免费",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Free",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "internet-tools-video-torrent-cse",
-    "name": "Video Torrent CSE",
-    "url": "https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j",
-    "description": "Search Video Torrent Sites",
-    "descriptionEn": "Search Video Torrent Sites",
-    "category": "internet-tools",
-    "tags": [
-      "免费",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Free",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
     "id": "internet-tools-anime-streaming-cse",
     "name": "Anime Streaming CSE",
     "url": "https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei",
-    "description": "Search Anime Streaming Sites",
+    "description": "Search Anime 在线流媒体 Sites",
     "descriptionEn": "Search Anime Streaming Sites",
-    "category": "internet-tools",
-    "tags": [
-      "免费",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Free",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "internet-tools-anime-download-cse",
-    "name": "Anime Download CSE",
-    "url": "https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8",
-    "description": "Search Anime Download Sites",
-    "descriptionEn": "Search Anime Download Sites",
-    "category": "internet-tools",
-    "tags": [
-      "免费",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Free",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "internet-tools-anime-torrent-cse",
-    "name": "Anime Torrent CSE",
-    "url": "https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz",
-    "description": "Search Anime Torrent Sites",
-    "descriptionEn": "Search Anime Torrent Sites",
-    "category": "internet-tools",
-    "tags": [
-      "免费",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Free",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "internet-tools-audio-download-cse",
-    "name": "Audio Download CSE",
-    "url": "https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io",
-    "description": "Search Audio Download Sites",
-    "descriptionEn": "Search Audio Download Sites",
-    "category": "internet-tools",
-    "tags": [
-      "免费",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Free",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "internet-tools-audio-torrent-cse",
-    "name": "Audio Torrent CSE",
-    "url": "https://cse.google.com/cse?cx=006516753008110874046:v75cyb4ci55",
-    "description": "Search Audio Torrent Sites",
-    "descriptionEn": "Search Audio Torrent Sites",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -6052,84 +5307,6 @@
     "platforms": []
   },
   {
-    "id": "internet-tools-file-host-search",
-    "name": "File Host Search",
-    "url": "https://cse.google.com/cse?cx=90a35b59cee2a42e1",
-    "description": "Search File Hosts",
-    "descriptionEn": "Search File Hosts",
-    "category": "internet-tools",
-    "tags": [
-      "免费",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Free",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "internet-tools-linux-software-cse",
-    "name": "Linux Software CSE",
-    "url": "https://cse.google.com/cse?cx=81bd91729fe2a412b",
-    "description": "Search Linux Software Sites",
-    "descriptionEn": "Search Linux Software Sites",
-    "category": "internet-tools",
-    "tags": [
-      "免费",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Free",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "internet-tools-rom-cse",
-    "name": "ROM CSE",
-    "url": "https://cse.google.com/cse?cx=f47f68e49301a07ac",
-    "description": "Search ROM Sites",
-    "descriptionEn": "Search ROM Sites",
-    "category": "internet-tools",
-    "tags": [
-      "免费",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Free",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
     "id": "internet-tools-tiktok-cse",
     "name": "TikTok CSE",
     "url": "https://cse.google.com/cse?cx=c42f6b58703f83683",
@@ -6180,34 +5357,6 @@
     "isCollection": false,
     "githubUrl": null,
     "platforms": []
-  },
-  {
-    "id": "internet-tools-ravebsd",
-    "name": "⁠RaveBSD",
-    "url": "https://ravebooksearch.com/",
-    "description": "支持 Docker 自建部署 Book 专用搜索引擎",
-    "descriptionEn": "Self-Hostable Book Search Engine",
-    "category": "internet-tools",
-    "tags": [
-      "免费",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Free",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": [
-      "docker"
-    ]
   },
   {
     "id": "internet-tools-searchtweaks",
@@ -6382,9 +5531,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -6512,9 +5661,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -6522,36 +5671,10 @@
     "platforms": []
   },
   {
-    "id": "internet-tools-encode---decode-urls",
-    "name": "Encode / Decode URLs",
-    "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_encode_.2F_decode",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
-    "category": "internet-tools",
-    "tags": [
-      "免费",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Free",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": true,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
     "id": "internet-tools-flagfox",
     "name": "Flagfox",
     "url": "https://flagfox.wordpress.com/",
-    "description": "Multi-Tool Firefox 浏览器扩展 for URLs · Full Tools List",
+    "description": "Multi-Tool Firefox Extension for URLs · Full Tools List",
     "descriptionEn": "Multi-Tool Firefox Extension for URLs / Full Tools List",
     "category": "internet-tools",
     "tags": [
@@ -6650,9 +5773,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -6845,8 +5968,8 @@
     "id": "internet-tools-bypass-site-index---stat",
     "name": "Bypass Site Index / Status",
     "url": "https://rentry.co/FMHYB64#abs",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -6858,9 +5981,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -6871,7 +5994,7 @@
     "id": "internet-tools-bypass-all-shortlinks-de",
     "name": "Bypass All Shortlinks Debloated",
     "url": "https://codeberg.org/gongchandang49/bypass-all-shortlinks-debloated",
-    "description": "Bypass Link Shorteners · 油猴用户脚本",
+    "description": "Bypass Link Shorteners · 油猴脚本",
     "descriptionEn": "Bypass Link Shorteners / Userscript",
     "category": "internet-tools",
     "tags": [
@@ -6901,7 +6024,7 @@
     "id": "internet-tools-evade",
     "name": "Evade",
     "url": "https://skipped.lol",
-    "description": "Ad-Links Bypasser · 油猴用户脚本 · Discord",
+    "description": "Ad-Links Bypasser · 油猴脚本 · Discord",
     "descriptionEn": "Ad-Links Bypasser / Userscript / Discord",
     "category": "internet-tools",
     "tags": [
@@ -6931,7 +6054,7 @@
     "id": "internet-tools-bypass-vip",
     "name": "Bypass.vip",
     "url": "https://bypass.vip/",
-    "description": "Ad-Links Bypasser · 油猴用户脚本 · Discord · GitHub",
+    "description": "Ad-Links Bypasser · 油猴脚本 · Discord · GitHub",
     "descriptionEn": "Ad-Links Bypasser / Userscript / Discord / GitHub",
     "category": "internet-tools",
     "tags": [
@@ -6989,7 +6112,7 @@
     "id": "internet-tools-adsbypasser",
     "name": "Adsbypasser",
     "url": "https://adsbypasser.github.io/",
-    "description": "Bypass Link Shorteners · 油猴用户脚本 · GitHub",
+    "description": "Bypass Link Shorteners · 油猴脚本 · GitHub",
     "descriptionEn": "Bypass Link Shorteners / Userscript / GitHub",
     "category": "internet-tools",
     "tags": [
@@ -7017,7 +6140,7 @@
     "id": "internet-tools-rip-linkvertise",
     "name": "RIP Linkvertise",
     "url": "https://rip.linkvertise.lol/",
-    "description": "Ad-Links Bypasser · 油猴用户脚本 · Discord · Bookmarklet",
+    "description": "Ad-Links Bypasser · 油猴脚本 · Discord · Bookmarklet",
     "descriptionEn": "Ad-Links Bypasser / Userscript / Discord / Bookmarklet",
     "category": "internet-tools",
     "tags": [
@@ -7073,7 +6196,7 @@
     "id": "internet-tools-timerhooker",
     "name": "TimerHooker",
     "url": "https://timer.palerock.cn/en/",
-    "description": "Skip Timers on File Hosts · 油猴用户脚本",
+    "description": "Skip Timers on File Hosts · 油猴脚本",
     "descriptionEn": "Skip Timers on File Hosts / Userscript",
     "category": "internet-tools",
     "tags": [
@@ -7101,7 +6224,7 @@
     "id": "internet-tools-bypass-city",
     "name": "bypass.city",
     "url": "https://bypass.city/",
-    "description": "Bypass Link Shorteners · 油猴用户脚本 · Discord",
+    "description": "Bypass Link Shorteners · 油猴脚本 · Discord",
     "descriptionEn": "Bypass Link Shorteners / Userscript / Discord",
     "category": "internet-tools",
     "tags": [
@@ -7129,7 +6252,7 @@
     "id": "internet-tools-yuumari",
     "name": "Yuumari",
     "url": "https://yuumari.com/bypass/",
-    "description": "Convert Shortened Links · Guide · 油猴用户脚本 · Chrome",
+    "description": "Convert Shortened Links · Guide · 油猴脚本 · Chrome",
     "descriptionEn": "Convert Shortened Links / Guide / Userscript / Chrome",
     "category": "internet-tools",
     "tags": [
@@ -7969,7 +7092,7 @@
     "id": "internet-tools-goo-su",
     "name": "Goo.su",
     "url": "https://goo.su/",
-    "description": "`goo.su · 7pNRjy7` · Chrome 浏览器扩展",
+    "description": "`goo.su · 7pNRjy7` · Chrome Extension",
     "descriptionEn": "`goo.su / 7pNRjy7` / Chrome Extension",
     "category": "internet-tools",
     "tags": [
@@ -8098,36 +7221,10 @@
     "platforms": []
   },
   {
-    "id": "internet-tools-wikimedia-shortener",
-    "name": "Wikimedia Shortener",
-    "url": "https://meta.wikimedia.org/wiki/Special:UrlShortener",
-    "description": "Shorten Wikimedia Domain Links",
-    "descriptionEn": "Shorten Wikimedia Domain Links",
-    "category": "internet-tools",
-    "tags": [
-      "免费",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Free",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
     "id": "internet-tools-suri",
     "name": "Suri",
     "url": "https://github.com/surishortlink/suri",
-    "description": "支持私有化自建部署 Link Shorteners",
+    "description": "支持自建部署 Link Shorteners",
     "descriptionEn": "Self-Hosted Link Shorteners",
     "category": "internet-tools",
     "tags": [
@@ -8140,9 +7237,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -8155,8 +7252,8 @@
     "id": "internet-tools-down-for-everyone-or-jus",
     "name": "Down for Everyone or Just Me",
     "url": "https://downforeveryoneorjustme.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "社区精选",
@@ -8183,8 +7280,8 @@
     "id": "internet-tools-downdetector",
     "name": "Downdetector",
     "url": "https://downdetector.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "社区精选",
@@ -8211,8 +7308,8 @@
     "id": "internet-tools-is-the-service-down",
     "name": "Is The Service Down?",
     "url": "https://istheservicedown.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -8237,8 +7334,8 @@
     "id": "internet-tools-is-it-down-right-now",
     "name": "Is It Down Right Now",
     "url": "https://www.isitdownrightnow.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -8263,8 +7360,8 @@
     "id": "internet-tools-dead-link-checker",
     "name": "Dead Link Checker",
     "url": "https://www.deadlinkchecker.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -8289,8 +7386,8 @@
     "id": "internet-tools-online-broken-link-check",
     "name": "Online Broken Link Checker",
     "url": "https://brokenlinkcheck.com/broken-links.php",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -8315,8 +7412,8 @@
     "id": "internet-tools-dr--link-check",
     "name": "Dr. Link Check",
     "url": "https://www.drlinkcheck.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -8341,8 +7438,8 @@
     "id": "internet-tools-onlineornot",
     "name": "⁠OnlineOrNot",
     "url": "https://onlineornot.com/website-down-checker",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -8369,8 +7466,8 @@
     "id": "internet-tools-updowntoday",
     "name": "UpDownToday",
     "url": "https://updowntoday.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -8421,8 +7518,8 @@
     "id": "internet-tools-domain---dns-info",
     "name": "Domain / DNS Info",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_dns_tools",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -8434,41 +7531,13 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
     "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "internet-tools-fmhy-safeguard",
-    "name": "FMHY SafeGuard",
-    "url": "https://fmhy.github.io/FMHY-SafeGuard/",
-    "description": "Detects if Current Site is Trusted · Untrusted · GitHub",
-    "descriptionEn": "Detects if Current Site is Trusted / Untrusted / GitHub",
-    "category": "internet-tools",
-    "tags": [
-      "社区精选",
-      "开源",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Featured",
-      "Open Source",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": true,
-    "isStarred": true,
-    "isCollection": false,
-    "githubUrl": "https://github.com/fmhy/FMHY-SafeGuard",
     "platforms": []
   },
   {
@@ -8585,8 +7654,8 @@
     "id": "internet-tools-zscaler",
     "name": "ZScaler",
     "url": "https://zulu.zscaler.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -8676,9 +7745,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -8691,8 +7760,8 @@
     "id": "internet-tools-email-privacy-services--",
     "name": "Email Privacy Services / Tools",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_email_privacy",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -8704,9 +7773,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -8773,32 +7842,6 @@
     "url": "https://www.zoho.com/mail",
     "description": "Free Email Hosting · Custom Domains",
     "descriptionEn": "Free Email Hosting / Custom Domains",
-    "category": "internet-tools",
-    "tags": [
-      "免费",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Free",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "internet-tools-delta-chat",
-    "name": "Delta Chat",
-    "url": "https://delta.chat/",
-    "description": "Email-Based Messenger",
-    "descriptionEn": "Email-Based Messenger",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -8888,9 +7931,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -8984,8 +8027,8 @@
     "id": "internet-tools-thunderbird",
     "name": "Thunderbird",
     "url": "https://www.thunderbird.net/en-US/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "社区精选",
@@ -9044,39 +8087,10 @@
     ]
   },
   {
-    "id": "internet-tools-electronmail",
-    "name": "ElectronMail",
-    "url": "https://github.com/vladimiry/ElectronMail",
-    "description": "ProtonMail Desktop 客户端 · Windows, macOS, Linux",
-    "descriptionEn": "ProtonMail Desktop Client / Windows, macOS, Linux",
-    "category": "internet-tools",
-    "tags": [
-      "开源",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Open Source",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": "https://github.com/vladimiry/ElectronMail",
-    "platforms": [
-      "win",
-      "mac"
-    ]
-  },
-  {
     "id": "internet-tools-meru",
     "name": "Meru",
     "url": "https://github.com/timche/meru",
-    "description": "Gmail Desktop 客户端 · Windows, macOS, Linux",
+    "description": "Gmail Desktop Client · Windows, macOS, Linux",
     "descriptionEn": "Gmail Desktop Client / Windows, macOS, Linux",
     "category": "internet-tools",
     "tags": [
@@ -9089,9 +8103,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -9105,8 +8119,8 @@
     "id": "internet-tools-outlook",
     "name": "Outlook",
     "url": "https://outlook.live.com/owa/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -9127,8 +8141,8 @@
     "githubUrl": null,
     "platforms": [
       "win",
-      "web",
       "mac",
+      "web",
       "android"
     ]
   },
@@ -9136,8 +8150,8 @@
     "id": "internet-tools-em-client",
     "name": "eM Client",
     "url": "https://www.emclient.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -9166,8 +8180,8 @@
     "id": "internet-tools-spike",
     "name": "Spike",
     "url": "https://www.spikenow.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -9188,8 +8202,8 @@
     "githubUrl": null,
     "platforms": [
       "win",
-      "web",
       "mac",
+      "web",
       "android"
     ]
   },
@@ -9197,8 +8211,8 @@
     "id": "internet-tools-canary",
     "name": "Canary",
     "url": "https://canarymail.io/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -9227,8 +8241,8 @@
     "id": "internet-tools-twobird",
     "name": "Twobird",
     "url": "https://www.twobird.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -9257,8 +8271,8 @@
     "id": "internet-tools-roundcube",
     "name": "Roundcube",
     "url": "https://roundcube.net/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -9561,7 +8575,7 @@
     "id": "internet-tools-bloody-vikings",
     "name": "Bloody Vikings!",
     "url": "https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/",
-    "description": "Temp Email 浏览器扩展",
+    "description": "Temp Email Extension",
     "descriptionEn": "Temp Email Extension",
     "category": "internet-tools",
     "tags": [
@@ -10028,7 +9042,7 @@
     "platforms": []
   },
   {
-    "id": "internet-tools-temporary-mail",
+    "id": "internet-tools-temporary-mail-2",
     "name": "⁠Temporary Mail",
     "url": "https://mail.sunls.de/",
     "description": "10 Days · 3 Domains · GitHub",
@@ -10148,9 +9162,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -10723,8 +9737,8 @@
       "Browser"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: More Complete Lists",
-    "warningTextEn": "Caveat: More Complete Lists",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -10735,8 +9749,8 @@
     "id": "internet-tools-email-aliasing-compariso",
     "name": "⁠Email Aliasing Comparison",
     "url": "https://email-aliasing-comparison.pages.dev/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "开源",
@@ -10761,7 +9775,7 @@
     "id": "internet-tools-duckduckgo-email-protect",
     "name": "DuckDuckGo Email Protection",
     "url": "https://duckduckgo.com/email/",
-    "description": "无限制使用 Shared · No Catch-All · Send Email · Send From Address · Bitwarden Integration",
+    "description": "Unlimited Shared · No Catch-All · Send Email · Send From Address · Bitwarden Integration",
     "descriptionEn": "Unlimited Shared / No Catch-All / Send Email / Send From Address / Bitwarden Integration",
     "category": "internet-tools",
     "tags": [
@@ -11103,7 +10117,7 @@
     "id": "internet-tools-auto-sort-bookmarks",
     "name": "Auto-Sort Bookmarks",
     "url": "https://github.com/eric-bixby/auto-sort-bookmarks-webext",
-    "description": "Bookmark Sorting 浏览器扩展",
+    "description": "Bookmark Sorting Extension",
     "descriptionEn": "Bookmark Sorting Extension",
     "category": "internet-tools",
     "tags": [
@@ -11116,9 +10130,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -11144,9 +10158,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -11196,9 +10210,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -11206,38 +10220,10 @@
     "platforms": []
   },
   {
-    "id": "internet-tools-self-hosted-bookmark-man",
-    "name": "Self-Hosted Bookmark Managers",
-    "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_server_.2F_selfhosting",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
-    "category": "internet-tools",
-    "tags": [
-      "免费",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Free",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": true,
-    "githubUrl": null,
-    "platforms": [
-      "docker"
-    ]
-  },
-  {
     "id": "internet-tools-sidebery",
     "name": "Sidebery",
     "url": "https://github.com/mbnuqw/sidebery",
-    "description": "Firefox 浏览器扩展",
+    "description": "Firefox Extension",
     "descriptionEn": "Firefox Extension",
     "category": "internet-tools",
     "tags": [
@@ -11252,9 +10238,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
@@ -11267,7 +10253,7 @@
     "id": "internet-tools-raindrop-io",
     "name": "Raindrop.io",
     "url": "https://raindrop.io/",
-    "description": "全平台跨平台支持 Manager · TUI",
+    "description": "跨平台 Manager · TUI",
     "descriptionEn": "Cross-Platform Manager / TUI",
     "category": "internet-tools",
     "tags": [
@@ -11317,35 +10303,6 @@
     "githubUrl": null,
     "platforms": [
       "web"
-    ]
-  },
-  {
-    "id": "internet-tools-bookmark-manager-zero",
-    "name": "Bookmark Manager Zero",
-    "url": "https://bmz.absolutezero.fyi/",
-    "description": "Firefox · Chrome 浏览器扩展 · Android",
-    "descriptionEn": "Firefox / Chrome Extension / Android",
-    "category": "internet-tools",
-    "tags": [
-      "免费",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Free",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": [
-      "web",
-      "android"
     ]
   },
   {
@@ -11561,9 +10518,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -11678,7 +10635,7 @@
     "id": "internet-tools-mission-control",
     "name": "Mission Control",
     "url": "https://mission-control.app/",
-    "description": "Chrome 浏览器扩展",
+    "description": "Chrome Extension",
     "descriptionEn": "Chrome Extension",
     "category": "internet-tools",
     "tags": [
@@ -11719,9 +10676,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -11745,9 +10702,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -11784,8 +10741,8 @@
     "id": "internet-tools-monknow",
     "name": "MONKNOW",
     "url": "https://www.monknow.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "社区精选",
@@ -11812,8 +10769,8 @@
     "id": "internet-tools-anori",
     "name": "Anori",
     "url": "https://anori.app/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "社区精选",
@@ -11840,8 +10797,8 @@
     "id": "internet-tools-mue",
     "name": "Mue",
     "url": "https://muetab.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "社区精选",
@@ -11868,8 +10825,8 @@
     "id": "internet-tools-bonjourr",
     "name": "Bonjourr",
     "url": "https://bonjourr.fr/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "社区精选",
@@ -11896,8 +10853,8 @@
     "id": "internet-tools-weboasis",
     "name": "WebOasis",
     "url": "https://ndsamuelson.github.io/weboas-is/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "社区精选",
@@ -11926,8 +10883,8 @@
     "id": "internet-tools-r-startpages",
     "name": "r/startpages",
     "url": "https://www.reddit.com/r/startpages/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -11939,9 +10896,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -11952,8 +10909,8 @@
     "id": "internet-tools-8bitdash",
     "name": "8bitdash",
     "url": "https://www.8bitdash.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -11978,8 +10935,8 @@
     "id": "internet-tools-8-bit-dashboard",
     "name": "8 Bit Dashboard",
     "url": "https://8bitdashboard.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -12004,8 +10961,8 @@
     "id": "internet-tools-momentum",
     "name": "Momentum",
     "url": "https://momentumdash.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -12030,8 +10987,8 @@
     "id": "internet-tools-pacatus",
     "name": "⁠Pacatus",
     "url": "https://pacatus.app/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -12056,8 +11013,8 @@
     "id": "internet-tools-clippingmini",
     "name": "Clippingmini",
     "url": "https://www.clippingmini.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -12082,8 +11039,8 @@
     "id": "internet-tools-pearltrees",
     "name": "Pearltrees",
     "url": "https://www.pearltrees.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -12108,8 +11065,8 @@
     "id": "internet-tools-nextcloud",
     "name": "Nextcloud",
     "url": "https://apps.nextcloud.com/apps/bookmarks",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -12134,8 +11091,8 @@
     "id": "internet-tools-kbnt",
     "name": "⁠KBNT",
     "url": "https://kbnt.ghomistty.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -12160,8 +11117,8 @@
     "id": "internet-tools-cling",
     "name": "Cling",
     "url": "https://cling.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -12186,8 +11143,8 @@
     "id": "internet-tools-fmhy-startpage",
     "name": "FMHY Startpage",
     "url": "https://fmhy.net/startpage",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -12212,8 +11169,8 @@
     "id": "internet-tools-renewed-tab",
     "name": "Renewed Tab",
     "url": "https://renewedtab.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -12238,8 +11195,8 @@
     "id": "internet-tools-mtab",
     "name": "mtab",
     "url": "https://github.com/maxhu08/mtab",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "开源",
@@ -12251,9 +11208,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -12264,8 +11221,8 @@
     "id": "internet-tools-nighttab",
     "name": "nightTab",
     "url": "https://github.com/zombieFox/nightTab",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "开源",
@@ -12277,9 +11234,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -12290,8 +11247,8 @@
     "id": "internet-tools-tablissng",
     "name": "⁠TablissNG",
     "url": "https://github.com/BookCatKid/TablissNG/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "开源",
@@ -12303,9 +11260,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -12316,8 +11273,8 @@
     "id": "internet-tools-materialyounewtab",
     "name": "MaterialYouNewTab",
     "url": "https://github.com/prem-k-r/MaterialYouNewTab",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "开源",
@@ -12329,9 +11286,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -12342,8 +11299,8 @@
     "id": "internet-tools-hexagontab",
     "name": "hexagonTab",
     "url": "https://github.com/zombieFox/hexagonTab",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "开源",
@@ -12355,9 +11312,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -12368,8 +11325,8 @@
     "id": "internet-tools-perfect-home",
     "name": "Perfect Home",
     "url": "https://github.com/perfect-things/perfect-home",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "开源",
@@ -12381,9 +11338,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -12394,8 +11351,8 @@
     "id": "internet-tools-yet-another-speed-dial",
     "name": "Yet Another Speed Dial",
     "url": "https://github.com/conceptualspace/yet-another-speed-dial",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "开源",
@@ -12407,9 +11364,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -12420,8 +11377,8 @@
     "id": "internet-tools-infinity-new-tab",
     "name": "Infinity New Tab",
     "url": "https://en.infinitynewtab.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -12446,8 +11403,8 @@
     "id": "internet-tools-re-start",
     "name": "⁠Re-Start",
     "url": "https://github.com/refact0r/re-start",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "开源",
@@ -12459,9 +11416,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -12472,8 +11429,8 @@
     "id": "internet-tools-symbaloo",
     "name": "Symbaloo",
     "url": "https://www.symbaloo.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -12498,8 +11455,8 @@
     "id": "internet-tools-tixio",
     "name": "Tixio",
     "url": "https://tixio.io/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -12524,8 +11481,8 @@
     "id": "internet-tools-bento",
     "name": "Bento",
     "url": "https://github.com/migueravila/Bento",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "开源",
@@ -12537,9 +11494,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -12550,8 +11507,8 @@
     "id": "internet-tools-nightly",
     "name": "nightly",
     "url": "https://github.com/damnitharshit/nightly",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "开源",
@@ -12563,9 +11520,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -12576,8 +11533,8 @@
     "id": "internet-tools-protopage",
     "name": "Protopage",
     "url": "https://www.protopage.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -12602,8 +11559,8 @@
     "id": "internet-tools-tilde",
     "name": "tilde",
     "url": "https://github.com/xvvvyz/tilde",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "开源",
@@ -12615,9 +11572,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -12628,8 +11585,8 @@
     "id": "internet-tools-fluidity",
     "name": "Fluidity",
     "url": "https://prettycoffee.github.io/fluidity/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "开源",
@@ -12654,8 +11611,8 @@
     "id": "internet-tools-allmyfaves",
     "name": "AllMyFaves",
     "url": "https://allmyfaves.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -12680,8 +11637,8 @@
     "id": "internet-tools-combobox",
     "name": "Combobox",
     "url": "https://combobox.me",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -12762,8 +11719,8 @@
     "id": "internet-tools-recommended-browsers",
     "name": "Recommended Browsers",
     "url": "https://fmhy.net/beginners-guide#browsers",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -12784,35 +11741,6 @@
     "githubUrl": null,
     "platforms": [
       "web"
-    ]
-  },
-  {
-    "id": "internet-tools-android-browsers",
-    "name": "Android Browsers",
-    "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_browsers",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
-    "category": "internet-tools",
-    "tags": [
-      "免费",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Free",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": true,
-    "githubUrl": null,
-    "platforms": [
-      "web",
-      "android"
     ]
   },
   {
@@ -13002,9 +11930,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -13030,9 +11958,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -13043,8 +11971,8 @@
     "id": "internet-tools-firefox-extensions",
     "name": "Firefox Extensions",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_firefox_extensions",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -13056,9 +11984,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -13071,8 +11999,8 @@
     "id": "internet-tools-firefox",
     "name": "Firefox",
     "url": "https://www.firefox.com/",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "社区精选",
@@ -13099,7 +12027,7 @@
     "id": "internet-tools-firefox-trains",
     "name": "Firefox Trains",
     "url": "https://whattrainisitnow.com/",
-    "description": "Official Release Tracker · GitHub",
+    "description": "Official Release Tracker 节点 · GitHub",
     "descriptionEn": "Official Release Tracker / GitHub",
     "category": "internet-tools",
     "tags": [
@@ -13127,8 +12055,8 @@
     "id": "internet-tools-firefox-keyboard-shortcu",
     "name": "Firefox Keyboard Shortcuts",
     "url": "https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -13166,9 +12094,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -13192,9 +12120,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -13218,9 +12146,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -13280,89 +12208,11 @@
     "platforms": []
   },
   {
-    "id": "internet-tools-doqment",
-    "name": "⁠Doqment",
-    "url": "https://github.com/shivaprsd/doqment",
-    "description": "Firefox PDF Reader Dark Mode",
-    "descriptionEn": "Firefox PDF Reader Dark Mode",
-    "category": "internet-tools",
-    "tags": [
-      "开源",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Open Source",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": "https://github.com/shivaprsd/doqment",
-    "platforms": []
-  },
-  {
-    "id": "internet-tools-phoenix",
-    "name": "⁠Phoenix",
-    "url": "https://codeberg.org/celenity/Phoenix",
-    "description": "Firefox Privacy Tweak · GitHub · Warning",
-    "descriptionEn": "Firefox Privacy Tweak / GitHub / Warning",
-    "category": "internet-tools",
-    "tags": [
-      "开源",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Open Source",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "warning",
-    "warningText": "存在特定注意事项或使用限制，请参考说明。",
-    "warningTextEn": "Contains specific caveats or usage restrictions.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": "https://github.com/celenityy/Phoenix",
-    "platforms": []
-  },
-  {
-    "id": "internet-tools-arkenfox",
-    "name": "arkenfox",
-    "url": "https://github.com/arkenfox/user.js",
-    "description": "Firefox user.js Tweaks · Warning",
-    "descriptionEn": "Firefox user.js Tweaks / Warning",
-    "category": "internet-tools",
-    "tags": [
-      "开源",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Open Source",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "warning",
-    "warningText": "存在特定注意事项或使用限制，请参考说明。",
-    "warningTextEn": "Contains specific caveats or usage restrictions.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": "https://github.com/arkenfox/user.js",
-    "platforms": []
-  },
-  {
     "id": "internet-tools-chromium-extensions",
     "name": "Chromium Extensions",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_chrome_extensions",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -13374,9 +12224,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -13497,8 +12347,8 @@
     "id": "internet-tools-chrome-keyboard-shortcut",
     "name": "Chrome Keyboard Shortcuts",
     "url": "https://support.google.com/chrome/answer/157179",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -13549,7 +12399,7 @@
     "id": "internet-tools-webextension-org",
     "name": "WebExtension.org",
     "url": "https://webextension.org/",
-    "description": "开源 浏览器扩展 Indexes",
+    "description": "开源 Extension Indexes",
     "descriptionEn": "Open-Source Extension Indexes",
     "category": "internet-tools",
     "tags": [
@@ -13577,8 +12427,8 @@
     "id": "internet-tools-adblocking-extensions",
     "name": "Adblocking Extensions",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -13590,37 +12440,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": true,
-    "githubUrl": null,
-    "platforms": [
-      "web"
-    ]
-  },
-  {
-    "id": "internet-tools-translation-extensions",
-    "name": "Translation Extensions",
-    "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_translators",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
-    "category": "internet-tools",
-    "tags": [
-      "免费",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Free",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -13633,8 +12455,8 @@
     "id": "internet-tools-download-managers",
     "name": "Download Managers",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_download_managers",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -13646,35 +12468,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": true,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "internet-tools-video-downloaders",
-    "name": "Video Downloaders",
-    "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
-    "category": "internet-tools",
-    "tags": [
-      "免费",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Free",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -13685,8 +12481,8 @@
     "id": "internet-tools-image-downloaders",
     "name": "Image Downloaders",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_download_extensions",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -13698,9 +12494,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -13713,8 +12509,8 @@
     "id": "internet-tools-productivity---site-bloc",
     "name": "Productivity / Site Blocking",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_productivity_.2F_time_tracking",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -13726,9 +12522,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -13739,8 +12535,8 @@
     "id": "internet-tools-bookmark-managers",
     "name": "Bookmark Managers",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_bookmark_managers",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -13752,9 +12548,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -13765,8 +12561,8 @@
     "id": "internet-tools-tab-managers",
     "name": "Tab Managers",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tab_managers",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -13778,9 +12574,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -13876,7 +12672,7 @@
     ]
   },
   {
-    "id": "internet-tools-firefox",
+    "id": "internet-tools-firefox-2",
     "name": "Firefox",
     "url": "https://addons.mozilla.org/en-US/firefox/addon/scroll_anywhere/",
     "description": "Firefox · Chrome - Improves Scrolling Functionality",
@@ -13936,7 +12732,7 @@
     ]
   },
   {
-    "id": "internet-tools-firefox",
+    "id": "internet-tools-firefox-3",
     "name": "Firefox",
     "url": "https://github.com/vord1080/clipboard2file/",
     "description": "Firefox · Chrome - Upload Images from Clipboard",
@@ -13954,9 +12750,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
@@ -13967,7 +12763,7 @@
     "id": "internet-tools-crx-viewer",
     "name": "CRX Viewer",
     "url": "https://robwu.nl/crxviewer/",
-    "description": "View 浏览器扩展 Source Code",
+    "description": "View Extension Source Code",
     "descriptionEn": "View Extension Source Code",
     "category": "internet-tools",
     "tags": [
@@ -13995,7 +12791,7 @@
     "id": "internet-tools-chrome-stats",
     "name": "Chrome Stats",
     "url": "https://chrome-stats.com/",
-    "description": "Compare · Analyze Chrome, Firefox, and Edge 浏览器扩展s",
+    "description": "Compare · Analyze Chrome, Firefox, and Edge Extensions",
     "descriptionEn": "Compare / Analyze Chrome, Firefox, and Edge Extensions",
     "category": "internet-tools",
     "tags": [
@@ -14092,9 +12888,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -14163,7 +12959,7 @@
     "id": "internet-tools-crxinstaller",
     "name": "⁠CRXInstaller",
     "url": "https://addons.mozilla.org/en-US/firefox/addon/crxinstaller/",
-    "description": "Use Chrome 浏览器扩展s in Firefox Forks, Floorp, Librewolf, etc. · GitHub",
+    "description": "Use Chrome Extensions in Firefox Forks, Floorp, Librewolf, etc. · GitHub",
     "descriptionEn": "Use Chrome Extensions in Firefox Forks, Floorp, Librewolf, etc. / GitHub",
     "category": "internet-tools",
     "tags": [
@@ -14204,9 +13000,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -14260,9 +13056,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -14286,9 +13082,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -14312,9 +13108,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -14338,9 +13134,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -14404,7 +13200,7 @@
     ]
   },
   {
-    "id": "internet-tools-firefox",
+    "id": "internet-tools-firefox-4",
     "name": "Firefox",
     "url": "https://addons.mozilla.org/en-US/firefox/addon/print-edit-we/",
     "description": "Firefox · Chrome - Edit Pages to Make them Printable",
@@ -14435,7 +13231,7 @@
     "id": "internet-tools-read-aloud",
     "name": "Read Aloud",
     "url": "https://readaloud.app/",
-    "description": "Text to Speech · Discord · GitHub",
+    "description": "文本转语音 (TTS) · Discord · GitHub",
     "descriptionEn": "Text to Speech / Discord / GitHub",
     "category": "internet-tools",
     "tags": [
@@ -14528,9 +13324,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -14701,64 +13497,10 @@
     ]
   },
   {
-    "id": "internet-tools-circadian",
-    "name": "⁠Circadian",
-    "url": "https://github.com/Pasithea0/circadian-extension",
-    "description": "Auto-Adjust Display Color · Temperature",
-    "descriptionEn": "Auto-Adjust Display Color / Temperature",
-    "category": "internet-tools",
-    "tags": [
-      "开源",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Open Source",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": "https://github.com/Pasithea0/circadian-extension",
-    "platforms": [
-      "web"
-    ]
-  },
-  {
-    "id": "internet-tools-colorzilla",
-    "name": "ColorZilla",
-    "url": "https://www.colorzilla.com/",
-    "description": "Color Picker",
-    "descriptionEn": "Color Picker",
-    "category": "internet-tools",
-    "tags": [
-      "免费",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Free",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
     "id": "internet-tools-clippings",
     "name": "Clippings",
     "url": "https://aecreations.io/clippings/index.php",
-    "description": "Clipboard Manager",
+    "description": "剪贴板增强历史管理",
     "descriptionEn": "Clipboard Manager",
     "category": "internet-tools",
     "tags": [
@@ -14823,9 +13565,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -14877,9 +13619,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -14983,9 +13725,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -15063,9 +13805,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -15171,9 +13913,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -15227,9 +13969,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -15255,9 +13997,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -15283,9 +14025,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -15350,7 +14092,7 @@
     "id": "internet-tools-streak",
     "name": "Streak",
     "url": "https://www.streak.com/",
-    "description": "Email Engagement Tracker",
+    "description": "Email Engagement Tracker 节点",
     "descriptionEn": "Email Engagement Tracker",
     "category": "internet-tools",
     "tags": [
@@ -15389,9 +14131,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -15549,9 +14291,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -15724,7 +14466,7 @@
     "id": "internet-tools-multithreaded-download-m",
     "name": "Multithreaded Download Manager",
     "url": "https://addons.mozilla.org/en-US/firefox/addon/multithreaded-download-manager/",
-    "description": "高速多线程下载管理器",
+    "description": "Download Manager",
     "descriptionEn": "Download Manager",
     "category": "internet-tools",
     "tags": [
@@ -15763,9 +14505,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -15815,9 +14557,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -15843,9 +14585,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -16001,9 +14743,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -16027,9 +14769,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -16105,9 +14847,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -16176,7 +14918,7 @@
     "id": "internet-tools-chromium-web-store",
     "name": "chromium-web-store",
     "url": "https://github.com/NeverDecaf/chromium-web-store",
-    "description": "Add 浏览器扩展s to Ungoogled Chromium",
+    "description": "Add Extensions to Ungoogled Chromium",
     "descriptionEn": "Add Extensions to Ungoogled Chromium",
     "category": "internet-tools",
     "tags": [
@@ -16191,9 +14933,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
@@ -16236,7 +14978,7 @@
     "id": "internet-tools-extensity",
     "name": "Extensity",
     "url": "https://chromewebstore.google.com/detail/extensity/jjmflmamggggndanpgfnpelongoepncg",
-    "description": "浏览器扩展 Managers",
+    "description": "Extension Managers",
     "descriptionEn": "Extension Managers",
     "category": "internet-tools",
     "tags": [
@@ -16264,7 +15006,7 @@
     "id": "internet-tools-crx-downloader",
     "name": "⁠CRX Downloader",
     "url": "https://crx-downloader.com/",
-    "description": "Chrome 浏览器扩展 Downloader",
+    "description": "Chrome Extension 下载器",
     "descriptionEn": "Chrome Extension Downloader",
     "category": "internet-tools",
     "tags": [
@@ -16320,7 +15062,7 @@
     "id": "internet-tools-source-downloader",
     "name": "Source Downloader",
     "url": "https://mybrowseraddon.com/extension-source-downloader.html",
-    "description": "View 浏览器扩展 Source Code · Guide",
+    "description": "View Extension Source Code · Guide",
     "descriptionEn": "View Extension Source Code / Guide",
     "category": "internet-tools",
     "tags": [
@@ -16469,9 +15211,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -16717,9 +15459,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -16771,9 +15513,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -16896,7 +15638,7 @@
     "id": "internet-tools-userscripts",
     "name": "Userscripts",
     "url": "https://apps.apple.com/us/app/userscripts/id1463298887",
-    "description": "Safari 油猴用户脚本 Manager · GitHub",
+    "description": "Safari 油猴脚本 Manager · GitHub",
     "descriptionEn": "Safari Userscript Manager / GitHub",
     "category": "internet-tools",
     "tags": [
@@ -16924,7 +15666,7 @@
     "id": "internet-tools-cse",
     "name": "CSE",
     "url": "https://cizzuk.net/projects/cse/",
-    "description": "Custom 专用搜索引擎 · GitHub",
+    "description": "Custom 独立搜索引擎 · GitHub",
     "descriptionEn": "Custom Search Engine / GitHub",
     "category": "internet-tools",
     "tags": [
@@ -16963,9 +15705,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -16976,7 +15718,7 @@
     "id": "internet-tools-greasy-fork",
     "name": "Greasy Fork",
     "url": "https://greasyfork.org/",
-    "description": "油猴用户脚本 Stores",
+    "description": "油猴脚本 Stores",
     "descriptionEn": "Userscript Stores",
     "category": "internet-tools",
     "tags": [
@@ -17004,7 +15746,7 @@
     "id": "internet-tools-awesome-userscripts",
     "name": "Awesome Userscripts",
     "url": "https://github.com/awesome-scripts/awesome-userscripts",
-    "description": "Curated 油猴用户脚本 Indexes",
+    "description": "Curated 油猴脚本 Indexes",
     "descriptionEn": "Curated Userscript Indexes",
     "category": "internet-tools",
     "tags": [
@@ -17017,9 +15759,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -17032,8 +15774,8 @@
     "id": "internet-tools-google-search-userscript",
     "name": "Google Search Userscripts",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_google_search_tools",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -17045,9 +15787,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -17060,7 +15802,7 @@
     "id": "internet-tools-violentmonkey",
     "name": "Violentmonkey",
     "url": "https://violentmonkey.github.io/",
-    "description": "油猴用户脚本 Managers",
+    "description": "油猴脚本 Managers",
     "descriptionEn": "Userscript Managers",
     "category": "internet-tools",
     "tags": [
@@ -17145,36 +15887,10 @@
     ]
   },
   {
-    "id": "internet-tools-h5player",
-    "name": "h5player",
-    "url": "https://h5player.anzz.top/",
-    "description": "Add Features to HTML5 高画质视频多媒体播放器s · GitHub",
-    "descriptionEn": "Add Features to HTML5 Video Players / GitHub",
-    "category": "internet-tools",
-    "tags": [
-      "开源",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Open Source",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": "https://github.com/xxxily/h5player",
-    "platforms": []
-  },
-  {
     "id": "internet-tools-userscript-plus",
     "name": "Userscript-Plus",
     "url": "https://github.com/magicoflolis/Userscript-Plus",
-    "description": "Discover 油猴用户脚本s for Current Webpage",
+    "description": "Discover 油猴脚本s for Current Webpage",
     "descriptionEn": "Discover Userscripts for Current Webpage",
     "category": "internet-tools",
     "tags": [
@@ -17187,9 +15903,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -17371,9 +16087,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -17462,8 +16178,8 @@
     "id": "internet-tools-4chan-archives",
     "name": "4chan Archives",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_4chan_archives",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -17475,40 +16191,12 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
-    "githubUrl": null,
-    "platforms": []
-  },
-  {
-    "id": "internet-tools-internet-archive",
-    "name": "Internet Archive",
-    "url": "https://archive.org/",
-    "description": "Internet Archive · Tools",
-    "descriptionEn": "Internet Archive / Tools",
-    "category": "internet-tools",
-    "tags": [
-      "社区精选",
-      "免费",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Featured",
-      "Free",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": true,
-    "isStarred": true,
-    "isCollection": false,
     "githubUrl": null,
     "platforms": []
   },
@@ -17539,15 +16227,15 @@
     "isCollection": false,
     "githubUrl": null,
     "platforms": [
-      "web",
-      "mac"
+      "mac",
+      "web"
     ]
   },
   {
     "id": "internet-tools-downloader",
     "name": "Downloader",
     "url": "https://github.com/jsvine/waybackpack",
-    "description": "Downloader · Browser 浏览器扩展, 2 · Script · Auto Load",
+    "description": "下载器 · 浏览器扩展插件, 2 · Script · Auto Load",
     "descriptionEn": "Downloader / Browser Extension, 2 / Script / Auto Load",
     "category": "internet-tools",
     "tags": [
@@ -17562,23 +16250,23 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
     "githubUrl": "https://github.com/jsvine/waybackpack",
     "platforms": [
-      "web",
-      "mac"
+      "mac",
+      "web"
     ]
   },
   {
     "id": "internet-tools-web-archives",
     "name": "Web Archives",
     "url": "https://github.com/dessant/web-archives",
-    "description": "Browser 浏览器扩展s",
+    "description": "浏览器扩展插件s",
     "descriptionEn": "Browser Extensions",
     "category": "internet-tools",
     "tags": [
@@ -17593,9 +16281,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
@@ -17769,34 +16457,6 @@
     "platforms": []
   },
   {
-    "id": "internet-tools-web-screenshots",
-    "name": "⁠Web Screenshots",
-    "url": "https://www.dmdev.it/webscreens/",
-    "description": "Website Screenshot Archive",
-    "descriptionEn": "Website Screenshot Archive",
-    "category": "internet-tools",
-    "tags": [
-      "免费",
-      "网络分析",
-      "网页利器"
-    ],
-    "tagsEn": [
-      "Free",
-      "Web Tools",
-      "Browser"
-    ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
-    "isCollection": false,
-    "githubUrl": null,
-    "platforms": [
-      "web"
-    ]
-  },
-  {
     "id": "internet-tools-awesome-web-archiving",
     "name": "Awesome Web Archiving",
     "url": "https://github.com/iipc/awesome-web-archiving",
@@ -17813,9 +16473,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -17882,8 +16542,8 @@
     "id": "internet-tools-twitter-archiving",
     "name": "Twitter Archiving",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/#wiki_.25B7_twitter.2Fx_archiving",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -17895,9 +16555,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -17908,8 +16568,8 @@
     "id": "internet-tools-youtube-archiving",
     "name": "YouTube Archiving",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/#wiki_.25B7_youtube_archiving",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -17921,9 +16581,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -17934,7 +16594,7 @@
     "id": "internet-tools-archivebox",
     "name": "ArchiveBox",
     "url": "https://archivebox.io",
-    "description": "支持私有化自建部署 Web Archiving · GitHub",
+    "description": "支持自建部署 Web Archiving · GitHub",
     "descriptionEn": "Self-Hosted Web Archiving / GitHub",
     "category": "internet-tools",
     "tags": [
@@ -17957,15 +16617,15 @@
     "isCollection": false,
     "githubUrl": "https://github.com/archivebox/archivebox",
     "platforms": [
-      "web",
-      "docker"
+      "docker",
+      "web"
     ]
   },
   {
     "id": "internet-tools-httrack",
     "name": "HTTrack",
     "url": "https://www.httrack.com/",
-    "description": "Website Downloader · GitHub",
+    "description": "Website 下载器 · GitHub",
     "descriptionEn": "Website Downloader / GitHub",
     "category": "internet-tools",
     "tags": [
@@ -18040,9 +16700,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
@@ -18096,9 +16756,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -18150,9 +16810,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -18221,7 +16881,7 @@
     "id": "internet-tools-archiveweb-page",
     "name": "ArchiveWeb.page",
     "url": "https://archiveweb.page/",
-    "description": "Browser 浏览器扩展",
+    "description": "浏览器扩展插件",
     "descriptionEn": "Browser Extension",
     "category": "internet-tools",
     "tags": [
@@ -18262,9 +16922,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -18288,9 +16948,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -18303,7 +16963,7 @@
     "id": "internet-tools-wget2",
     "name": "Wget2",
     "url": "https://gitlab.com/gnuwget/wget2",
-    "description": "Website Downloaders",
+    "description": "Website 下载器s",
     "descriptionEn": "Website Downloaders",
     "category": "internet-tools",
     "tags": [
@@ -18398,9 +17058,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -18424,9 +17084,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -18452,9 +17112,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -18586,9 +17246,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -18642,9 +17302,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -18670,9 +17330,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -18685,7 +17345,7 @@
     "id": "internet-tools-instant-data-scraper",
     "name": "Instant Data Scraper",
     "url": "https://chromewebstore.google.com/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah",
-    "description": "Browser 浏览器扩展",
+    "description": "浏览器扩展插件",
     "descriptionEn": "Browser Extension",
     "category": "internet-tools",
     "tags": [
@@ -18726,9 +17386,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -18754,9 +17414,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -18780,9 +17440,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -18793,8 +17453,8 @@
     "id": "internet-tools-search-engine-osint",
     "name": "Search Engine OSINT",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25BA_search_tools",
-    "description": "网页去付费墙、重定向分析与浏览器高级工具",
-    "descriptionEn": "网页去付费墙、重定向分析与浏览器高级工具",
+    "description": "Paywall bypassers, redirect analysers, and advanced browser tools.",
+    "descriptionEn": "Paywall bypassers, redirect analysers, and advanced browser tools.",
     "category": "internet-tools",
     "tags": [
       "免费",
@@ -18806,9 +17466,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": true,
@@ -18929,7 +17589,7 @@
     "id": "internet-tools-mitaka",
     "name": "Mitaka",
     "url": "https://github.com/ninoseki/mitaka",
-    "description": "OSINT Search 浏览器扩展",
+    "description": "OSINT Search Extension",
     "descriptionEn": "OSINT Search Extension",
     "category": "internet-tools",
     "tags": [
@@ -18942,9 +17602,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -18970,9 +17630,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -19022,9 +17682,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -19284,9 +17944,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -19372,7 +18032,7 @@
     "platforms": []
   },
   {
-    "id": "internet-tools-uk-osint",
+    "id": "internet-tools-uk-osint-2",
     "name": "UK-OSINT",
     "url": "https://www.uk-osint.net/index.html",
     "description": "General Index",
@@ -19546,9 +18206,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -19663,7 +18323,7 @@
     "id": "internet-tools-awesome-search-engines",
     "name": "Awesome Search Engines",
     "url": "https://github.com/edoardottt/awesome-hacker-search-engines",
-    "description": "OSINT · Cybersecurity 专用搜索引擎s",
+    "description": "OSINT · Cybersecurity 独立搜索引擎s",
     "descriptionEn": "OSINT / Cybersecurity Search Engines",
     "category": "internet-tools",
     "tags": [
@@ -19676,9 +18336,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -19702,9 +18362,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -19728,9 +18388,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -19754,9 +18414,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
@@ -19780,9 +18440,9 @@
       "Web Tools",
       "Browser"
     ],
-    "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
     "isCollection": false,
