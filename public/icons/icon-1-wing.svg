@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <defs>
+    <linearGradient id="bg1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06B6D4" />
+      <stop offset="100%" stop-color="#2563EB" />
+    </linearGradient>
+    <linearGradient id="wing1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="100%" stop-color="#E0F2FE" />
+    </linearGradient>
+    <filter id="shadow1" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="6" stdDeviation="6" flood-color="#0284C7" flood-opacity="0.35" />
+    </filter>
+  </defs>
+  <!-- Rounded squircle container -->
+  <rect width="120" height="120" rx="32" fill="url(#bg1)" filter="url(#shadow1)" />
+  <!-- Free Wing & Ray Motif -->
+  <path d="M28 66L56 34C58 31.5 62 31.5 64 34L92 66C94.5 69 92.5 73.5 88.5 73.5H74L79 88C80 91 76 93.5 73.5 91.5L42 63.5C39.5 61 41.5 56.5 45.5 56.5H59L31.5 86C29.5 88 26 86 26.5 83L28 66Z" fill="url(#wing1)" fill-rule="evenodd" />
+  <!-- Center Energy Core Spark -->
+  <circle cx="60" cy="52" r="4.5" fill="#0284C7" />
+</svg>

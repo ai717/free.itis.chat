@@ -1,0 +1,108 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+const icons = [
+  {
+    id: 'icon-1-wing',
+    file: '/icons/icon-1-wing.svg',
+    name: '方案一：自由之翼与能量火花 (Free Wing & Spark)',
+    concept: '象征“自由、极速、无拘束、白嫖”。采用流线型自由飞翼结合中心能量闪烁点，动感极强，彰显开源社区的自由活力。',
+    tags: ['自由', '速度', '未来感', '明快青蓝'],
+  },
+  {
+    id: 'icon-2-cube',
+    file: '/icons/icon-2-cube.svg',
+    name: '方案二：极客立体魔方与数字晶体 (Geek Cube & Bento Node)',
+    concept: '象征“数字宝库、模块化聚合”。致敬 FMHY 维基与便当盒（Bento）立体节点，中间镶嵌浮空发光核心，科技极客感拉满。',
+    tags: ['开源宝库', '模块化', '极客深邃', '结构美学'],
+  },
+  {
+    id: 'icon-3-monogram',
+    file: '/icons/icon-3-monogram.svg',
+    name: '方案三：IF 极简几何互锁标 (Modern IF Monogram)',
+    concept: '专为品牌 "ITIS Free" 提炼的 "I" + "F" 粗线条几何互锁徽标。大厂级高级感，无论缩小到 16px 浏览器小图标还是放大到高清壁纸都极具辨识度。',
+    tags: ['经典品牌', '极高辨识度', '极简干练', '高清晰度'],
+  },
+  {
+    id: 'icon-4-shield',
+    file: '/icons/icon-4-shield.svg',
+    name: '方案四：避坑守护盾与终端光标 (Safeguard Shield & Terminal)',
+    concept: '直击“安全避坑、无广告、纯净保护”。圆润守护盾牌内嵌命令行终端 `> _`，代表为用户抵御所有流氓套路，守护纯粹开源自由。',
+    tags: ['安全避坑', '纯净防坑', '终端极客', '信任感'],
+  },
+];
+---
+
+<Layout
+  title="ITIS Free - 4 款品牌 Icon 设计方案备选"
+  description="专为 ITIS Free 开源数字资源导航站定制的 4 款高颜值现代矢量图标方案对比"
+>
+  <div class="max-w-5xl mx-auto py-8">
+    <div class="mb-10 text-center">
+      <div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-cyan-50 dark:bg-cyan-500/10 text-cyan-700 dark:text-cyan-400 text-xs font-semibold mb-3 border border-cyan-200 dark:border-cyan-500/20">
+        <span>🎨 视觉品牌系统</span>
+      </div>
+      <h1 class="text-3xl font-extrabold text-slate-900 dark:text-white tracking-tight">
+        ITIS Free 品牌 Icon 设计提案 (4 选 1)
+      </h1>
+      <p class="text-sm text-slate-500 dark:text-slate-400 mt-2 max-w-xl mx-auto">
+        针对「开源、免费、避坑、社区驱动」四大核心理念量身定制，支持多种尺寸与明暗模式自适应
+      </p>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+      {icons.map((item, idx) => (
+        <div class="p-6 rounded-3xl bg-white dark:bg-white/[0.02] border border-slate-200 dark:border-white/10 shadow-xs hover:shadow-xl hover:border-cyan-500/40 transition-all flex flex-col justify-between">
+          <div>
+            <div class="flex items-center justify-between mb-4">
+              <span class="text-xs font-mono font-bold text-cyan-600 dark:text-cyan-400">
+                OPTION 0{idx + 1}
+              </span>
+              <div class="flex items-center gap-1.5">
+                {item.tags.map((tag) => (
+                  <span class="text-[10px] px-2 py-0.5 rounded bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300">
+                    {tag}
+                  </span>
+                ))}
+              </div>
+            </div>
+
+            {/* Display in different sizes */}
+            <div class="flex items-center justify-around py-6 px-4 rounded-2xl bg-slate-50 dark:bg-black/40 border border-slate-100 dark:border-white/5 mb-5">
+              <div class="text-center">
+                <img src={item.file} alt={item.name} class="w-20 h-20 mx-auto rounded-2xl shadow-lg" />
+                <span class="text-[10px] text-slate-400 font-mono mt-2 block">大尺寸 (80px)</span>
+              </div>
+              <div class="text-center">
+                <img src={item.file} alt={item.name} class="w-12 h-12 mx-auto rounded-xl shadow-md" />
+                <span class="text-[10px] text-slate-400 font-mono mt-2 block">导航栏 (48px)</span>
+              </div>
+              <div class="text-center">
+                <img src={item.file} alt={item.name} class="w-7 h-7 mx-auto rounded-lg shadow-sm" />
+                <span class="text-[10px] text-slate-400 font-mono mt-2 block">Favicon (28px)</span>
+              </div>
+            </div>
+
+            <h3 class="text-lg font-bold text-slate-900 dark:text-white mb-2">
+              {item.name}
+            </h3>
+            <p class="text-xs leading-relaxed text-slate-600 dark:text-slate-400">
+              {item.concept}
+            </p>
+          </div>
+
+          <div class="mt-6 pt-4 border-t border-slate-100 dark:border-white/5 flex items-center justify-between">
+            <span class="text-xs font-mono text-slate-400">{item.file}</span>
+            <a
+              href={item.file}
+              target="_blank"
+              class="text-xs font-semibold text-cyan-600 dark:text-cyan-400 hover:underline"
+            >
+              查看 SVG 原图 ↗
+            </a>
+          </div>
+        </div>
+      ))}
+    </div>
+  </div>
+</Layout>

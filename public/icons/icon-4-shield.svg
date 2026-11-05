@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <defs>
+    <linearGradient id="bg4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0891B2" />
+      <stop offset="50%" stop-color="#0284C7" />
+      <stop offset="100%" stop-color="#1D4ED8" />
+    </linearGradient>
+    <linearGradient id="shieldGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="100%" stop-color="#E2E8F0" />
+    </linearGradient>
+  </defs>
+  <!-- Background squircle -->
+  <rect width="120" height="120" rx="32" fill="url(#bg4)" />
+  <!-- Elegant Shield Outer Contour -->
+  <path d="M60 22C74 22 88 27 88 38C88 64 74 85 60 96C46 85 32 64 32 38C32 27 46 22 60 22Z" fill="url(#shieldGrad)" />
+  <!-- Inner Terminal Command Prompt: > _ (Clean Geek Safeguard) -->
+  <path d="M48 44L58 54L48 64" stroke="#0284C7" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+  <line x1="64" y1="64" x2="74" y2="64" stroke="#0284C7" stroke-width="5" stroke-linecap="round" />
+</svg>
