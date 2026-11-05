@@ -1,20 +1,17 @@
 import React, { useState } from 'react';
-import {
-  ExternalLink,
-  Copy,
-  Check,
-  GitPullRequest,
-  Star,
-  RefreshCw,
-  Info,
-  Github,
-  Monitor,
-  Apple,
-  Smartphone,
-  Globe,
-  Container,
-} from 'lucide-react';
+import { ExternalLink, Copy, Check, GitPullRequest } from 'lucide-react';
 import type { ResourceItem } from '../types';
+import {
+  FmhyInfoIcon,
+  FmhyStarIcon,
+  FmhyRedirectIcon,
+  GithubIcon,
+  WindowsIcon,
+  AppleIcon,
+  AndroidIcon,
+  DockerIcon,
+  WebIcon,
+} from './icons/FmhyIcons';
 
 interface ResourceListItemProps {
   item: ResourceItem;
@@ -64,15 +61,15 @@ export const ResourceListItem: React.FC<ResourceListItemProps> = ({ item }) => {
           {/* FMHY Bullet dot */}
           <span className="text-slate-400 dark:text-slate-600 font-bold select-none text-xs mr-0.5">•</span>
 
-          {/* FMHY Special Leading Icons: ⭐ Starred Gold or 🔄 Loop / Collection */}
+          {/* Real Vector FMHY Icons: Star or Redirect (No default emoji!) */}
           {isStarred && (
-            <span title="FMHY 社区推荐 · 标杆必装" className="inline-flex items-center text-amber-500 shrink-0">
-              <Star className="w-4 h-4 fill-amber-400 text-amber-500" />
+            <span title="FMHY 社区推荐 · 标杆必装" className="inline-flex items-center shrink-0">
+              <FmhyStarIcon className="w-3.5 h-3.5" />
             </span>
           )}
           {isCollection && !isStarred && (
-            <span title="专题合集 / 专项清单" className="inline-flex items-center text-cyan-600 dark:text-cyan-400 shrink-0">
-              <RefreshCw className="w-3.5 h-3.5" />
+            <span title="专题合集 / 专项清单" className="inline-flex items-center shrink-0">
+              <FmhyRedirectIcon className="w-3.5 h-3.5" />
             </span>
           )}
 
@@ -93,44 +90,40 @@ export const ResourceListItem: React.FC<ResourceListItemProps> = ({ item }) => {
             {item.description}
           </span>
 
-          {/* Trailing FMHY Badge Slash: / GitHub / Info / Platforms */}
+          {/* Trailing FMHY Real Vector Badge Slash: / GitHub / Info / Platforms */}
           <div className="inline-flex items-center gap-1.5 ml-auto sm:ml-1 text-xs shrink-0 text-slate-400">
             <span className="opacity-40">/</span>
 
-            {/* GitHub Source Icon */}
+            {/* Real Vector GitHub Icon */}
             {githubLink && (
               <a
                 href={githubLink}
                 target="_blank"
                 rel="noopener noreferrer"
-                title="查看 GitHub 开源仓库源码"
-                className="p-0.5 rounded text-slate-500 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white transition-colors"
+                title="查看 GitHub 官方开源仓库源码"
+                className="p-0.5 rounded text-slate-500 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white transition-colors flex items-center"
               >
-                <Github className="w-3.5 h-3.5" />
+                <GithubIcon className="w-3.5 h-3.5" />
               </a>
             )}
 
-            {/* Info Icon (FMHY ℹ️ with Tooltip) */}
+            {/* Real Vector FMHY Info Icon (Blue circular badge, no emoji!) */}
             <div className="relative inline-flex items-center">
               <button
                 onMouseEnter={() => setShowInfo(true)}
                 onMouseLeave={() => setShowInfo(false)}
                 onClick={() => setShowInfo(!showInfo)}
                 title="避坑与使用说明"
-                className={`p-0.5 rounded transition-colors ${
-                  isWarning
-                    ? 'text-amber-600 dark:text-amber-400'
-                    : 'text-cyan-600 dark:text-cyan-400 hover:opacity-80'
-                }`}
+                className="p-0.5 rounded hover:opacity-80 transition-opacity flex items-center cursor-pointer"
               >
-                <Info className="w-3.5 h-3.5" />
+                <FmhyInfoIcon className="w-3.5 h-3.5" />
               </button>
 
               {/* Floating Tooltip */}
               {showInfo && (
                 <div className="absolute right-0 bottom-full mb-2 z-50 w-64 p-2.5 rounded-xl bg-white dark:bg-[#0d1527] border border-slate-200 dark:border-cyan-500/30 shadow-xl text-xs text-slate-700 dark:text-slate-200 pointer-events-none animate-in fade-in zoom-in-95">
                   <div className="font-semibold mb-1 flex items-center gap-1 text-[11px] text-cyan-700 dark:text-cyan-300">
-                    <Info className="w-3 h-3" />
+                    <FmhyInfoIcon className="w-3 h-3" />
                     <span>避坑与说明指引</span>
                   </div>
                   <p className="text-[11px] leading-relaxed text-slate-600 dark:text-slate-300">
@@ -140,13 +133,13 @@ export const ResourceListItem: React.FC<ResourceListItemProps> = ({ item }) => {
               )}
             </div>
 
-            {/* Platform Mini Icons (FMHY Platform Indicators) */}
-            <div className="hidden sm:inline-flex items-center gap-1 opacity-70">
-              {hasWin && <Monitor className="w-3 h-3" title="支持 Windows" />}
-              {hasMac && <Apple className="w-3 h-3" title="支持 macOS" />}
-              {hasAndroid && <Smartphone className="w-3 h-3" title="支持 Android / 移动端" />}
-              {hasWeb && <Globe className="w-3 h-3" title="网页端 / 浏览器扩展" />}
-              {hasDocker && <Container className="w-3 h-3" title="支持 Docker / 自建部署" />}
+            {/* Real Vector Platform Badges (Simple Icons / Vector SVG) */}
+            <div className="hidden sm:inline-flex items-center gap-1.5 opacity-70">
+              {hasWin && <WindowsIcon className="w-3 h-3" title="支持 Windows" />}
+              {hasMac && <AppleIcon className="w-3 h-3" title="支持 macOS / iOS" />}
+              {hasAndroid && <AndroidIcon className="w-3 h-3" title="支持 Android" />}
+              {hasWeb && <WebIcon className="w-3 h-3" title="网页端 / 浏览器扩展" />}
+              {hasDocker && <DockerIcon className="w-3.5 h-3.5" title="支持 Docker / 自建部署" />}
             </div>
           </div>
         </div>
@@ -154,7 +147,7 @@ export const ResourceListItem: React.FC<ResourceListItemProps> = ({ item }) => {
         {/* Warning callout banner if high-priority warning */}
         {isWarning && item.warningText && (
           <div className="mt-1.5 flex items-start gap-1.5 text-[11px] text-amber-900 dark:text-amber-300/90 bg-amber-50/90 dark:bg-amber-950/20 border border-amber-200 dark:border-amber-500/20 px-2 py-0.5 rounded-md">
-            <span className="font-semibold shrink-0">⚠️ 避坑提醒:</span>
+            <span className="font-semibold shrink-0">避坑提醒:</span>
             <span className="truncate">{item.warningText}</span>
           </div>
         )}
@@ -175,7 +168,7 @@ export const ResourceListItem: React.FC<ResourceListItemProps> = ({ item }) => {
         <button
           onClick={handleCopy}
           title="复制链接"
-          className="p-1 rounded-md text-slate-400 hover:text-slate-700 dark:hover:text-slate-200 hover:bg-slate-100 dark:hover:bg-white/5 transition-colors"
+          className="p-1 rounded-md text-slate-400 hover:text-slate-700 dark:hover:text-slate-200 hover:bg-slate-100 dark:hover:bg-white/5 transition-colors cursor-pointer"
         >
           {copied ? <Check className="w-3.5 h-3.5 text-emerald-600" /> : <Copy className="w-3.5 h-3.5" />}
         </button>
@@ -183,7 +176,7 @@ export const ResourceListItem: React.FC<ResourceListItemProps> = ({ item }) => {
         <button
           onClick={handlePrRedirect}
           title="反馈修正"
-          className="p-1 rounded-md text-slate-400 hover:text-cyan-600 dark:hover:text-cyan-400 hover:bg-slate-100 dark:hover:bg-white/5 transition-colors"
+          className="p-1 rounded-md text-slate-400 hover:text-cyan-600 dark:hover:text-cyan-400 hover:bg-slate-100 dark:hover:bg-white/5 transition-colors cursor-pointer"
         >
           <GitPullRequest className="w-3.5 h-3.5" />
         </button>

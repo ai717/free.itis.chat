@@ -49,14 +49,18 @@ const currentPath = Astro.url.pathname;
           <ThemeToggle client:load />
         </div>
 
-        {/* Submit Resource Button - Strictly Single Line */}
+        {/* Submit Resource Button - Strictly Single Line with Real Vector Plus Icon */}
         <a
           href="https://github.com/ai717/free.itis.chat/issues/new?template=resource_submit.md"
           target="_blank"
           rel="noopener noreferrer"
           class="shrink-0 inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-semibold bg-gradient-to-r from-cyan-600 to-blue-600 dark:from-cyan-500 dark:to-blue-600 hover:opacity-95 text-white shadow-xs transition-all cursor-pointer whitespace-nowrap active:scale-95"
         >
-          <span>➕ 提交资源</span>
+          <svg viewBox="0 0 24 24" class="w-3.5 h-3.5" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="12" y1="5" x2="12" y2="19" />
+            <line x1="5" y1="12" x2="19" y2="12" />
+          </svg>
+          <span>提交资源</span>
         </a>
 
         {/* External Link to Main itis.chat */}
