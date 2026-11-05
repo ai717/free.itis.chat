@@ -24,7 +24,7 @@ export const ResourceCard: React.FC<ResourceCardProps> = ({ item, className = ''
     e.preventDefault();
     e.stopPropagation();
     // Redirects to GitHub PR/Issue modification page
-    const githubUrl = `https://github.com/itis-chat/free.itis.chat/issues/new?title=%5B%E8%B5%84%E6%BA%90%E4%BF%AE%E6%94%B9%5D+${encodeURIComponent(item.name)}&body=${encodeURIComponent(`### 修改资源：${item.name}\n- 现有链接：${item.url}\n- 所属分类：${item.category}\n- 建议修改内容：`)}`;
+    const githubUrl = `https://github.com/ai717/free.itis.chat/issues/new?title=%5B%E8%B5%84%E6%BA%90%E4%BF%AE%E6%94%B9%5D+${encodeURIComponent(item.name)}&body=${encodeURIComponent(`### 修改资源：${item.name}\n- 现有链接：${item.url}\n- 所属分类：${item.category}\n- 建议修改内容：`)}`;
     window.open(githubUrl, '_blank', 'noopener,noreferrer');
   };
 
