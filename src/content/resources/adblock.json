@@ -74,7 +74,7 @@
   {
     "id": "bypass-paywalls-clean",
     "name": "Bypass Paywalls Clean",
-    "url": "https://github.com/bpc-clone/bpc_updates",
+    "url": "https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean",
     "description": "轻松绕过全球数百家主流媒体和学术新闻网站（如彭博社、纽时、华尔街日报、Medium 等）的弹窗付费墙限制。",
     "category": "adblock",
     "tags": ["开源脚本", "破除付费墙", "学术阅读", "海外资讯"],

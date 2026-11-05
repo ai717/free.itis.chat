@@ -38,7 +38,7 @@
   {
     "id": "cherry-studio",
     "name": "Cherry Studio",
-    "url": "https://cherry-studio.net",
+    "url": "https://cherry-ai.com",
     "description": "为专业极客打造的多模型聚合桌面客户端，支持 30+ 厂商 API 及本地 Ollama、LM Studio，无缝管理知识库与 Prompt。",
     "category": "ai",
     "tags": ["开源", "客户端", "多模型聚合", "知识库", "全平台"],
