@@ -2,6 +2,7 @@ import React, { useState, useMemo } from 'react';
 import type { ResourceItem } from '../types';
 import { ResourceCard } from './ResourceCard';
 import { Sparkles, Shield, AlertTriangle } from 'lucide-react';
+import { useCurrentLang } from '../utils/i18n';
 
 interface BentoGridProps {
   resources: ResourceItem[];
@@ -14,20 +15,26 @@ export const BentoGrid: React.FC<BentoGridProps> = ({
   defaultCategory = 'all',
   showFilters = true,
 }) => {
+  const [lang] = useCurrentLang();
   const [selectedTag, setSelectedTag] = useState<string | null>(null);
   const [statusFilter, setStatusFilter] = useState<'all' | 'verified' | 'warning'>('all');
+  const isEn = lang === 'en';
 
   // Extract all unique tags
   const allTags = useMemo(() => {
     const set = new Set<string>();
-    resources.forEach((r) => r.tags.forEach((t) => set.add(t)));
+    resources.forEach((r) => {
+      const tagsList = isEn && r.tagsEn ? r.tagsEn : r.tags;
+      tagsList.forEach((t) => set.add(t));
+    });
     return Array.from(set).slice(0, 14); // show top popular tags
-  }, [resources]);
+  }, [resources, isEn]);
 
   // Filter items
   const filtered = useMemo(() => {
     return resources.filter((item) => {
-      if (selectedTag && !item.tags.includes(selectedTag)) return false;
+      const itemTags = isEn && item.tagsEn ? item.tagsEn : item.tags;
+      if (selectedTag && !itemTags.includes(selectedTag)) return false;
       if (statusFilter !== 'all' && item.safeguardStatus !== statusFilter) return false;
       return true;
     });
@@ -41,7 +48,7 @@ export const BentoGrid: React.FC<BentoGridProps> = ({
           {/* Tag Filter Pills */}
           <div className="flex items-center gap-1.5 flex-wrap text-xs">
             <span className="text-slate-400 font-medium mr-1 flex items-center gap-1">
-              <Sparkles className="w-3.5 h-3.5 text-cyan-400" /> 标签精选:
+              <Sparkles className="w-3.5 h-3.5 text-cyan-400" /> {isEn ? 'Featured Tags:' : '标签精选:'}
             </span>
             <button
               onClick={() => setSelectedTag(null)}
@@ -51,7 +58,7 @@ export const BentoGrid: React.FC<BentoGridProps> = ({
                   : 'text-slate-400 hover:text-slate-200 hover:bg-white/5'
               }`}
             >
-              全部
+              {isEn ? 'All' : '全部'}
             </button>
             {allTags.map((tag) => (
               <button
@@ -78,7 +85,7 @@ export const BentoGrid: React.FC<BentoGridProps> = ({
                   : 'text-slate-400 hover:text-white'
               }`}
             >
-              所有状态
+              {isEn ? 'All Status' : '所有状态'}
             </button>
             <button
               onClick={() => setStatusFilter('verified')}
@@ -88,7 +95,7 @@ export const BentoGrid: React.FC<BentoGridProps> = ({
                   : 'text-slate-400 hover:text-emerald-400'
               }`}
             >
-              <Shield className="w-3 h-3" /> 社区验证
+              <Shield className="w-3 h-3" /> {isEn ? 'Verified' : '社区验证'}
             </button>
             <button
               onClick={() => setStatusFilter('warning')}
@@ -98,7 +105,7 @@ export const BentoGrid: React.FC<BentoGridProps> = ({
                   : 'text-slate-400 hover:text-amber-400'
               }`}
             >
-              <AlertTriangle className="w-3 h-3" /> 含避坑提示
+              <AlertTriangle className="w-3 h-3" /> {isEn ? 'Caveats Only' : '含避坑提示'}
             </button>
           </div>
         </div>
@@ -107,7 +114,9 @@ export const BentoGrid: React.FC<BentoGridProps> = ({
       {/* Grid Layout */}
       {filtered.length === 0 ? (
         <div className="text-center py-20 px-4 rounded-2xl bg-white/[0.01] border border-white/5">
-          <p className="text-slate-400 text-base">没有找到匹配该标签或筛选条件的资源</p>
+          <p className="text-slate-400 text-base">
+            {isEn ? 'No resources matching the selected tag or filter' : '没有找到匹配该标签或筛选条件的资源'}
+          </p>
           <button
             onClick={() => {
               setSelectedTag(null);
@@ -115,7 +124,7 @@ export const BentoGrid: React.FC<BentoGridProps> = ({
             }}
             className="mt-3 px-4 py-1.5 rounded-lg text-xs font-medium text-cyan-400 bg-cyan-500/10 hover:bg-cyan-500/20 border border-cyan-500/20"
           >
-            重置所有筛选
+            {isEn ? 'Reset all filters' : '重置所有筛选'}
           </button>
         </div>
       ) : (

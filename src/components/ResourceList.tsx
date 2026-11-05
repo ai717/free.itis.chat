@@ -198,18 +198,22 @@ export const ResourceList: React.FC<ResourceListProps> = ({
                     <span className="w-2.5 h-2.5 rounded-full bg-cyan-500"></span>
                     <h2 className="text-xl font-bold text-slate-900 dark:text-white tracking-tight flex items-center gap-2">
                       <a href={`#${cat.id}`} className="hover:text-cyan-600 dark:hover:text-cyan-400 transition-colors">
-                        {cat.name}
+                        {lang === 'en' ? cat.enName : cat.name}
                       </a>
-                      <span className="text-xs font-mono font-normal text-slate-500 dark:text-slate-400">
-                        ({cat.enName})
-                      </span>
+                      {lang === 'zh' && (
+                        <span className="text-xs font-mono font-normal text-slate-500 dark:text-slate-400">
+                          ({cat.enName})
+                        </span>
+                      )}
                     </h2>
                   </div>
                   <span className="text-xs font-mono text-slate-600 dark:text-slate-400 px-2 py-0.5 rounded bg-slate-100 dark:bg-slate-800">
-                    {items.length} 条收录
+                    {lang === 'en' ? `${items.length} items` : `${items.length} 条收录`}
                   </span>
                 </div>
-                <p className="text-xs text-slate-500 dark:text-slate-400">{cat.description}</p>
+                <p className="text-xs text-slate-500 dark:text-slate-400">
+                  {lang === 'en' && cat.descriptionEn ? cat.descriptionEn : cat.description}
+                </p>
 
                 <div className="space-y-2 mt-3">
                   {items.map((item) => (

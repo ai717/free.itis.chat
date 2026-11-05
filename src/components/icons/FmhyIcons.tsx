@@ -7,9 +7,9 @@ interface IconProps {
 }
 
 // 1. FMHY 极简扁平化单色信息图标 (24x24 严格居中)
-export const FmhyInfoIcon: React.FC<IconProps> = ({ className = 'w-3.5 h-3.5', title = '使用与避坑指引' }) => (
+export const FmhyInfoIcon: React.FC<IconProps> = ({ className = 'w-3.5 h-3.5', title }) => (
   <svg viewBox="0 0 24 24" className={className} fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" xmlns="http://www.w3.org/2000/svg">
-    <title>{title}</title>
+    {title && <title>{title}</title>}
     <circle cx="12" cy="12" r="9" />
     <line x1="12" y1="8" x2="12" y2="8.01" />
     <line x1="12" y1="11" x2="12" y2="16" />
@@ -17,17 +17,17 @@ export const FmhyInfoIcon: React.FC<IconProps> = ({ className = 'w-3.5 h-3.5', t
 );
 
 // 2. FMHY 纯正扁平化单色星标 (Flat Solid Amber, 无深色描边)
-export const FmhyStarIcon: React.FC<IconProps> = ({ className = 'w-3.5 h-3.5', title = 'FMHY 重点推荐' }) => (
+export const FmhyStarIcon: React.FC<IconProps> = ({ className = 'w-3.5 h-3.5', title }) => (
   <svg viewBox="0 0 24 24" className={className} fill="#EAB308" xmlns="http://www.w3.org/2000/svg">
-    <title>{title}</title>
+    {title && <title>{title}</title>}
     <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" />
   </svg>
 );
 
 // 3. FMHY 极简扁平化循环/专题重定向图标 (24x24 严格居中)
-export const FmhyRedirectIcon: React.FC<IconProps> = ({ className = 'w-3.5 h-3.5', title = '专题合集 / 专项清单' }) => (
+export const FmhyRedirectIcon: React.FC<IconProps> = ({ className = 'w-3.5 h-3.5', title }) => (
   <svg viewBox="0 0 24 24" className={className} fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" xmlns="http://www.w3.org/2000/svg">
-    <title>{title}</title>
+    {title && <title>{title}</title>}
     <polyline points="17 1 21 5 17 9" />
     <path d="M3 11V9a4 4 0 0 1 4-4h14" />
     <polyline points="7 23 3 19 7 15" />
@@ -36,49 +36,49 @@ export const FmhyRedirectIcon: React.FC<IconProps> = ({ className = 'w-3.5 h-3.5
 );
 
 // 4. 真实官方 GitHub 剪影 (Simple Icons 24x24 完整居中扁平)
-export const GithubIcon: React.FC<IconProps> = ({ className = 'w-3.5 h-3.5', title = 'GitHub 源码' }) => (
+export const GithubIcon: React.FC<IconProps> = ({ className = 'w-3.5 h-3.5', title }) => (
   <svg viewBox="0 0 24 24" className={className} fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-    <title>{title}</title>
+    {title && <title>{title}</title>}
     <path fillRule="evenodd" clipRule="evenodd" d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.53 1.032 1.53 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z" />
   </svg>
 );
 
 // 5. 真实官方 Windows 图标 (24x24 严格居中扁平)
-export const WindowsIcon: React.FC<IconProps> = ({ className = 'w-3.5 h-3.5', title = '支持 Windows' }) => (
+export const WindowsIcon: React.FC<IconProps> = ({ className = 'w-3.5 h-3.5', title }) => (
   <svg viewBox="0 0 24 24" className={className} fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-    <title>{title}</title>
+    {title && <title>{title}</title>}
     <path d="M0 3.449L9.75 2.1v9.451H0V3.449zm10.749-1.5L24 0v11.551H10.749V1.949zM0 12.55h9.75v9.451L0 20.65v-8.1zm10.749 0H24V24l-13.251-1.95V12.55z" />
   </svg>
 );
 
 // 6. 真实官方 Apple 图标 (24x24 严格居中扁平)
-export const AppleIcon: React.FC<IconProps> = ({ className = 'w-3.5 h-3.5', title = '支持 macOS / iOS' }) => (
+export const AppleIcon: React.FC<IconProps> = ({ className = 'w-3.5 h-3.5', title }) => (
   <svg viewBox="0 0 24 24" className={className} fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-    <title>{title}</title>
+    {title && <title>{title}</title>}
     <path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.81-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M15.97 6.37c.61-.75 1.04-1.8 1.01-2.87-.96.04-2.13.65-2.8 1.44-.57.65-1.08 1.73-.97 2.76 1.06.08 2.15-.58 2.76-1.33z" />
   </svg>
 );
 
 // 7. 真实官方 Android 图标 (24x24 严格居中扁平)
-export const AndroidIcon: React.FC<IconProps> = ({ className = 'w-3.5 h-3.5', title = '支持 Android' }) => (
+export const AndroidIcon: React.FC<IconProps> = ({ className = 'w-3.5 h-3.5', title }) => (
   <svg viewBox="0 0 24 24" className={className} fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-    <title>{title}</title>
+    {title && <title>{title}</title>}
     <path d="M17.523 15.3414c-.5511 0-.9993-.4486-.9993-.9997s.4482-.9993.9993-.9993c.551 0 .9993.4482.9993.9993.0001.5511-.4483.9997-.9993.9997m-11.046 0c-.5511 0-.9993-.4486-.9993-.9997s.4482-.9993.9993-.9993c.5511 0 .9993.4482.9993.9993 0 .5511-.4482.9997-.9993.9997m11.4045-6.02l1.9973-3.4592a.416.416 0 00-.1521-.5676.416.416 0 00-.5676.1521l-2.0223 3.503C15.5902 8.4111 13.8533 8.0805 12 8.0805c-1.8533 0-3.5902.3306-5.1367.8692L4.841 5.4467a.4161.4161 0 00-.5677-.1521.4157.4157 0 00-.1521.5676l1.9973 3.4592C2.6889 11.1867.3432 14.6589 0 18.761h24c-.3432-4.1021-2.6889-7.5743-6.1185-9.4396" />
   </svg>
 );
 
 // 8. 真实官方 Docker 图标 (Simple Icons 24x24 严格居中扁平)
-export const DockerIcon: React.FC<IconProps> = ({ className = 'w-3.5 h-3.5', title = '支持 Docker / 自建容器' }) => (
+export const DockerIcon: React.FC<IconProps> = ({ className = 'w-3.5 h-3.5', title }) => (
   <svg viewBox="0 0 24 24" className={className} fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-    <title>{title}</title>
+    {title && <title>{title}</title>}
     <path d="M13.983 11.078h2.119a.186.186 0 00.186-.185V9.006a.186.186 0 00-.186-.186h-2.119a.185.185 0 00-.185.185v1.888c0 .102.083.185.185.185m-2.954-5.43h2.118a.186.186 0 00.186-.186V3.574a.186.186 0 00-.186-.185h-2.118a.185.185 0 00-.185.185v1.888c0 .102.082.186.185.186m0 2.716h2.118a.187.187 0 00.186-.186V6.29a.186.186 0 00-.186-.185h-2.118a.185.185 0 00-.185.185v1.887c0 .103.082.186.185.186m-2.93 0h2.12a.186.186 0 00.184-.186V6.29a.185.185 0 00-.185-.185H8.1a.185.185 0 00-.185.185v1.887c0 .103.083.186.185.186m-2.964 0h2.119a.186.186 0 00.185-.186V6.29a.185.185 0 00-.185-.185H5.136a.186.186 0 00-.186.185v1.887c0 .103.084.186.186.186m5.893 2.714h2.119a.186.186 0 00.186-.185V9.006a.186.186 0 00-.186-.186h-2.119a.185.185 0 00-.185.185v1.888c0 .102.082.185.185.185m-2.93 0h2.12a.185.185 0 00.184-.185V9.006a.185.185 0 00-.184-.186h-2.12a.185.185 0 00-.184.185v1.888c0 .102.083.185.185.185m-2.964 0h2.119a.185.185 0 00.185-.185V9.006a.185.185 0 00-.185-.186H5.136a.186.186 0 00-.186.185v1.888c0 .102.084.185.186.185m-2.928 0h2.119a.185.185 0 00.185-.185V9.006a.185.185 0 00-.185-.186H2.208a.186.186 0 00-.186.185v1.888c0 .102.084.185.186.185M23.99 12.3c-.347-.234-.73-.393-1.139-.467-.282-.05-.568-.063-.85-.04-.51.042-1.01.176-1.48.397-.56.262-1.07.625-1.52 1.07-.37.368-.68.796-.92 1.266-.18.353-.31.728-.39 1.115-.05.253-.08.51-.08.769 0 .49.09.97.26 1.427.24.64.62 1.218 1.11 1.7.53.52 1.18.91 1.88 1.15.54.18 1.11.27 1.69.26.17 0 .34-.01.51-.03.54-.07 1.06-.24 1.54-.51.52-.3.97-.69 1.33-1.15.35-.45.61-.96.76-1.51.14-.52.19-1.06.15-1.6-.05-.62-.23-1.22-.53-1.76-.32-.57-.76-1.06-1.28-1.45-.19-.14-.39-.26-.6-.36l-.328.232c-.015.01-.03.022-.046.033l-.004.003c-1.137.817-2.502 1.258-3.9 1.258H.477a.477.477 0 00-.477.477v.068C0 19.344 4.542 22.8 11.002 22.8c6.333 0 10.82-3.324 11.085-7.798.016-.277.016-.555 0-.832a4.47 4.47 0 001.903-1.87z" />
   </svg>
 );
 
 // 9. 真实 Web/Chrome 浏览器矢量图标 (24x24 严格居中扁平)
-export const WebIcon: React.FC<IconProps> = ({ className = 'w-3.5 h-3.5', title = '网页端 / 浏览器扩展' }) => (
+export const WebIcon: React.FC<IconProps> = ({ className = 'w-3.5 h-3.5', title }) => (
   <svg viewBox="0 0 24 24" className={className} fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" xmlns="http://www.w3.org/2000/svg">
-    <title>{title}</title>
+    {title && <title>{title}</title>}
     <circle cx="12" cy="12" r="10" />
     <line x1="2" y1="12" x2="22" y2="12" />
     <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z" />

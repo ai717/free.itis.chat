@@ -104,14 +104,14 @@ export const ResourceCard: React.FC<ResourceCardProps> = ({ item, className = ''
           <div className="flex items-center gap-1.5">
             <button
               onClick={handleCopy}
-              title="复制链接"
+              title={lang === 'en' ? 'Copy Link' : '复制链接'}
               className="p-1.5 rounded-lg text-slate-400 hover:text-slate-200 hover:bg-white/5 border border-transparent hover:border-white/10 transition-colors"
             >
               {copied ? <Check className="w-3.5 h-3.5 text-emerald-400" /> : <Copy className="w-3.5 h-3.5" />}
             </button>
             <button
               onClick={handlePrRedirect}
-              title="反馈修正 / 提交更新"
+              title={lang === 'en' ? 'Suggest Edit / Feedback' : '反馈修正 / 提交更新'}
               className="p-1.5 rounded-lg text-slate-400 hover:text-cyan-400 hover:bg-white/5 border border-transparent hover:border-white/10 transition-colors"
             >
               <GitPullRequest className="w-3.5 h-3.5" />

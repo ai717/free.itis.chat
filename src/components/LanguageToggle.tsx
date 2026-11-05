@@ -31,7 +31,7 @@ export const LanguageToggle: React.FC = () => {
       <button
         type="button"
         onClick={() => setLang('zh')}
-        title="切换为简体中文"
+        title={lang === 'en' ? 'Switch to Simplified Chinese' : '切换为简体中文'}
         className={`px-2 py-0.5 rounded transition-colors cursor-pointer ${
           lang === 'zh'
             ? 'bg-cyan-600 text-white font-bold'

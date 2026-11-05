@@ -1,7 +1,9 @@
 import React, { useEffect, useState } from 'react';
 import { Sun, Moon } from 'lucide-react';
+import { useCurrentLang } from '../utils/i18n';
 
 export const ThemeToggle: React.FC = () => {
+  const [lang] = useCurrentLang();
   const [theme, setTheme] = useState<'light' | 'dark'>('light');
   const [mounted, setMounted] = useState(false);
 
@@ -23,10 +25,16 @@ export const ThemeToggle: React.FC = () => {
     }
   };
 
+  const isEn = lang === 'en';
+  const titleText = isEn
+    ? (theme === 'light' ? 'Switch to Dark Mode' : 'Switch to Light Mode')
+    : (theme === 'light' ? '切换为暗色模式' : '切换为明亮模式');
+  const ariaLabelText = isEn ? 'Toggle theme' : '切换主题';
+
   if (!mounted) {
     return (
       <button
-        aria-label="切换主题"
+        aria-label={ariaLabelText}
         className="p-2 rounded-xl text-slate-500 hover:text-slate-900 dark:text-slate-400 dark:hover:text-white border border-slate-200 dark:border-white/10 transition-colors"
       >
         <Sun className="w-4 h-4" />
@@ -37,9 +45,9 @@ export const ThemeToggle: React.FC = () => {
   return (
     <button
       onClick={toggleTheme}
-      title={theme === 'light' ? '切换为暗色模式' : '切换为明亮模式'}
-      aria-label="切换明暗主题"
-      className="p-2 rounded-xl text-slate-600 hover:text-slate-900 hover:bg-slate-100 dark:text-slate-400 dark:hover:text-white dark:hover:bg-white/5 border border-slate-200 dark:border-white/10 transition-colors"
+      title={titleText}
+      aria-label={ariaLabelText}
+      className="p-2 rounded-xl text-slate-600 hover:text-slate-900 hover:bg-slate-100 dark:text-slate-400 dark:hover:text-white dark:hover:bg-white/5 border border-slate-200 dark:border-white/10 transition-colors cursor-pointer"
     >
       {theme === 'light' ? (
         <Moon className="w-4 h-4 text-slate-700" />

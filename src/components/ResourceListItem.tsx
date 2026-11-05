@@ -35,7 +35,12 @@ export const ResourceListItem: React.FC<ResourceListItemProps> = ({ item }) => {
   const handlePrRedirect = (e: React.MouseEvent) => {
     e.preventDefault();
     e.stopPropagation();
-    const githubUrl = `https://github.com/ai717/free.itis.chat/issues/new?title=%5B%E8%B5%84%E6%BA%90%E4%BF%AE%E6%94%B9%5D+${encodeURIComponent(item.name)}&body=${encodeURIComponent(`### 修改资源：${item.name}\n- 现有链接：${item.url}\n- 所属分类：${item.category}\n- 建议修改内容：`)}`;
+    const isEn = lang === 'en';
+    const title = isEn ? `[Resource Edit] ${item.name}` : `[资源修改] ${item.name}`;
+    const body = isEn
+      ? `### Suggest Edit: ${item.name}\n- Current URL: ${item.url}\n- Category: ${item.category}\n- Suggested Modifications:`
+      : `### 修改资源：${item.name}\n- 现有链接：${item.url}\n- 所属分类：${item.category}\n- 建议修改内容：`;
+    const githubUrl = `https://github.com/ai717/free.itis.chat/issues/new?title=${encodeURIComponent(title)}&body=${encodeURIComponent(body)}`;
     window.open(githubUrl, '_blank', 'noopener,noreferrer');
   };
 

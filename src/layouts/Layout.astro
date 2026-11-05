@@ -4,12 +4,16 @@ import '../styles/global.css';
 
 interface Props {
   title?: string;
+  titleEn?: string;
   description?: string;
+  descriptionEn?: string;
 }
 
 const {
   title = 'ITIS Free 免费开源数字资源导航',
+  titleEn = 'ITIS Free - Digital Free Resources Navigation Hub',
   description = '互联网上最大的干净、无广告、社区驱动的中文数字免费资源导航，开源！白嫖！避坑！',
+  descriptionEn = 'The cleanest, ad-free, community-driven digital free resource navigation wiki. 100% Free · Open Source · Trap-free.',
 } = Astro.props;
 ---
 
@@ -21,8 +25,8 @@ const {
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="apple-touch-icon" href="/favicon.svg" />
     <meta name="generator" content={Astro.generator} />
-    <title>{title}</title>
-    <meta name="description" content={description} />
+    <title id="site-title" data-title-zh={title} data-title-en={titleEn}>{title}</title>
+    <meta id="site-meta-desc" name="description" data-desc-zh={description} data-desc-en={descriptionEn} content={description} />
 
     {/* Open Graph / Social Media */}
     <meta property="og:type" content="website" />
@@ -59,15 +63,34 @@ const {
       document.documentElement.lang = lang === 'zh' ? 'zh-CN' : 'en';
       document.documentElement.setAttribute('data-lang', lang);
 
-      // Early DOM updater for static text
-      document.addEventListener('DOMContentLoaded', () => {
+      // Early DOM updater for static text, title and meta description
+      function applyLangTexts() {
         const currentLang = document.documentElement.getAttribute('data-lang') || 'zh';
+
+        const titleEl = document.getElementById('site-title');
+        if (titleEl) {
+          const t = currentLang === 'en' ? titleEl.getAttribute('data-title-en') : titleEl.getAttribute('data-title-zh');
+          if (t) document.title = t;
+        }
+
+        const descEl = document.getElementById('site-meta-desc');
+        if (descEl) {
+          const d = currentLang === 'en' ? descEl.getAttribute('data-desc-en') : descEl.getAttribute('data-desc-zh');
+          if (d) descEl.setAttribute('content', d);
+        }
+
         const dualNodes = document.querySelectorAll('[data-i18n-zh]');
         dualNodes.forEach((node) => {
           const text = currentLang === 'en' ? node.getAttribute('data-i18n-en') : node.getAttribute('data-i18n-zh');
-          if (text) node.textContent = text;
+          if (text !== null && text !== undefined) node.textContent = text;
         });
-      });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', applyLangTexts);
+      } else {
+        applyLangTexts();
+      }
     </script>
   </head>
   <body class="bg-slate-50 dark:bg-[#090D16] text-slate-900 dark:text-slate-100 min-h-screen flex flex-col relative antialiased selection:bg-cyan-500/20 selection:text-cyan-800 dark:selection:text-cyan-200">

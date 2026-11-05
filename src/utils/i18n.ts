@@ -147,6 +147,19 @@ export function useCurrentLang(): [Lang, (nextLang: Lang) => void] {
  */
 export function updateStaticDOMTexts(lang: Lang) {
   if (typeof document === 'undefined') return;
+
+  // Update Page Title and Meta Description
+  const titleEl = document.getElementById('site-title');
+  if (titleEl) {
+    const t = lang === 'en' ? titleEl.getAttribute('data-title-en') : titleEl.getAttribute('data-title-zh');
+    if (t) document.title = t;
+  }
+  const descEl = document.getElementById('site-meta-desc');
+  if (descEl) {
+    const d = lang === 'en' ? descEl.getAttribute('data-desc-en') : descEl.getAttribute('data-desc-zh');
+    if (d) descEl.setAttribute('content', d);
+  }
+
   const elements = document.querySelectorAll<HTMLElement>('[data-i18n]');
   elements.forEach((el) => {
     const key = el.getAttribute('data-i18n') as TranslationKey | null;
@@ -159,7 +172,7 @@ export function updateStaticDOMTexts(lang: Lang) {
   zhEnDualElements.forEach((el) => {
     const zhText = el.getAttribute('data-i18n-zh');
     const enText = el.getAttribute('data-i18n-en');
-    if (lang === 'en' && enText) {
+    if (lang === 'en' && enText !== null && enText !== undefined) {
       el.textContent = enText;
     } else if (lang === 'zh' && zhText) {
       el.textContent = zhText;
