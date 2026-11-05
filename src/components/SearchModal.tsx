@@ -2,24 +2,38 @@ import React, { useState, useEffect, useRef } from 'react';
 import Fuse from 'fuse.js';
 import { Search, X, ExternalLink, Command, Tag, ShieldCheck, AlertTriangle } from 'lucide-react';
 import type { ResourceItem } from '../types';
+import { useCurrentLang } from '../utils/i18n';
+import { FmhyStarIcon, FmhyInfoIcon, GithubIcon } from './icons/FmhyIcons';
 
 interface SearchModalProps {
   resources: ResourceItem[];
 }
 
+const CATEGORY_LABELS: Record<string, { zh: string; en: string }> = {
+  ai: { zh: 'AI 神器', en: 'AI Tools' },
+  adblock: { zh: '去广告', en: 'Adblock' },
+  media: { zh: '影音媒体', en: 'Media' },
+  software: { zh: '系统工具', en: 'Software' },
+  books: { zh: '电子书', en: 'Books' },
+  dev: { zh: '开发者', en: 'Dev' },
+};
+
 export const SearchModal: React.FC<SearchModalProps> = ({ resources }) => {
+  const [lang] = useCurrentLang();
   const [isOpen, setIsOpen] = useState(false);
   const [query, setQuery] = useState('');
   const [selectedIndex, setSelectedIndex] = useState(0);
   const inputRef = useRef<HTMLInputElement>(null);
 
-  // Initialize Fuse.js for ultra-fast local full-text search
+  // Initialize Fuse.js with bilingual search keys
   const fuse = React.useMemo(() => {
     return new Fuse(resources, {
       keys: [
         { name: 'name', weight: 0.4 },
-        { name: 'description', weight: 0.3 },
-        { name: 'tags', weight: 0.2 },
+        { name: 'description', weight: 0.25 },
+        { name: 'descriptionEn', weight: 0.25 },
+        { name: 'tags', weight: 0.15 },
+        { name: 'tagsEn', weight: 0.15 },
         { name: 'category', weight: 0.1 },
       ],
       threshold: 0.35,
@@ -79,11 +93,13 @@ export const SearchModal: React.FC<SearchModalProps> = ({ resources }) => {
       <button
         onClick={() => setIsOpen(true)}
         className="flex items-center gap-2.5 px-3 py-1.5 rounded-xl bg-slate-100 dark:bg-white/[0.04] hover:bg-slate-200/80 dark:hover:bg-white/[0.08] border border-slate-200 dark:border-white/10 text-slate-500 hover:text-slate-800 dark:text-slate-400 dark:hover:text-slate-200 text-xs transition-all cursor-pointer group"
-        aria-label="快速全局搜索"
+        aria-label={lang === 'en' ? 'Quick Global Search' : '快速全局搜索'}
       >
         <Search className="w-3.5 h-3.5 text-slate-400 group-hover:text-cyan-600 dark:group-hover:text-cyan-400 transition-colors" />
-        <span className="hidden sm:inline">全站资源毫秒级搜索...</span>
-        <span className="sm:hidden">搜索</span>
+        <span className="hidden sm:inline">
+          {lang === 'en' ? 'Search resources...' : '全站资源毫秒级搜索...'}
+        </span>
+        <span className="sm:hidden">{lang === 'en' ? 'Search' : '搜索'}</span>
         <kbd className="hidden sm:inline-flex items-center gap-0.5 px-1.5 py-0.5 rounded bg-white dark:bg-white/5 border border-slate-300 dark:border-white/10 text-[10px] font-mono text-slate-500 dark:text-slate-400">
           <Command className="w-2.5 h-2.5" /> K
         </kbd>
@@ -91,7 +107,7 @@ export const SearchModal: React.FC<SearchModalProps> = ({ resources }) => {
 
       {/* Modal Backdrop & Container */}
       {isOpen && (
-        <div className="fixed inset-0 z-50 flex items-start justify-center pt-20 px-4 sm:px-6">
+        <div className="fixed inset-0 z-50 flex items-start justify-center pt-8 sm:pt-20 px-4 sm:px-6">
           {/* Backdrop */}
           <div
             className="fixed inset-0 bg-black/50 dark:bg-black/70 backdrop-blur-sm transition-opacity"
@@ -112,7 +128,11 @@ export const SearchModal: React.FC<SearchModalProps> = ({ resources }) => {
                   setSelectedIndex(0);
                 }}
                 onKeyDown={handleKeyDownInModal}
-                placeholder="键入关键词（如: AI, 免费, 视频, 局域网, 密码, 书籍）..."
+                placeholder={
+                  lang === 'en'
+                    ? 'Type a keyword (e.g., AI, Adblock, Streaming, Books, Dev)...'
+                    : '键入关键词（如: AI, 免费, 视频, 局域网, 密码, 书籍）...'
+                }
                 className="w-full bg-transparent text-sm text-slate-900 dark:text-slate-100 placeholder-slate-400 outline-none"
               />
               {query && (
@@ -132,12 +152,22 @@ export const SearchModal: React.FC<SearchModalProps> = ({ resources }) => {
             <div className="max-h-[60vh] overflow-y-auto p-2 divide-y divide-slate-100 dark:divide-white/[0.03]">
               {results.length === 0 ? (
                 <div className="py-12 text-center text-slate-500 dark:text-slate-400 text-sm">
-                  未找到与 “<span className="text-cyan-600 dark:text-cyan-400">{query}</span>” 相关的开源资源
-                  <p className="text-xs text-slate-400 mt-1">换个关键词试试，或直接在 GitHub 提交新资源推荐！</p>
+                  {lang === 'en' ? 'No matching open-source resources found for ' : '未找到与 “'}
+                  <span className="text-cyan-600 dark:text-cyan-400">{query}</span>
+                  {lang === 'en' ? '' : '” 相关的开源资源'}
+                  <p className="text-xs text-slate-400 mt-1">
+                    {lang === 'en'
+                      ? 'Try another keyword or submit a new resource on GitHub!'
+                      : '换个关键词试试，或直接在 GitHub 提交新资源推荐！'}
+                  </p>
                 </div>
               ) : (
                 results.map((item, idx) => {
                   const isSelected = idx === selectedIndex;
+                  const isStarred = item.isStarred || item.featured;
+                  const desc = lang === 'en' && item.descriptionEn ? item.descriptionEn : item.description;
+                  const catLabel = CATEGORY_LABELS[item.category]?.[lang] || item.category;
+
                   return (
                     <div
                       key={item.id}
@@ -150,7 +180,13 @@ export const SearchModal: React.FC<SearchModalProps> = ({ resources }) => {
                       }`}
                     >
                       <div className="flex-1 min-w-0">
-                        <div className="flex items-center gap-2">
+                        {/* Title Row with FMHY Icons */}
+                        <div className="flex items-center gap-1.5 flex-wrap">
+                          {isStarred && (
+                            <span title="FMHY Star" className="shrink-0">
+                              <FmhyStarIcon className="w-3.5 h-3.5 shrink-0" />
+                            </span>
+                          )}
                           <span
                             className={`font-semibold text-sm ${
                               isSelected ? 'text-cyan-700 dark:text-cyan-300' : 'text-slate-800 dark:text-slate-200'
@@ -158,15 +194,22 @@ export const SearchModal: React.FC<SearchModalProps> = ({ resources }) => {
                           >
                             {item.name}
                           </span>
-                          <span className="text-[11px] font-mono text-slate-400 truncate max-w-[200px]">
+                          <span className="text-[10px] px-1.5 py-0.5 rounded bg-cyan-50 dark:bg-cyan-500/10 text-cyan-700 dark:text-cyan-400 border border-cyan-200 dark:border-cyan-500/20 font-medium">
+                            {catLabel}
+                          </span>
+                          <span className="text-[11px] font-mono text-slate-400 truncate max-w-[180px]">
                             {item.url.replace(/^https?:\/\//, '')}
                           </span>
                         </div>
+
+                        {/* Description */}
                         <p className="text-xs text-slate-500 dark:text-slate-400 line-clamp-1 mt-1 font-normal">
-                          {item.description}
+                          {desc}
                         </p>
+
+                        {/* Tags */}
                         <div className="flex items-center gap-1.5 mt-2">
-                          {item.tags.map((tag) => (
+                          {(lang === 'en' && item.tagsEn ? item.tagsEn : item.tags).map((tag) => (
                             <span
                               key={tag}
                               className="text-[10px] px-1.5 py-0.5 rounded bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300 flex items-center gap-1"
@@ -178,14 +221,17 @@ export const SearchModal: React.FC<SearchModalProps> = ({ resources }) => {
                         </div>
                       </div>
 
+                      {/* Right Verification Status & Direct Icon */}
                       <div className="flex flex-col items-end gap-1.5 shrink-0 pt-0.5">
                         {item.safeguardStatus === 'verified' ? (
                           <span className="inline-flex items-center gap-1 text-[11px] text-emerald-700 dark:text-emerald-400 font-medium">
-                            <ShieldCheck className="w-3.5 h-3.5" /> 纯净
+                            <ShieldCheck className="w-3.5 h-3.5" />
+                            {lang === 'en' ? 'Clean' : '纯净'}
                           </span>
                         ) : (
                           <span className="inline-flex items-center gap-1 text-[11px] text-amber-700 dark:text-amber-400 font-medium">
-                            <AlertTriangle className="w-3.5 h-3.5" /> 避坑
+                            <AlertTriangle className="w-3.5 h-3.5" />
+                            {lang === 'en' ? 'Caution' : '避坑'}
                           </span>
                         )}
                         <ExternalLink
@@ -205,13 +251,17 @@ export const SearchModal: React.FC<SearchModalProps> = ({ resources }) => {
               <div className="flex items-center gap-3">
                 <span>
                   <kbd className="px-1 py-0.5 rounded bg-white dark:bg-white/5 border border-slate-300 dark:border-white/10 font-mono">↑</kbd>{' '}
-                  <kbd className="px-1 py-0.5 rounded bg-white dark:bg-white/5 border border-slate-300 dark:border-white/10 font-mono">↓</kbd> 切换
+                  <kbd className="px-1 py-0.5 rounded bg-white dark:bg-white/5 border border-slate-300 dark:border-white/10 font-mono">↓</kbd>{' '}
+                  {lang === 'en' ? 'Navigate' : '切换'}
                 </span>
                 <span>
-                  <kbd className="px-1.5 py-0.5 rounded bg-white dark:bg-white/5 border border-slate-300 dark:border-white/10 font-mono">Enter</kbd> 直达
+                  <kbd className="px-1.5 py-0.5 rounded bg-white dark:bg-white/5 border border-slate-300 dark:border-white/10 font-mono">Enter</kbd>{' '}
+                  {lang === 'en' ? 'Visit' : '直达'}
                 </span>
               </div>
-              <span className="text-cyan-600 dark:text-cyan-400/80">⚡ 毫秒级模糊检索</span>
+              <span className="text-cyan-600 dark:text-cyan-400/80">
+                {lang === 'en' ? '⚡ Sub-millisecond Fuzzy Search' : '⚡ 毫秒级模糊检索'}
+              </span>
             </div>
           </div>
         </div>

@@ -2,6 +2,7 @@ import React, { useState, useMemo } from 'react';
 import type { ResourceItem, CategoryMeta } from '../types';
 import { ResourceListItem } from './ResourceListItem';
 import { Search, Tag, ShieldCheck, AlertTriangle } from 'lucide-react';
+import { useCurrentLang } from '../utils/i18n';
 
 interface ResourceListProps {
   resources: ResourceItem[];
@@ -16,6 +17,7 @@ export const ResourceList: React.FC<ResourceListProps> = ({
   groupByCategory = false,
   activeCategory,
 }) => {
+  const [lang] = useCurrentLang();
   const [filterQuery, setFilterQuery] = useState('');
   const [selectedTag, setSelectedTag] = useState<string | null>(null);
   const [statusFilter, setStatusFilter] = useState<'all' | 'verified' | 'warning'>('all');
@@ -73,7 +75,7 @@ export const ResourceList: React.FC<ResourceListProps> = ({
               type="text"
               value={filterQuery}
               onChange={(e) => setFilterQuery(e.target.value)}
-              placeholder="在当前列表中即时筛选名称、功能或标签..."
+              placeholder={lang === 'en' ? 'Filter in real time by name, feature, or platform...' : '在当前列表中即时筛选名称、功能或标签...'}
               className="w-full bg-slate-50 dark:bg-black/40 text-xs sm:text-sm pl-9 pr-4 py-2 rounded-xl border border-slate-200 dark:border-white/10 text-slate-800 dark:text-slate-200 placeholder-slate-400 focus:outline-none focus:border-cyan-500/60 focus:bg-white transition-colors"
             />
             {filterQuery && (
@@ -96,7 +98,7 @@ export const ResourceList: React.FC<ResourceListProps> = ({
                   : 'text-slate-500 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
               }`}
             >
-              全部 ({filteredItems.length})
+              {lang === 'en' ? 'All' : '全部'} ({filteredItems.length})
             </button>
             <button
               onClick={() => setStatusFilter('verified')}
@@ -106,7 +108,7 @@ export const ResourceList: React.FC<ResourceListProps> = ({
                   : 'text-slate-500 dark:text-slate-400 hover:text-emerald-600 dark:hover:text-emerald-400'
               }`}
             >
-              <ShieldCheck className="w-3.5 h-3.5" /> 仅看验证
+              <ShieldCheck className="w-3.5 h-3.5" /> {lang === 'en' ? 'Verified Only' : '仅看验证'}
             </button>
             <button
               onClick={() => setStatusFilter('warning')}
@@ -116,7 +118,7 @@ export const ResourceList: React.FC<ResourceListProps> = ({
                   : 'text-slate-500 dark:text-slate-400 hover:text-amber-600 dark:hover:text-amber-400'
               }`}
             >
-              <AlertTriangle className="w-3.5 h-3.5" /> 仅看避坑
+              <AlertTriangle className="w-3.5 h-3.5" /> {lang === 'en' ? 'Warnings Only' : '仅看避坑'}
             </button>
           </div>
         </div>

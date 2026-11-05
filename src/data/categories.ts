@@ -7,6 +7,7 @@ export const CATEGORIES: CategoryMeta[] = [
     enName: 'AI & Models',
     icon: 'Sparkles',
     description: '本地大语言模型、开源生图工作流、离线转写与免费算力平台',
+    descriptionEn: 'Local LLMs, node-based diffusion workflows, offline transcription, and free compute tiers.',
     gradient: 'from-cyan-500 to-blue-600',
   },
   {
@@ -15,6 +16,7 @@ export const CATEGORIES: CategoryMeta[] = [
     enName: 'Adblock & Privacy',
     icon: 'ShieldCheck',
     description: '彻底告别弹窗流氓、开箱即用 DNS 过滤、端到端开源密码库与隐私保护',
+    descriptionEn: 'Zero popups, network-wide DNS filtering, audited password vaults, and anti-telemetry tools.',
     gradient: 'from-emerald-400 to-teal-600',
   },
   {
@@ -23,6 +25,7 @@ export const CATEGORIES: CategoryMeta[] = [
     enName: 'Media & Streaming',
     icon: 'Film',
     description: '防吸血 BT/PT 下载、无损音乐流媒体、干净纯粹的视频播放与剪辑工具',
+    descriptionEn: 'Anti-leech torrent clients, lossless music streaming, modern media players, and video utilities.',
     gradient: 'from-purple-500 to-indigo-600',
   },
   {
@@ -31,6 +34,7 @@ export const CATEGORIES: CategoryMeta[] = [
     enName: 'Software & Tools',
     icon: 'Terminal',
     description: '全平台局域网秒传、毫秒级本地搜索、深度卸载与自建远程桌面',
+    descriptionEn: 'Cross-platform local sharing, instant disk search, clean uninstallers, and self-hosted remote desktop.',
     gradient: 'from-blue-500 to-cyan-500',
   },
   {
@@ -39,6 +43,7 @@ export const CATEGORIES: CategoryMeta[] = [
     enName: 'Books & Academic',
     icon: 'BookOpen',
     description: '全球影子图书馆、开源安卓阅读器、文献检索与书籍管理格式转换',
+    descriptionEn: 'Shadow libraries, open-source e-readers, scholarly search engines, and metadata managers.',
     gradient: 'from-amber-400 to-orange-500',
   },
   {
@@ -47,6 +52,7 @@ export const CATEGORIES: CategoryMeta[] = [
     enName: 'Dev & Self-Hosted',
     icon: 'Code2',
     description: '单 VPS 搞定自动化 DevOps、轻量离线 API 调试与去追踪开源套件',
+    descriptionEn: 'Single-node PaaS, offline API debuggers, telemetry-free toolchains, and homelab stacks.',
     gradient: 'from-pink-500 to-rose-600',
   },
 ];

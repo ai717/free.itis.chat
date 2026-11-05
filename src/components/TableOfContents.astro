@@ -22,9 +22,13 @@ const categoryCounts = CATEGORIES.map((cat) => ({
         <svg viewBox="0 0 24 24" class="w-3.5 h-3.5 text-cyan-600 dark:text-cyan-400" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
           <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2" />
         </svg>
-        <span>分类索引</span>
+        <span data-i18n-zh="分类索引" data-i18n-en="Categories">分类索引</span>
       </span>
-      <span class="text-[11px] font-mono text-cyan-700 dark:text-cyan-400 bg-cyan-50 dark:bg-cyan-500/10 px-2 py-0.5 rounded-full border border-cyan-200 dark:border-cyan-500/20">
+      <span
+        class="text-[11px] font-mono text-cyan-700 dark:text-cyan-400 bg-cyan-50 dark:bg-cyan-500/10 px-2 py-0.5 rounded-full border border-cyan-200 dark:border-cyan-500/20"
+        data-i18n-zh={`共 ${all.length} 条`}
+        data-i18n-en={`${all.length} items`}
+      >
         共 {all.length} 条
       </span>
     </div>
@@ -45,9 +49,13 @@ const categoryCounts = CATEGORIES.map((cat) => ({
           }`} fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
             <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" />
           </svg>
-          <span>首页精选</span>
+          <span data-i18n-zh="首页精选" data-i18n-en="Featured Top">首页精选</span>
         </span>
-        <span class="text-[10px] font-mono text-slate-400 px-1.5 py-0.5 rounded bg-slate-100 dark:bg-white/[0.02]">
+        <span
+          class="text-[10px] font-mono text-slate-400 px-1.5 py-0.5 rounded bg-slate-100 dark:bg-white/[0.02]"
+          data-i18n-zh="总览"
+          data-i18n-en="Top"
+        >
           总览
         </span>
       </a>
@@ -68,7 +76,7 @@ const categoryCounts = CATEGORIES.map((cat) => ({
               <span class={`w-1.5 h-1.5 rounded-full transition-colors ${
                 isActive ? 'bg-cyan-600 dark:bg-cyan-400' : 'bg-slate-400 dark:bg-slate-500 group-hover:bg-cyan-600 dark:group-hover:bg-cyan-400'
               }`}></span>
-              <span>{cat.name.split(' ')[0]}</span>
+              <span data-i18n-zh={cat.name} data-i18n-en={cat.enName}>{cat.name}</span>
             </span>
             <span class="text-[10px] font-mono text-slate-400 px-1.5 py-0.5 rounded bg-slate-100 dark:bg-white/[0.02]">
               {cat.count}

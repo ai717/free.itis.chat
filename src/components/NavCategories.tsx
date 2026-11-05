@@ -1,6 +1,7 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { ChevronDown } from 'lucide-react';
 import type { CategoryMeta } from '../types';
+import { useCurrentLang } from '../utils/i18n';
 
 interface NavCategoriesProps {
   categories: CategoryMeta[];
@@ -8,7 +9,7 @@ interface NavCategoriesProps {
   visibleCount?: number;
 }
 
-const SHORT_NAMES: Record<string, string> = {
+const SHORT_NAMES_ZH: Record<string, string> = {
   ai: 'AI 神器',
   adblock: '去广告',
   media: '影音媒体',
@@ -17,11 +18,21 @@ const SHORT_NAMES: Record<string, string> = {
   dev: '开发者',
 };
 
+const SHORT_NAMES_EN: Record<string, string> = {
+  ai: 'AI Tools',
+  adblock: 'Adblock',
+  media: 'Media',
+  software: 'Software',
+  books: 'Books',
+  dev: 'Dev',
+};
+
 export const NavCategories: React.FC<NavCategoriesProps> = ({
   categories,
   currentPath,
-  visibleCount = 4, // 默认在顶部显示前 4 个，其余收纳进「更多」
+  visibleCount = 4,
 }) => {
+  const [lang] = useCurrentLang();
   const [isOpen, setIsOpen] = useState(false);
   const dropdownRef = useRef<HTMLDivElement>(null);
 
@@ -51,6 +62,8 @@ export const NavCategories: React.FC<NavCategoriesProps> = ({
     };
   }, []);
 
+  const shortNames = lang === 'en' ? SHORT_NAMES_EN : SHORT_NAMES_ZH;
+
   return (
     <nav className="hidden lg:flex items-center gap-1 pl-3 border-l border-slate-200 dark:border-white/10 text-xs xl:text-sm shrink-0">
       {/* 首页精选 */}
@@ -62,13 +75,13 @@ export const NavCategories: React.FC<NavCategoriesProps> = ({
             : 'text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-white/[0.03]'
         }`}
       >
-        首页精选
+        {lang === 'en' ? 'Featured' : '首页精选'}
       </a>
 
       {/* 默认显示的分类 */}
       {visibleCategories.map((cat) => {
         const isActive = currentPath === `/${cat.id}` || currentPath === `/${cat.id}/`;
-        const shortName = SHORT_NAMES[cat.id] || cat.name.split(' ')[0];
+        const shortName = shortNames[cat.id] || (lang === 'en' ? cat.enName : cat.name.split(' ')[0]);
         return (
           <a
             key={cat.id}
@@ -96,7 +109,7 @@ export const NavCategories: React.FC<NavCategoriesProps> = ({
                 : 'text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-white/[0.03]'
             }`}
           >
-            <span>更多分类</span>
+            <span>{lang === 'en' ? 'More' : '更多分类'}</span>
             <ChevronDown
               className={`w-3.5 h-3.5 transition-transform duration-200 ${
                 isOpen ? 'rotate-180 text-cyan-600 dark:text-cyan-400' : 'text-slate-400'
@@ -111,8 +124,8 @@ export const NavCategories: React.FC<NavCategoriesProps> = ({
           {isOpen && (
             <div className="absolute left-0 mt-1.5 w-80 min-w-[300px] rounded-2xl bg-white dark:bg-[#0B111E] border border-slate-200 dark:border-white/10 shadow-xl shadow-slate-950/10 dark:shadow-cyan-950/30 p-2 z-50 backdrop-blur-xl animate-in fade-in zoom-in-95 duration-100 space-y-1">
               <div className="px-3 py-1.5 text-[10px] font-bold text-slate-400 dark:text-slate-500 uppercase tracking-wider flex items-center justify-between">
-                <span>更多分类</span>
-                <span className="font-mono">{overflowCategories.length} 个分类</span>
+                <span>{lang === 'en' ? 'More Categories' : '更多分类'}</span>
+                <span className="font-mono">{overflowCategories.length} {lang === 'en' ? 'items' : '个分类'}</span>
               </div>
               {overflowCategories.map((cat) => {
                 const isActive = currentPath === `/${cat.id}` || currentPath === `/${cat.id}/`;
@@ -129,10 +142,12 @@ export const NavCategories: React.FC<NavCategoriesProps> = ({
                   >
                     <div className="flex items-center gap-2 shrink-0">
                       <span className="w-1.5 h-1.5 rounded-full bg-slate-400 dark:bg-slate-500 shrink-0" />
-                      <span className="whitespace-nowrap font-medium">{cat.name}</span>
+                      <span className="whitespace-nowrap font-medium">
+                        {lang === 'en' ? cat.enName : cat.name}
+                      </span>
                     </div>
                     <span className="text-[11px] font-mono text-slate-400 dark:text-slate-500 whitespace-nowrap ml-3 shrink-0">
-                      {cat.enName}
+                      {lang === 'en' ? cat.id : cat.enName}
                     </span>
                   </a>
                 );
