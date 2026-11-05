@@ -10,30 +10,30 @@ const allResources = getAllResources();
 
 <Layout>
   {/* FMHY Style Top Minimal Header Banner */}
-  <section class="py-6 border-b border-white/5 mb-8">
+  <section class="py-6 border-b border-slate-200/90 dark:border-white/5 mb-8">
     <div class="flex flex-col md:flex-row md:items-center justify-between gap-4">
       <div>
-        <div class="inline-flex items-center gap-2 px-2.5 py-0.5 rounded-full bg-cyan-500/10 border border-cyan-500/20 text-cyan-400 text-xs font-semibold mb-2">
+        <div class="inline-flex items-center gap-2 px-2.5 py-0.5 rounded-full bg-cyan-50 dark:bg-cyan-500/10 border border-cyan-200 dark:border-cyan-500/20 text-cyan-700 dark:text-cyan-400 text-xs font-semibold mb-2">
           <span>⚡ FMHY.net 中文本地化 · 开源白嫖避坑维基</span>
         </div>
-        <h1 class="text-2xl sm:text-3xl font-extrabold text-white tracking-tight">
+        <h1 class="text-2xl sm:text-3xl font-extrabold text-slate-900 dark:text-white tracking-tight">
           ITIS Free 数字资源导航
         </h1>
-        <p class="text-xs sm:text-sm text-slate-400 mt-1 max-w-2xl font-normal leading-relaxed">
+        <p class="text-xs sm:text-sm text-slate-600 dark:text-slate-400 mt-1 max-w-2xl font-normal leading-relaxed">
           互联网上干净、无广告、社区驱动的中文免费资源目录。采用高密度列表结构，专为大规模收藏、极速检索与避坑防雷设计。
         </p>
       </div>
 
       {/* Philosophy badges */}
-      <div class="flex items-center gap-2 flex-wrap text-xs text-slate-400">
-        <span class="px-2.5 py-1 rounded-lg bg-white/[0.03] border border-white/5 text-emerald-400">✓ 零商业广告</span>
-        <span class="px-2.5 py-1 rounded-lg bg-white/[0.03] border border-white/5 text-cyan-400">✓ 开源优先</span>
-        <span class="px-2.5 py-1 rounded-lg bg-white/[0.03] border border-white/5 text-amber-400">✓ 避坑提示</span>
+      <div class="flex items-center gap-2 flex-wrap text-xs text-slate-600 dark:text-slate-400">
+        <span class="px-2.5 py-1 rounded-lg bg-white dark:bg-white/[0.03] border border-slate-200 dark:border-white/5 text-emerald-700 dark:text-emerald-400">✓ 零商业广告</span>
+        <span class="px-2.5 py-1 rounded-lg bg-white dark:bg-white/[0.03] border border-slate-200 dark:border-white/5 text-cyan-700 dark:text-cyan-400">✓ 开源优先</span>
+        <span class="px-2.5 py-1 rounded-lg bg-white dark:bg-white/[0.03] border border-slate-200 dark:border-white/5 text-amber-700 dark:text-amber-400">✓ 避坑提示</span>
         <a
           href="https://github.com/ai717/free.itis.chat/issues/new?template=resource_submit.md"
           target="_blank"
           rel="noopener noreferrer"
-          class="px-3 py-1 rounded-lg bg-cyan-500/10 hover:bg-cyan-500/20 text-cyan-300 border border-cyan-500/20 transition-colors font-medium"
+          class="px-3 py-1 rounded-lg bg-cyan-50 dark:bg-cyan-500/10 hover:bg-cyan-100 dark:hover:bg-cyan-500/20 text-cyan-700 dark:text-cyan-300 border border-cyan-200 dark:border-cyan-500/20 transition-colors font-medium"
         >
           ➕ 提交推荐
         </a>
