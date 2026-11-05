@@ -155,9 +155,9 @@ export const ResourceListItem: React.FC<ResourceListItemProps> = ({ item }) => {
 
         {/* Optional Warning Banner */}
         {isWarning && displayWarningText && (
-          <div className="mt-1.5 ml-3 flex items-start gap-1.5 text-[11px] text-amber-900 dark:text-amber-300/90 bg-amber-50/90 dark:bg-amber-950/20 border border-amber-200 dark:border-amber-500/20 px-2 py-0.5 rounded-md">
+          <div className="mt-1.5 ml-3 flex items-start gap-1.5 text-[11px] text-amber-900 dark:text-amber-300/90 bg-amber-50/90 dark:bg-amber-950/20 border border-amber-200 dark:border-amber-500/20 px-2.5 py-1 rounded-md">
             <span className="font-semibold shrink-0">{lang === 'en' ? 'Heads-up:' : '避坑提醒:'}</span>
-            <span className="truncate">{displayWarningText}</span>
+            <span className="leading-relaxed">{displayWarningText}</span>
           </div>
         )}
       </div>

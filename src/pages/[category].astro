@@ -29,11 +29,13 @@ const resources = getResourcesByCategory(categoryMeta.id);
     </div>
 
     <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
-      <div>
-        <h1 class="text-2xl sm:text-3xl font-extrabold text-slate-900 dark:text-white tracking-tight flex items-center gap-2.5">
-          <span class="w-3 h-3 rounded-full bg-cyan-500"></span>
+      <div class="min-w-0 flex-1">
+        <h1 class="text-2xl sm:text-3xl font-extrabold text-slate-900 dark:text-white tracking-tight flex items-center gap-2.5 flex-wrap">
+          <span class="w-3 h-3 rounded-full bg-cyan-500 shrink-0"></span>
           <span data-i18n-zh={categoryMeta.name} data-i18n-en={categoryMeta.enName}>{categoryMeta.name}</span>
-          <span class="text-xs font-mono font-normal text-slate-500 dark:text-slate-400">({categoryMeta.enName})</span>
+          <span class="text-xs font-mono font-normal text-slate-500 dark:text-slate-400" data-i18n-zh={`(${categoryMeta.enName})`} data-i18n-en="">
+            ({categoryMeta.enName})
+          </span>
         </h1>
         <p
           class="text-slate-600 dark:text-slate-400 text-xs sm:text-sm mt-1 leading-relaxed"
@@ -49,13 +51,13 @@ const resources = getResourcesByCategory(categoryMeta.id);
           href="https://github.com/ai717/free.itis.chat/issues/new?template=resource_submit.md"
           target="_blank"
           rel="noopener noreferrer"
-          class="inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-xl text-xs font-semibold bg-white dark:bg-white/5 hover:bg-slate-50 dark:hover:bg-white/10 text-cyan-700 dark:text-cyan-300 border border-slate-200 dark:border-white/10 hover:border-cyan-500/40 transition-all shadow-xs"
+          class="inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-xl text-xs font-semibold bg-white dark:bg-white/5 hover:bg-slate-50 dark:hover:bg-white/10 text-cyan-700 dark:text-cyan-300 border border-slate-200 dark:border-white/10 hover:border-cyan-500/40 transition-all shadow-xs whitespace-nowrap"
         >
           <svg viewBox="0 0 24 24" class="w-3.5 h-3.5" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
             <line x1="12" y1="5" x2="12" y2="19" />
             <line x1="5" y1="12" x2="19" y2="12" />
           </svg>
-          <span data-i18n-zh="向本分类推荐新资源" data-i18n-en="Suggest Resource for this Category">向本分类推荐新资源</span>
+          <span data-i18n-zh="向本分类推荐新资源" data-i18n-en="Suggest Resource">向本分类推荐新资源</span>
         </a>
       </div>
     </div>
