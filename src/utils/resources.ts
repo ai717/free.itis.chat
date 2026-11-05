@@ -1,10 +1,15 @@
 import type { ResourceItem } from '../types';
+import { scoreResource, sortResourcesByDefault } from './score';
+
+export { scoreResource, sortResourcesByDefault };
 
 const resourceFiles = import.meta.glob<{ default: ResourceItem[] }>('../content/resources/*.json', {
   eager: true,
 });
 
-const allData: ResourceItem[] = Object.values(resourceFiles).flatMap((module) => module.default);
+const allData: ResourceItem[] = sortResourcesByDefault(
+  Object.values(resourceFiles).flatMap((module) => module.default)
+);
 
 export function getAllResources(): ResourceItem[] {
   return allData;
@@ -15,8 +20,9 @@ export function getResourcesByCategory(category: string): ResourceItem[] {
 }
 
 export function getFeaturedResources(): ResourceItem[] {
-  // Top starred gems across all categories
-  return allData.filter((item) => item.featured || item.isStarred);
+  // Top starred & featured standouts across all categories
+  const featured = allData.filter((item) => item.featured || item.isStarred);
+  return sortResourcesByDefault(featured);
 }
 
 export function getSearchableResources(): ResourceItem[] {

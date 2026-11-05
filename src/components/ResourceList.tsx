@@ -1,8 +1,11 @@
 import React, { useState, useMemo, useEffect, useRef } from 'react';
 import type { ResourceItem, CategoryMeta } from '../types';
 import { ResourceListItem } from './ResourceListItem';
-import { Search, Tag, ShieldCheck, AlertTriangle } from 'lucide-react';
+import { Search, Tag, ShieldCheck, AlertTriangle, ArrowUpDown, Sparkles, Code, ArrowDownAZ } from 'lucide-react';
 import { useCurrentLang } from '../utils/i18n';
+import { scoreResource } from '../utils/score';
+
+export type SortOption = 'recommended' | 'starred' | 'opensource' | 'name-asc';
 
 interface ResourceListProps {
   resources: ResourceItem[];
@@ -21,6 +24,7 @@ export const ResourceList: React.FC<ResourceListProps> = ({
   const [filterQuery, setFilterQuery] = useState('');
   const [selectedTag, setSelectedTag] = useState<string | null>(null);
   const [statusFilter, setStatusFilter] = useState<'all' | 'verified' | 'warning'>('all');
+  const [sortBy, setSortBy] = useState<SortOption>('recommended');
 
   // Reset selected tag when language switches so obsolete tags don't stick
   useEffect(() => {
@@ -40,10 +44,11 @@ export const ResourceList: React.FC<ResourceListProps> = ({
       .map(([tag]) => tag);
   }, [resources, lang]);
 
-  // Filter items
+  // Filter and sort items
   const filteredItems = useMemo(() => {
     const q = filterQuery.toLowerCase().trim();
-    return resources.filter((item) => {
+    // 1. Filter
+    const matched = resources.filter((item) => {
       const itemTags = lang === 'en' && item.tagsEn ? item.tagsEn : item.tags;
       if (selectedTag && !itemTags.includes(selectedTag) && !item.tags.includes(selectedTag)) {
         return false;
@@ -61,7 +66,36 @@ export const ResourceList: React.FC<ResourceListProps> = ({
         allTagsStr.includes(q)
       );
     });
-  }, [resources, filterQuery, selectedTag, statusFilter, lang]);
+
+    // 2. Sort deterministically
+    return matched.slice().sort((a, b) => {
+      if (sortBy === 'recommended') {
+        const scoreDiff = scoreResource(b) - scoreResource(a);
+        if (scoreDiff !== 0) return scoreDiff;
+        return a.name.localeCompare(b.name, undefined, { sensitivity: 'base' });
+      }
+      if (sortBy === 'starred') {
+        const aStar = (a.isStarred || a.featured) ? 1 : 0;
+        const bStar = (b.isStarred || b.featured) ? 1 : 0;
+        if (bStar !== aStar) return bStar - aStar;
+        const scoreDiff = scoreResource(b) - scoreResource(a);
+        if (scoreDiff !== 0) return scoreDiff;
+        return a.name.localeCompare(b.name, undefined, { sensitivity: 'base' });
+      }
+      if (sortBy === 'opensource') {
+        const aGit = a.githubUrl ? 1 : 0;
+        const bGit = b.githubUrl ? 1 : 0;
+        if (bGit !== aGit) return bGit - aGit;
+        const scoreDiff = scoreResource(b) - scoreResource(a);
+        if (scoreDiff !== 0) return scoreDiff;
+        return a.name.localeCompare(b.name, undefined, { sensitivity: 'base' });
+      }
+      if (sortBy === 'name-asc') {
+        return a.name.localeCompare(b.name, undefined, { sensitivity: 'base' });
+      }
+      return 0;
+    });
+  }, [resources, filterQuery, selectedTag, statusFilter, lang, sortBy]);
 
   // Group by category if requested
   const groupedData = useMemo(() => {
@@ -81,10 +115,10 @@ export const ResourceList: React.FC<ResourceListProps> = ({
   const [visibleLimit, setVisibleLimit] = useState(INITIAL_PAGE_SIZE);
   const sentinelRef = useRef<HTMLDivElement | null>(null);
 
-  // Reset pagination limit when filter conditions change
+  // Reset pagination limit when filter or sort conditions change
   useEffect(() => {
     setVisibleLimit(INITIAL_PAGE_SIZE);
-  }, [filterQuery, selectedTag, statusFilter, lang]);
+  }, [filterQuery, selectedTag, statusFilter, lang, sortBy]);
 
   const displayedItems = useMemo(() => {
     return filteredItems.slice(0, visibleLimit);
@@ -154,10 +188,10 @@ export const ResourceList: React.FC<ResourceListProps> = ({
           </div>
 
           {/* Quick status & stats */}
-          <div className="flex items-center gap-2 self-start sm:self-auto text-xs shrink-0">
+          <div className="flex items-center gap-2 self-start sm:self-auto text-xs shrink-0 flex-wrap">
             <button
               onClick={() => setStatusFilter('all')}
-              className={`px-2.5 py-1.5 rounded-lg transition-all ${
+              className={`px-2.5 py-1.5 rounded-lg transition-all cursor-pointer ${
                 statusFilter === 'all'
                   ? 'bg-slate-800 dark:bg-slate-700 text-white font-medium'
                   : 'text-slate-500 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
@@ -167,7 +201,7 @@ export const ResourceList: React.FC<ResourceListProps> = ({
             </button>
             <button
               onClick={() => setStatusFilter('verified')}
-              className={`flex items-center gap-1 px-2.5 py-1.5 rounded-lg transition-all ${
+              className={`flex items-center gap-1 px-2.5 py-1.5 rounded-lg transition-all cursor-pointer ${
                 statusFilter === 'verified'
                   ? 'bg-emerald-50 dark:bg-emerald-500/20 text-emerald-700 dark:text-emerald-300 border border-emerald-300 dark:border-emerald-500/40 font-medium'
                   : 'text-slate-500 dark:text-slate-400 hover:text-emerald-600 dark:hover:text-emerald-400'
@@ -177,7 +211,7 @@ export const ResourceList: React.FC<ResourceListProps> = ({
             </button>
             <button
               onClick={() => setStatusFilter('warning')}
-              className={`flex items-center gap-1 px-2.5 py-1.5 rounded-lg transition-all ${
+              className={`flex items-center gap-1 px-2.5 py-1.5 rounded-lg transition-all cursor-pointer ${
                 statusFilter === 'warning'
                   ? 'bg-amber-50 dark:bg-amber-500/20 text-amber-800 dark:text-amber-300 border border-amber-300 dark:border-amber-500/40 font-medium'
                   : 'text-slate-500 dark:text-slate-400 hover:text-amber-600 dark:hover:text-amber-400'
@@ -185,6 +219,66 @@ export const ResourceList: React.FC<ResourceListProps> = ({
             >
               <AlertTriangle className="w-3.5 h-3.5" /> {lang === 'en' ? 'Warnings Only' : '仅看避坑'}
             </button>
+          </div>
+        </div>
+
+        {/* Sort Controls Row */}
+        <div className="flex flex-wrap items-center justify-between gap-2.5 pt-2 border-t border-slate-100 dark:border-white/[0.04]">
+          <div className="flex items-center gap-1.5 text-xs flex-wrap">
+            <span className="text-slate-500 dark:text-slate-400 flex items-center gap-1 mr-1 text-[11px] font-medium shrink-0">
+              <ArrowUpDown className="w-3.5 h-3.5 text-cyan-600 dark:text-cyan-400" />
+              {lang === 'en' ? 'Sort By:' : '排序方式:'}
+            </span>
+            <div className="inline-flex rounded-xl bg-slate-100 dark:bg-white/[0.03] p-0.5 border border-slate-200/80 dark:border-white/5 flex-wrap">
+              <button
+                type="button"
+                onClick={() => setSortBy('recommended')}
+                className={`flex items-center gap-1 px-2.5 py-1 rounded-lg text-xs transition-all cursor-pointer ${
+                  sortBy === 'recommended'
+                    ? 'bg-white dark:bg-slate-800 text-cyan-700 dark:text-cyan-300 font-semibold shadow-xs'
+                    : 'text-slate-500 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
+                }`}
+              >
+                <Sparkles className="w-3 h-3 text-amber-500" />
+                {lang === 'en' ? 'Recommended' : '综合精选'}
+              </button>
+              <button
+                type="button"
+                onClick={() => setSortBy('starred')}
+                className={`flex items-center gap-1 px-2.5 py-1 rounded-lg text-xs transition-all cursor-pointer ${
+                  sortBy === 'starred'
+                    ? 'bg-white dark:bg-slate-800 text-cyan-700 dark:text-cyan-300 font-semibold shadow-xs'
+                    : 'text-slate-500 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
+                }`}
+              >
+                <span className="text-amber-500">⭐</span>
+                {lang === 'en' ? 'Starred' : '金标必装'}
+              </button>
+              <button
+                type="button"
+                onClick={() => setSortBy('opensource')}
+                className={`flex items-center gap-1 px-2.5 py-1 rounded-lg text-xs transition-all cursor-pointer ${
+                  sortBy === 'opensource'
+                    ? 'bg-white dark:bg-slate-800 text-cyan-700 dark:text-cyan-300 font-semibold shadow-xs'
+                    : 'text-slate-500 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
+                }`}
+              >
+                <Code className="w-3 h-3 text-cyan-600 dark:text-cyan-400" />
+                {lang === 'en' ? 'Open Source' : '开源优先'}
+              </button>
+              <button
+                type="button"
+                onClick={() => setSortBy('name-asc')}
+                className={`flex items-center gap-1 px-2.5 py-1 rounded-lg text-xs transition-all cursor-pointer ${
+                  sortBy === 'name-asc'
+                    ? 'bg-white dark:bg-slate-800 text-cyan-700 dark:text-cyan-300 font-semibold shadow-xs'
+                    : 'text-slate-500 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
+                }`}
+              >
+                <ArrowDownAZ className="w-3.5 h-3.5" />
+                {lang === 'en' ? 'A - Z' : '字母排序'}
+              </button>
+            </div>
           </div>
         </div>
 
