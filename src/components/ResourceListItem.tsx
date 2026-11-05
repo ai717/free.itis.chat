@@ -54,26 +54,27 @@ export const ResourceListItem: React.FC<ResourceListItemProps> = ({ item }) => {
   const hasDocker = item.platforms?.includes('docker') || tagsStr.includes('docker') || tagsStr.includes('自建');
 
   return (
-    <div className="group relative flex flex-col md:flex-row md:items-center justify-between gap-2.5 px-3.5 py-2.5 rounded-xl bg-white dark:bg-white/[0.015] hover:bg-slate-50/90 dark:hover:bg-white/[0.04] border border-slate-200/80 dark:border-white/[0.05] hover:border-cyan-500/40 dark:hover:border-cyan-500/30 transition-all duration-150">
+    <div className="group relative flex flex-col md:flex-row md:items-center justify-between gap-2.5 px-3.5 py-3 rounded-xl bg-white dark:bg-white/[0.015] hover:bg-slate-50/90 dark:hover:bg-white/[0.04] border border-slate-200/80 dark:border-white/[0.05] hover:border-cyan-500/40 dark:hover:border-cyan-500/30 transition-all duration-150">
       {/* Left Bullet & Main Content */}
       <div className="flex-1 min-w-0 pr-2">
-        <div className="flex items-center gap-1.5 flex-wrap">
-          {/* FMHY Bullet dot */}
-          <span className="text-slate-400 dark:text-slate-600 font-bold select-none text-xs mr-0.5">•</span>
+        {/* ROW 1: Bullet + Star/Redirect + Name + External Link + [Monochrome Flat Icons RIGHT NEXT TO NAME] */}
+        <div className="flex items-center gap-2 flex-wrap mb-1">
+          {/* Bullet dot */}
+          <span className="text-slate-400 dark:text-slate-600 font-bold select-none text-xs">•</span>
 
-          {/* Real Vector FMHY Icons: Star or Redirect (No default emoji!) */}
+          {/* FMHY Star or Redirect Icon */}
           {isStarred && (
             <span title="FMHY 社区推荐 · 标杆必装" className="inline-flex items-center shrink-0">
               <FmhyStarIcon className="w-3.5 h-3.5" />
             </span>
           )}
           {isCollection && !isStarred && (
-            <span title="专题合集 / 专项清单" className="inline-flex items-center shrink-0">
+            <span title="专题合集 / 专项清单" className="inline-flex items-center text-cyan-600 dark:text-cyan-400 shrink-0">
               <FmhyRedirectIcon className="w-3.5 h-3.5" />
             </span>
           )}
 
-          {/* Resource Name Link */}
+          {/* Name Link */}
           <a
             href={item.url}
             target="_blank"
@@ -84,44 +85,42 @@ export const ResourceListItem: React.FC<ResourceListItemProps> = ({ item }) => {
             <ExternalLink className="w-3 h-3 opacity-40 group-hover:opacity-100 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-all text-cyan-600 dark:text-cyan-400 shrink-0" />
           </a>
 
-          {/* Description dash & text (FMHY Inline Style) */}
-          <span className="text-slate-400 dark:text-slate-600 select-none text-xs hidden sm:inline">-</span>
-          <span className="text-slate-600 dark:text-slate-300 text-xs sm:text-sm font-normal line-clamp-1">
-            {item.description}
-          </span>
-
-          {/* Trailing FMHY Real Vector Badge Slash: / GitHub / Info / Platforms */}
-          <div className="inline-flex items-center gap-1.5 ml-auto sm:ml-1 text-xs shrink-0 text-slate-400">
+          {/* Monochrome Flat Icons IMMEDIATELY next to the name! */}
+          <div className="inline-flex items-center gap-1.5 text-slate-400 dark:text-slate-500 text-xs shrink-0">
             <span className="opacity-40">/</span>
 
-            {/* Real Vector GitHub Icon */}
+            {/* Flat Monochrome GitHub Icon */}
             {githubLink && (
               <a
                 href={githubLink}
                 target="_blank"
                 rel="noopener noreferrer"
                 title="查看 GitHub 官方开源仓库源码"
-                className="p-0.5 rounded text-slate-500 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white transition-colors flex items-center"
+                className="hover:text-slate-900 dark:hover:text-white transition-colors flex items-center"
               >
                 <GithubIcon className="w-3.5 h-3.5" />
               </a>
             )}
 
-            {/* Real Vector FMHY Info Icon (Blue circular badge, no emoji!) */}
+            {/* Flat Monochrome Info Icon with Tooltip */}
             <div className="relative inline-flex items-center">
               <button
                 onMouseEnter={() => setShowInfo(true)}
                 onMouseLeave={() => setShowInfo(false)}
                 onClick={() => setShowInfo(!showInfo)}
                 title="避坑与使用说明"
-                className="p-0.5 rounded hover:opacity-80 transition-opacity flex items-center cursor-pointer"
+                className={`transition-colors flex items-center cursor-pointer ${
+                  isWarning
+                    ? 'text-amber-600 dark:text-amber-400'
+                    : 'hover:text-slate-800 dark:hover:text-slate-200'
+                }`}
               >
                 <FmhyInfoIcon className="w-3.5 h-3.5" />
               </button>
 
               {/* Floating Tooltip */}
               {showInfo && (
-                <div className="absolute right-0 bottom-full mb-2 z-50 w-64 p-2.5 rounded-xl bg-white dark:bg-[#0d1527] border border-slate-200 dark:border-cyan-500/30 shadow-xl text-xs text-slate-700 dark:text-slate-200 pointer-events-none animate-in fade-in zoom-in-95">
+                <div className="absolute left-0 bottom-full mb-2 z-50 w-64 p-2.5 rounded-xl bg-white dark:bg-[#0d1527] border border-slate-200 dark:border-cyan-500/30 shadow-xl text-xs text-slate-700 dark:text-slate-200 pointer-events-none animate-in fade-in zoom-in-95">
                   <div className="font-semibold mb-1 flex items-center gap-1 text-[11px] text-cyan-700 dark:text-cyan-300">
                     <FmhyInfoIcon className="w-3 h-3" />
                     <span>避坑与说明指引</span>
@@ -133,27 +132,32 @@ export const ResourceListItem: React.FC<ResourceListItemProps> = ({ item }) => {
               )}
             </div>
 
-            {/* Real Vector Platform Badges (Simple Icons / Vector SVG) */}
-            <div className="hidden sm:inline-flex items-center gap-1.5 opacity-70">
-              {hasWin && <WindowsIcon className="w-3 h-3" title="支持 Windows" />}
-              {hasMac && <AppleIcon className="w-3 h-3" title="支持 macOS / iOS" />}
-              {hasAndroid && <AndroidIcon className="w-3 h-3" title="支持 Android" />}
-              {hasWeb && <WebIcon className="w-3 h-3" title="网页端 / 浏览器扩展" />}
-              {hasDocker && <DockerIcon className="w-3.5 h-3.5" title="支持 Docker / 自建部署" />}
+            {/* Flat Monochrome Platform Icons */}
+            <div className="inline-flex items-center gap-1.5 opacity-80">
+              {hasWin && <WindowsIcon className="w-3 h-3 hover:text-slate-800 dark:hover:text-slate-200 transition-colors" title="支持 Windows" />}
+              {hasMac && <AppleIcon className="w-3 h-3 hover:text-slate-800 dark:hover:text-slate-200 transition-colors" title="支持 macOS / iOS" />}
+              {hasAndroid && <AndroidIcon className="w-3 h-3 hover:text-slate-800 dark:hover:text-slate-200 transition-colors" title="支持 Android" />}
+              {hasWeb && <WebIcon className="w-3 h-3 hover:text-slate-800 dark:hover:text-slate-200 transition-colors" title="网页端 / 浏览器扩展" />}
+              {hasDocker && <DockerIcon className="w-3.5 h-3.5 hover:text-slate-800 dark:hover:text-slate-200 transition-colors" title="支持 Docker / 自建部署" />}
             </div>
           </div>
         </div>
 
-        {/* Warning callout banner if high-priority warning */}
+        {/* ROW 2: Description text (clean, completely independent) */}
+        <p className="text-slate-600 dark:text-slate-300 text-xs sm:text-sm font-normal leading-relaxed pl-3">
+          {item.description}
+        </p>
+
+        {/* Optional Warning Banner */}
         {isWarning && item.warningText && (
-          <div className="mt-1.5 flex items-start gap-1.5 text-[11px] text-amber-900 dark:text-amber-300/90 bg-amber-50/90 dark:bg-amber-950/20 border border-amber-200 dark:border-amber-500/20 px-2 py-0.5 rounded-md">
+          <div className="mt-1.5 ml-3 flex items-start gap-1.5 text-[11px] text-amber-900 dark:text-amber-300/90 bg-amber-50/90 dark:bg-amber-950/20 border border-amber-200 dark:border-amber-500/20 px-2 py-0.5 rounded-md">
             <span className="font-semibold shrink-0">避坑提醒:</span>
             <span className="truncate">{item.warningText}</span>
           </div>
         )}
       </div>
 
-      {/* Right Quick Action: Direct & Copy */}
+      {/* Right Quick Actions: Direct & Copy */}
       <div className="flex items-center gap-1.5 shrink-0 self-end md:self-center border-t md:border-t-0 border-slate-100 dark:border-white/5 pt-1.5 md:pt-0">
         <a
           href={item.url}
