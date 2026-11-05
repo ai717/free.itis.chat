@@ -3,7 +3,7 @@
     "id": "text-tools-image-to-text",
     "name": "Image to Text",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_image_to_text_.2F_ocr",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -17,7 +17,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -29,7 +29,7 @@
     "id": "text-tools-textfixer",
     "name": "TextFixer",
     "url": "https://www.textfixer.com/",
-    "description": "Organize · Format Text",
+    "description": "Organize · 格式 Text",
     "descriptionEn": "Organize / Format Text",
     "category": "text-tools",
     "tags": [
@@ -57,7 +57,7 @@
     "id": "text-tools-paperless-ngx",
     "name": "Paperless-ngx",
     "url": "https://docs.paperless-ngx.com",
-    "description": "Document Managers",
+    "description": "Document 管理工具箱",
     "descriptionEn": "Document Managers",
     "category": "text-tools",
     "tags": [
@@ -85,7 +85,7 @@
     "id": "text-tools-diffr",
     "name": "Diffr",
     "url": "https://loilo.github.io/diffr/",
-    "description": "Compare Text",
+    "description": "Compare Text (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Compare Text",
     "category": "text-tools",
     "tags": [
@@ -111,7 +111,7 @@
     "id": "text-tools-count-duplicates",
     "name": "Count Duplicates",
     "url": "https://www.somacon.com/p568.php",
-    "description": "Count · Remove Duplicates in a List",
+    "description": "Count · 清理重复在 a List",
     "descriptionEn": "Count / Remove Duplicates in a List",
     "category": "text-tools",
     "tags": [
@@ -139,7 +139,7 @@
     "id": "text-tools-unredact",
     "name": "⁠Unredact",
     "url": "https://github.com/leedrake5/unredact",
-    "description": "PDF Redaction Text Recovery",
+    "description": "PDF Redaction Text Recovery (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "PDF Redaction Text Recovery",
     "category": "text-tools",
     "tags": [
@@ -153,7 +153,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -165,7 +165,7 @@
     "id": "text-tools-textify",
     "name": "Textify",
     "url": "https://ramensoftware.com/textify",
-    "description": "Copy Text from Any Dialog",
+    "description": "Copy Text from 全格式 Dialog",
     "descriptionEn": "Copy Text from Any Dialog",
     "category": "text-tools",
     "tags": [
@@ -193,7 +193,7 @@
     "id": "text-tools-scanner",
     "name": "Scanner",
     "url": "https://simon-knuth.github.io/scanner/index",
-    "description": "Scanner Apps",
+    "description": "Scanner 精选应用",
     "descriptionEn": "Scanner Apps",
     "category": "text-tools",
     "tags": [
@@ -219,7 +219,7 @@
     "id": "text-tools-docuseal",
     "name": "DocuSeal",
     "url": "https://www.docuseal.com/",
-    "description": "Free Document Signing · GitHub",
+    "description": "免费 Document Signing · GitHub 开源",
     "descriptionEn": "Free Document Signing / GitHub",
     "category": "text-tools",
     "tags": [
@@ -245,7 +245,7 @@
     "id": "text-tools-asciify",
     "name": "Asciify",
     "url": "https://asciify.dev/",
-    "description": "ASCII Character Reference Chart",
+    "description": "ASCII Character Reference Chart (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "ASCII Character Reference Chart",
     "category": "text-tools",
     "tags": [
@@ -271,7 +271,7 @@
     "id": "text-tools-awesome-pastebins",
     "name": "⁠Awesome Pastebins",
     "url": "https://github.com/lorien/awesome-pastebins",
-    "description": "Pastebin Index",
+    "description": "Pastebin 索引目录",
     "descriptionEn": "Pastebin Index",
     "category": "text-tools",
     "tags": [
@@ -285,7 +285,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -297,7 +297,7 @@
     "id": "text-tools-privatebin",
     "name": "PrivateBin",
     "url": "https://privatebin.net/",
-    "description": "Markdown Support · Syntax Highlighting · Instances · GitHub",
+    "description": "Markdown Support · Syntax Highlighting · Instances · GitHub 开源",
     "descriptionEn": "Markdown Support / Syntax Highlighting / Instances / GitHub",
     "category": "text-tools",
     "tags": [
@@ -325,7 +325,7 @@
     "id": "text-tools-github-gists",
     "name": "GitHub Gists",
     "url": "https://gist.github.com/",
-    "description": "Multi-Syntax · Requires Sign-Up",
+    "description": "Multi-Syntax · 需注册使用",
     "descriptionEn": "Multi-Syntax / Requires Sign-Up",
     "category": "text-tools",
     "tags": [
@@ -341,7 +341,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -353,7 +353,7 @@
     "id": "text-tools-rentry",
     "name": "Rentry",
     "url": "https://rentry.co/",
-    "description": "Markdown Support · Custom URLs · CLI · Styling",
+    "description": "Markdown Support · Custom URLs · CLI · Styling (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Markdown Support / Custom URLs / CLI / Styling",
     "category": "text-tools",
     "tags": [
@@ -369,7 +369,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -381,7 +381,7 @@
     "id": "text-tools-yasosu",
     "name": "Yasosu",
     "url": "https://yaso.su/",
-    "description": "Multi-Syntax · Markdown Support · Custom URLs · Telegram",
+    "description": "Multi-Syntax · Markdown Support · Custom URLs · Telegram 交流群",
     "descriptionEn": "Multi-Syntax / Markdown Support / Custom URLs / Telegram",
     "category": "text-tools",
     "tags": [
@@ -409,7 +409,7 @@
     "id": "text-tools-fluffle",
     "name": "Fluffle",
     "url": "https://fluffle.cc/",
-    "description": "Markdown Support · Custom URLs · Styling · Source Code · Note",
+    "description": "Markdown Support · Custom URLs · Styling · 源码程序源码 · 附注意事项",
     "descriptionEn": "Markdown Support / Custom URLs / Styling / Source Code / Note",
     "category": "text-tools",
     "tags": [
@@ -437,7 +437,7 @@
     "id": "text-tools-paster",
     "name": "Paster",
     "url": "https://paster.net/",
-    "description": "Multi-Syntax · Markdown Support",
+    "description": "Multi-Syntax · Markdown Support (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Multi-Syntax / Markdown Support",
     "category": "text-tools",
     "tags": [
@@ -465,7 +465,7 @@
     "id": "text-tools-katbin",
     "name": "Katbin",
     "url": "https://katb.in/",
-    "description": "Plain Text · GitHub",
+    "description": "Plain Text · GitHub 开源",
     "descriptionEn": "Plain Text / GitHub",
     "category": "text-tools",
     "tags": [
@@ -493,7 +493,7 @@
     "id": "text-tools-text-is",
     "name": "Text.is",
     "url": "https://text.is/",
-    "description": "Markdown Support",
+    "description": "Markdown Support (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Markdown Support",
     "category": "text-tools",
     "tags": [
@@ -519,7 +519,7 @@
     "id": "text-tools-bpaste",
     "name": "Bpaste",
     "url": "https://bpa.st/",
-    "description": "Multi-Syntax · Markdown Support · GitHub",
+    "description": "Multi-Syntax · Markdown Support · GitHub 开源",
     "descriptionEn": "Multi-Syntax / Markdown Support / GitHub",
     "category": "text-tools",
     "tags": [
@@ -545,7 +545,7 @@
     "id": "text-tools-snowbin",
     "name": "snowbin",
     "url": "https://pastes.fmhy.net/",
-    "description": "Markdown Support · GitHub",
+    "description": "Markdown Support · GitHub 开源",
     "descriptionEn": "Markdown Support / GitHub",
     "category": "text-tools",
     "tags": [
@@ -571,7 +571,7 @@
     "id": "text-tools-pastebin-com",
     "name": "Pastebin.com",
     "url": "https://pastebin.com/",
-    "description": "Multi-Syntax · Proxy",
+    "description": "Multi-Syntax · 代理中继",
     "descriptionEn": "Multi-Syntax / Proxy",
     "category": "text-tools",
     "tags": [
@@ -597,7 +597,7 @@
     "id": "text-tools-ghostbin",
     "name": "⁠Ghostbin",
     "url": "https://ghostbin.linuxbox.ninja/",
-    "description": "Multi-Syntax · Markdown Support · GitHub",
+    "description": "Multi-Syntax · Markdown Support · GitHub 开源",
     "descriptionEn": "Multi-Syntax / Markdown Support / GitHub",
     "category": "text-tools",
     "tags": [
@@ -623,7 +623,7 @@
     "id": "text-tools-cryptgeon",
     "name": "cryptgeon",
     "url": "https://cryptgeon.org/",
-    "description": "Single View · Plain Text · GitHub",
+    "description": "Single View · Plain Text · GitHub 开源",
     "descriptionEn": "Single View / Plain Text / GitHub",
     "category": "text-tools",
     "tags": [
@@ -649,7 +649,7 @@
     "id": "text-tools-paste",
     "name": "Paste",
     "url": "https://paste.boxlabs.uk/",
-    "description": "Multi-Syntax · Markdown Support · GitHub",
+    "description": "Multi-Syntax · Markdown Support · GitHub 开源",
     "descriptionEn": "Multi-Syntax / Markdown Support / GitHub",
     "category": "text-tools",
     "tags": [
@@ -675,7 +675,7 @@
     "id": "text-tools-codepasta",
     "name": "⁠Codepasta",
     "url": "https://codepasta.app/",
-    "description": "Multi-Syntax · Markdown Support",
+    "description": "Multi-Syntax · Markdown Support (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Multi-Syntax / Markdown Support",
     "category": "text-tools",
     "tags": [
@@ -701,7 +701,7 @@
     "id": "text-tools-lesma",
     "name": "lesma",
     "url": "https://lesma.eu/",
-    "description": "Multi-Syntax · GitLab",
+    "description": "Multi-Syntax · GitLab 开源",
     "descriptionEn": "Multi-Syntax / GitLab",
     "category": "text-tools",
     "tags": [
@@ -727,7 +727,7 @@
     "id": "text-tools-pastee",
     "name": "Pastee",
     "url": "https://pastee.dev/",
-    "description": "Multi-Syntax · Discord",
+    "description": "Multi-Syntax · Discord 社区",
     "descriptionEn": "Multi-Syntax / Discord",
     "category": "text-tools",
     "tags": [
@@ -753,7 +753,7 @@
     "id": "text-tools-pst-moe",
     "name": "pst.moe",
     "url": "https://pst.moe/",
-    "description": "Multi-Syntax",
+    "description": "Multi-Syntax (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Multi-Syntax",
     "category": "text-tools",
     "tags": [
@@ -779,7 +779,7 @@
     "id": "text-tools-pastes-dev",
     "name": "pastes.dev",
     "url": "https://pastes.dev/",
-    "description": "Multi-Syntax · GitHub",
+    "description": "Multi-Syntax · GitHub 开源",
     "descriptionEn": "Multi-Syntax / GitHub",
     "category": "text-tools",
     "tags": [
@@ -805,7 +805,7 @@
     "id": "text-tools-nopaste",
     "name": "NoPaste",
     "url": "https://nopaste.boris.sh/",
-    "description": "Multi-Syntax · GitHub",
+    "description": "Multi-Syntax · GitHub 开源",
     "descriptionEn": "Multi-Syntax / GitHub",
     "category": "text-tools",
     "tags": [
@@ -831,7 +831,7 @@
     "id": "text-tools-pastefy",
     "name": "⁠Pastefy",
     "url": "https://pastefy.app/",
-    "description": "Multi-Syntax · Discord · GitHub",
+    "description": "Multi-Syntax · Discord 社区 · GitHub 开源",
     "descriptionEn": "Multi-Syntax / Discord / GitHub",
     "category": "text-tools",
     "tags": [
@@ -857,7 +857,7 @@
     "id": "text-tools-pastemyst",
     "name": "pastemyst",
     "url": "https://paste.myst.rs/",
-    "description": "Multi-Syntax · GitHub",
+    "description": "Multi-Syntax · GitHub 开源",
     "descriptionEn": "Multi-Syntax / GitHub",
     "category": "text-tools",
     "tags": [
@@ -883,7 +883,7 @@
     "id": "text-tools-centos-pastebin",
     "name": "CentOS Pastebin",
     "url": "https://paste.centos.org/",
-    "description": "Multi-Syntax",
+    "description": "Multi-Syntax (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Multi-Syntax",
     "category": "text-tools",
     "tags": [
@@ -909,7 +909,7 @@
     "id": "text-tools-dpaste-com",
     "name": "dpaste.com",
     "url": "https://dpaste.com/",
-    "description": "Multi-Syntax",
+    "description": "Multi-Syntax (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Multi-Syntax",
     "category": "text-tools",
     "tags": [
@@ -935,7 +935,7 @@
     "id": "text-tools-snippet-host",
     "name": "snippet.host",
     "url": "https://snippet.host/",
-    "description": "Multi-Syntax · .onion · Status",
+    "description": "Multi-Syntax · .onion · 服务运行状态",
     "descriptionEn": "Multi-Syntax / .onion / Status",
     "category": "text-tools",
     "tags": [
@@ -961,7 +961,7 @@
     "id": "text-tools-protectedtext",
     "name": "ProtectedText",
     "url": "https://www.protectedtext.com/",
-    "description": "Multi-Tab",
+    "description": "Multi-Tab (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Multi-Tab",
     "category": "text-tools",
     "tags": [
@@ -987,7 +987,7 @@
     "id": "text-tools-memoch",
     "name": "⁠Memochō",
     "url": "https://bin.kv2.dev/",
-    "description": "Minimal Pastebins",
+    "description": "极简 Pastebins",
     "descriptionEn": "Minimal Pastebins",
     "category": "text-tools",
     "tags": [
@@ -1013,7 +1013,7 @@
     "id": "text-tools-txt-fyi",
     "name": "txt.fyi",
     "url": "https://txt.fyi/",
-    "description": "Plain Text",
+    "description": "Plain Text (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Plain Text",
     "category": "text-tools",
     "tags": [
@@ -1039,7 +1039,7 @@
     "id": "text-tools-paste-sh",
     "name": "⁠paste.sh",
     "url": "https://paste.sh/",
-    "description": "Plain Text · GitHub",
+    "description": "Plain Text · GitHub 开源",
     "descriptionEn": "Plain Text / GitHub",
     "category": "text-tools",
     "tags": [
@@ -1065,7 +1065,7 @@
     "id": "text-tools-markdownpastebin",
     "name": "MarkdownPastebin",
     "url": "https://markdownpastebin.com/",
-    "description": "Markdown Support",
+    "description": "Markdown Support (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Markdown Support",
     "category": "text-tools",
     "tags": [
@@ -1091,7 +1091,7 @@
     "id": "text-tools-sparked-paste",
     "name": "Sparked Paste",
     "url": "https://paste.sparked.host/",
-    "description": "Plain Text · Syntax Highlighting · GitHub",
+    "description": "Plain Text · Syntax Highlighting · GitHub 开源",
     "descriptionEn": "Plain Text / Syntax Highlighting / GitHub",
     "category": "text-tools",
     "tags": [
@@ -1117,7 +1117,7 @@
     "id": "text-tools-riseup-pad",
     "name": "Riseup Pad",
     "url": "https://pad.riseup.net/",
-    "description": "WYSIWYG Pastebin",
+    "description": "WYSIWYG Pastebin (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "WYSIWYG Pastebin",
     "category": "text-tools",
     "tags": [
@@ -1143,7 +1143,7 @@
     "id": "text-tools-itty-bitty",
     "name": "itty.bitty",
     "url": "https://itty.bitty.site/",
-    "description": "Site · Pastebin · GitHub",
+    "description": "Site · Pastebin · GitHub 开源",
     "descriptionEn": "Site / Pastebin / GitHub",
     "category": "text-tools",
     "tags": [
@@ -1169,7 +1169,7 @@
     "id": "text-tools-opengist",
     "name": "Opengist",
     "url": "https://opengist.io/",
-    "description": "支持自建部署 Pastebins",
+    "description": "Self-Hosted Pastebins (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Self-Hosted Pastebins",
     "category": "text-tools",
     "tags": [
@@ -1197,7 +1197,7 @@
     "id": "text-tools-deepl",
     "name": "DeepL",
     "url": "https://www.deepl.com/translator",
-    "description": "Online AI-Based Translation",
+    "description": "在线免安装 AI-Based Translation",
     "descriptionEn": "Online AI-Based Translation",
     "category": "text-tools",
     "tags": [
@@ -1225,7 +1225,7 @@
     "id": "text-tools-translate-web-pages",
     "name": "Translate Web Pages",
     "url": "https://github.com/FilipePS/Traduzir-paginas-web",
-    "description": "浏览器扩展插件s",
+    "description": "Browser 扩展插件",
     "descriptionEn": "Browser Extensions",
     "category": "text-tools",
     "tags": [
@@ -1241,7 +1241,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -1255,7 +1255,7 @@
     "id": "text-tools-r-translator",
     "name": "r/Translator",
     "url": "https://www.reddit.com/r/translator/",
-    "description": "Translation Request Community",
+    "description": "Translation Request 用户社区",
     "descriptionEn": "Translation Request Community",
     "category": "text-tools",
     "tags": [
@@ -1271,7 +1271,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -1283,7 +1283,7 @@
     "id": "text-tools-mozhi",
     "name": "⁠Mozhi",
     "url": "https://codeberg.org/aryak/mozhi#instances",
-    "description": "Multi Translation Engine Frontend",
+    "description": "Multi Translation 开发引擎 Frontend",
     "descriptionEn": "Multi Translation Engine Frontend",
     "category": "text-tools",
     "tags": [
@@ -1309,7 +1309,7 @@
     "id": "text-tools-libretranslate",
     "name": "LibreTranslate",
     "url": "https://libretranslate.com/",
-    "description": "FOSS Translator · 支持自建部署 · Offline · GitHub",
+    "description": "自由开源 Translator · Self-Hosted · 离线可用 · GitHub 开源",
     "descriptionEn": "FOSS Translator / Self-Hosted / Offline / GitHub",
     "category": "text-tools",
     "tags": [
@@ -1337,7 +1337,7 @@
     "id": "text-tools-translate-shell",
     "name": "Translate Shell",
     "url": "https://www.soimort.org/translate-shell/",
-    "description": "Translation CLI · GitHub",
+    "description": "Translation CLI · GitHub 开源",
     "descriptionEn": "Translation CLI / GitHub",
     "category": "text-tools",
     "tags": [
@@ -1363,7 +1363,7 @@
     "id": "text-tools-bing-translator",
     "name": "Bing Translator",
     "url": "https://www.bing.com/translator",
-    "description": "Online",
+    "description": "在线免安装",
     "descriptionEn": "Online",
     "category": "text-tools",
     "tags": [
@@ -1389,7 +1389,7 @@
     "id": "text-tools-yandex-translator",
     "name": "Yandex Translator",
     "url": "https://translate.yandex.com/",
-    "description": "Online",
+    "description": "在线免安装",
     "descriptionEn": "Online",
     "category": "text-tools",
     "tags": [
@@ -1415,7 +1415,7 @@
     "id": "text-tools-reverso",
     "name": "Reverso",
     "url": "https://context.reverso.net/translation/",
-    "description": "Online In-Context Translations",
+    "description": "在线免安装在-Context Translations",
     "descriptionEn": "Online In-Context Translations",
     "category": "text-tools",
     "tags": [
@@ -1441,7 +1441,7 @@
     "id": "text-tools-nice-translator",
     "name": "Nice Translator",
     "url": "https://nicetranslator.com/",
-    "description": "Batch Multi-Language Translation",
+    "description": "Batch Multi-外语自学 Translation",
     "descriptionEn": "Batch Multi-Language Translation",
     "category": "text-tools",
     "tags": [
@@ -1467,7 +1467,7 @@
     "id": "text-tools-translator",
     "name": "Translator++",
     "url": "https://dreamsavior.net/",
-    "description": "CAT For Games",
+    "description": "CAT 面向游戏资源",
     "descriptionEn": "CAT For Games",
     "category": "text-tools",
     "tags": [
@@ -1493,7 +1493,7 @@
     "id": "text-tools-translumo",
     "name": "⁠Translumo",
     "url": "https://github.com/ramjke/Translumo",
-    "description": "Real-Time Translation Tool",
+    "description": "Real-Time Translation 实用小工具",
     "descriptionEn": "Real-Time Translation Tool",
     "category": "text-tools",
     "tags": [
@@ -1507,7 +1507,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -1519,7 +1519,7 @@
     "id": "text-tools-poedit",
     "name": "Poedit",
     "url": "https://poedit.com/",
-    "description": "Software Translation · GitHub",
+    "description": "纯净软件 Translation · GitHub 开源",
     "descriptionEn": "Software Translation / GitHub",
     "category": "text-tools",
     "tags": [
@@ -1545,7 +1545,7 @@
     "id": "text-tools-morsecode-world",
     "name": "Morsecode World",
     "url": "https://morsecode.world/",
-    "description": "Morse Code Translation Tools",
+    "description": "Morse 程序源码 Translation 工具箱",
     "descriptionEn": "Morse Code Translation Tools",
     "category": "text-tools",
     "tags": [
@@ -1571,7 +1571,7 @@
     "id": "text-tools-sign-translate",
     "name": "Sign Translate",
     "url": "https://rylo.com/sign/translate/",
-    "description": "Text to Sign-Language Video Translator",
+    "description": "Text 至 Sign-外语自学影视视频 Translator",
     "descriptionEn": "Text to Sign-Language Video Translator",
     "category": "text-tools",
     "tags": [
@@ -1597,7 +1597,7 @@
     "id": "text-tools-braille-translator",
     "name": "⁠Braille Translator",
     "url": "https://wecapable.com/braille-translator/",
-    "description": "Braille Translator",
+    "description": "Braille Translator (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Braille Translator",
     "category": "text-tools",
     "tags": [
@@ -1623,7 +1623,7 @@
     "id": "text-tools-lingojam",
     "name": "LingoJam",
     "url": "https://lingojam.com/",
-    "description": "Translator Creator",
+    "description": "Translator Creator (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Translator Creator",
     "category": "text-tools",
     "tags": [
@@ -1649,7 +1649,7 @@
     "id": "text-tools-asr-leaderboard",
     "name": "ASR Leaderboard",
     "url": "https://huggingface.co/spaces/hf-audio/open_asr_leaderboard",
-    "description": "语音转文字识别 Leaderboard",
+    "description": "Speech 至 Text 天梯榜",
     "descriptionEn": "Speech to Text Leaderboard",
     "category": "text-tools",
     "tags": [
@@ -1675,7 +1675,7 @@
     "id": "text-tools-turboscribe",
     "name": "Turboscribe",
     "url": "https://turboscribe.ai/",
-    "description": "AI-Based Transcriptions · Web",
+    "description": "AI-Based Transcriptions · 网页版",
     "descriptionEn": "AI-Based Transcriptions / Web",
     "category": "text-tools",
     "tags": [
@@ -1705,7 +1705,7 @@
     "id": "text-tools-whisper",
     "name": "Whisper",
     "url": "https://github.com/openai/whisper",
-    "description": "Audio Transcription · Windows, macOS, Linux · WebUI, 2",
+    "description": "无损音频 Transcription · Windows · macOS · Linux · WebUI · 2",
     "descriptionEn": "Audio Transcription / Windows, macOS, Linux / WebUI, 2",
     "category": "text-tools",
     "tags": [
@@ -1721,7 +1721,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -1737,7 +1737,7 @@
     "id": "text-tools-whisperx",
     "name": "WhisperX",
     "url": "https://github.com/m-bain/whisperX",
-    "description": "Advanced Whisper with timestamps · Windows, macOS, Linux",
+    "description": "Advanced Whisper 内置 timestamps · Windows · macOS · Linux",
     "descriptionEn": "Advanced Whisper with timestamps / Windows, macOS, Linux",
     "category": "text-tools",
     "tags": [
@@ -1751,7 +1751,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -1766,7 +1766,7 @@
     "id": "text-tools-transcrisper",
     "name": "⁠Transcrisper",
     "url": "https://transcrisper.com/",
-    "description": "Audio Transcription Tools · Web",
+    "description": "无损音频 Transcription 工具箱 · 网页版",
     "descriptionEn": "Audio Transcription Tools / Web",
     "category": "text-tools",
     "tags": [
@@ -1794,7 +1794,7 @@
     "id": "text-tools-vibe",
     "name": "Vibe",
     "url": "https://thewh1teagle.github.io/vibe/",
-    "description": "Audio Transcription · Windows, macOS, Linux",
+    "description": "无损音频 Transcription · Windows · macOS · Linux",
     "descriptionEn": "Audio Transcription / Windows, macOS, Linux",
     "category": "text-tools",
     "tags": [
@@ -1823,7 +1823,7 @@
     "id": "text-tools-buzz",
     "name": "Buzz",
     "url": "https://github.com/chidiwilliams/buzz",
-    "description": "Audio Transcription Tool · Windows, macOS, Linux",
+    "description": "无损音频 Transcription 实用小工具 · Windows · macOS · Linux",
     "descriptionEn": "Audio Transcription Tool / Windows, macOS, Linux",
     "category": "text-tools",
     "tags": [
@@ -1837,7 +1837,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -1852,7 +1852,7 @@
     "id": "text-tools-handy",
     "name": "Handy",
     "url": "https://handy.computer/",
-    "description": "Audio Transcription Tool · Windows, macOS, Linux · Discord · GitHub",
+    "description": "无损音频 Transcription 实用小工具 · Windows · macOS · Linux · Discord 社区 · GitHub 开源",
     "descriptionEn": "Audio Transcription Tool / Windows, macOS, Linux / Discord / GitHub",
     "category": "text-tools",
     "tags": [
@@ -1881,7 +1881,7 @@
     "id": "text-tools-parakeet",
     "name": "Parakeet",
     "url": "https://huggingface.co/spaces/nvidia/parakeet-tdt-0.6b-v2",
-    "description": "Audio Transcription · Web",
+    "description": "无损音频 Transcription · 网页版",
     "descriptionEn": "Audio Transcription / Web",
     "category": "text-tools",
     "tags": [
@@ -1909,7 +1909,7 @@
     "id": "text-tools-speechnotes",
     "name": "SpeechNotes",
     "url": "https://speechnotes.co/",
-    "description": "Speech Recognition Notes App · Web",
+    "description": "Speech Recognition 附注意事项应用程序 · 网页版",
     "descriptionEn": "Speech Recognition Notes App / Web",
     "category": "text-tools",
     "tags": [
@@ -1937,7 +1937,7 @@
     "id": "text-tools-voicenotebook",
     "name": "VoiceNotebook",
     "url": "https://voicenotebook.com/",
-    "description": "Speech Transcription Notebook · Android, iOS, Web",
+    "description": "Speech Transcription Notebook · Android · iOS · 网页版",
     "descriptionEn": "Speech Transcription Notebook / Android, iOS, Web",
     "category": "text-tools",
     "tags": [
@@ -1967,7 +1967,7 @@
     "id": "text-tools-cyberchef",
     "name": "CyberChef",
     "url": "https://gchq.github.io/CyberChef/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -1997,7 +1997,7 @@
     "id": "text-tools-base64-decode",
     "name": "Base64 Decode",
     "url": "https://www.base64decode.org/",
-    "description": "Base64 Specific · Web",
+    "description": "Base64 Specific · 网页版",
     "descriptionEn": "Base64 Specific / Web",
     "category": "text-tools",
     "tags": [
@@ -2027,7 +2027,7 @@
     "id": "text-tools-auto-decoder",
     "name": "Auto Decoder",
     "url": "https://greasyfork.org/en/scripts/485772-fmhy-base64-auto-decoder",
-    "description": "Auto-Decode B64 Links on Pastebins",
+    "description": "Auto-Decode B64 Links on Pastebins (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Auto-Decode B64 Links on Pastebins",
     "category": "text-tools",
     "tags": [
@@ -2055,7 +2055,7 @@
     "id": "text-tools-ciphey",
     "name": "Ciphey",
     "url": "https://github.com/Ciphey/Ciphey",
-    "description": "Automated Decryption Tool · Windows, macOS, Linux",
+    "description": "Automated Decryption 实用小工具 · Windows · macOS · Linux",
     "descriptionEn": "Automated Decryption Tool / Windows, macOS, Linux",
     "category": "text-tools",
     "tags": [
@@ -2069,7 +2069,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2084,7 +2084,7 @@
     "id": "text-tools-online-tools",
     "name": "Online Tools",
     "url": "https://emn178.github.io/online-tools/index.html",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -2112,7 +2112,7 @@
     "id": "text-tools-cryptii",
     "name": "cryptii",
     "url": "https://cryptii.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -2140,7 +2140,7 @@
     "id": "text-tools-quipqiup",
     "name": "quipqiup",
     "url": "https://www.quipqiup.com/",
-    "description": "Cryptogram Solvers · Web",
+    "description": "Cryptogram Solvers · 网页版",
     "descriptionEn": "Cryptogram Solvers / Web",
     "category": "text-tools",
     "tags": [
@@ -2168,7 +2168,7 @@
     "id": "text-tools-universal-encoding-tool",
     "name": "Universal Encoding Tool",
     "url": "https://unenc.com/",
-    "description": "Encode · Convert Text · Web",
+    "description": "Encode · Convert Text · 网页版",
     "descriptionEn": "Encode / Convert Text / Web",
     "category": "text-tools",
     "tags": [
@@ -2196,7 +2196,7 @@
     "id": "text-tools-stegcloak",
     "name": "StegCloak",
     "url": "https://stegcloak.surge.sh/",
-    "description": "Hide Messages in Text · Web",
+    "description": "Hide Messages 在 Text · 网页版",
     "descriptionEn": "Hide Messages in Text / Web",
     "category": "text-tools",
     "tags": [
@@ -2224,7 +2224,7 @@
     "id": "text-tools-base64-repair",
     "name": "Base64 Repair",
     "url": "https://base64.guru/tools/repair",
-    "description": "Fix Broken Base64 · Web",
+    "description": "Fix Broken Base64 · 网页版",
     "descriptionEn": "Fix Broken Base64 / Web",
     "category": "text-tools",
     "tags": [
@@ -2252,7 +2252,7 @@
     "id": "text-tools-searchdecode",
     "name": "SearchDecode",
     "url": "https://github.com/bewf/SearchDecode",
-    "description": "⁠Base64 Search Decoder · Extension",
+    "description": "⁠Base64 搜索检索 Decoder · 扩展插件",
     "descriptionEn": "⁠Base64 Search Decoder / Extension",
     "category": "text-tools",
     "tags": [
@@ -2266,7 +2266,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2280,7 +2280,7 @@
     "id": "text-tools-chrome",
     "name": "Chrome",
     "url": "https://chromewebstore.google.com/detail/base64-decode-copy/llcfmnginbnmkeddkjjellcimmffjdcf",
-    "description": "Chrome · Firefox",
+    "description": "Chrome · Firefox (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Chrome / Firefox",
     "category": "text-tools",
     "tags": [
@@ -2308,7 +2308,7 @@
     "id": "text-tools-harper",
     "name": "Harper",
     "url": "https://writewithharper.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -2340,7 +2340,7 @@
     "id": "text-tools-languagetool",
     "name": "LanguageTool",
     "url": "https://languagetool.org/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -2371,7 +2371,7 @@
     "id": "text-tools-writing-tools",
     "name": "Writing Tools",
     "url": "https://github.com/theJayTea/WritingTools",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -2385,7 +2385,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2400,7 +2400,7 @@
     "id": "text-tools-quillbot",
     "name": "QuillBot",
     "url": "https://quillbot.com/grammar-check",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -2428,7 +2428,7 @@
     "id": "text-tools-deepl-write",
     "name": "DeepL Write",
     "url": "https://www.deepl.com/write",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -2456,7 +2456,7 @@
     "id": "text-tools-kagi-proofread",
     "name": "⁠Kagi Proofread",
     "url": "https://translate.kagi.com/proofread",
-    "description": "Signup Required · Web",
+    "description": "需注册使用 · 网页版",
     "descriptionEn": "Signup Required / Web",
     "category": "text-tools",
     "tags": [
@@ -2484,7 +2484,7 @@
     "id": "text-tools-symbl",
     "name": "symbl",
     "url": "https://symbl.cc/",
-    "description": "Emoji & Unicode Index",
+    "description": "Emoji & Unicode 索引目录",
     "descriptionEn": "Emoji & Unicode Index",
     "category": "text-tools",
     "tags": [
@@ -2512,7 +2512,7 @@
     "id": "text-tools-emojipedia",
     "name": "Emojipedia",
     "url": "https://emojipedia.org/",
-    "description": "Emoji Indexes",
+    "description": "Emoji 导航索引",
     "descriptionEn": "Emoji Indexes",
     "category": "text-tools",
     "tags": [
@@ -2540,7 +2540,7 @@
     "id": "text-tools-slackmojis",
     "name": "Slackmojis",
     "url": "https://slackmojis.com/",
-    "description": "Custom Emojis",
+    "description": "Custom Emojis (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Custom Emojis",
     "category": "text-tools",
     "tags": [
@@ -2568,7 +2568,7 @@
     "id": "text-tools-amp-what",
     "name": "Amp What",
     "url": "https://www.amp-what.com/",
-    "description": "Unicode Index",
+    "description": "Unicode 索引目录",
     "descriptionEn": "Unicode Index",
     "category": "text-tools",
     "tags": [
@@ -2596,7 +2596,7 @@
     "id": "text-tools-emojicreator",
     "name": "EmojiCreator",
     "url": "https://emojicreator.ai/",
-    "description": "Make Custom Animated Emojis",
+    "description": "Make Custom Animated Emojis (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Make Custom Animated Emojis",
     "category": "text-tools",
     "tags": [
@@ -2622,7 +2622,7 @@
     "id": "text-tools-animated-noto-emojis",
     "name": "⁠Animated Noto Emojis",
     "url": "https://googlefonts.github.io/noto-emoji-animation/",
-    "description": "Google Animated Emojis",
+    "description": "Google Animated Emojis (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Google Animated Emojis",
     "category": "text-tools",
     "tags": [
@@ -2648,7 +2648,7 @@
     "id": "text-tools-animated-fluent-emojis",
     "name": "Animated Fluent Emojis",
     "url": "https://animated-fluent-emoji.vercel.app/",
-    "description": "Microsoft Animated Emojis · GitHub",
+    "description": "Microsoft Animated Emojis · GitHub 开源",
     "descriptionEn": "Microsoft Animated Emojis / GitHub",
     "category": "text-tools",
     "tags": [
@@ -2674,7 +2674,7 @@
     "id": "text-tools-cult-of-the-party-parrot",
     "name": "Cult of the Party Parrot",
     "url": "https://cultofthepartyparrot.com/",
-    "description": "Party Parrot Emojis",
+    "description": "聚会派对 Parrot Emojis",
     "descriptionEn": "Party Parrot Emojis",
     "category": "text-tools",
     "tags": [
@@ -2700,7 +2700,7 @@
     "id": "text-tools-emojify",
     "name": "Emojify",
     "url": "https://madelinemiller.dev/apps/emojify/",
-    "description": "Emojify Text",
+    "description": "Emojify Text (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Emojify Text",
     "category": "text-tools",
     "tags": [
@@ -2726,7 +2726,7 @@
     "id": "text-tools-asciify-unicode",
     "name": "Asciify Unicode",
     "url": "https://asciify.dev/unicode",
-    "description": "ASCII & Unicode Reference",
+    "description": "ASCII & Unicode Reference (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "ASCII & Unicode Reference",
     "category": "text-tools",
     "tags": [
@@ -2752,7 +2752,7 @@
     "id": "text-tools-unicode-explorer",
     "name": "Unicode Explorer",
     "url": "https://unicode-explorer.com/",
-    "description": "Unicode Character Identification",
+    "description": "Unicode Character Identification (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Unicode Character Identification",
     "category": "text-tools",
     "tags": [
@@ -2778,7 +2778,7 @@
     "id": "text-tools-copychar",
     "name": "CopyChar",
     "url": "https://copychar.cc/",
-    "description": "Special Characters Index",
+    "description": "Special Characters 索引目录",
     "descriptionEn": "Special Characters Index",
     "category": "text-tools",
     "tags": [
@@ -2804,7 +2804,7 @@
     "id": "text-tools-graphemica",
     "name": "Graphemica",
     "url": "https://graphemica.com/",
-    "description": "Typography Reference",
+    "description": "Typography Reference (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Typography Reference",
     "category": "text-tools",
     "tags": [
@@ -2830,7 +2830,7 @@
     "id": "text-tools-unifoundry",
     "name": "Unifoundry",
     "url": "https://unifoundry.com/",
-    "description": "Unifont Repository",
+    "description": "Unifont Repository (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Unifont Repository",
     "category": "text-tools",
     "tags": [
@@ -2856,7 +2856,7 @@
     "id": "text-tools-emotes-io",
     "name": "emotes.io",
     "url": "https://emotes.io/",
-    "description": "Copy Unicode Emotes",
+    "description": "Copy Unicode Emotes (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Copy Unicode Emotes",
     "category": "text-tools",
     "tags": [
@@ -2882,7 +2882,7 @@
     "id": "text-tools-character-map",
     "name": "Character Map",
     "url": "https://github.com/character-map-uwp/Character-Map-UWP",
-    "description": "Custom Font & Emojis · Windows",
+    "description": "Custom Font & Emojis · Windows (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Custom Font & Emojis / Windows",
     "category": "text-tools",
     "tags": [
@@ -2896,7 +2896,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2910,7 +2910,7 @@
     "id": "text-tools-monkeytype",
     "name": "Monkeytype",
     "url": "https://monkeytype.com/",
-    "description": "Custom Touch Typing Tests · Discord · GitHub",
+    "description": "Custom Touch Typing 测速 · Discord 社区 · GitHub 开源",
     "descriptionEn": "Custom Touch Typing Tests / Discord / GitHub",
     "category": "text-tools",
     "tags": [
@@ -2938,7 +2938,7 @@
     "id": "text-tools-keybr",
     "name": "keybr",
     "url": "https://www.keybr.com/",
-    "description": "Custom Touch Typing Practice · GitHub",
+    "description": "Custom Touch Typing Practice · GitHub 开源",
     "descriptionEn": "Custom Touch Typing Practice / GitHub",
     "category": "text-tools",
     "tags": [
@@ -2966,7 +2966,7 @@
     "id": "text-tools-layouts-wiki",
     "name": "⁠Layouts Wiki",
     "url": "https://layouts.wiki/",
-    "description": "Alt Typing Layouts Wiki",
+    "description": "Alt Typing Layouts 知识维基",
     "descriptionEn": "Alt Typing Layouts Wiki",
     "category": "text-tools",
     "tags": [
@@ -2992,7 +2992,7 @@
     "id": "text-tools-typing-guide",
     "name": "Typing Guide",
     "url": "https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o",
-    "description": "In-Depth Typing Guide",
+    "description": "在-Depth Typing 指南",
     "descriptionEn": "In-Depth Typing Guide",
     "category": "text-tools",
     "tags": [
@@ -3018,7 +3018,7 @@
     "id": "text-tools-typ-ing",
     "name": "Typ.ing",
     "url": "https://typ.ing/",
-    "description": "Typing Tests",
+    "description": "Typing 测速",
     "descriptionEn": "Typing Tests",
     "category": "text-tools",
     "tags": [
@@ -3044,7 +3044,7 @@
     "id": "text-tools-ttyper",
     "name": "⁠ttyper",
     "url": "https://github.com/max-niederman/ttyper",
-    "description": "Typing Test TUIs",
+    "description": "Typing 测试 TUIs",
     "descriptionEn": "Typing Test TUIs",
     "category": "text-tools",
     "tags": [
@@ -3058,7 +3058,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3070,7 +3070,7 @@
     "id": "text-tools-typing-com",
     "name": "Typing.com",
     "url": "https://www.typing.com/",
-    "description": "Touch Typing Lessons · Practice",
+    "description": "Touch Typing Lessons · Practice (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Touch Typing Lessons / Practice",
     "category": "text-tools",
     "tags": [
@@ -3096,7 +3096,7 @@
     "id": "text-tools-typing-academy",
     "name": "typing.academy",
     "url": "https://www.typing.academy/",
-    "description": "Typing Lessons",
+    "description": "Typing Lessons (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Typing Lessons",
     "category": "text-tools",
     "tags": [
@@ -3122,7 +3122,7 @@
     "id": "text-tools-typeracer",
     "name": "TypeRacer",
     "url": "https://play.typeracer.com/",
-    "description": "Typing Games",
+    "description": "Typing 游戏资源",
     "descriptionEn": "Typing Games",
     "category": "text-tools",
     "tags": [
@@ -3148,7 +3148,7 @@
     "id": "text-tools-ngram-type",
     "name": "NGram Type",
     "url": "https://ranelpadon.github.io/ngram-type/",
-    "description": "Touch Typing Tests",
+    "description": "Touch Typing 测速",
     "descriptionEn": "Touch Typing Tests",
     "category": "text-tools",
     "tags": [
@@ -3174,7 +3174,7 @@
     "id": "text-tools-typersguild",
     "name": "⁠Typersguild",
     "url": "https://typersguild.com/",
-    "description": "Practice Typing with Books",
+    "description": "Practice Typing 内置电子书图书",
     "descriptionEn": "Practice Typing with Books",
     "category": "text-tools",
     "tags": [
@@ -3200,7 +3200,7 @@
     "id": "text-tools-typingstudy",
     "name": "TypingStudy",
     "url": "https://www.typingstudy.com/",
-    "description": "Multilingual Touch Typing Tests",
+    "description": "Multilingual Touch Typing 测速",
     "descriptionEn": "Multilingual Touch Typing Tests",
     "category": "text-tools",
     "tags": [
@@ -3226,7 +3226,7 @@
     "id": "text-tools-10fastfingers",
     "name": "10fastfingers",
     "url": "https://10fastfingers.com/",
-    "description": "Typing Competitions · Discord",
+    "description": "Typing Competitions · Discord 社区",
     "descriptionEn": "Typing Competitions / Discord",
     "category": "text-tools",
     "tags": [
@@ -3252,7 +3252,7 @@
     "id": "text-tools-list-of-text-editors",
     "name": "List of Text Editors",
     "url": "https://wikipedia.org/wiki/List_of_text_editors",
-    "description": "轻量极简文本编辑器 · Notepad Index",
+    "description": "Text 编辑器 · Notepad 索引目录",
     "descriptionEn": "Text Editor / Notepad Index",
     "category": "text-tools",
     "tags": [
@@ -3266,7 +3266,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3278,7 +3278,7 @@
     "id": "text-tools-android-text-editor",
     "name": "Android Text Editor",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_text_tools",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -3292,7 +3292,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3306,7 +3306,7 @@
     "id": "text-tools-code-editors---ides",
     "name": "Code Editors / IDEs",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_ides_.2F_code_editors",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -3320,7 +3320,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3332,7 +3332,7 @@
     "id": "text-tools-notepad",
     "name": "Notepad++",
     "url": "https://notepad-plus-plus.org/",
-    "description": "Notepad & Code Editor · Windows · GitHub",
+    "description": "Notepad & 程序源码编辑器 · Windows · GitHub 开源",
     "descriptionEn": "Notepad & Code Editor / Windows / GitHub",
     "category": "text-tools",
     "tags": [
@@ -3362,7 +3362,7 @@
     "id": "text-tools-notepadnext",
     "name": "NotepadNext",
     "url": "https://github.com/dail8859/NotepadNext",
-    "description": "Notepad & Code Editor · Windows, macOS, Linux",
+    "description": "Notepad & 程序源码编辑器 · Windows · macOS · Linux",
     "descriptionEn": "Notepad & Code Editor / Windows, macOS, Linux",
     "category": "text-tools",
     "tags": [
@@ -3376,7 +3376,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3391,7 +3391,7 @@
     "id": "text-tools-encryptpad",
     "name": "EncryptPad",
     "url": "https://evpo.net/encryptpad/",
-    "description": "Encrypted 轻量极简文本编辑器 · Windows, macOS, Linux · GitHub",
+    "description": "Encrypted Text 编辑器 · Windows · macOS · Linux · GitHub 开源",
     "descriptionEn": "Encrypted Text Editor / Windows, macOS, Linux / GitHub",
     "category": "text-tools",
     "tags": [
@@ -3420,7 +3420,7 @@
     "id": "text-tools-notepads",
     "name": "Notepads",
     "url": "https://www.notepadsapp.com/",
-    "description": "轻量极简文本编辑器 · Windows · GitHub",
+    "description": "Text 编辑器 · Windows · GitHub 开源",
     "descriptionEn": "Text Editor / Windows / GitHub",
     "category": "text-tools",
     "tags": [
@@ -3448,7 +3448,7 @@
     "id": "text-tools-fastnotes",
     "name": "FastNotes",
     "url": "https://fastedit.frozenassassine.de/",
-    "description": "轻量极简文本编辑器 · Windows · GitHub",
+    "description": "Text 编辑器 · Windows · GitHub 开源",
     "descriptionEn": "Text Editor / Windows / GitHub",
     "category": "text-tools",
     "tags": [
@@ -3476,7 +3476,7 @@
     "id": "text-tools-kompad",
     "name": "Kompad",
     "url": "https://github.com/hudy9x/kompad",
-    "description": "轻量极简文本编辑器 · Web",
+    "description": "Text 编辑器 · 网页版",
     "descriptionEn": "Text Editor / Web",
     "category": "text-tools",
     "tags": [
@@ -3490,7 +3490,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3504,7 +3504,7 @@
     "id": "text-tools-sublime-text",
     "name": "Sublime Text",
     "url": "https://www.sublimetext.com/",
-    "description": "轻量极简文本编辑器 · Windows, macOS, Linux · Package Manager",
+    "description": "Text 编辑器 · Windows · macOS · Linux · Package 管理工具",
     "descriptionEn": "Text Editor / Windows, macOS, Linux / Package Manager",
     "category": "text-tools",
     "tags": [
@@ -3533,7 +3533,7 @@
     "id": "text-tools-zim-wiki",
     "name": "Zim Wiki",
     "url": "https://zim-wiki.org/",
-    "description": "Wiki 轻量极简文本编辑器 · Windows, macOS, Linux · GitHub",
+    "description": "知识维基 Text 编辑器 · Windows · macOS · Linux · GitHub 开源",
     "descriptionEn": "Wiki Text Editor / Windows, macOS, Linux / GitHub",
     "category": "text-tools",
     "tags": [
@@ -3562,7 +3562,7 @@
     "id": "text-tools-tomboy-ng",
     "name": "tomboy-ng",
     "url": "https://github.com/tomboy-notes/tomboy-ng",
-    "description": "TomBoy-Based 轻量极简文本编辑器 · Windows, macOS, Linux",
+    "description": "TomBoy-Based Text 编辑器 · Windows · macOS · Linux",
     "descriptionEn": "TomBoy-Based Text Editor / Windows, macOS, Linux",
     "category": "text-tools",
     "tags": [
@@ -3576,7 +3576,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3591,7 +3591,7 @@
     "id": "text-tools-scite",
     "name": "SciTE",
     "url": "https://www.scintilla.org/SciTE.html",
-    "description": "轻量极简文本编辑器 · Windows, macOS, Linux",
+    "description": "Text 编辑器 · Windows · macOS · Linux",
     "descriptionEn": "Text Editor / Windows, macOS, Linux",
     "category": "text-tools",
     "tags": [
@@ -3620,7 +3620,7 @@
     "id": "text-tools-obsidian",
     "name": "Obsidian",
     "url": "https://obsidian.md/",
-    "description": "Markdown Note-Taking · Windows, macOS, Linux, Android, iOS · Discord",
+    "description": "Markdown 附注意事项-Taking · Windows · macOS · Linux · Android · iOS · Discord 社区",
     "descriptionEn": "Markdown Note-Taking / Windows, macOS, Linux, Android, iOS / Discord",
     "category": "text-tools",
     "tags": [
@@ -3652,7 +3652,7 @@
     "id": "text-tools-publish-notes",
     "name": "Publish Notes",
     "url": "https://docs.forestry.md/",
-    "description": "Publish Notes · Note Sync · Web Clipper · Google Drive Sync · Guides · Forum",
+    "description": "Publish 附注意事项 · 附注意事项 Sync · 网页版 Clipper · Google Drive Sync · 教程与指南 · 交流论坛",
     "descriptionEn": "Publish Notes / Note Sync / Web Clipper / Google Drive Sync / Guides / Forum",
     "category": "text-tools",
     "tags": [
@@ -3682,7 +3682,7 @@
     "id": "text-tools-anytype",
     "name": "Anytype",
     "url": "https://anytype.io/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -3714,7 +3714,7 @@
     "id": "text-tools-appflowy",
     "name": "AppFlowy",
     "url": "https://appflowy.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -3747,7 +3747,7 @@
     "id": "text-tools-logseq",
     "name": "Logseq",
     "url": "https://logseq.com/",
-    "description": "Outlining · Windows, macOS, Linux, Android, iOS, Web · Discord · GitHub",
+    "description": "Outlining · Windows · macOS · Linux · Android · iOS · 网页版 · Discord 社区 · GitHub 开源",
     "descriptionEn": "Outlining / Windows, macOS, Linux, Android, iOS, Web / Discord / GitHub",
     "category": "text-tools",
     "tags": [
@@ -3780,7 +3780,7 @@
     "id": "text-tools-notesnook",
     "name": "Notesnook",
     "url": "https://notesnook.com/",
-    "description": "Note-Taking · E2EE · Windows, macOS, Linux, Android, iOS, Web · Discord · GitHub",
+    "description": "智能笔记记录与知识整理 · E2EE · Windows · macOS · Linux · Android · iOS · 网页版 · Discord 社区 · GitHub 开源",
     "descriptionEn": "Note-Taking / E2EE / Windows, macOS, Linux, Android, iOS, Web / Discord / GitHub",
     "category": "text-tools",
     "tags": [
@@ -3813,7 +3813,7 @@
     "id": "text-tools-simplenote",
     "name": "Simplenote",
     "url": "https://simplenote.com/",
-    "description": "Note-Taking · Windows, macOS, Linux, Android, iOS, Web · GitHub",
+    "description": "智能笔记记录与知识整理 · Windows · macOS · Linux · Android · iOS · 网页版 · GitHub 开源",
     "descriptionEn": "Note-Taking / Windows, macOS, Linux, Android, iOS, Web / GitHub",
     "category": "text-tools",
     "tags": [
@@ -3844,7 +3844,7 @@
     "id": "text-tools-affine",
     "name": "AFFiNE",
     "url": "https://affine.pro/",
-    "description": "Note-Taking · All Platforms + Web · GitHub",
+    "description": "智能笔记记录与知识整理 · 全部 Platforms + 网页版 · GitHub 开源",
     "descriptionEn": "Note-Taking / All Platforms + Web / GitHub",
     "category": "text-tools",
     "tags": [
@@ -3872,7 +3872,7 @@
     "id": "text-tools-notion",
     "name": "Notion",
     "url": "https://www.notion.com/",
-    "description": "Note-Taking · All Platforms + Web",
+    "description": "智能笔记记录与知识整理 · 全部 Platforms + 网页版",
     "descriptionEn": "Note-Taking / All Platforms + Web",
     "category": "text-tools",
     "tags": [
@@ -3900,7 +3900,7 @@
     "id": "text-tools-resources",
     "name": "Resources",
     "url": "https://www.notioneverything.com/notion-world",
-    "description": "Resources, 2 · Guide · Markdown Extractor · Web Clipper",
+    "description": "精选资源 · 2 · 指南 · Markdown Extractor · 网页版 Clipper",
     "descriptionEn": "Resources, 2 / Guide / Markdown Extractor / Web Clipper",
     "category": "text-tools",
     "tags": [
@@ -3928,7 +3928,7 @@
     "id": "text-tools-lokus",
     "name": "Lokus",
     "url": "https://www.lokusmd.com/",
-    "description": "Markdown Note-Taking · Windows, macOS, Linux · GitHub",
+    "description": "Markdown 附注意事项-Taking · Windows · macOS · Linux · GitHub 开源",
     "descriptionEn": "Markdown Note-Taking / Windows, macOS, Linux / GitHub",
     "category": "text-tools",
     "tags": [
@@ -3957,7 +3957,7 @@
     "id": "text-tools-trilium",
     "name": "Trilium",
     "url": "https://triliumnotes.org/",
-    "description": "Info Manager · Windows, macOS, Linux · GitHub",
+    "description": "Info 管理工具 · Windows · macOS · Linux · GitHub 开源",
     "descriptionEn": "Info Manager / Windows, macOS, Linux / GitHub",
     "category": "text-tools",
     "tags": [
@@ -3986,7 +3986,7 @@
     "id": "text-tools-mochi-cards",
     "name": "Mochi Cards",
     "url": "https://mochi.cards/",
-    "description": "Note-Taking · Study Tools · All Platforms",
+    "description": "智能笔记记录与知识整理 · Study 工具箱 · 全部 Platforms",
     "descriptionEn": "Note-Taking / Study Tools / All Platforms",
     "category": "text-tools",
     "tags": [
@@ -4012,7 +4012,7 @@
     "id": "text-tools-silicon",
     "name": "Silicon",
     "url": "https://github.com/cu/silicon",
-    "description": "Note-Taking · 支持自建部署",
+    "description": "智能笔记记录与知识整理 · Self-Hosted",
     "descriptionEn": "Note-Taking / Self-Hosted",
     "category": "text-tools",
     "tags": [
@@ -4026,7 +4026,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4040,7 +4040,7 @@
     "id": "text-tools-tolaria",
     "name": "Tolaria",
     "url": "https://tolaria.md/",
-    "description": "Markdown Note-Taking · Windows, macOS, Linux · GitHub",
+    "description": "Markdown 附注意事项-Taking · Windows · macOS · Linux · GitHub 开源",
     "descriptionEn": "Markdown Note-Taking / Windows, macOS, Linux / GitHub",
     "category": "text-tools",
     "tags": [
@@ -4069,7 +4069,7 @@
     "id": "text-tools-flotes",
     "name": "Flotes",
     "url": "https://flotes.app/",
-    "description": "Markdown Note-Taking · Web · Discord",
+    "description": "Markdown 附注意事项-Taking · 网页版 · Discord 社区",
     "descriptionEn": "Markdown Note-Taking / Web / Discord",
     "category": "text-tools",
     "tags": [
@@ -4097,7 +4097,7 @@
     "id": "text-tools-qownnotes",
     "name": "QOwnNotes",
     "url": "https://www.qownnotes.org/",
-    "description": "Markdown Note-Taking · Windows, macOS, Linux · Telegram · GitHub",
+    "description": "Markdown 附注意事项-Taking · Windows · macOS · Linux · Telegram 交流群 · GitHub 开源",
     "descriptionEn": "Markdown Note-Taking / Windows, macOS, Linux / Telegram / GitHub",
     "category": "text-tools",
     "tags": [
@@ -4126,7 +4126,7 @@
     "id": "text-tools-vnote",
     "name": "vNote",
     "url": "https://github.com/vnotex/vnote",
-    "description": "Markdown Note-Taking · Windows, macOS, Linux",
+    "description": "Markdown 附注意事项-Taking · Windows · macOS · Linux",
     "descriptionEn": "Markdown Note-Taking / Windows, macOS, Linux",
     "category": "text-tools",
     "tags": [
@@ -4140,7 +4140,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4155,7 +4155,7 @@
     "id": "text-tools-helixnotes",
     "name": "HelixNotes",
     "url": "https://helixnotes.com/",
-    "description": "Markdown Note-Taking · All Platforms · Discord · Source Code",
+    "description": "Markdown 附注意事项-Taking · 全部 Platforms · Discord 社区 · 源码程序源码",
     "descriptionEn": "Markdown Note-Taking / All Platforms / Discord / Source Code",
     "category": "text-tools",
     "tags": [
@@ -4181,7 +4181,7 @@
     "id": "text-tools-neutrinote",
     "name": "neutriNote",
     "url": "https://github.com/appml/neutrinote",
-    "description": "Markdown Note-Taking · Android",
+    "description": "Markdown 附注意事项-Taking · Android",
     "descriptionEn": "Markdown Note-Taking / Android",
     "category": "text-tools",
     "tags": [
@@ -4195,7 +4195,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4209,7 +4209,7 @@
     "id": "text-tools-quillpad",
     "name": "Quillpad",
     "url": "https://quillpad.github.io/",
-    "description": "Markdown Note-Taking · Android · GitHub",
+    "description": "Markdown 附注意事项-Taking · Android · GitHub 开源",
     "descriptionEn": "Markdown Note-Taking / Android / GitHub",
     "category": "text-tools",
     "tags": [
@@ -4237,7 +4237,7 @@
     "id": "text-tools-onenote",
     "name": "OneNote",
     "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.onenote&hl=en-us",
-    "description": "Markdown Note-Taking · Math Support · Android",
+    "description": "Markdown 附注意事项-Taking · Math Support · Android",
     "descriptionEn": "Markdown Note-Taking / Math Support / Android",
     "category": "text-tools",
     "tags": [
@@ -4265,7 +4265,7 @@
     "id": "text-tools-tiddly",
     "name": "Tiddly",
     "url": "https://tiddlywiki.com/",
-    "description": "Info Manager · Windows, macOS, Linux · Desktop",
+    "description": "Info 管理工具 · Windows · macOS · Linux · 桌面端",
     "descriptionEn": "Info Manager / Windows, macOS, Linux / Desktop",
     "category": "text-tools",
     "tags": [
@@ -4294,7 +4294,7 @@
     "id": "text-tools-org-roam",
     "name": "Org-roam",
     "url": "https://www.orgroam.com/",
-    "description": "Info Manager · 支持自建部署 · GitHub",
+    "description": "Info 管理工具 · Self-Hosted · GitHub 开源",
     "descriptionEn": "Info Manager / Self-Hosted / GitHub",
     "category": "text-tools",
     "tags": [
@@ -4322,7 +4322,7 @@
     "id": "text-tools-desklamp",
     "name": "Desklamp",
     "url": "https://desklamp.io/",
-    "description": "Reading · Note-Taking · Highlighting Tool · Windows · Guide",
+    "description": "Reading · 智能笔记记录与知识整理 · Highlighting 实用小工具 · Windows · 指南",
     "descriptionEn": "Reading / Note-Taking / Highlighting Tool / Windows / Guide",
     "category": "text-tools",
     "tags": [
@@ -4350,7 +4350,7 @@
     "id": "text-tools-memos",
     "name": "Memos",
     "url": "https://usememos.com/",
-    "description": "Note-Taking · 支持自建部署 · Discord · GitHub",
+    "description": "智能笔记记录与知识整理 · Self-Hosted · Discord 社区 · GitHub 开源",
     "descriptionEn": "Note-Taking / Self-Hosted / Discord / GitHub",
     "category": "text-tools",
     "tags": [
@@ -4378,7 +4378,7 @@
     "id": "text-tools-papers-im",
     "name": "Papers.IM",
     "url": "https://papers.im/",
-    "description": "Note-Taking · Web",
+    "description": "智能笔记记录与知识整理 · 网页版",
     "descriptionEn": "Note-Taking / Web",
     "category": "text-tools",
     "tags": [
@@ -4406,7 +4406,7 @@
     "id": "text-tools-joplin",
     "name": "Joplin",
     "url": "https://joplinapp.org/",
-    "description": "Note-Taking · E2EE · All Platforms · Firefox · Chrome · Discord · GitHub",
+    "description": "智能笔记记录与知识整理 · E2EE · 全部 Platforms · Firefox · Chrome · Discord 社区 · GitHub 开源",
     "descriptionEn": "Note-Taking / E2EE / All Platforms / Firefox / Chrome / Discord / GitHub",
     "category": "text-tools",
     "tags": [
@@ -4434,7 +4434,7 @@
     "id": "text-tools-micropad",
     "name": "MicroPad",
     "url": "https://getmicropad.com/",
-    "description": "Note-Taking · Windows, macOS, Linux · Web",
+    "description": "智能笔记记录与知识整理 · Windows · macOS · Linux · 网页版",
     "descriptionEn": "Note-Taking / Windows, macOS, Linux / Web",
     "category": "text-tools",
     "tags": [
@@ -4464,7 +4464,7 @@
     "id": "text-tools-docmost",
     "name": "DocMost",
     "url": "https://docmost.com/",
-    "description": "Note-Taking · 支持自建部署 · GitHub",
+    "description": "智能笔记记录与知识整理 · Self-Hosted · GitHub 开源",
     "descriptionEn": "Note-Taking / Self-Hosted / GitHub",
     "category": "text-tools",
     "tags": [
@@ -4492,7 +4492,7 @@
     "id": "text-tools-keynote-nf",
     "name": "KeyNote NF",
     "url": "https://github.com/dpradov/keynote-nf",
-    "description": "Note-Taking · E2EE · Windows",
+    "description": "智能笔记记录与知识整理 · E2EE · Windows",
     "descriptionEn": "Note-Taking / E2EE / Windows",
     "category": "text-tools",
     "tags": [
@@ -4506,7 +4506,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4520,7 +4520,7 @@
     "id": "text-tools-silentnotes",
     "name": "SilentNotes",
     "url": "https://www.martinstoeckli.ch/silentnotes/",
-    "description": "Note-Taking · E2EE · Windows, Android · GitHub",
+    "description": "智能笔记记录与知识整理 · E2EE · Windows · Android · GitHub 开源",
     "descriptionEn": "Note-Taking / E2EE / Windows, Android / GitHub",
     "category": "text-tools",
     "tags": [
@@ -4549,7 +4549,7 @@
     "id": "text-tools-google-keep",
     "name": "Google Keep",
     "url": "https://keep.google.com/",
-    "description": "Minimal Note-Taking · Android, iOS, Web · Chrome",
+    "description": "极简附注意事项-Taking · Android · iOS · 网页版 · Chrome",
     "descriptionEn": "Minimal Note-Taking / Android, iOS, Web / Chrome",
     "category": "text-tools",
     "tags": [
@@ -4579,7 +4579,7 @@
     "id": "text-tools-notally",
     "name": "Notally",
     "url": "https://github.com/OmGodse/Notally",
-    "description": "Minimal Note-Taking · Android",
+    "description": "极简附注意事项-Taking · Android",
     "descriptionEn": "Minimal Note-Taking / Android",
     "category": "text-tools",
     "tags": [
@@ -4593,7 +4593,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4607,7 +4607,7 @@
     "id": "text-tools-easy-notes",
     "name": "Easy Notes",
     "url": "https://github.com/Kin69/EasyNotes",
-    "description": "Minimal Note-Taking · Android",
+    "description": "极简附注意事项-Taking · Android",
     "descriptionEn": "Minimal Note-Taking / Android",
     "category": "text-tools",
     "tags": [
@@ -4621,7 +4621,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4635,7 +4635,7 @@
     "id": "text-tools-org-mode",
     "name": "⁠Org Mode",
     "url": "https://orgmode.org/",
-    "description": "CLI Note-Taking · Windows, macOS, Linux",
+    "description": "CLI 附注意事项-Taking · Windows · macOS · Linux",
     "descriptionEn": "CLI Note-Taking / Windows, macOS, Linux",
     "category": "text-tools",
     "tags": [
@@ -4664,7 +4664,7 @@
     "id": "text-tools-colornote",
     "name": "ColorNote",
     "url": "https://www.colornote.com/",
-    "description": "Minimal Note-Taking · Android",
+    "description": "极简附注意事项-Taking · Android",
     "descriptionEn": "Minimal Note-Taking / Android",
     "category": "text-tools",
     "tags": [
@@ -4692,7 +4692,7 @@
     "id": "text-tools-notebook",
     "name": "Notebook",
     "url": "https://www.zoho.com/notebook/mobile-app.html",
-    "description": "Note-Taking · Drawing · Android",
+    "description": "智能笔记记录与知识整理 · Drawing · Android",
     "descriptionEn": "Note-Taking / Drawing / Android",
     "category": "text-tools",
     "tags": [
@@ -4721,7 +4721,7 @@
     "id": "text-tools-walling",
     "name": "Walling",
     "url": "https://walling.app/",
-    "description": "Note-Taking Apps for Projects · Android",
+    "description": "附注意事项-Taking 精选应用面向 Projects · Android",
     "descriptionEn": "Note-Taking Apps for Projects / Android",
     "category": "text-tools",
     "tags": [
@@ -4749,7 +4749,7 @@
     "id": "text-tools-crypt-ee",
     "name": "⁠Crypt.ee",
     "url": "https://crypt.ee/",
-    "description": "Encrypted Notes · E2EE · All Platforms",
+    "description": "Encrypted 附注意事项 · E2EE · 全部 Platforms",
     "descriptionEn": "Encrypted Notes / E2EE / All Platforms",
     "category": "text-tools",
     "tags": [
@@ -4775,7 +4775,7 @@
     "id": "text-tools-standard-notes",
     "name": "Standard Notes",
     "url": "https://standardnotes.com/",
-    "description": "Encrypted Notes · E2EE · All Platforms · Web · Discord · GitHub",
+    "description": "Encrypted 附注意事项 · E2EE · 全部 Platforms · 网页版 · Discord 社区 · GitHub 开源",
     "descriptionEn": "Encrypted Notes / E2EE / All Platforms / Web / Discord / GitHub",
     "category": "text-tools",
     "tags": [
@@ -4803,7 +4803,7 @@
     "id": "text-tools-excalidraw",
     "name": "Excalidraw",
     "url": "https://excalidraw.com/",
-    "description": "Whiteboard · Sharing · Github",
+    "description": "Whiteboard · 实时共享 · GitHub 开源",
     "descriptionEn": "Whiteboard / Sharing / Github",
     "category": "text-tools",
     "tags": [
@@ -4831,7 +4831,7 @@
     "id": "text-tools-openboard",
     "name": "OpenBoard",
     "url": "https://openboard.ch/en",
-    "description": "Whiteboard",
+    "description": "Whiteboard (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Whiteboard",
     "category": "text-tools",
     "tags": [
@@ -4859,7 +4859,7 @@
     "id": "text-tools-saber",
     "name": "Saber",
     "url": "https://saber.adil.hanney.org/",
-    "description": "Handwritten Notes · All Platforms · GitHub",
+    "description": "Handwritten 附注意事项 · 全部 Platforms · GitHub 开源",
     "descriptionEn": "Handwritten Notes / All Platforms / GitHub",
     "category": "text-tools",
     "tags": [
@@ -4885,7 +4885,7 @@
     "id": "text-tools-butterfly",
     "name": "Butterfly",
     "url": "https://butterfly.linwood.dev/",
-    "description": "Handwritten Notes · All Platforms · Discord · GitHub",
+    "description": "Handwritten 附注意事项 · 全部 Platforms · Discord 社区 · GitHub 开源",
     "descriptionEn": "Handwritten Notes / All Platforms / Discord / GitHub",
     "category": "text-tools",
     "tags": [
@@ -4911,7 +4911,7 @@
     "id": "text-tools-xournal",
     "name": "Xournal++",
     "url": "https://xournalpp.github.io/",
-    "description": "Handwritten Notes · Windows, macOS, Linux · GitHub",
+    "description": "Handwritten 附注意事项 · Windows · macOS · Linux · GitHub 开源",
     "descriptionEn": "Handwritten Notes / Windows, macOS, Linux / GitHub",
     "category": "text-tools",
     "tags": [
@@ -4940,7 +4940,7 @@
     "id": "text-tools-rnote",
     "name": "rNote",
     "url": "https://rnote.flxzt.net/",
-    "description": "Handwritten Notes · Windows, macOS, Linux · GitHub",
+    "description": "Handwritten 附注意事项 · Windows · macOS · Linux · GitHub 开源",
     "descriptionEn": "Handwritten Notes / Windows, macOS, Linux / GitHub",
     "category": "text-tools",
     "tags": [
@@ -4969,7 +4969,7 @@
     "id": "text-tools-notein",
     "name": "Notein",
     "url": "https://www.notein.ai/",
-    "description": "Handwritten Notes · Android",
+    "description": "Handwritten 附注意事项 · Android",
     "descriptionEn": "Handwritten Notes / Android",
     "category": "text-tools",
     "tags": [
@@ -4997,7 +4997,7 @@
     "id": "text-tools-text-to-handwriting",
     "name": "Text to Handwriting",
     "url": "https://saurabhdaware.github.io/text-to-handwriting/",
-    "description": "Text to Handwriting Converters",
+    "description": "Text 至 Handwriting 转换器",
     "descriptionEn": "Text to Handwriting Converters",
     "category": "text-tools",
     "tags": [
@@ -5023,7 +5023,7 @@
     "id": "text-tools-dgm",
     "name": "DGM",
     "url": "https://app.dgmjs.dev/",
-    "description": "Whiteboard",
+    "description": "Whiteboard (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Whiteboard",
     "category": "text-tools",
     "tags": [
@@ -5049,7 +5049,7 @@
     "id": "text-tools-notebookcast",
     "name": "NotebookCast",
     "url": "https://www.notebookcast.com/",
-    "description": "Whiteboard",
+    "description": "Whiteboard (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Whiteboard",
     "category": "text-tools",
     "tags": [
@@ -5075,7 +5075,7 @@
     "id": "text-tools-webwhiteboard",
     "name": "WebWhiteboard",
     "url": "https://webwhiteboard.com/",
-    "description": "Whiteboard",
+    "description": "Whiteboard (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Whiteboard",
     "category": "text-tools",
     "tags": [
@@ -5103,7 +5103,7 @@
     "id": "text-tools-drawnix",
     "name": "Drawnix",
     "url": "https://drawnix.com/",
-    "description": "Whiteboard · GitHub",
+    "description": "Whiteboard · GitHub 开源",
     "descriptionEn": "Whiteboard / GitHub",
     "category": "text-tools",
     "tags": [
@@ -5129,7 +5129,7 @@
     "id": "text-tools-microsoft-whiteboard",
     "name": "Microsoft Whiteboard",
     "url": "https://apps.microsoft.com/detail/9MSPC6MP8FM4",
-    "description": "Whiteboard",
+    "description": "Whiteboard (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Whiteboard",
     "category": "text-tools",
     "tags": [
@@ -5155,7 +5155,7 @@
     "id": "text-tools-wbo",
     "name": "WBO",
     "url": "https://wbo.ophir.dev/",
-    "description": "Whiteboard",
+    "description": "Whiteboard (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Whiteboard",
     "category": "text-tools",
     "tags": [
@@ -5181,7 +5181,7 @@
     "id": "text-tools-ourboard",
     "name": "OurBoard",
     "url": "https://www.ourboard.io/",
-    "description": "Whiteboard",
+    "description": "Whiteboard (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Whiteboard",
     "category": "text-tools",
     "tags": [
@@ -5207,7 +5207,7 @@
     "id": "text-tools-whiteboard-fi",
     "name": "Whiteboard.fi",
     "url": "https://whiteboard.fi/",
-    "description": "Whiteboard",
+    "description": "Whiteboard (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Whiteboard",
     "category": "text-tools",
     "tags": [
@@ -5233,7 +5233,7 @@
     "id": "text-tools-whiteboard-fox",
     "name": "Whiteboard Fox",
     "url": "https://r3.whiteboardfox.com/",
-    "description": "Whiteboard",
+    "description": "Whiteboard (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Whiteboard",
     "category": "text-tools",
     "tags": [
@@ -5259,7 +5259,7 @@
     "id": "text-tools-lucidspark",
     "name": "LucidSpark",
     "url": "https://lucid.co/lucidspark",
-    "description": "Idea · Collaboration Whiteboards",
+    "description": "Idea · Collaboration Whiteboards (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Idea / Collaboration Whiteboards",
     "category": "text-tools",
     "tags": [
@@ -5285,7 +5285,7 @@
     "id": "text-tools-creately",
     "name": "Creately",
     "url": "https://creately.com/",
-    "description": "Idea · Collaboration Whiteboards",
+    "description": "Idea · Collaboration Whiteboards (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Idea / Collaboration Whiteboards",
     "category": "text-tools",
     "tags": [
@@ -5311,7 +5311,7 @@
     "id": "text-tools-miro",
     "name": "Miro",
     "url": "https://miro.com/",
-    "description": "Idea · Collaboration Whiteboards",
+    "description": "Idea · Collaboration Whiteboards (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Idea / Collaboration Whiteboards",
     "category": "text-tools",
     "tags": [
@@ -5337,7 +5337,7 @@
     "id": "text-tools-office-activation",
     "name": "Office Activation",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_windows_activation",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -5351,7 +5351,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -5365,7 +5365,7 @@
     "id": "text-tools-libreoffice",
     "name": "LibreOffice",
     "url": "https://www.libreoffice.org/",
-    "description": "FOSS Office Suite · GitHub",
+    "description": "自由开源 Office 全功能套件 · GitHub 开源",
     "descriptionEn": "FOSS Office Suite / GitHub",
     "category": "text-tools",
     "tags": [
@@ -5393,7 +5393,7 @@
     "id": "text-tools-onlyoffice",
     "name": "OnlyOffice",
     "url": "https://www.onlyoffice.com/",
-    "description": "Office Suite · Web",
+    "description": "Office 全功能套件 · 网页版",
     "descriptionEn": "Office Suite / Web",
     "category": "text-tools",
     "tags": [
@@ -5423,7 +5423,7 @@
     "id": "text-tools-microsoft-office",
     "name": "Microsoft Office",
     "url": "https://massgrave.dev/office_c2r_links",
-    "description": "Office Suite · Hotkeys · Removal Tool, 2, 3",
+    "description": "Office 全功能套件 · Hotkeys · Removal 实用小工具 · 2 · 3",
     "descriptionEn": "Office Suite / Hotkeys / Removal Tool, 2, 3",
     "category": "text-tools",
     "tags": [
@@ -5453,7 +5453,7 @@
     "id": "text-tools-calligra",
     "name": "Calligra",
     "url": "https://calligra.org/",
-    "description": "FOSS Office Suite",
+    "description": "自由开源 Office 全功能套件",
     "descriptionEn": "FOSS Office Suite",
     "category": "text-tools",
     "tags": [
@@ -5479,7 +5479,7 @@
     "id": "text-tools-ziziyi",
     "name": "Ziziyi",
     "url": "https://office.ziziyi.com/",
-    "description": "Online Office Suite · GitHub",
+    "description": "在线免安装 Office 全功能套件 · GitHub 开源",
     "descriptionEn": "Online Office Suite / GitHub",
     "category": "text-tools",
     "tags": [
@@ -5507,7 +5507,7 @@
     "id": "text-tools-office365version",
     "name": "Office365Version",
     "url": "https://www.office365versions.com/",
-    "description": "Office 365 Version History",
+    "description": "Office 365 Version History (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Office 365 Version History",
     "category": "text-tools",
     "tags": [
@@ -5533,7 +5533,7 @@
     "id": "text-tools-nanotype",
     "name": "nanotype",
     "url": "https://nanotype.app/",
-    "description": "Local Saves",
+    "description": "Local 完美存档",
     "descriptionEn": "Local Saves",
     "category": "text-tools",
     "tags": [
@@ -5561,7 +5561,7 @@
     "id": "text-tools-proton-docs",
     "name": "Proton Docs",
     "url": "https://proton.me/drive/docs",
-    "description": "Local · Cloud Saves · Discord",
+    "description": "Local · Cloud 完美存档 · Discord 社区",
     "descriptionEn": "Local / Cloud Saves / Discord",
     "category": "text-tools",
     "tags": [
@@ -5589,7 +5589,7 @@
     "id": "text-tools-leaflet",
     "name": "Leaflet",
     "url": "https://leaflet.pub/",
-    "description": "Cloud Saves · Customizable · Examples",
+    "description": "Cloud 完美存档 · Customizable · Examples",
     "descriptionEn": "Cloud Saves / Customizable / Examples",
     "category": "text-tools",
     "tags": [
@@ -5615,7 +5615,7 @@
     "id": "text-tools-browserpad",
     "name": "Browserpad",
     "url": "https://browserpad.org/",
-    "description": "Local · GitHub",
+    "description": "Local · GitHub 开源",
     "descriptionEn": "Local / GitHub",
     "category": "text-tools",
     "tags": [
@@ -5643,7 +5643,7 @@
     "id": "text-tools-chaxus",
     "name": "⁠Chaxus",
     "url": "https://edit.chaxus.com/",
-    "description": "Local Saves · GitHub",
+    "description": "Local 完美存档 · GitHub 开源",
     "descriptionEn": "Local Saves / GitHub",
     "category": "text-tools",
     "tags": [
@@ -5669,7 +5669,7 @@
     "id": "text-tools-edentext",
     "name": "EdenText",
     "url": "https://edentext.app/",
-    "description": "Local Saves · GitHub",
+    "description": "Local 完美存档 · GitHub 开源",
     "descriptionEn": "Local Saves / GitHub",
     "category": "text-tools",
     "tags": [
@@ -5695,7 +5695,7 @@
     "id": "text-tools-online-notepad",
     "name": "Online Notepad",
     "url": "https://onlinenotep.ad",
-    "description": "Local Saves",
+    "description": "Local 完美存档",
     "descriptionEn": "Local Saves",
     "category": "text-tools",
     "tags": [
@@ -5721,7 +5721,7 @@
     "id": "text-tools-notepad-2",
     "name": "Notepad",
     "url": "https://notepad.js.org/",
-    "description": "Local Saves · GitHub",
+    "description": "Local 完美存档 · GitHub 开源",
     "descriptionEn": "Local Saves / GitHub",
     "category": "text-tools",
     "tags": [
@@ -5747,7 +5747,7 @@
     "id": "text-tools-onlinenotepad",
     "name": "onlinenotepad",
     "url": "https://onlinenotepad.org/",
-    "description": "Local Saves",
+    "description": "Local 完美存档",
     "descriptionEn": "Local Saves",
     "category": "text-tools",
     "tags": [
@@ -5773,7 +5773,7 @@
     "id": "text-tools-notepad-online-net",
     "name": "notepad-online.net",
     "url": "https://notepad-online.net/",
-    "description": "Local Saves",
+    "description": "Local 完美存档",
     "descriptionEn": "Local Saves",
     "category": "text-tools",
     "tags": [
@@ -5799,7 +5799,7 @@
     "id": "text-tools-ssavr",
     "name": "ssavr",
     "url": "https://www.ssavr.com/",
-    "description": "Local Saves",
+    "description": "Local 完美存档",
     "descriptionEn": "Local Saves",
     "category": "text-tools",
     "tags": [
@@ -5825,7 +5825,7 @@
     "id": "text-tools-notepad-online-com",
     "name": "notepad-online.com",
     "url": "https://notepad-online.com/",
-    "description": "Local Saves",
+    "description": "Local 完美存档",
     "descriptionEn": "Local Saves",
     "category": "text-tools",
     "tags": [
@@ -5851,7 +5851,7 @@
     "id": "text-tools-justnotepad",
     "name": "JustNotePad",
     "url": "https://justnotepad.com/",
-    "description": "Local Saves",
+    "description": "Local 完美存档",
     "descriptionEn": "Local Saves",
     "category": "text-tools",
     "tags": [
@@ -5877,7 +5877,7 @@
     "id": "text-tools-notesonline",
     "name": "NotesOnline",
     "url": "https://notesonline.org/",
-    "description": "Local Saves",
+    "description": "Local 完美存档",
     "descriptionEn": "Local Saves",
     "category": "text-tools",
     "tags": [
@@ -5903,7 +5903,7 @@
     "id": "text-tools-pasteepad",
     "name": "PasteePad",
     "url": "https://pasteepad.com/",
-    "description": "Local Saves · GitHub",
+    "description": "Local 完美存档 · GitHub 开源",
     "descriptionEn": "Local Saves / GitHub",
     "category": "text-tools",
     "tags": [
@@ -5929,7 +5929,7 @@
     "id": "text-tools-notes",
     "name": "Notes",
     "url": "https://notes.xtra.wtf/",
-    "description": "Local · Cloud Saves · GitHub",
+    "description": "Local · Cloud 完美存档 · GitHub 开源",
     "descriptionEn": "Local / Cloud Saves / GitHub",
     "category": "text-tools",
     "tags": [
@@ -5955,7 +5955,7 @@
     "id": "text-tools-shrib",
     "name": "Shrib",
     "url": "https://shrib.com/",
-    "description": "Local · Cloud Saves",
+    "description": "Local · Cloud 完美存档",
     "descriptionEn": "Local / Cloud Saves",
     "category": "text-tools",
     "tags": [
@@ -5981,7 +5981,7 @@
     "id": "text-tools-memonnotepad",
     "name": "MemOnNotepad",
     "url": "https://www.memonotepad.com/",
-    "description": "Local · Cloud Saves",
+    "description": "Local · Cloud 完美存档",
     "descriptionEn": "Local / Cloud Saves",
     "category": "text-tools",
     "tags": [
@@ -6007,7 +6007,7 @@
     "id": "text-tools-write-box",
     "name": "Write Box",
     "url": "https://write-box.appspot.com/",
-    "description": "Local · Cloud Saves",
+    "description": "Local · Cloud 完美存档",
     "descriptionEn": "Local / Cloud Saves",
     "category": "text-tools",
     "tags": [
@@ -6033,7 +6033,7 @@
     "id": "text-tools-ddocs",
     "name": "dDocs",
     "url": "https://docs.fileverse.io/",
-    "description": "Cloud Saves · GitHub",
+    "description": "Cloud 完美存档 · GitHub 开源",
     "descriptionEn": "Cloud Saves / GitHub",
     "category": "text-tools",
     "tags": [
@@ -6059,7 +6059,7 @@
     "id": "text-tools-nimbletext",
     "name": "NimbleText",
     "url": "https://nimbletext.com/Live",
-    "description": "Cloud Saves",
+    "description": "Cloud 完美存档",
     "descriptionEn": "Cloud Saves",
     "category": "text-tools",
     "tags": [
@@ -6085,7 +6085,7 @@
     "id": "text-tools-zippyjot",
     "name": "ZippyJot",
     "url": "https://www.zippyjot.com/",
-    "description": "Cloud Saves",
+    "description": "Cloud 完美存档",
     "descriptionEn": "Cloud Saves",
     "category": "text-tools",
     "tags": [
@@ -6111,7 +6111,7 @@
     "id": "text-tools-tinylist",
     "name": "TinyList",
     "url": "https://tinylist.app/",
-    "description": "Cloud Saves · GitHub",
+    "description": "Cloud 完美存档 · GitHub 开源",
     "descriptionEn": "Cloud Saves / GitHub",
     "category": "text-tools",
     "tags": [
@@ -6137,7 +6137,7 @@
     "id": "text-tools-textslave",
     "name": "TextSlave",
     "url": "https://www.textslave.com/",
-    "description": "Cloud Saves",
+    "description": "Cloud 完美存档",
     "descriptionEn": "Cloud Saves",
     "category": "text-tools",
     "tags": [
@@ -6163,7 +6163,7 @@
     "id": "text-tools-obsidian-canvas",
     "name": "Obsidian Canvas",
     "url": "https://obsidian.md/canvas",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -6191,7 +6191,7 @@
     "id": "text-tools-freemind",
     "name": "FreeMind",
     "url": "https://freemind.sourceforge.io/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -6217,7 +6217,7 @@
     "id": "text-tools-kinopio",
     "name": "Kinopio",
     "url": "https://kinopio.club/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -6243,7 +6243,7 @@
     "id": "text-tools-freeplane",
     "name": "Freeplane",
     "url": "https://github.com/freeplane/freeplane",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -6257,7 +6257,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -6269,7 +6269,7 @@
     "id": "text-tools-mindomo",
     "name": "Mindomo",
     "url": "https://www.mindomo.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -6295,7 +6295,7 @@
     "id": "text-tools-yuque",
     "name": "Yuque",
     "url": "https://www.yuque.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -6321,7 +6321,7 @@
     "id": "text-tools-mindmapp",
     "name": "MindMapp",
     "url": "https://mindmapp.cedoor.dev/app",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -6347,7 +6347,7 @@
     "id": "text-tools-are-na",
     "name": "are.na",
     "url": "https://www.are.na/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -6373,7 +6373,7 @@
     "id": "text-tools-domino",
     "name": "Domino",
     "url": "https://kool.tools/domino",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -6399,7 +6399,7 @@
     "id": "text-tools-gitmind",
     "name": "GitMind",
     "url": "https://gitmind.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -6425,7 +6425,7 @@
     "id": "text-tools-xtiles",
     "name": "xTiles",
     "url": "https://xtiles.app/en",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -6451,7 +6451,7 @@
     "id": "text-tools-capacities",
     "name": "Capacities",
     "url": "https://capacities.io/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -6477,7 +6477,7 @@
     "id": "text-tools-bubbl",
     "name": "bubbl",
     "url": "https://bubbl.us/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -6503,7 +6503,7 @@
     "id": "text-tools-heimer",
     "name": "Heimer",
     "url": "https://github.com/juzzlin/Heimer",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -6517,7 +6517,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -6529,7 +6529,7 @@
     "id": "text-tools-cubox",
     "name": "Cubox",
     "url": "https://cubox.cc/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -6555,7 +6555,7 @@
     "id": "text-tools-vym",
     "name": "vym",
     "url": "https://github.com/insilmaril/vym",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -6569,7 +6569,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -6581,7 +6581,7 @@
     "id": "text-tools-tangent",
     "name": "⁠Tangent",
     "url": "https://www.tangentnotes.com/",
-    "description": "Markdown Mind Mapping · Discord · GitHub",
+    "description": "Markdown Mind Mapping · Discord 社区 · GitHub 开源",
     "descriptionEn": "Markdown Mind Mapping / Discord / GitHub",
     "category": "text-tools",
     "tags": [
@@ -6607,7 +6607,7 @@
     "id": "text-tools-markmap",
     "name": "markmap",
     "url": "https://markmap.js.org/",
-    "description": "Markdown Mind Mapping · GitHub",
+    "description": "Markdown Mind Mapping · GitHub 开源",
     "descriptionEn": "Markdown Mind Mapping / GitHub",
     "category": "text-tools",
     "tags": [
@@ -6633,7 +6633,7 @@
     "id": "text-tools-coggle",
     "name": "Coggle",
     "url": "https://coggle.it/",
-    "description": "Collaborative",
+    "description": "Collaborative (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Collaborative",
     "category": "text-tools",
     "tags": [
@@ -6659,7 +6659,7 @@
     "id": "text-tools-cardsmith",
     "name": "CardSmith",
     "url": "https://cardsmith.co/",
-    "description": "Collaborative Mind Mapping",
+    "description": "Collaborative Mind Mapping (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Collaborative Mind Mapping",
     "category": "text-tools",
     "tags": [
@@ -6685,7 +6685,7 @@
     "id": "text-tools-mindmeister",
     "name": "MindMeister",
     "url": "https://www.mindmeister.com/",
-    "description": "Collaborative Mind Mapping",
+    "description": "Collaborative Mind Mapping (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Collaborative Mind Mapping",
     "category": "text-tools",
     "tags": [
@@ -6711,7 +6711,7 @@
     "id": "text-tools-slatebox",
     "name": "Slatebox",
     "url": "https://slatebox.com/",
-    "description": "Collaborative Mind Mapping",
+    "description": "Collaborative Mind Mapping (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Collaborative Mind Mapping",
     "category": "text-tools",
     "tags": [
@@ -6737,7 +6737,7 @@
     "id": "text-tools-google-docs",
     "name": "Google Docs",
     "url": "https://www.google.com/docs/about/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -6765,7 +6765,7 @@
     "id": "text-tools-cryptpad",
     "name": "CryptPad",
     "url": "https://cryptpad.fr/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -6793,7 +6793,7 @@
     "id": "text-tools-mattermost",
     "name": "Mattermost",
     "url": "https://mattermost.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -6819,7 +6819,7 @@
     "id": "text-tools-codeshare",
     "name": "Codeshare",
     "url": "https://codeshare.io/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -6845,7 +6845,7 @@
     "id": "text-tools-hackmd",
     "name": "HackMD",
     "url": "https://hackmd.io/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -6871,7 +6871,7 @@
     "id": "text-tools-taskade",
     "name": "Taskade",
     "url": "https://www.taskade.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -6897,7 +6897,7 @@
     "id": "text-tools-socket",
     "name": "Socket",
     "url": "https://socket.io/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -6923,7 +6923,7 @@
     "id": "text-tools-whimsical",
     "name": "Whimsical",
     "url": "https://whimsical.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -6949,7 +6949,7 @@
     "id": "text-tools-ellipsus",
     "name": "Ellipsus",
     "url": "https://ellipsus.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -6975,7 +6975,7 @@
     "id": "text-tools-etherpad",
     "name": "Etherpad",
     "url": "https://etherpad.org/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -7001,7 +7001,7 @@
     "id": "text-tools-sharepad",
     "name": "SharePad",
     "url": "https://sharepad.io/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -7027,7 +7027,7 @@
     "id": "text-tools-pixso",
     "name": "Pixso",
     "url": "https://pixso.net/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -7053,7 +7053,7 @@
     "id": "text-tools-fiduswriter",
     "name": "FidusWriter",
     "url": "https://www.fiduswriter.org/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -7079,7 +7079,7 @@
     "id": "text-tools-overleaf",
     "name": "Overleaf",
     "url": "https://www.overleaf.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -7105,7 +7105,7 @@
     "id": "text-tools-typst",
     "name": "Typst",
     "url": "https://typst.app/home",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -7131,7 +7131,7 @@
     "id": "text-tools-rustpad",
     "name": "Rustpad",
     "url": "https://rustpad.io",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -7157,7 +7157,7 @@
     "id": "text-tools-onlineinterview-io",
     "name": "OnlineInterview.io",
     "url": "https://onlineinterview.io/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -7183,7 +7183,7 @@
     "id": "text-tools-mteb-leaderboard",
     "name": "MTEB Leaderboard",
     "url": "https://huggingface.co/spaces/mteb/leaderboard",
-    "description": "Text Embedding AI Leaderboard",
+    "description": "Text Embedding AI 天梯榜",
     "descriptionEn": "Text Embedding AI Leaderboard",
     "category": "text-tools",
     "tags": [
@@ -7209,7 +7209,7 @@
     "id": "text-tools-qsv",
     "name": "⁠QSV",
     "url": "https://github.com/dathere/qsv",
-    "description": "CSV CLI Toolkits",
+    "description": "CSV CLI 实用工具箱",
     "descriptionEn": "CSV CLI Toolkits",
     "category": "text-tools",
     "tags": [
@@ -7223,7 +7223,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -7235,7 +7235,7 @@
     "id": "text-tools-proton-sheets",
     "name": "⁠Proton Sheets",
     "url": "https://proton.me/drive/sheets",
-    "description": "Online Spreadsheet Viewers · CSV Editors",
+    "description": "在线免安装 Spreadsheet 在线查看器 · CSV 在线编辑器",
     "descriptionEn": "Online Spreadsheet Viewers / CSV Editors",
     "category": "text-tools",
     "tags": [
@@ -7261,7 +7261,7 @@
     "id": "text-tools-tad",
     "name": "tad",
     "url": "https://github.com/antonycourtney/tad",
-    "description": "Spreadsheet Viewers · CSV Editors",
+    "description": "Spreadsheet 在线查看器 · CSV 在线编辑器",
     "descriptionEn": "Spreadsheet Viewers / CSV Editors",
     "category": "text-tools",
     "tags": [
@@ -7275,7 +7275,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -7289,7 +7289,7 @@
     "id": "text-tools-framacalc",
     "name": "Framacalc",
     "url": "https://framacalc.org/",
-    "description": "Collaborative Spreadsheets",
+    "description": "Collaborative Spreadsheets (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Collaborative Spreadsheets",
     "category": "text-tools",
     "tags": [
@@ -7317,7 +7317,7 @@
     "id": "text-tools-jamovi",
     "name": "Jamovi",
     "url": "https://www.jamovi.org/",
-    "description": "Statistical Spreadsheets",
+    "description": "Statistical Spreadsheets (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Statistical Spreadsheets",
     "category": "text-tools",
     "tags": [
@@ -7343,7 +7343,7 @@
     "id": "text-tools-excel-easy",
     "name": "⁠Excel Easy",
     "url": "https://www.excel-easy.com/",
-    "description": "Excel · Spreadsheet Guide",
+    "description": "Excel · Spreadsheet 指南",
     "descriptionEn": "Excel / Spreadsheet Guide",
     "category": "text-tools",
     "tags": [
@@ -7369,7 +7369,7 @@
     "id": "text-tools-excel-macro-mastery",
     "name": "Excel Macro Mastery",
     "url": "https://excelmacromastery.com/vba-articles/",
-    "description": "Excel VBA Guides",
+    "description": "Excel VBA 教程与指南",
     "descriptionEn": "Excel VBA Guides",
     "category": "text-tools",
     "tags": [
@@ -7397,7 +7397,7 @@
     "id": "text-tools-exceljet",
     "name": "ExcelJet",
     "url": "https://exceljet.net/formulas",
-    "description": "Excel Formulas",
+    "description": "Excel Formulas (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Excel Formulas",
     "category": "text-tools",
     "tags": [
@@ -7423,7 +7423,7 @@
     "id": "text-tools-vertex42",
     "name": "Vertex42",
     "url": "https://www.vertex42.com/",
-    "description": "Excel Templates",
+    "description": "Excel Templates (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Excel Templates",
     "category": "text-tools",
     "tags": [
@@ -7449,7 +7449,7 @@
     "id": "text-tools-plain-text-table",
     "name": "Plain Text Table",
     "url": "https://plaintexttools.github.io/plain-text-table/",
-    "description": "Text Tables",
+    "description": "Text Tables (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Text Tables",
     "category": "text-tools",
     "tags": [
@@ -7475,7 +7475,7 @@
     "id": "text-tools-subjectivesort",
     "name": "SubjectiveSort",
     "url": "https://wiesenthal.github.io/SubjectiveSort/",
-    "description": "Create Ranked List from CSV",
+    "description": "Create Ranked List from CSV (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Create Ranked List from CSV",
     "category": "text-tools",
     "tags": [
@@ -7501,7 +7501,7 @@
     "id": "text-tools-structifi",
     "name": "Structifi",
     "url": "https://structifi.com/",
-    "description": "Convert Files to Structured Data",
+    "description": "Convert 文件至 Structured Data",
     "descriptionEn": "Convert Files to Structured Data",
     "category": "text-tools",
     "tags": [
@@ -7527,7 +7527,7 @@
     "id": "text-tools-tadviewer",
     "name": "TadViewer",
     "url": "https://www.tadviewer.com/",
-    "description": "View · Analyze Tabular Data",
+    "description": "View · Analyze Tabular Data (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "View / Analyze Tabular Data",
     "category": "text-tools",
     "tags": [
@@ -7553,7 +7553,7 @@
     "id": "text-tools-writer",
     "name": "Writer",
     "url": "https://www.gibney.org/writer",
-    "description": "Distraction-Free Writing",
+    "description": "Distraction-免费写作",
     "descriptionEn": "Distraction-Free Writing",
     "category": "text-tools",
     "tags": [
@@ -7581,7 +7581,7 @@
     "id": "text-tools-manuskript",
     "name": "Manuskript",
     "url": "https://www.theologeek.ch/manuskript/",
-    "description": "Writing Organizer · Planner",
+    "description": "写作 Organizer · Planner",
     "descriptionEn": "Writing Organizer / Planner",
     "category": "text-tools",
     "tags": [
@@ -7609,7 +7609,7 @@
     "id": "text-tools-novelwriter",
     "name": "NovelWriter",
     "url": "https://novelwriter.io/",
-    "description": "Novel Editor",
+    "description": "Novel 编辑器",
     "descriptionEn": "Novel Editor",
     "category": "text-tools",
     "tags": [
@@ -7637,7 +7637,7 @@
     "id": "text-tools-linked",
     "name": "Linked",
     "url": "https://uselinked.com/",
-    "description": "Journal Apps",
+    "description": "Journal 精选应用",
     "descriptionEn": "Journal Apps",
     "category": "text-tools",
     "tags": [
@@ -7665,7 +7665,7 @@
     "id": "text-tools-writality",
     "name": "Writality",
     "url": "https://www.writality.com/",
-    "description": "Novel Editor",
+    "description": "Novel 编辑器",
     "descriptionEn": "Novel Editor",
     "category": "text-tools",
     "tags": [
@@ -7691,7 +7691,7 @@
     "id": "text-tools-tuesday-js",
     "name": "Tuesday JS",
     "url": "https://kirill-live.itch.io/tuesday-js",
-    "description": "Novel Editor · GitHub",
+    "description": "Novel 编辑器 · GitHub 开源",
     "descriptionEn": "Novel Editor / GitHub",
     "category": "text-tools",
     "tags": [
@@ -7717,7 +7717,7 @@
     "id": "text-tools-renpy",
     "name": "RenPy",
     "url": "https://www.renpy.org/",
-    "description": "Novel Editor · GitHub",
+    "description": "Novel 编辑器 · GitHub 开源",
     "descriptionEn": "Novel Editor / GitHub",
     "category": "text-tools",
     "tags": [
@@ -7743,7 +7743,7 @@
     "id": "text-tools-fortelling",
     "name": "Fortelling",
     "url": "https://www.fortelling.app/",
-    "description": "Novel Editor",
+    "description": "Novel 编辑器",
     "descriptionEn": "Novel Editor",
     "category": "text-tools",
     "tags": [
@@ -7769,7 +7769,7 @@
     "id": "text-tools-neo",
     "name": "⁠Neo",
     "url": "https://github.com/hughhowey/neo",
-    "description": "Novel Editor",
+    "description": "Novel 编辑器",
     "descriptionEn": "Novel Editor",
     "category": "text-tools",
     "tags": [
@@ -7783,7 +7783,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -7795,7 +7795,7 @@
     "id": "text-tools-novelist",
     "name": "Novelist",
     "url": "https://beta.novelist.app",
-    "description": "Novel Editor",
+    "description": "Novel 编辑器",
     "descriptionEn": "Novel Editor",
     "category": "text-tools",
     "tags": [
@@ -7821,7 +7821,7 @@
     "id": "text-tools-bibisco",
     "name": "Bibisco",
     "url": "https://bibisco.com/",
-    "description": "Novel Editor",
+    "description": "Novel 编辑器",
     "descriptionEn": "Novel Editor",
     "category": "text-tools",
     "tags": [
@@ -7847,7 +7847,7 @@
     "id": "text-tools-infinite-story",
     "name": "Infinite Story",
     "url": "https://infinite-story.com/",
-    "description": "Collaborative Writing · Feedback",
+    "description": "Collaborative 写作 · Feedback",
     "descriptionEn": "Collaborative Writing / Feedback",
     "category": "text-tools",
     "tags": [
@@ -7873,7 +7873,7 @@
     "id": "text-tools-gateway-forge",
     "name": "Gateway Forge",
     "url": "https://gatewayforge.com/",
-    "description": "Worldbuilding · Story Writing Apps",
+    "description": "Worldbuilding · Story 写作精选应用",
     "descriptionEn": "Worldbuilding / Story Writing Apps",
     "category": "text-tools",
     "tags": [
@@ -7899,7 +7899,7 @@
     "id": "text-tools-heavyweight",
     "name": "⁠Heavyweight",
     "url": "https://heavyweight.cc/",
-    "description": "Generate Important-Looking Letters",
+    "description": "Generate Important-Looking Letters (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Generate Important-Looking Letters",
     "category": "text-tools",
     "tags": [
@@ -7925,7 +7925,7 @@
     "id": "text-tools-languageisavirus",
     "name": "LanguageIsAVirus",
     "url": "https://www.languageisavirus.com/",
-    "description": "Writing Prompts",
+    "description": "写作提示词库",
     "descriptionEn": "Writing Prompts",
     "category": "text-tools",
     "tags": [
@@ -7951,7 +7951,7 @@
     "id": "text-tools-twinery",
     "name": "Twinery",
     "url": "https://twinery.org/",
-    "description": "Interactive Non-Linear Story Creator",
+    "description": "交互式 Non-Linear Story Creator",
     "descriptionEn": "Interactive Non-Linear Story Creator",
     "category": "text-tools",
     "tags": [
@@ -7979,7 +7979,7 @@
     "id": "text-tools-textusm",
     "name": "TextUSM",
     "url": "https://textusm.com/",
-    "description": "User Story Map Generator · GitHub",
+    "description": "User Story 全景地图生成器 · GitHub 开源",
     "descriptionEn": "User Story Map Generator / GitHub",
     "category": "text-tools",
     "tags": [
@@ -8005,7 +8005,7 @@
     "id": "text-tools-idyll",
     "name": "Idyll",
     "url": "https://idyll-lang.org/editor",
-    "description": "Create Interactive Essays · GitHub",
+    "description": "Create 交互式 Essays · GitHub 开源",
     "descriptionEn": "Create Interactive Essays / GitHub",
     "category": "text-tools",
     "tags": [
@@ -8031,7 +8031,7 @@
     "id": "text-tools-starc",
     "name": "STARC",
     "url": "https://starc.app/",
-    "description": "Script · Screen Writing Tools",
+    "description": "自动化脚本 · 屏幕写作工具箱",
     "descriptionEn": "Script / Screen Writing Tools",
     "category": "text-tools",
     "tags": [
@@ -8057,7 +8057,7 @@
     "id": "text-tools-rarebit",
     "name": "Rarebit",
     "url": "https://rarebit.neocities.org/",
-    "description": "Webcomics Template",
+    "description": "Webcomics Template (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Webcomics Template",
     "category": "text-tools",
     "tags": [
@@ -8085,7 +8085,7 @@
     "id": "text-tools-polyglot",
     "name": "PolyGlot",
     "url": "https://draquet.github.io/PolyGlot/",
-    "description": "Spoken Language Construction Tools",
+    "description": "Spoken 外语自学 Construction 工具箱",
     "descriptionEn": "Spoken Language Construction Tools",
     "category": "text-tools",
     "tags": [
@@ -8111,7 +8111,7 @@
     "id": "text-tools-how-to-annotate-literall",
     "name": "How to annotate literally everything",
     "url": "https://beepb00p.xyz/annotating.html",
-    "description": "Annotation Tools · Resources",
+    "description": "Annotation 工具箱 · 精选资源",
     "descriptionEn": "Annotation Tools / Resources",
     "category": "text-tools",
     "tags": [
@@ -8137,7 +8137,7 @@
     "id": "text-tools-label-buddy",
     "name": "Label Buddy",
     "url": "https://jeromedockes.github.io/labelbuddy/labelbuddy/current/",
-    "description": "Annotation Tool · GitHub",
+    "description": "Annotation 实用小工具 · GitHub 开源",
     "descriptionEn": "Annotation Tool / GitHub",
     "category": "text-tools",
     "tags": [
@@ -8163,7 +8163,7 @@
     "id": "text-tools-monsterwriter",
     "name": "MonsterWriter",
     "url": "https://www.monsterwriter.com/",
-    "description": "Thesis Writing · Note-Taking",
+    "description": "Thesis 写作 · 智能笔记记录与知识整理",
     "descriptionEn": "Thesis Writing / Note-Taking",
     "category": "text-tools",
     "tags": [
@@ -8189,7 +8189,7 @@
     "id": "text-tools-android-to-do-apps",
     "name": "Android To-Do Apps",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_to-do_apps",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -8203,7 +8203,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -8217,7 +8217,7 @@
     "id": "text-tools-calendars---events",
     "name": "Calendars / Events",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_calendars_.2F_events",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -8231,7 +8231,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -8243,7 +8243,7 @@
     "id": "text-tools-ticktick",
     "name": "TickTick",
     "url": "https://www.ticktick.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -8271,7 +8271,7 @@
     "id": "text-tools-super-productivity",
     "name": "Super Productivity",
     "url": "https://super-productivity.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -8299,7 +8299,7 @@
     "id": "text-tools-columns",
     "name": "Columns",
     "url": "https://columns.app/",
-    "description": "Checklists",
+    "description": "Checklists (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Checklists",
     "category": "text-tools",
     "tags": [
@@ -8325,7 +8325,7 @@
     "id": "text-tools-yearcompass",
     "name": "YearCompass",
     "url": "https://yearcompass.com/",
-    "description": "New Years Resolution Booklet",
+    "description": "New Years Resolution Booklet (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "New Years Resolution Booklet",
     "category": "text-tools",
     "tags": [
@@ -8351,7 +8351,7 @@
     "id": "text-tools-daily-place",
     "name": "daily.place",
     "url": "https://www.daily.place/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -8377,7 +8377,7 @@
     "id": "text-tools-mindwtr",
     "name": "Mindwtr",
     "url": "https://mindwtr.app/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -8403,7 +8403,7 @@
     "id": "text-tools-superlist",
     "name": "SuperList",
     "url": "https://www.superlist.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -8429,7 +8429,7 @@
     "id": "text-tools-dooit",
     "name": "dooit",
     "url": "https://github.com/dooit-org/dooit",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -8443,7 +8443,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -8455,7 +8455,7 @@
     "id": "text-tools-todo-list",
     "name": "ToDo List",
     "url": "https://www.abstractspoon.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -8481,7 +8481,7 @@
     "id": "text-tools-fokus",
     "name": "Fokus",
     "url": "https://fokus-website.netlify.app/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -8509,7 +8509,7 @@
     "id": "text-tools-opentodolist",
     "name": "OpenToDoList",
     "url": "https://gitlab.com/rpdev/opentodolist",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -8535,7 +8535,7 @@
     "id": "text-tools-microsoft-to-do",
     "name": "Microsoft To Do",
     "url": "https://to-do.office.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -8561,7 +8561,7 @@
     "id": "text-tools-lunatask",
     "name": "LunaTask",
     "url": "https://lunatask.app/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -8587,7 +8587,7 @@
     "id": "text-tools-todozero",
     "name": "ToDoZero",
     "url": "https://todozero.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -8613,7 +8613,7 @@
     "id": "text-tools-lifeat",
     "name": "LifeAt",
     "url": "https://lifeat.io/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -8639,7 +8639,7 @@
     "id": "text-tools-tasks",
     "name": "Tasks",
     "url": "https://github.com/BaldissaraMatheus/Tasks.md",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -8653,7 +8653,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -8665,7 +8665,7 @@
     "id": "text-tools-taskwarrior",
     "name": "Taskwarrior",
     "url": "https://taskwarrior.org/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -8691,7 +8691,7 @@
     "id": "text-tools-vikunja",
     "name": "Vikunja",
     "url": "https://vikunja.io/",
-    "description": "支持自建部署",
+    "description": "Self-Hosted (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Self-Hosted",
     "category": "text-tools",
     "tags": [
@@ -8719,7 +8719,7 @@
     "id": "text-tools-taag",
     "name": "TAAG",
     "url": "https://patorjk.com/software/taag/",
-    "description": "ASCII Art · Text Generators",
+    "description": "ASCII Art · Text 生成工具",
     "descriptionEn": "ASCII Art / Text Generators",
     "category": "text-tools",
     "tags": [
@@ -8747,7 +8747,7 @@
     "id": "text-tools-rexpaint",
     "name": "REXPaint",
     "url": "https://www.gridsagegames.com/rexpaint/",
-    "description": "ASCII Editors · Drawing",
+    "description": "ASCII 在线编辑器 · Drawing",
     "descriptionEn": "ASCII Editors / Drawing",
     "category": "text-tools",
     "tags": [
@@ -8775,7 +8775,7 @@
     "id": "text-tools-ascii-paint",
     "name": "ASCII Paint",
     "url": "https://ascii.alienmelon.com/",
-    "description": "ASCII Paint Tools",
+    "description": "ASCII Paint 工具箱",
     "descriptionEn": "ASCII Paint Tools",
     "category": "text-tools",
     "tags": [
@@ -8801,7 +8801,7 @@
     "id": "text-tools-love-ascii",
     "name": "Love ASCII",
     "url": "http://loveascii.com/",
-    "description": "Browse · Copy ASCII Art",
+    "description": "Browse · Copy ASCII Art (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Browse / Copy ASCII Art",
     "category": "text-tools",
     "tags": [
@@ -8827,7 +8827,7 @@
     "id": "text-tools-image-to-braille",
     "name": "Image to Braille",
     "url": "https://505e06b2.github.io/Image-to-Braille/",
-    "description": "Convert Images to Braille",
+    "description": "Convert 图像插画至 Braille",
     "descriptionEn": "Convert Images to Braille",
     "category": "text-tools",
     "tags": [
@@ -8853,7 +8853,7 @@
     "id": "text-tools-ansilove",
     "name": "AnsiLove",
     "url": "https://www.ansilove.org/downloads.html",
-    "description": "ANSI · ASCII Art to PNG Converters",
+    "description": "ANSI · ASCII Art 至 PNG 转换器",
     "descriptionEn": "ANSI / ASCII Art to PNG Converters",
     "category": "text-tools",
     "tags": [
@@ -8879,7 +8879,7 @@
     "id": "text-tools-lvllvl",
     "name": "lvllvl",
     "url": "https://lvllvl.com/",
-    "description": "C64 PETSCII Image Editor",
+    "description": "C64 PETSCII 高清图像编辑器",
     "descriptionEn": "C64 PETSCII Image Editor",
     "category": "text-tools",
     "tags": [
@@ -8905,7 +8905,7 @@
     "id": "text-tools-html-tools",
     "name": "HTML Tools",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_html",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -8919,7 +8919,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -8931,7 +8931,7 @@
     "id": "text-tools-markdown-guide",
     "name": "Markdown Guide",
     "url": "https://www.markdownguide.org/",
-    "description": "Guide for Markdown (.md)",
+    "description": "指南面向 Markdown (.md)",
     "descriptionEn": "Guide for Markdown (.md)",
     "category": "text-tools",
     "tags": [
@@ -8959,7 +8959,7 @@
     "id": "text-tools-markup-rocks",
     "name": "markup.rocks",
     "url": "https://markup.rocks/",
-    "description": "Markup Editor · Web",
+    "description": "Markup 编辑器 · 网页版",
     "descriptionEn": "Markup Editor / Web",
     "category": "text-tools",
     "tags": [
@@ -8987,7 +8987,7 @@
     "id": "text-tools-bbcode-text-editor",
     "name": "⁠BBCode Text Editor",
     "url": "https://bbcode.ilma.dev/",
-    "description": "BBCode Editor · Web",
+    "description": "BBCode 编辑器 · 网页版",
     "descriptionEn": "BBCode Editor / Web",
     "category": "text-tools",
     "tags": [
@@ -9015,7 +9015,7 @@
     "id": "text-tools-markup-validation-servic",
     "name": "Markup Validation Service",
     "url": "https://validator.w3.org/",
-    "description": "Validate Your Markup Language Structure",
+    "description": "Validate Your Markup 外语自学 Structure",
     "descriptionEn": "Validate Your Markup Language Structure",
     "category": "text-tools",
     "tags": [
@@ -9041,7 +9041,7 @@
     "id": "text-tools-yamline",
     "name": "YAMLine",
     "url": "https://yamline.com/",
-    "description": "Online YAML Tools · Converters",
+    "description": "在线免安装 YAML 工具箱 · 转换器",
     "descriptionEn": "Online YAML Tools / Converters",
     "category": "text-tools",
     "tags": [
@@ -9067,7 +9067,7 @@
     "id": "text-tools-yq",
     "name": "yq",
     "url": "https://mikefarah.gitbook.io/yq/",
-    "description": "Portable YAML Processor · GitHub",
+    "description": "绿色便携版 YAML Processor · GitHub 开源",
     "descriptionEn": "Portable YAML Processor / GitHub",
     "category": "text-tools",
     "tags": [
@@ -9093,7 +9093,7 @@
     "id": "text-tools-readme-so",
     "name": "readme.so",
     "url": "https://readme.so/",
-    "description": "Create README.md Files",
+    "description": "Create README.md 文件",
     "descriptionEn": "Create README.md Files",
     "category": "text-tools",
     "tags": [
@@ -9119,7 +9119,7 @@
     "id": "text-tools-tableconvert",
     "name": "Tableconvert",
     "url": "https://tableconvert.com/",
-    "description": "Markdown · Code Converter",
+    "description": "Markdown · 程序源码转换工具",
     "descriptionEn": "Markdown / Code Converter",
     "category": "text-tools",
     "tags": [
@@ -9145,7 +9145,7 @@
     "id": "text-tools-linkspector",
     "name": "Linkspector",
     "url": "https://github.com/UmbrellaDocs/action-linkspector",
-    "description": "Check Markdown Files for Dead Links",
+    "description": "检测 Markdown 文件面向 Dead Links",
     "descriptionEn": "Check Markdown Files for Dead Links",
     "category": "text-tools",
     "tags": [
@@ -9159,7 +9159,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -9171,7 +9171,7 @@
     "id": "text-tools-table-magic",
     "name": "Table Magic",
     "url": "https://stevecat.net/table-magic/",
-    "description": "Table to Markdown Converters",
+    "description": "Table 至 Markdown 转换器",
     "descriptionEn": "Table to Markdown Converters",
     "category": "text-tools",
     "tags": [
@@ -9197,7 +9197,7 @@
     "id": "text-tools-clipboard2markdown",
     "name": "Clipboard2Markdown",
     "url": "https://euangoddard.github.io/clipboard2markdown/",
-    "description": "Text to Markdown Converter",
+    "description": "Text 至 Markdown 转换工具",
     "descriptionEn": "Text to Markdown Converter",
     "category": "text-tools",
     "tags": [
@@ -9223,7 +9223,7 @@
     "id": "text-tools-gd2md-html",
     "name": "gd2md-html",
     "url": "https://github.com/evbacher/gd2md-html",
-    "description": "Convert Google Doc to Markdown",
+    "description": "Convert Google Doc 至 Markdown",
     "descriptionEn": "Convert Google Doc to Markdown",
     "category": "text-tools",
     "tags": [
@@ -9237,7 +9237,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -9249,7 +9249,7 @@
     "id": "text-tools-anydoc",
     "name": "anydoc",
     "url": "https://firecrawl.github.io/anydoc/",
-    "description": "File to Markdown Converter",
+    "description": "文件至 Markdown 转换工具",
     "descriptionEn": "File to Markdown Converter",
     "category": "text-tools",
     "tags": [
@@ -9275,7 +9275,7 @@
     "id": "text-tools-quartz",
     "name": "Quartz",
     "url": "https://quartz.jzhao.xyz/",
-    "description": "Publish Markdown",
+    "description": "Publish Markdown (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Publish Markdown",
     "category": "text-tools",
     "tags": [
@@ -9301,7 +9301,7 @@
     "id": "text-tools-markdown-tutorial",
     "name": "Markdown Tutorial",
     "url": "https://www.markdowntutorial.com/",
-    "description": "Interactive Markdown Tutorial",
+    "description": "交互式 Markdown 教程",
     "descriptionEn": "Interactive Markdown Tutorial",
     "category": "text-tools",
     "tags": [
@@ -9327,7 +9327,7 @@
     "id": "text-tools-emoji-cheat-sheet",
     "name": "emoji-cheat-sheet",
     "url": "https://github.com/ikatyang/emoji-cheat-sheet",
-    "description": "Emoji Markdown Cheatsheet",
+    "description": "Emoji Markdown 速查手册",
     "descriptionEn": "Emoji Markdown Cheatsheet",
     "category": "text-tools",
     "tags": [
@@ -9341,7 +9341,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -9353,7 +9353,7 @@
     "id": "text-tools-markd",
     "name": "MarkD",
     "url": "https://markd.it/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -9381,7 +9381,7 @@
     "id": "text-tools-hedgedoc",
     "name": "HedgeDoc",
     "url": "https://hedgedoc.org/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -9409,7 +9409,7 @@
     "id": "text-tools-markdown-monster",
     "name": "⁠Markdown Monster",
     "url": "https://markdownmonster.west-wind.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -9437,7 +9437,7 @@
     "id": "text-tools-zettlr",
     "name": "Zettlr",
     "url": "https://www.zettlr.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -9463,7 +9463,7 @@
     "id": "text-tools-dillinger",
     "name": "Dillinger",
     "url": "https://dillinger.io/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -9489,7 +9489,7 @@
     "id": "text-tools-tinymarkdwn-editor",
     "name": "Tinymarkdwn Editor",
     "url": "https://jmcrafter26.github.io/tinymarkdwn-editor/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -9515,7 +9515,7 @@
     "id": "text-tools-markdown-viewer",
     "name": "Markdown Viewer",
     "url": "https://github.com/ThisIs-Developer/Markdown-Viewer/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -9529,7 +9529,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -9543,7 +9543,7 @@
     "id": "text-tools-markdowntools",
     "name": "MarkdownTools",
     "url": "https://www.markdowntools.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -9569,7 +9569,7 @@
     "id": "text-tools-markliveedit",
     "name": "MarkLiveEdit",
     "url": "https://markdownlivepreview.dev/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -9595,7 +9595,7 @@
     "id": "text-tools-glow",
     "name": "Glow",
     "url": "https://github.com/charmbracelet/glow",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -9609,7 +9609,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -9621,7 +9621,7 @@
     "id": "text-tools-markdownlivepreview",
     "name": "MarkdownLivePreview",
     "url": "https://markdownlivepreview.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -9647,7 +9647,7 @@
     "id": "text-tools-vrite",
     "name": "Vrite",
     "url": "https://editor.vrite.io/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -9673,7 +9673,7 @@
     "id": "text-tools-mindforger",
     "name": "MindForger",
     "url": "https://www.mindforger.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -9699,7 +9699,7 @@
     "id": "text-tools-markpad",
     "name": "⁠Markpad",
     "url": "https://markpad.sftwr.dev/",
-    "description": "Lightweight · Minimal · GitHub",
+    "description": "轻量极简 · 极简 · GitHub 开源",
     "descriptionEn": "Lightweight / Minimal / GitHub",
     "category": "text-tools",
     "tags": [
@@ -9725,7 +9725,7 @@
     "id": "text-tools-notepix",
     "name": "⁠Notepix",
     "url": "https://notepix.ai/",
-    "description": "AI-Powered LaTeX Editors",
+    "description": "AI-Powered LaTeX 在线编辑器",
     "descriptionEn": "AI-Powered LaTeX Editors",
     "category": "text-tools",
     "tags": [
@@ -9751,7 +9751,7 @@
     "id": "text-tools-simpletex",
     "name": "⁠SimpleTex",
     "url": "https://simpletex.cn/",
-    "description": "Convert Images to LaTeX · Markdown",
+    "description": "Convert 图像插画至 LaTeX · Markdown",
     "descriptionEn": "Convert Images to LaTeX / Markdown",
     "category": "text-tools",
     "tags": [
@@ -9777,7 +9777,7 @@
     "id": "text-tools-learn-latex",
     "name": "Learn LaTeX",
     "url": "https://www.learnlatex.org/",
-    "description": "LaTeX Guide",
+    "description": "LaTeX 指南",
     "descriptionEn": "LaTeX Guide",
     "category": "text-tools",
     "tags": [
@@ -9803,7 +9803,7 @@
     "id": "text-tools-tables-generator",
     "name": "Tables Generator",
     "url": "https://www.tablesgenerator.com/",
-    "description": "Create LaTeX Tables",
+    "description": "Create LaTeX Tables (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Create LaTeX Tables",
     "category": "text-tools",
     "tags": [
@@ -9829,7 +9829,7 @@
     "id": "text-tools-tikz-editor",
     "name": "⁠TikZ Editor",
     "url": "https://tikz.dev/editor/",
-    "description": "LaTeX TikZ Diagram Editor · GitHub",
+    "description": "LaTeX TikZ Diagram 编辑器 · GitHub 开源",
     "descriptionEn": "LaTeX TikZ Diagram Editor / GitHub",
     "category": "text-tools",
     "tags": [
@@ -9855,7 +9855,7 @@
     "id": "text-tools-latex-ocr",
     "name": "LaTeX-OCR",
     "url": "https://lukas-blecher.github.io/LaTeX-OCR/",
-    "description": "Extract Mathematical Expressions",
+    "description": "Extract Mathematical Expressions (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Extract Mathematical Expressions",
     "category": "text-tools",
     "tags": [
@@ -9881,7 +9881,7 @@
     "id": "text-tools-detexify",
     "name": "Detexify",
     "url": "https://detexify.kirelabs.org/classify.html",
-    "description": "Character Recognition",
+    "description": "Character Recognition (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Character Recognition",
     "category": "text-tools",
     "tags": [
@@ -9907,7 +9907,7 @@
     "id": "text-tools-nerd-fonts",
     "name": "Nerd Fonts",
     "url": "https://www.nerdfonts.com/",
-    "description": "Icon-Rich Developer · Terminal Fonts",
+    "description": "Icon-Rich Developer · Terminal Fonts (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Icon-Rich Developer / Terminal Fonts",
     "category": "text-tools",
     "tags": [
@@ -9935,7 +9935,7 @@
     "id": "text-tools-opendyslexic",
     "name": "OpenDyslexic",
     "url": "https://opendyslexic.org/",
-    "description": "Typeface for Dyslexia",
+    "description": "Typeface 面向 Dyslexia",
     "descriptionEn": "Typeface for Dyslexia",
     "category": "text-tools",
     "tags": [
@@ -9961,7 +9961,7 @@
     "id": "text-tools-typewolf",
     "name": "Typewolf",
     "url": "https://www.typewolf.com/",
-    "description": "Trending Website Fonts",
+    "description": "Trending Website Fonts (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Trending Website Fonts",
     "category": "text-tools",
     "tags": [
@@ -9989,7 +9989,7 @@
     "id": "text-tools-cava-s-pixel-resources",
     "name": "Cava's Pixel Resources",
     "url": "https://caveras.net/",
-    "description": "Pixel Fonts",
+    "description": "Pixel Fonts (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Pixel Fonts",
     "category": "text-tools",
     "tags": [
@@ -10041,7 +10041,7 @@
     "id": "text-tools-firacode",
     "name": "FiraCode",
     "url": "https://github.com/tonsky/FiraCode",
-    "description": "Monospace Fonts",
+    "description": "Monospace Fonts (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Monospace Fonts",
     "category": "text-tools",
     "tags": [
@@ -10055,7 +10055,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -10067,7 +10067,7 @@
     "id": "text-tools-fontsource",
     "name": "FontSource",
     "url": "https://fontsource.org/",
-    "description": "开源",
+    "description": "开源源码",
     "descriptionEn": "Open Source",
     "category": "text-tools",
     "tags": [
@@ -10095,7 +10095,7 @@
     "id": "text-tools-font-squirrel",
     "name": "Font Squirrel",
     "url": "https://www.fontsquirrel.com/",
-    "description": "Commercial Use",
+    "description": "Commercial Use (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Commercial Use",
     "category": "text-tools",
     "tags": [
@@ -10123,7 +10123,7 @@
     "id": "text-tools-dafont",
     "name": "DaFont",
     "url": "https://www.dafont.com/",
-    "description": "Freeware",
+    "description": "Freeware (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Freeware",
     "category": "text-tools",
     "tags": [
@@ -10151,7 +10151,7 @@
     "id": "text-tools-1001-fonts",
     "name": "1001 Fonts",
     "url": "https://www.1001fonts.com/",
-    "description": "Freeware",
+    "description": "Freeware (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Freeware",
     "category": "text-tools",
     "tags": [
@@ -10179,7 +10179,7 @@
     "id": "text-tools-modern-fonts-stacks",
     "name": "Modern Fonts Stacks",
     "url": "https://modernfontstacks.com/",
-    "description": "Collection of CSS System Font Stacks",
+    "description": "宝藏合辑精选 CSS 系统 Font Stacks",
     "descriptionEn": "Collection of CSS System Font Stacks",
     "category": "text-tools",
     "tags": [
@@ -10205,7 +10205,7 @@
     "id": "text-tools-velvetyne",
     "name": "Velvetyne",
     "url": "https://velvetyne.fr/",
-    "description": "开源",
+    "description": "开源源码",
     "descriptionEn": "Open Source",
     "category": "text-tools",
     "tags": [
@@ -10231,7 +10231,7 @@
     "id": "text-tools-uncut-wtf",
     "name": "uncut.wtf",
     "url": "https://uncut.wtf/",
-    "description": "开源",
+    "description": "开源源码",
     "descriptionEn": "Open Source",
     "category": "text-tools",
     "tags": [
@@ -10257,7 +10257,7 @@
     "id": "text-tools-beautiful-web-type",
     "name": "Beautiful Web Type",
     "url": "https://beautifulwebtype.com/",
-    "description": "开源",
+    "description": "开源源码",
     "descriptionEn": "Open Source",
     "category": "text-tools",
     "tags": [
@@ -10285,7 +10285,7 @@
     "id": "text-tools-fontrepo",
     "name": "FontRepo",
     "url": "https://www.fontrepo.com/",
-    "description": "开源",
+    "description": "开源源码",
     "descriptionEn": "Open Source",
     "category": "text-tools",
     "tags": [
@@ -10311,7 +10311,7 @@
     "id": "text-tools-tunera-type-foundry",
     "name": "Tunera Type Foundry",
     "url": "https://www.tunera.xyz/",
-    "description": "开源",
+    "description": "开源源码",
     "descriptionEn": "Open Source",
     "category": "text-tools",
     "tags": [
@@ -10337,7 +10337,7 @@
     "id": "text-tools-bunny-fonts",
     "name": "Bunny Fonts",
     "url": "https://fonts.bunny.net/",
-    "description": "开源",
+    "description": "开源源码",
     "descriptionEn": "Open Source",
     "category": "text-tools",
     "tags": [
@@ -10363,7 +10363,7 @@
     "id": "text-tools-google-fonts",
     "name": "Google Fonts",
     "url": "https://fonts.google.com/",
-    "description": "Commercial Use · Self-Host · Privacy-Friendly API",
+    "description": "Commercial Use · Self-Host · 隐私安全-Friendly API",
     "descriptionEn": "Commercial Use / Self-Host / Privacy-Friendly API",
     "category": "text-tools",
     "tags": [
@@ -10391,7 +10391,7 @@
     "id": "text-tools-fontshare",
     "name": "FontShare",
     "url": "https://fontshare.com/",
-    "description": "Commercial Use",
+    "description": "Commercial Use (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Commercial Use",
     "category": "text-tools",
     "tags": [
@@ -10417,7 +10417,7 @@
     "id": "text-tools-onlinewebfonts",
     "name": "OnlineWebFonts",
     "url": "https://www.onlinewebfonts.com/",
-    "description": "Commercial Use",
+    "description": "Commercial Use (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Commercial Use",
     "category": "text-tools",
     "tags": [
@@ -10445,7 +10445,7 @@
     "id": "text-tools-fontlot",
     "name": "Fontlot",
     "url": "https://fontlot.com/",
-    "description": "Freeware",
+    "description": "Freeware (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Freeware",
     "category": "text-tools",
     "tags": [
@@ -10471,7 +10471,7 @@
     "id": "text-tools-fontsly",
     "name": "Fontsly",
     "url": "https://fontsly.com/",
-    "description": "Freeware",
+    "description": "Freeware (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Freeware",
     "category": "text-tools",
     "tags": [
@@ -10497,7 +10497,7 @@
     "id": "text-tools-fossfonts",
     "name": "FOSSFonts",
     "url": "https://fossfonts.com/",
-    "description": "Freeware",
+    "description": "Freeware (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Freeware",
     "category": "text-tools",
     "tags": [
@@ -10523,7 +10523,7 @@
     "id": "text-tools-fonts4free",
     "name": "Fonts4Free",
     "url": "https://www.fonts4free.net/",
-    "description": "Freeware",
+    "description": "Freeware (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Freeware",
     "category": "text-tools",
     "tags": [
@@ -10549,7 +10549,7 @@
     "id": "text-tools-fontspace",
     "name": "FontSpace",
     "url": "https://www.fontspace.com/",
-    "description": "Freeware",
+    "description": "Freeware (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Freeware",
     "category": "text-tools",
     "tags": [
@@ -10575,7 +10575,7 @@
     "id": "text-tools-online-fonts",
     "name": "Online Fonts",
     "url": "https://online-fonts.com/",
-    "description": "Freeware",
+    "description": "Freeware (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Freeware",
     "category": "text-tools",
     "tags": [
@@ -10601,7 +10601,7 @@
     "id": "text-tools-cdnfonts",
     "name": "CDNFonts",
     "url": "https://www.cdnfonts.com/",
-    "description": "Freeware",
+    "description": "Freeware (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Freeware",
     "category": "text-tools",
     "tags": [
@@ -10627,7 +10627,7 @@
     "id": "text-tools-fontesk",
     "name": "Fontesk",
     "url": "https://fontesk.com/",
-    "description": "Freeware",
+    "description": "Freeware (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Freeware",
     "category": "text-tools",
     "tags": [
@@ -10653,7 +10653,7 @@
     "id": "text-tools-fontstruct",
     "name": "FontStruct",
     "url": "https://fontstruct.com/",
-    "description": "Freeware",
+    "description": "Freeware (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Freeware",
     "category": "text-tools",
     "tags": [
@@ -10679,7 +10679,7 @@
     "id": "text-tools-ifonts",
     "name": "iFonts",
     "url": "https://ifonts.xyz/",
-    "description": "Freeware",
+    "description": "Freeware (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Freeware",
     "category": "text-tools",
     "tags": [
@@ -10705,7 +10705,7 @@
     "id": "text-tools-downloadfonts",
     "name": "DownloadFonts",
     "url": "https://www.downloadfonts.io/",
-    "description": "Freeware",
+    "description": "Freeware (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Freeware",
     "category": "text-tools",
     "tags": [
@@ -10731,7 +10731,7 @@
     "id": "text-tools-abstractfonts",
     "name": "AbstractFonts",
     "url": "https://www.abstractfonts.com/",
-    "description": "Freeware",
+    "description": "Freeware (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Freeware",
     "category": "text-tools",
     "tags": [
@@ -10757,7 +10757,7 @@
     "id": "text-tools-fontget",
     "name": "FontGet",
     "url": "https://www.fontget.com/",
-    "description": "Freeware",
+    "description": "Freeware (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Freeware",
     "category": "text-tools",
     "tags": [
@@ -10783,7 +10783,7 @@
     "id": "text-tools-freefontsdownload",
     "name": "FreeFontsDownload",
     "url": "https://freefontsdownload.net/",
-    "description": "Freeware",
+    "description": "Freeware (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Freeware",
     "category": "text-tools",
     "tags": [
@@ -10809,7 +10809,7 @@
     "id": "text-tools-fonts2u",
     "name": "Fonts2u",
     "url": "https://fonts2u.com/",
-    "description": "Freeware",
+    "description": "Freeware (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Freeware",
     "category": "text-tools",
     "tags": [
@@ -10835,7 +10835,7 @@
     "id": "text-tools-awwwards",
     "name": "Awwwards",
     "url": "https://www.awwwards.com/awwwards/collections/free-fonts/",
-    "description": "Freeware",
+    "description": "Freeware (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Freeware",
     "category": "text-tools",
     "tags": [
@@ -10861,7 +10861,7 @@
     "id": "text-tools-glukfonts",
     "name": "GlukFonts",
     "url": "https://www.glukfonts.pl/fonts.php",
-    "description": "Freeware",
+    "description": "Freeware (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Freeware",
     "category": "text-tools",
     "tags": [
@@ -10887,7 +10887,7 @@
     "id": "text-tools-iconian",
     "name": "Iconian",
     "url": "https://www.iconian.com/",
-    "description": "Freeware",
+    "description": "Freeware (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Freeware",
     "category": "text-tools",
     "tags": [
@@ -10913,7 +10913,7 @@
     "id": "text-tools-fonts-cse",
     "name": "Fonts CSE",
     "url": "https://cse.google.com/cse?cx=82154ebab193e493d",
-    "description": "Multi-Site Font Search",
+    "description": "跨站多源 Font 搜索检索",
     "descriptionEn": "Multi-Site Font Search",
     "category": "text-tools",
     "tags": [
@@ -10941,7 +10941,7 @@
     "id": "text-tools-font-piracy-101",
     "name": "Font Piracy 101",
     "url": "https://gist.github.com/Overimagine1/9f32e11b4c770fcd33374ad936a57d90",
-    "description": "Font Download Guide",
+    "description": "Font Download 指南",
     "descriptionEn": "Font Download Guide",
     "category": "text-tools",
     "tags": [
@@ -10957,7 +10957,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -10969,7 +10969,7 @@
     "id": "text-tools-wfonts",
     "name": "wFonts",
     "url": "https://wfonts.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -10997,7 +10997,7 @@
     "id": "text-tools-befonts",
     "name": "BeFonts",
     "url": "https://befonts.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -11025,7 +11025,7 @@
     "id": "text-tools-free-fonts-family",
     "name": "Free Fonts Family",
     "url": "https://freefontsfamily.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -11051,7 +11051,7 @@
     "id": "text-tools-cufon-fonts",
     "name": "Cufon Fonts",
     "url": "https://www.cufonfonts.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -11077,7 +11077,7 @@
     "id": "text-tools-fontfreak",
     "name": "⁠FontFreak",
     "url": "https://www.fontfreak.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -11103,7 +11103,7 @@
     "id": "text-tools-fontsfree",
     "name": "FontsFree",
     "url": "https://fontsfree.net",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -11129,7 +11129,7 @@
     "id": "text-tools-dfonts",
     "name": "DFonts",
     "url": "https://www.dfonts.org/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -11155,7 +11155,7 @@
     "id": "text-tools-fontyukle",
     "name": "⁠FontYukle",
     "url": "https://www.fontyukle.net/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -11181,7 +11181,7 @@
     "id": "text-tools-font-download",
     "name": "⁠Font.Download",
     "url": "https://font.download/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -11207,7 +11207,7 @@
     "id": "text-tools-free-font-download",
     "name": "Free Font Download",
     "url": "https://www.freefontdownload.org/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -11233,7 +11233,7 @@
     "id": "text-tools-font-spring",
     "name": "Font Spring",
     "url": "https://www.fontspring.com/free",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -11259,7 +11259,7 @@
     "id": "text-tools-fontbolt",
     "name": "⁠FontBolt",
     "url": "https://www.fontbolt.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -11285,7 +11285,7 @@
     "id": "text-tools-best-font",
     "name": "Best Font",
     "url": "https://best-font.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -11311,7 +11311,7 @@
     "id": "text-tools-ffonts",
     "name": "FFonts",
     "url": "https://www.ffonts.net/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -11337,7 +11337,7 @@
     "id": "text-tools-dafontfree",
     "name": "⁠DaFontFree",
     "url": "https://www.dafontfree.co/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -11363,7 +11363,7 @@
     "id": "text-tools-fontshub",
     "name": "FontsHub",
     "url": "https://fontshub.pro/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -11389,7 +11389,7 @@
     "id": "text-tools-font-meme",
     "name": "Font Meme",
     "url": "https://fontmeme.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -11415,7 +11415,7 @@
     "id": "text-tools-fontomass",
     "name": "FONToMASS",
     "url": "https://m.vk.com/topic-178186634_39300099?offset=0",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -11441,7 +11441,7 @@
     "id": "text-tools-mr-e-fonts",
     "name": "Mr.E-Fonts",
     "url": "https://archive.org/details/Mr.E-Fonts",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -11467,7 +11467,7 @@
     "id": "text-tools-psd-fonts",
     "name": "psd_fonts",
     "url": "https://vk.com/psd_fonts",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -11493,7 +11493,7 @@
     "id": "text-tools-1001-free-fonts",
     "name": "1001 Free Fonts",
     "url": "https://www.1001freefonts.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -11519,7 +11519,7 @@
     "id": "text-tools-famous-fonts",
     "name": "⁠Famous Fonts",
     "url": "https://famfonts.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -11545,7 +11545,7 @@
     "id": "text-tools-font-interceptor",
     "name": "Font Interceptor",
     "url": "https://fontinterceptor.mschfmag.com/",
-    "description": "Download Fonts from Websites",
+    "description": "Download Fonts from Websites (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Download Fonts from Websites",
     "category": "text-tools",
     "tags": [
@@ -11575,7 +11575,7 @@
     "id": "text-tools-fontdrop",
     "name": "FontDrop",
     "url": "https://fontdrop.info/",
-    "description": "Analyze Font Files",
+    "description": "Analyze Font 文件",
     "descriptionEn": "Analyze Font Files",
     "category": "text-tools",
     "tags": [
@@ -11603,7 +11603,7 @@
     "id": "text-tools-font-analyzer",
     "name": "Font Analyzer",
     "url": "https://font-analyzer-six.vercel.app/",
-    "description": "Find Similar Fonts",
+    "description": "查找 Similar Fonts",
     "descriptionEn": "Find Similar Fonts",
     "category": "text-tools",
     "tags": [
@@ -11631,7 +11631,7 @@
     "id": "text-tools-r-identifythisfont",
     "name": "⁠r/identifythisfont",
     "url": "https://www.reddit.com/r/identifythisfont/",
-    "description": "Font Identification Subreddit",
+    "description": "Font Identification Reddit 讨论区",
     "descriptionEn": "Font Identification Subreddit",
     "category": "text-tools",
     "tags": [
@@ -11645,7 +11645,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -11657,7 +11657,7 @@
     "id": "text-tools-transfonter",
     "name": "Transfonter",
     "url": "https://transfonter.org/",
-    "description": "Create CSS @font-face Kits",
+    "description": "Create CSS @font-face Kits (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Create CSS @font-face Kits",
     "category": "text-tools",
     "tags": [
@@ -11683,7 +11683,7 @@
     "id": "text-tools-fontbase",
     "name": "FontBase",
     "url": "https://fontba.se/",
-    "description": "Font Managers",
+    "description": "Font 管理工具箱",
     "descriptionEn": "Font Managers",
     "category": "text-tools",
     "tags": [
@@ -11709,7 +11709,7 @@
     "id": "text-tools-fonts-ninja",
     "name": "Fonts Ninja",
     "url": "https://fonts.ninja/tools",
-    "description": "Find Similar Fonts · Extensions",
+    "description": "查找 Similar Fonts · 扩展插件",
     "descriptionEn": "Find Similar Fonts / Extensions",
     "category": "text-tools",
     "tags": [
@@ -11737,7 +11737,7 @@
     "id": "text-tools-ds-fusion",
     "name": "DS-Fusion",
     "url": "https://ds-fusion.github.io/",
-    "description": "AI Typography Generator",
+    "description": "AI Typography 生成器",
     "descriptionEn": "AI Typography Generator",
     "category": "text-tools",
     "tags": [
@@ -11763,7 +11763,7 @@
     "id": "text-tools-formito",
     "name": "Formito",
     "url": "https://formito.com/tools/logo",
-    "description": "Typography Logo Maker",
+    "description": "Typography Logo Maker (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Typography Logo Maker",
     "category": "text-tools",
     "tags": [
@@ -11789,7 +11789,7 @@
     "id": "text-tools-type-terms",
     "name": "Type Terms",
     "url": "https://avark.agency/typeterms/",
-    "description": "Typography Cheat Sheet",
+    "description": "Typography 游戏秘籍 Sheet",
     "descriptionEn": "Typography Cheat Sheet",
     "category": "text-tools",
     "tags": [
@@ -11815,7 +11815,7 @@
     "id": "text-tools-the-good-line-height",
     "name": "The Good Line-Height",
     "url": "https://thegoodlineheight.com/",
-    "description": "Typography Scaling Editor",
+    "description": "Typography Scaling 编辑器",
     "descriptionEn": "Typography Scaling Editor",
     "category": "text-tools",
     "tags": [
@@ -11841,7 +11841,7 @@
     "id": "text-tools-hyperglot",
     "name": "⁠Hyperglot",
     "url": "https://hyperglot.rosettatype.com/",
-    "description": "Font Language Support Checker",
+    "description": "Font 外语自学 Support Checker",
     "descriptionEn": "Font Language Support Checker",
     "category": "text-tools",
     "tags": [
@@ -11867,7 +11867,7 @@
     "id": "text-tools-so-you-need-a-typeface-2",
     "name": "So You Need A Typeface 2.0",
     "url": "https://ianli.github.io/so-you-need-a-typeface/",
-    "description": "Examples of Font Styles",
+    "description": "Examples 精选 Font 风格",
     "descriptionEn": "Examples of Font Styles",
     "category": "text-tools",
     "tags": [
@@ -11893,7 +11893,7 @@
     "id": "text-tools-type-design-resources",
     "name": "Type Design Resources",
     "url": "https://typedesignresources.com/",
-    "description": "Typeface Resources",
+    "description": "Typeface 精选资源",
     "descriptionEn": "Typeface Resources",
     "category": "text-tools",
     "tags": [
@@ -11919,7 +11919,7 @@
     "id": "text-tools-fontogen",
     "name": "FontoGen",
     "url": "https://github.com/SerCeMan/fontogen",
-    "description": "Custom AI Font Generators",
+    "description": "Custom AI Font 生成工具",
     "descriptionEn": "Custom AI Font Generators",
     "category": "text-tools",
     "tags": [
@@ -11935,7 +11935,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -11947,7 +11947,7 @@
     "id": "text-tools-make-wordart",
     "name": "Make WordArt",
     "url": "https://www.makewordart.com/",
-    "description": "WordArt Generators · 3D Text",
+    "description": "WordArt 生成工具 · 3D Text",
     "descriptionEn": "WordArt Generators / 3D Text",
     "category": "text-tools",
     "tags": [
@@ -11975,7 +11975,7 @@
     "id": "text-tools-polona-typo",
     "name": "Polona Typo",
     "url": "https://typo.polona.pl/en/",
-    "description": "Generate WordArt from Book, Poster, & Map Letters",
+    "description": "Generate WordArt from 电子书 · Poster · & 全景地图 Letters",
     "descriptionEn": "Generate WordArt from Book, Poster, & Map Letters",
     "category": "text-tools",
     "tags": [
@@ -12001,7 +12001,7 @@
     "id": "text-tools-pixelframe",
     "name": "⁠PixelFrame",
     "url": "https://pixelframe.design/",
-    "description": "Custom Pop Culture Font · Graphic Generator",
+    "description": "Custom Pop Culture Font · Graphic 生成器",
     "descriptionEn": "Custom Pop Culture Font / Graphic Generator",
     "category": "text-tools",
     "tags": [
@@ -12027,7 +12027,7 @@
     "id": "text-tools-gradient-text-generator",
     "name": "⁠gradient text generator",
     "url": "https://lovewich.neocities.org/widgets/gradient-text",
-    "description": "Rainbow Text Generator",
+    "description": "Rainbow Text 生成器",
     "descriptionEn": "Rainbow Text Generator",
     "category": "text-tools",
     "tags": [
@@ -12053,7 +12053,7 @@
     "id": "text-tools-fast3dtext",
     "name": "Fast3DText",
     "url": "https://fast3dtext.com/",
-    "description": "Animated · 3D Text Generators",
+    "description": "Animated · 3D Text 生成工具",
     "descriptionEn": "Animated / 3D Text Generators",
     "category": "text-tools",
     "tags": [
@@ -12079,7 +12079,7 @@
     "id": "text-tools-textanim",
     "name": "Textanim",
     "url": "https://textanim.com/",
-    "description": "Animated Text Generators",
+    "description": "Animated Text 生成工具",
     "descriptionEn": "Animated Text Generators",
     "category": "text-tools",
     "tags": [
@@ -12105,7 +12105,7 @@
     "id": "text-tools-batname",
     "name": "Batname",
     "url": "https://batname.vercel.app/",
-    "description": "Batman (2022) Text Generator",
+    "description": "Batman (2022) Text 生成器",
     "descriptionEn": "Batman (2022) Text Generator",
     "category": "text-tools",
     "tags": [
@@ -12131,7 +12131,7 @@
     "id": "text-tools-nfg-s-arcade-font-maker",
     "name": "NFG's Arcade Font Maker",
     "url": "https://nfggames.com/games/fontmaker/",
-    "description": "Arcade Text Generators",
+    "description": "街机 Text 生成工具",
     "descriptionEn": "Arcade Text Generators",
     "category": "text-tools",
     "tags": [
@@ -12157,7 +12157,7 @@
     "id": "text-tools-the-ransomizer",
     "name": "The Ransomizer",
     "url": "https://www.ransomizer.com/",
-    "description": "Ransom Note Style Text",
+    "description": "Ransom 附注意事项风格 Text",
     "descriptionEn": "Ransom Note Style Text",
     "category": "text-tools",
     "tags": [
@@ -12183,7 +12183,7 @@
     "id": "text-tools-glitch",
     "name": "Glitch",
     "url": "https://glitchtextgenerator.com/",
-    "description": "Zalgo Text Generator",
+    "description": "Zalgo Text 生成器",
     "descriptionEn": "Zalgo Text Generator",
     "category": "text-tools",
     "tags": [
@@ -12209,7 +12209,7 @@
     "id": "text-tools-typetrials",
     "name": "TypeTrials",
     "url": "https://typetrials.com/",
-    "description": "Variable Font Playground",
+    "description": "Variable Font Playground (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Variable Font Playground",
     "category": "text-tools",
     "tags": [
@@ -12237,7 +12237,7 @@
     "id": "text-tools-v-fonts",
     "name": "V-Fonts",
     "url": "https://v-fonts.com/",
-    "description": "Variable Fonts Testers",
+    "description": "Variable Fonts Testers (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Variable Fonts Testers",
     "category": "text-tools",
     "tags": [
@@ -12263,7 +12263,7 @@
     "id": "text-tools-enfont",
     "name": "enFont",
     "url": "https://enfont-terrible.com/",
-    "description": "Custom Font Creators",
+    "description": "Custom Font Creators (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Custom Font Creators",
     "category": "text-tools",
     "tags": [
@@ -12289,7 +12289,7 @@
     "id": "text-tools-fontjoy",
     "name": "Fontjoy",
     "url": "https://fontjoy.com/",
-    "description": "Generate Font Combinations",
+    "description": "Generate Font Combinations (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Generate Font Combinations",
     "category": "text-tools",
     "tags": [
@@ -12315,7 +12315,7 @@
     "id": "text-tools-bastardica",
     "name": "⁠Bastardica",
     "url": "https://bastardica.mitpit.com/",
-    "description": "Font Mixer",
+    "description": "Font Mixer (文本编辑与 Markdown 写作工具)",
     "descriptionEn": "Font Mixer",
     "category": "text-tools",
     "tags": [
@@ -12341,7 +12341,7 @@
     "id": "text-tools-fontsprite",
     "name": "FontSprite",
     "url": "https://adamstrange.itch.io/fontsprite",
-    "description": "FontSprite Editor",
+    "description": "FontSprite 编辑器",
     "descriptionEn": "FontSprite Editor",
     "category": "text-tools",
     "tags": [
@@ -12367,7 +12367,7 @@
     "id": "text-tools-bitfontmaker2",
     "name": "BitFontMaker2",
     "url": "https://pentacom.jp/pentacom/bitfontmaker2/",
-    "description": "BitMap Font Editor",
+    "description": "BitMap Font 编辑器",
     "descriptionEn": "BitMap Font Editor",
     "category": "text-tools",
     "tags": [
@@ -12393,7 +12393,7 @@
     "id": "text-tools-fontedit",
     "name": "FontEdit",
     "url": "https://github.com/ayoy/fontedit",
-    "description": "Font · Typeface Editors",
+    "description": "Font · Typeface 在线编辑器",
     "descriptionEn": "Font / Typeface Editors",
     "category": "text-tools",
     "tags": [
@@ -12407,7 +12407,7 @@
       "Editor"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -12419,7 +12419,7 @@
     "id": "text-tools-yaytext",
     "name": "YayText",
     "url": "https://yaytext.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -12447,7 +12447,7 @@
     "id": "text-tools-messletters",
     "name": "Messletters",
     "url": "https://www.messletters.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -12475,7 +12475,7 @@
     "id": "text-tools-fsymbols",
     "name": "FSymbols",
     "url": "https://fsymbols.com/generators/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -12503,7 +12503,7 @@
     "id": "text-tools-fancy-text",
     "name": "Fancy Text",
     "url": "https://fancy-text.net/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -12531,7 +12531,7 @@
     "id": "text-tools-cool-fonts-online",
     "name": "Cool Fonts Online",
     "url": "https://coolfont.org/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -12557,7 +12557,7 @@
     "id": "text-tools-discord-fonts",
     "name": "⁠Discord Fonts",
     "url": "https://discord-fonts.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -12583,7 +12583,7 @@
     "id": "text-tools-aesthetic-font-generator",
     "name": "Aesthetic Font Generator",
     "url": "https://www.tesms.net/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -12609,7 +12609,7 @@
     "id": "text-tools-fontgenonline",
     "name": "FontGenOnline",
     "url": "https://fontgenonline.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -12635,7 +12635,7 @@
     "id": "text-tools-texteditor",
     "name": "TextEditor",
     "url": "https://texteditor.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -12661,7 +12661,7 @@
     "id": "text-tools-cutefontcopy",
     "name": "CuteFontCopy",
     "url": "https://cutefontcopy.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -12687,7 +12687,7 @@
     "id": "text-tools-fontgenerator-design",
     "name": "FontGenerator.design",
     "url": "https://fontgenerator.design/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -12713,7 +12713,7 @@
     "id": "text-tools-font-generator-online",
     "name": "Font Generator Online",
     "url": "https://www.fontgeneratoronline.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -12739,7 +12739,7 @@
     "id": "text-tools-fontgenerator-cc",
     "name": "FontGenerator.cc",
     "url": "https://fontgenerator.cc/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -12765,7 +12765,7 @@
     "id": "text-tools-fontgen",
     "name": "FontGen",
     "url": "https://fontgen.cool/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -12791,7 +12791,7 @@
     "id": "text-tools-fontgenerator-cool",
     "name": "FontGenerator.cool",
     "url": "https://fontgenerator.cool/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [
@@ -12817,7 +12817,7 @@
     "id": "text-tools-fancy-text-decorator",
     "name": "Fancy Text Decorator",
     "url": "https://fancytextdecorator.com/",
-    "description": "Bilingual notes, 现代化 Markdown 笔记与写作工具s, and distraction-free writing tools.",
+    "description": "双链笔记、Markdown 编辑与离线写作排版利器",
     "descriptionEn": "Bilingual notes, Markdown editors, and distraction-free writing tools.",
     "category": "text-tools",
     "tags": [

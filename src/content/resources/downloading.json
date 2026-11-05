@@ -3,7 +3,7 @@
     "id": "downloading-adobe-alternatives",
     "name": "Adobe Alternatives",
     "url": "https://github.com/KenneyNL/Adobe-Alternatives",
-    "description": "Adobe Software Alternative Index",
+    "description": "Adobe 全家桶优质免费开源平替索引",
     "descriptionEn": "Adobe Software Alternative Index",
     "category": "downloading",
     "tags": [
@@ -17,7 +17,7 @@
       "Debrid"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -43,7 +43,7 @@
       "Debrid"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -55,7 +55,7 @@
     "id": "downloading-virgil-software-search",
     "name": "Virgil Software Search",
     "url": "https://virgil.samidy.com/?engine=software",
-    "description": "Multi-Site Software Search",
+    "description": "跨站点多软件源综合搜索聚合",
     "descriptionEn": "Multi-Site Software Search",
     "category": "downloading",
     "tags": [
@@ -83,7 +83,7 @@
     "id": "downloading-cracksurl",
     "name": "CracksURL",
     "url": "https://cracksurl.com/",
-    "description": "Fast multi-threaded 下载器s, 网盘高速中继解析 leeches, and stream rippers.",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
     "descriptionEn": "Fast multi-threaded downloaders, debrid leeches, and stream rippers.",
     "category": "downloading",
     "tags": [
@@ -111,7 +111,7 @@
     "id": "downloading-soft98",
     "name": "Soft98",
     "url": "https://soft98.ir/",
-    "description": "Use Translator",
+    "description": "外语站点 (建议搭配网页翻译)",
     "descriptionEn": "Use Translator",
     "category": "downloading",
     "tags": [
@@ -139,7 +139,7 @@
     "id": "downloading-nsane-forums",
     "name": "Nsane Forums",
     "url": "https://www.nsaneforums.com/",
-    "description": "Requires Sign-Up",
+    "description": "需注册使用",
     "descriptionEn": "Requires Sign-Up",
     "category": "downloading",
     "tags": [
@@ -167,7 +167,7 @@
     "id": "downloading-lrepacks",
     "name": "LRepacks",
     "url": "https://lrepacks.net/",
-    "description": "Avoid Redirects · Use Adblock + Translator",
+    "description": "Avoid Redirects · Use Adblock + Translator (高速下载与网盘解析工具)",
     "descriptionEn": "Avoid Redirects / Use Adblock + Translator",
     "category": "downloading",
     "tags": [
@@ -195,7 +195,7 @@
     "id": "downloading-alternativeto",
     "name": "AlternativeTo",
     "url": "https://alternativeto.net/",
-    "description": "Crowdsourced Recommendations",
+    "description": "Crowdsourced Recommendations (高速下载与网盘解析工具)",
     "descriptionEn": "Crowdsourced Recommendations",
     "category": "downloading",
     "tags": [
@@ -223,7 +223,7 @@
     "id": "downloading-downloadha",
     "name": "DownloadHa",
     "url": "https://www.downloadha.com/",
-    "description": "Use Translator",
+    "description": "外语站点 (建议搭配网页翻译)",
     "descriptionEn": "Use Translator",
     "category": "downloading",
     "tags": [
@@ -249,7 +249,7 @@
     "id": "downloading-moum",
     "name": "Moum",
     "url": "https://moum.top/en/",
-    "description": "Fast multi-threaded 下载器s, 网盘高速中继解析 leeches, and stream rippers.",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
     "descriptionEn": "Fast multi-threaded downloaders, debrid leeches, and stream rippers.",
     "category": "downloading",
     "tags": [
@@ -275,7 +275,7 @@
     "id": "downloading-retrosystemrevival",
     "name": "RetroSystemRevival",
     "url": "https://retrosystemsrevival.blogspot.com/",
-    "description": "Oldschool Software",
+    "description": "Oldschool 纯净软件",
     "descriptionEn": "Oldschool Software",
     "category": "downloading",
     "tags": [
@@ -301,7 +301,7 @@
     "id": "downloading-libreware",
     "name": "Libreware",
     "url": "https://t.me/Libreware",
-    "description": "Telegram Channels",
+    "description": "Telegram 交流群 Channels",
     "descriptionEn": "Telegram Channels",
     "category": "downloading",
     "tags": [
@@ -327,7 +327,7 @@
     "id": "downloading-zxpinstaller",
     "name": "ZXPInstaller",
     "url": "https://zxpinstaller.com/",
-    "description": "Adobe Extension Installer",
+    "description": "Adobe 扩展插件 Installer",
     "descriptionEn": "Adobe Extension Installer",
     "category": "downloading",
     "tags": [
@@ -355,7 +355,7 @@
     "id": "downloading-awesome-open-source",
     "name": "Awesome Open Source",
     "url": "https://awesomeopensource.com/",
-    "description": "FOSS Indexes",
+    "description": "自由开源导航索引",
     "descriptionEn": "FOSS Indexes",
     "category": "downloading",
     "tags": [
@@ -381,7 +381,7 @@
     "id": "downloading-git-project-indexes",
     "name": "Git Project Indexes",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_git_project_indexes",
-    "description": "Fast multi-threaded 下载器s, 网盘高速中继解析 leeches, and stream rippers.",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
     "descriptionEn": "Fast multi-threaded downloaders, debrid leeches, and stream rippers.",
     "category": "downloading",
     "tags": [
@@ -395,7 +395,7 @@
       "Debrid"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -407,7 +407,7 @@
     "id": "downloading-new-releases",
     "name": "new(releases)",
     "url": "https://newreleases.io/",
-    "description": "Software Release Notifications · GitHub",
+    "description": "纯净软件 Release Notifications · GitHub 开源",
     "descriptionEn": "Software Release Notifications / GitHub",
     "category": "downloading",
     "tags": [
@@ -435,7 +435,7 @@
     "id": "downloading-is-it-really-foss",
     "name": "Is It Really FOSS",
     "url": "https://isitreallyfoss.com",
-    "description": "Determine if Software is FOSS · Source Code",
+    "description": "硬件评估 if 纯净软件 is 自由开源 · 源码程序源码",
     "descriptionEn": "Determine if Software is FOSS / Source Code",
     "category": "downloading",
     "tags": [
@@ -463,7 +463,7 @@
     "id": "downloading-sourceforge",
     "name": "SourceForge",
     "url": "https://sourceforge.net/",
-    "description": "FOSS Repositories",
+    "description": "自由开源 Repositories",
     "descriptionEn": "FOSS Repositories",
     "category": "downloading",
     "tags": [
@@ -489,7 +489,7 @@
     "id": "downloading-osssoftware",
     "name": "OSSSoftware",
     "url": "https://osssoftware.org/",
-    "description": "FOSS Directory",
+    "description": "自由开源收录目录",
     "descriptionEn": "FOSS Directory",
     "category": "downloading",
     "tags": [
@@ -515,7 +515,7 @@
     "id": "downloading-fossies",
     "name": "Fossies",
     "url": "https://fossies.org/",
-    "description": "FOSS Directory",
+    "description": "自由开源收录目录",
     "descriptionEn": "FOSS Directory",
     "category": "downloading",
     "tags": [
@@ -541,7 +541,7 @@
     "id": "downloading-gadgeteer",
     "name": "Gadgeteer",
     "url": "https://gadgeteer.co.za/opensourcesoftware/",
-    "description": "FOSS Directory",
+    "description": "自由开源收录目录",
     "descriptionEn": "FOSS Directory",
     "category": "downloading",
     "tags": [
@@ -567,7 +567,7 @@
     "id": "downloading-fosshub",
     "name": "FossHub",
     "url": "https://www.fosshub.com/",
-    "description": "FOSS Directory",
+    "description": "自由开源收录目录",
     "descriptionEn": "FOSS Directory",
     "category": "downloading",
     "tags": [
@@ -593,7 +593,7 @@
     "id": "downloading-oss-gallery",
     "name": "OSS Gallery",
     "url": "https://oss.gallery/",
-    "description": "FOSS Directory · GitHub",
+    "description": "自由开源收录目录 · GitHub 开源",
     "descriptionEn": "FOSS Directory / GitHub",
     "category": "downloading",
     "tags": [
@@ -619,7 +619,7 @@
     "id": "downloading-opensource-builders",
     "name": "Opensource Builders",
     "url": "https://opensource.builders/",
-    "description": "FOSS Alt Directory · GitHub",
+    "description": "自由开源 Alt 收录目录 · GitHub 开源",
     "descriptionEn": "FOSS Alt Directory / GitHub",
     "category": "downloading",
     "tags": [
@@ -645,7 +645,7 @@
     "id": "downloading-openalternative",
     "name": "OpenAlternative",
     "url": "https://openalternative.co/",
-    "description": "FOSS Alt Directory",
+    "description": "自由开源 Alt 收录目录",
     "descriptionEn": "FOSS Alt Directory",
     "category": "downloading",
     "tags": [
@@ -671,7 +671,7 @@
     "id": "downloading-opensourcealternative-to",
     "name": "opensourcealternative.to",
     "url": "https://www.opensourcealternative.to/",
-    "description": "FOSS Alt Directory",
+    "description": "自由开源 Alt 收录目录",
     "descriptionEn": "FOSS Alt Directory",
     "category": "downloading",
     "tags": [
@@ -697,7 +697,7 @@
     "id": "downloading-awesome-cli-apps",
     "name": "Awesome CLI Apps",
     "url": "https://github.com/toolleeo/awesome-cli-apps-in-a-csv",
-    "description": "FOSS CLI Apps · Tools",
+    "description": "自由开源 CLI 精选应用 · 工具箱",
     "descriptionEn": "FOSS CLI Apps / Tools",
     "category": "downloading",
     "tags": [
@@ -711,7 +711,7 @@
       "Debrid"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -723,7 +723,7 @@
     "id": "downloading-foss-wiki",
     "name": "FOSS Wiki",
     "url": "https://wikipedia.org/wiki/Portal:Free_and_open-source_software/Categories",
-    "description": "FOSS Wikis",
+    "description": "自由开源知识维基",
     "descriptionEn": "FOSS Wikis",
     "category": "downloading",
     "tags": [
@@ -737,7 +737,7 @@
       "Debrid"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -749,7 +749,7 @@
     "id": "downloading-awesome-free-software",
     "name": "Awesome Free Software",
     "url": "https://github.com/Axorax/awesome-free-apps",
-    "description": "Freeware Indexes",
+    "description": "Freeware 导航索引",
     "descriptionEn": "Freeware Indexes",
     "category": "downloading",
     "tags": [
@@ -763,7 +763,7 @@
       "Debrid"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -777,7 +777,7 @@
     "id": "downloading-awesome-python-applicati",
     "name": "Awesome Python Applications",
     "url": "https://github.com/mahmoud/awesome-python-applications",
-    "description": "Python App Index",
+    "description": "Python 应用程序索引目录",
     "descriptionEn": "Python App Index",
     "category": "downloading",
     "tags": [
@@ -791,7 +791,7 @@
       "Debrid"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -803,7 +803,7 @@
     "id": "downloading-software-package-manager",
     "name": "Software Package Managers",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_package_managers",
-    "description": "Fast multi-threaded 下载器s, 网盘高速中继解析 leeches, and stream rippers.",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
     "descriptionEn": "Fast multi-threaded downloaders, debrid leeches, and stream rippers.",
     "category": "downloading",
     "tags": [
@@ -817,7 +817,7 @@
       "Debrid"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -829,7 +829,7 @@
     "id": "downloading-fluentstore",
     "name": "FluentStore",
     "url": "https://github.com/yoshiask/FluentStore",
-    "description": "Alt Microsoft Store App · Windows",
+    "description": "Alt Microsoft Store 应用程序 · Windows",
     "descriptionEn": "Alt Microsoft Store App / Windows",
     "category": "downloading",
     "tags": [
@@ -845,7 +845,7 @@
       "Debrid"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -859,7 +859,7 @@
     "id": "downloading-danstore",
     "name": "DanStore",
     "url": "https://danstore-ms.vercel.app/",
-    "description": "Microsoft Store WebUIs · Guide",
+    "description": "Microsoft Store WebUIs · 指南",
     "descriptionEn": "Microsoft Store WebUIs / Guide",
     "category": "downloading",
     "tags": [
@@ -889,7 +889,7 @@
     "id": "downloading-majorgeeks",
     "name": "MajorGeeks",
     "url": "https://www.majorgeeks.com/",
-    "description": "Freeware Downloads",
+    "description": "Freeware Downloads (高速下载与网盘解析工具)",
     "descriptionEn": "Freeware Downloads",
     "category": "downloading",
     "tags": [
@@ -915,7 +915,7 @@
     "id": "downloading-softpedia",
     "name": "Softpedia",
     "url": "https://www.softpedia.com/",
-    "description": "Freeware Directory",
+    "description": "Freeware 收录目录",
     "descriptionEn": "Freeware Directory",
     "category": "downloading",
     "tags": [
@@ -941,7 +941,7 @@
     "id": "downloading-realityripple",
     "name": "Realityripple",
     "url": "https://realityripple.com/",
-    "description": "Freeware Directory",
+    "description": "Freeware 收录目录",
     "descriptionEn": "Freeware Directory",
     "category": "downloading",
     "tags": [
@@ -967,7 +967,7 @@
     "id": "downloading-oldergeeks",
     "name": "OlderGeeks",
     "url": "https://oldergeeks.com/",
-    "description": "Freeware Directory",
+    "description": "Freeware 收录目录",
     "descriptionEn": "Freeware Directory",
     "category": "downloading",
     "tags": [
@@ -993,7 +993,7 @@
     "id": "downloading-filepuma",
     "name": "FilePuma",
     "url": "https://www.filepuma.com/",
-    "description": "Freeware Directory",
+    "description": "Freeware 收录目录",
     "descriptionEn": "Freeware Directory",
     "category": "downloading",
     "tags": [
@@ -1019,7 +1019,7 @@
     "id": "downloading-fileeagle",
     "name": "FileEagle",
     "url": "https://www.fileeagle.com/",
-    "description": "Freeware Directory",
+    "description": "Freeware 收录目录",
     "descriptionEn": "Freeware Directory",
     "category": "downloading",
     "tags": [
@@ -1045,7 +1045,7 @@
     "id": "downloading-lo4d",
     "name": "LO4D",
     "url": "https://www.lo4d.com/",
-    "description": "Freeware Directory",
+    "description": "Freeware 收录目录",
     "descriptionEn": "Freeware Directory",
     "category": "downloading",
     "tags": [
@@ -1071,7 +1071,7 @@
     "id": "downloading-softwareok",
     "name": "SoftwareOK",
     "url": "https://www.softwareok.com/",
-    "description": "Freeware Directory",
+    "description": "Freeware 收录目录",
     "descriptionEn": "Freeware Directory",
     "category": "downloading",
     "tags": [
@@ -1097,7 +1097,7 @@
     "id": "downloading-grc",
     "name": "GRC",
     "url": "https://www.grc.com/freepopular.htm",
-    "description": "Freeware Directory",
+    "description": "Freeware 收录目录",
     "descriptionEn": "Freeware Directory",
     "category": "downloading",
     "tags": [
@@ -1123,7 +1123,7 @@
     "id": "downloading-uwe-sieber",
     "name": "Uwe Sieber",
     "url": "https://www.uwe-sieber.de/english.html",
-    "description": "Freeware Directory",
+    "description": "Freeware 收录目录",
     "descriptionEn": "Freeware Directory",
     "category": "downloading",
     "tags": [
@@ -1149,7 +1149,7 @@
     "id": "downloading-software-informer",
     "name": "Software Informer",
     "url": "https://software.informer.com/",
-    "description": "Freeware Directory",
+    "description": "Freeware 收录目录",
     "descriptionEn": "Freeware Directory",
     "category": "downloading",
     "tags": [
@@ -1175,7 +1175,7 @@
     "id": "downloading-portableapps-com",
     "name": "PortableApps.com",
     "url": "https://portableapps.com/",
-    "description": "Portable Apps",
+    "description": "绿色便携版精选应用",
     "descriptionEn": "Portable Apps",
     "category": "downloading",
     "tags": [
@@ -1201,7 +1201,7 @@
     "id": "downloading-nirsoft",
     "name": "Nirsoft",
     "url": "https://www.nirsoft.net/",
-    "description": "Windows Software",
+    "description": "Windows 纯净软件",
     "descriptionEn": "Windows Software",
     "category": "downloading",
     "tags": [
@@ -1229,7 +1229,7 @@
     "id": "downloading-suckless",
     "name": "Suckless",
     "url": "https://suckless.org/",
-    "description": "Minimalist Software Ecosystem",
+    "description": "Minimalist 纯净软件 Ecosystem",
     "descriptionEn": "Minimalist Software Ecosystem",
     "category": "downloading",
     "tags": [
@@ -1255,7 +1255,7 @@
     "id": "downloading-vetusware",
     "name": "VETUSWARE",
     "url": "https://vetusware.com/",
-    "description": "Abandonware · Operating Systems · Games",
+    "description": "Abandonware · Operating 文件系统 · 游戏资源",
     "descriptionEn": "Abandonware / Operating Systems / Games",
     "category": "downloading",
     "tags": [
@@ -1281,7 +1281,7 @@
     "id": "downloading-oldversion",
     "name": "OldVersion",
     "url": "https://www.oldversion.com/",
-    "description": "Old Versions of Software",
+    "description": "Old Versions 精选纯净软件",
     "descriptionEn": "Old Versions of Software",
     "category": "downloading",
     "tags": [
@@ -1307,7 +1307,7 @@
     "id": "downloading-vintage-software-collect",
     "name": "Vintage Software Collection",
     "url": "https://rentry.co/FMHYB64#the-vintage-software-collection",
-    "description": "Retro Software",
+    "description": "Retro 纯净软件",
     "descriptionEn": "Retro Software",
     "category": "downloading",
     "tags": [
@@ -1321,7 +1321,7 @@
       "Debrid"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -1333,7 +1333,7 @@
     "id": "downloading-r-opendirectories",
     "name": "r/opendirectories",
     "url": "https://www.reddit.com/r/opendirectories/",
-    "description": "Open Directories Subreddit · Telegram ·  · u · ODScanner",
+    "description": "开源 Directories Reddit 讨论区 · Telegram 交流群 · u · ODScanner",
     "descriptionEn": "Open Directories Subreddit / Telegram /  / u / ODScanner",
     "category": "downloading",
     "tags": [
@@ -1347,7 +1347,7 @@
       "Debrid"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -1359,7 +1359,7 @@
     "id": "downloading-eyedex",
     "name": "EyeDex",
     "url": "https://www.eyedex.org/",
-    "description": "Open Directory 独立搜索引擎s",
+    "description": "开源收录目录搜索检索开发引擎",
     "descriptionEn": "Open Directory Search Engines",
     "category": "downloading",
     "tags": [
@@ -1387,7 +1387,7 @@
     "id": "downloading-emule",
     "name": "eMule",
     "url": "https://www.emule-project.com/",
-    "description": "File Sharing App · Windows · GitHub",
+    "description": "文件实时共享应用程序 · Windows · GitHub 开源",
     "descriptionEn": "File Sharing App / Windows / GitHub",
     "category": "downloading",
     "tags": [
@@ -1415,7 +1415,7 @@
     "id": "downloading-retroshare",
     "name": "⁠RetroShare",
     "url": "https://github.com/RetroShare/RetroShare/",
-    "description": "File Sharing App",
+    "description": "文件实时共享应用程序",
     "descriptionEn": "File Sharing App",
     "category": "downloading",
     "tags": [
@@ -1429,7 +1429,7 @@
       "Debrid"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -1441,7 +1441,7 @@
     "id": "downloading-mega-archive--discord",
     "name": "mega.archive (Discord)",
     "url": "https://discord.gg/R3zEZUPp3Q",
-    "description": "Megadrive Archive",
+    "description": "Megadrive 归档库",
     "descriptionEn": "Megadrive Archive",
     "category": "downloading",
     "tags": [
@@ -1467,7 +1467,7 @@
     "id": "downloading-mamont",
     "name": "Mamont",
     "url": "https://www.mmnt.ru/int/",
-    "description": "FTP Search",
+    "description": "FTP 搜索检索",
     "descriptionEn": "FTP Search",
     "category": "downloading",
     "tags": [
@@ -1493,7 +1493,7 @@
     "id": "downloading-sala-de-espera",
     "name": "Sala De Espera",
     "url": "https://matrix.to/#/!qbOtnJEDGsPuWZBHLX:matrix.org?via=matrix.org",
-    "description": "Drive Sharing Community",
+    "description": "Drive 实时共享用户社区",
     "descriptionEn": "Drive Sharing Community",
     "category": "downloading",
     "tags": [
@@ -1519,7 +1519,7 @@
     "id": "downloading-open-directory-downloade",
     "name": "Open Directory Downloader",
     "url": "https://github.com/KoalaBear84/OpenDirectoryDownloader",
-    "description": "Open Directory Indexer",
+    "description": "开源收录目录 Indexer",
     "descriptionEn": "Open Directory Indexer",
     "category": "downloading",
     "tags": [
@@ -1533,7 +1533,7 @@
       "Debrid"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -1545,7 +1545,7 @@
     "id": "downloading-demozoo",
     "name": "DemoZoo",
     "url": "https://demozoo.org/",
-    "description": "Demoscene Archives",
+    "description": "Demoscene 数字归档",
     "descriptionEn": "Demoscene Archives",
     "category": "downloading",
     "tags": [
@@ -1571,7 +1571,7 @@
     "id": "downloading-cd-textfiles",
     "name": "CD.TextFiles",
     "url": "http://cd.textfiles.com/",
-    "description": "CD Text File Archive",
+    "description": "CD Text 文件归档库",
     "descriptionEn": "CD Text File Archive",
     "category": "downloading",
     "tags": [
@@ -1597,7 +1597,7 @@
     "id": "downloading-defacto2",
     "name": "Defacto2",
     "url": "https://defacto2.net/",
-    "description": "Scene · Sub-Scene Database",
+    "description": "Scene · Sub-Scene 资料库",
     "descriptionEn": "Scene / Sub-Scene Database",
     "category": "downloading",
     "tags": [
@@ -1623,7 +1623,7 @@
     "id": "downloading-internet-archive",
     "name": "Internet Archive",
     "url": "https://archive.org/",
-    "description": "Video · Audio · Books · Magazines · Newspapers · ROMs · Tools",
+    "description": "影视视频 · 无损音频 · 电子书图书 · 期刊杂志 · 新闻报纸 · 游戏 ROM 镜像 · 工具箱",
     "descriptionEn": "Video / Audio / Books / Magazines / Newspapers / ROMs / Tools",
     "category": "downloading",
     "tags": [
@@ -1651,7 +1651,7 @@
     "id": "downloading-r-datahoarder",
     "name": "r/DataHoarder",
     "url": "https://reddit.com/r/DataHoarder",
-    "description": "Data Hoarding Communities",
+    "description": "Data Hoarding Communities (高速下载与网盘解析工具)",
     "descriptionEn": "Data Hoarding Communities",
     "category": "downloading",
     "tags": [
@@ -1679,7 +1679,7 @@
     "id": "downloading-maxrelease",
     "name": "MaxRelease",
     "url": "https://max-rls.com/",
-    "description": "Video · Audio · Magazines",
+    "description": "影视视频 · 无损音频 · 期刊杂志",
     "descriptionEn": "Video / Audio / Magazines",
     "category": "downloading",
     "tags": [
@@ -1705,7 +1705,7 @@
     "id": "downloading-scnlog",
     "name": "SCNLOG",
     "url": "https://scnlog.me/",
-    "description": "Video · Audio · ROMs · Books",
+    "description": "影视视频 · 无损音频 · 游戏 ROM 镜像 · 电子书图书",
     "descriptionEn": "Video / Audio / ROMs / Books",
     "category": "downloading",
     "tags": [
@@ -1731,7 +1731,7 @@
     "id": "downloading-scenesource",
     "name": "SceneSource",
     "url": "https://www.scnsrc.me/",
-    "description": "Video · Audio · ROMs · Books",
+    "description": "影视视频 · 无损音频 · 游戏 ROM 镜像 · 电子书图书",
     "descriptionEn": "Video / Audio / ROMs / Books",
     "category": "downloading",
     "tags": [
@@ -1757,7 +1757,7 @@
     "id": "downloading-worldsrc",
     "name": "WorldSRC",
     "url": "https://www.worldsrc.net/",
-    "description": "Video · Audio",
+    "description": "影视视频 · 无损音频",
     "descriptionEn": "Video / Audio",
     "category": "downloading",
     "tags": [
@@ -1783,7 +1783,7 @@
     "id": "downloading-adithd",
     "name": "AditHD",
     "url": "https://www.adit-hd.com/",
-    "description": "Video · Audio · Books",
+    "description": "影视视频 · 无损音频 · 电子书图书",
     "descriptionEn": "Video / Audio / Books",
     "category": "downloading",
     "tags": [
@@ -1809,7 +1809,7 @@
     "id": "downloading-wjungle",
     "name": "wJungle",
     "url": "https://wjungle.net/",
-    "description": "Audio · Books · NSFW · Requires Sign-Up",
+    "description": "无损音频 · 电子书图书 · NSFW · 需注册使用",
     "descriptionEn": "Audio / Books / NSFW / Requires Sign-Up",
     "category": "downloading",
     "tags": [
@@ -1835,7 +1835,7 @@
     "id": "downloading-novanon",
     "name": "Novanon",
     "url": "https://novanon.net/",
-    "description": "Audio · Magazines · Comics · Books · Courses",
+    "description": "无损音频 · 期刊杂志 · 欧美漫画 · 电子书图书 · 名校公开课",
     "descriptionEn": "Audio / Magazines / Comics / Books / Courses",
     "category": "downloading",
     "tags": [
@@ -1861,7 +1861,7 @@
     "id": "downloading-releasebb",
     "name": "ReleaseBB",
     "url": "https://rlsbb.ru/",
-    "description": "Audio · Books · Magazines · Track Shows · PreDB",
+    "description": "无损音频 · 电子书图书 · 期刊杂志 · Track Shows · PreDB",
     "descriptionEn": "Audio / Books / Magazines / Track Shows / PreDB",
     "category": "downloading",
     "tags": [
@@ -1887,7 +1887,7 @@
     "id": "downloading-psycho-downloads",
     "name": "Psycho downloads",
     "url": "https://psychodownloads.com/",
-    "description": "Audio · Books · Magazines",
+    "description": "无损音频 · 电子书图书 · 期刊杂志",
     "descriptionEn": "Audio / Books / Magazines",
     "category": "downloading",
     "tags": [
@@ -1913,7 +1913,7 @@
     "id": "downloading-merlin-warez",
     "name": "Merlin Warez",
     "url": "https://merlinwz.com/",
-    "description": "Audio · Books · Audiobooks · Comics · Magazines",
+    "description": "无损音频 · 电子书图书 · 有声书 · 欧美漫画 · 期刊杂志",
     "descriptionEn": "Audio / Books / Audiobooks / Comics / Magazines",
     "category": "downloading",
     "tags": [
@@ -1939,7 +1939,7 @@
     "id": "downloading-1ddl",
     "name": "1DDL",
     "url": "https://1ddl.org/",
-    "description": "Audio · Books · Comics · Magazines",
+    "description": "无损音频 · 电子书图书 · 欧美漫画 · 期刊杂志",
     "descriptionEn": "Audio / Books / Comics / Magazines",
     "category": "downloading",
     "tags": [
@@ -1965,7 +1965,7 @@
     "id": "downloading-warezload",
     "name": "WarezLoad",
     "url": "https://warezload.net/index.php",
-    "description": "Audio · Books",
+    "description": "无损音频 · 电子书图书",
     "descriptionEn": "Audio / Books",
     "category": "downloading",
     "tags": [
@@ -1991,7 +1991,7 @@
     "id": "downloading-katz-ddl",
     "name": "Katz DDL",
     "url": "https://katzddl.net/",
-    "description": "Audio · Books · NSFW",
+    "description": "无损音频 · 电子书图书 · NSFW",
     "descriptionEn": "Audio / Books / NSFW",
     "category": "downloading",
     "tags": [
@@ -2017,7 +2017,7 @@
     "id": "downloading-tehparadox",
     "name": "TehParadox",
     "url": "https://www.tehparadox.net/",
-    "description": "Audio · Books · Magazines · ROMs",
+    "description": "无损音频 · 电子书图书 · 期刊杂志 · 游戏 ROM 镜像",
     "descriptionEn": "Audio / Books / Magazines / ROMs",
     "category": "downloading",
     "tags": [
@@ -2043,7 +2043,7 @@
     "id": "downloading-downturk",
     "name": "downTURK",
     "url": "https://www.downturk.net/",
-    "description": "Audio · Books",
+    "description": "无损音频 · 电子书图书",
     "descriptionEn": "Audio / Books",
     "category": "downloading",
     "tags": [
@@ -2069,7 +2069,7 @@
     "id": "downloading-softarchive",
     "name": "SoftArchive",
     "url": "https://softarchive.download/",
-    "description": "Audio · Books · Comics · Newspapers · Magazines · Status · Note",
+    "description": "无损音频 · 电子书图书 · 欧美漫画 · 新闻报纸 · 期刊杂志 · 服务运行状态 · 附注意事项",
     "descriptionEn": "Audio / Books / Comics / Newspapers / Magazines / Status / Note",
     "category": "downloading",
     "tags": [
@@ -2095,7 +2095,7 @@
     "id": "downloading-releasehive",
     "name": "⁠ReleaseHive",
     "url": "https://releasehive.com/",
-    "description": "Video · Audio · Books · Requires 网盘高速中继解析",
+    "description": "影视视频 · 无损音频 · 电子书图书 · 需要 Debrid",
     "descriptionEn": "Video / Audio / Books / Requires Debrid",
     "category": "downloading",
     "tags": [
@@ -2121,7 +2121,7 @@
     "id": "downloading-download-cse",
     "name": "Download CSE",
     "url": "https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z",
-    "description": "Multi-Site Search",
+    "description": "跨站多源搜索检索",
     "descriptionEn": "Multi-Site Search",
     "category": "downloading",
     "tags": [
@@ -2149,7 +2149,7 @@
     "id": "downloading-4shared",
     "name": "4Shared",
     "url": "https://www.4shared.com/",
-    "description": "Fast multi-threaded 下载器s, 网盘高速中继解析 leeches, and stream rippers.",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
     "descriptionEn": "Fast multi-threaded downloaders, debrid leeches, and stream rippers.",
     "category": "downloading",
     "tags": [
@@ -2177,7 +2177,7 @@
     "id": "downloading-file-host-search",
     "name": "File Host Search",
     "url": "https://cse.google.com/cse?cx=90a35b59cee2a42e1",
-    "description": "Fast multi-threaded 下载器s, 网盘高速中继解析 leeches, and stream rippers.",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
     "descriptionEn": "Fast multi-threaded downloaders, debrid leeches, and stream rippers.",
     "category": "downloading",
     "tags": [
@@ -2203,7 +2203,7 @@
     "id": "downloading-linktury",
     "name": "Linktury",
     "url": "https://www.ddlspot.com/",
-    "description": "Fast multi-threaded 下载器s, 网盘高速中继解析 leeches, and stream rippers.",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
     "descriptionEn": "Fast multi-threaded downloaders, debrid leeches, and stream rippers.",
     "category": "downloading",
     "tags": [
@@ -2229,7 +2229,7 @@
     "id": "downloading-mediafiretrend",
     "name": "MediafireTrend",
     "url": "https://mediafiretrend.com/",
-    "description": "Mediafire Search",
+    "description": "Mediafire 搜索检索",
     "descriptionEn": "Mediafire Search",
     "category": "downloading",
     "tags": [
@@ -2255,7 +2255,7 @@
     "id": "downloading-warezomen",
     "name": "WarezOmen",
     "url": "https://warezomen.com/",
-    "description": "Indexer · 独立搜索引擎",
+    "description": "Indexer · 搜索检索开发引擎",
     "descriptionEn": "Indexer / Search Engine",
     "category": "downloading",
     "tags": [
@@ -2281,7 +2281,7 @@
     "id": "downloading-xdcc-eu",
     "name": "XDCC.EU",
     "url": "https://www.xdcc.eu/",
-    "description": "XDCC · 独立搜索引擎",
+    "description": "XDCC · 搜索检索开发引擎",
     "descriptionEn": "XDCC / Search Engine",
     "category": "downloading",
     "tags": [
@@ -2307,7 +2307,7 @@
     "id": "downloading-usenet-uploaders",
     "name": "Usenet-Uploaders",
     "url": "https://github.com/animetosho/Nyuu/wiki/Usenet-Uploaders",
-    "description": "Fast multi-threaded 下载器s, 网盘高速中继解析 leeches, and stream rippers.",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
     "descriptionEn": "Fast multi-threaded downloaders, debrid leeches, and stream rippers.",
     "category": "downloading",
     "tags": [
@@ -2321,7 +2321,7 @@
       "Debrid"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2333,7 +2333,7 @@
     "id": "downloading-usenet-guide---automatio",
     "name": "Usenet Guide / Automation Setup",
     "url": "https://docs.google.com/document/d/1TwUrRj982WlWUhrxvMadq6gdH0mPW0CGtHsTOFWprCo/mobilebasic",
-    "description": "Fast multi-threaded 下载器s, 网盘高速中继解析 leeches, and stream rippers.",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
     "descriptionEn": "Fast multi-threaded downloaders, debrid leeches, and stream rippers.",
     "category": "downloading",
     "tags": [
@@ -2363,7 +2363,7 @@
     "id": "downloading-r-usenet",
     "name": "r/usenet",
     "url": "https://reddit.com/r/usenet",
-    "description": "Fast multi-threaded 下载器s, 网盘高速中继解析 leeches, and stream rippers.",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
     "descriptionEn": "Fast multi-threaded downloaders, debrid leeches, and stream rippers.",
     "category": "downloading",
     "tags": [
@@ -2403,7 +2403,7 @@
       "Debrid"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2415,7 +2415,7 @@
     "id": "downloading-r-usenetinvites",
     "name": "r/UsenetInvites",
     "url": "https://reddit.com/r/UsenetInvites",
-    "description": "Fast multi-threaded 下载器s, 网盘高速中继解析 leeches, and stream rippers.",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
     "descriptionEn": "Fast multi-threaded downloaders, debrid leeches, and stream rippers.",
     "category": "downloading",
     "tags": [
@@ -2441,7 +2441,7 @@
     "id": "downloading-nzbhydra2",
     "name": "NZBHydra2",
     "url": "https://github.com/theotherp/nzbhydra2",
-    "description": "NZB Meta search",
+    "description": "NZB Meta 搜索检索",
     "descriptionEn": "NZB Meta search",
     "category": "downloading",
     "tags": [
@@ -2455,7 +2455,7 @@
       "Debrid"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2467,7 +2467,7 @@
     "id": "downloading-treasure-maps",
     "name": "Treasure Maps",
     "url": "https://treasure-maps.com/",
-    "description": "Multinational Indexer",
+    "description": "Multinational Indexer (高速下载与网盘解析工具)",
     "descriptionEn": "Multinational Indexer",
     "category": "downloading",
     "tags": [
@@ -2493,7 +2493,7 @@
     "id": "downloading-nzbplanet",
     "name": "NzbPlanet",
     "url": "https://nzbplanet.net/",
-    "description": "Fast multi-threaded 下载器s, 网盘高速中继解析 leeches, and stream rippers.",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
     "descriptionEn": "Fast multi-threaded downloaders, debrid leeches, and stream rippers.",
     "category": "downloading",
     "tags": [
@@ -2519,7 +2519,7 @@
     "id": "downloading-orion",
     "name": "Orion",
     "url": "https://orionoid.com/",
-    "description": "Fast multi-threaded 下载器s, 网盘高速中继解析 leeches, and stream rippers.",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
     "descriptionEn": "Fast multi-threaded downloaders, debrid leeches, and stream rippers.",
     "category": "downloading",
     "tags": [
@@ -2545,7 +2545,7 @@
     "id": "downloading-binsearch",
     "name": "binsearch",
     "url": "https://binsearch.info/",
-    "description": "Fast multi-threaded 下载器s, 网盘高速中继解析 leeches, and stream rippers.",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
     "descriptionEn": "Fast multi-threaded downloaders, debrid leeches, and stream rippers.",
     "category": "downloading",
     "tags": [
@@ -2571,7 +2571,7 @@
     "id": "downloading-nzb-king",
     "name": "NZB King",
     "url": "https://nzbking.com/",
-    "description": "Fast multi-threaded 下载器s, 网盘高速中继解析 leeches, and stream rippers.",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
     "descriptionEn": "Fast multi-threaded downloaders, debrid leeches, and stream rippers.",
     "category": "downloading",
     "tags": [
@@ -2597,7 +2597,7 @@
     "id": "downloading-nzb-index",
     "name": "NZB Index",
     "url": "https://www.nzbindex.com/",
-    "description": "Fast multi-threaded 下载器s, 网盘高速中继解析 leeches, and stream rippers.",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
     "descriptionEn": "Fast multi-threaded downloaders, debrid leeches, and stream rippers.",
     "category": "downloading",
     "tags": [
@@ -2623,7 +2623,7 @@
     "id": "downloading-newznab",
     "name": "Newznab",
     "url": "https://www.newznab.com/",
-    "description": "Fast multi-threaded 下载器s, 网盘高速中继解析 leeches, and stream rippers.",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
     "descriptionEn": "Fast multi-threaded downloaders, debrid leeches, and stream rippers.",
     "category": "downloading",
     "tags": [
@@ -2649,7 +2649,7 @@
     "id": "downloading-nzbstars",
     "name": "NZBStars",
     "url": "https://nzbstars.com/",
-    "description": "Fast multi-threaded 下载器s, 网盘高速中继解析 leeches, and stream rippers.",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
     "descriptionEn": "Fast multi-threaded downloaders, debrid leeches, and stream rippers.",
     "category": "downloading",
     "tags": [
@@ -2675,7 +2675,7 @@
     "id": "downloading-usenet-crawler",
     "name": "usenet-crawler",
     "url": "https://www.usenet-crawler.com/",
-    "description": "Fast multi-threaded 下载器s, 网盘高速中继解析 leeches, and stream rippers.",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
     "descriptionEn": "Fast multi-threaded downloaders, debrid leeches, and stream rippers.",
     "category": "downloading",
     "tags": [
@@ -2701,7 +2701,7 @@
     "id": "downloading-gingadaddy",
     "name": "GingaDaddy",
     "url": "https://www.gingadaddy.com/",
-    "description": "Fast multi-threaded 下载器s, 网盘高速中继解析 leeches, and stream rippers.",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
     "descriptionEn": "Fast multi-threaded downloaders, debrid leeches, and stream rippers.",
     "category": "downloading",
     "tags": [
@@ -2727,7 +2727,7 @@
     "id": "downloading-nzbfinder",
     "name": "NZBFinder",
     "url": "https://nzbfinder.ws/",
-    "description": "Fast multi-threaded 下载器s, 网盘高速中继解析 leeches, and stream rippers.",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
     "descriptionEn": "Fast multi-threaded downloaders, debrid leeches, and stream rippers.",
     "category": "downloading",
     "tags": [
@@ -2753,7 +2753,7 @@
     "id": "downloading-aninzb",
     "name": "⁠aninzb",
     "url": "https://aninzb.moe/",
-    "description": "Anime NZB Indexer",
+    "description": "动漫番剧 NZB Indexer",
     "descriptionEn": "Anime NZB Indexer",
     "category": "downloading",
     "tags": [
@@ -2779,7 +2779,7 @@
     "id": "downloading-olduse",
     "name": "OldUSe",
     "url": "https://article.olduse.net/",
-    "description": "Search Usenet Articles",
+    "description": "搜索检索 Usenet Articles",
     "descriptionEn": "Search Usenet Articles",
     "category": "downloading",
     "tags": [
@@ -2805,7 +2805,7 @@
     "id": "downloading-althub",
     "name": "altHUB",
     "url": "https://althub.co.za",
-    "description": "Unlimited Free Trials",
+    "description": "无使用额度限制免费 Trials",
     "descriptionEn": "Unlimited Free Trials",
     "category": "downloading",
     "tags": [
@@ -2831,7 +2831,7 @@
     "id": "downloading-spotweb",
     "name": "Spotweb",
     "url": "https://github.com/spotweb/spotweb",
-    "description": "Spotnet Client",
+    "description": "Spotnet 客户端",
     "descriptionEn": "Spotnet Client",
     "category": "downloading",
     "tags": [
@@ -2845,7 +2845,7 @@
       "Debrid"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2859,7 +2859,7 @@
     "id": "downloading-r-usenet-providers",
     "name": "r/usenet Providers",
     "url": "https://www.reddit.com/r/usenet/wiki/providers",
-    "description": "Provider Lists",
+    "description": "Provider Lists (高速下载与网盘解析工具)",
     "descriptionEn": "Provider Lists",
     "category": "downloading",
     "tags": [
@@ -2873,7 +2873,7 @@
       "Debrid"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2885,7 +2885,7 @@
     "id": "downloading-r-usenet-deals",
     "name": "r/usenet Deals",
     "url": "https://www.reddit.com/r/usenet/wiki/providerdeals",
-    "description": "Provider Deals",
+    "description": "Provider Deals (高速下载与网盘解析工具)",
     "descriptionEn": "Provider Deals",
     "category": "downloading",
     "tags": [
@@ -2899,7 +2899,7 @@
       "Debrid"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2911,7 +2911,7 @@
     "id": "downloading-usenet-provider-deals",
     "name": "Usenet Provider Deals",
     "url": "https://usenet.rexum.space/deals",
-    "description": "Fast multi-threaded 下载器s, 网盘高速中继解析 leeches, and stream rippers.",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
     "descriptionEn": "Fast multi-threaded downloaders, debrid leeches, and stream rippers.",
     "category": "downloading",
     "tags": [
@@ -2937,7 +2937,7 @@
     "id": "downloading-usenet-providers-map",
     "name": "Usenet Providers Map",
     "url": "https://usenet.rexum.space/tree",
-    "description": "Fast multi-threaded 下载器s, 网盘高速中继解析 leeches, and stream rippers.",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
     "descriptionEn": "Fast multi-threaded downloaders, debrid leeches, and stream rippers.",
     "category": "downloading",
     "tags": [
@@ -2963,7 +2963,7 @@
     "id": "downloading-sabnzbd",
     "name": "sabnzbd",
     "url": "https://sabnzbd.org/",
-    "description": "Fast multi-threaded 下载器s, 网盘高速中继解析 leeches, and stream rippers.",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
     "descriptionEn": "Fast multi-threaded downloaders, debrid leeches, and stream rippers.",
     "category": "downloading",
     "tags": [
@@ -2994,7 +2994,7 @@
     "id": "downloading-nzbunity",
     "name": "NZBUnity",
     "url": "https://github.com/tumblfeed/nzbunity",
-    "description": "Send NZBs to Client · Firefox · Chrome",
+    "description": "Send NZBs 至客户端 · Firefox · Chrome",
     "descriptionEn": "Send NZBs to Client / Firefox / Chrome",
     "category": "downloading",
     "tags": [
@@ -3010,7 +3010,7 @@
       "Debrid"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -3024,7 +3024,7 @@
     "id": "downloading-nzbget",
     "name": "NZBGet",
     "url": "https://nzbget.com/",
-    "description": "Fast multi-threaded 下载器s, 网盘高速中继解析 leeches, and stream rippers.",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
     "descriptionEn": "Fast multi-threaded downloaders, debrid leeches, and stream rippers.",
     "category": "downloading",
     "tags": [
@@ -3050,7 +3050,7 @@
     "id": "downloading-usenet-file-hashes",
     "name": "Usenet File Hashes",
     "url": "https://gist.github.com/4chenz/de3a3490aff19fd72e4fdd9b7dafc8f4",
-    "description": "Link File Hashes",
+    "description": "Link 文件 Hashes",
     "descriptionEn": "Link File Hashes",
     "category": "downloading",
     "tags": [
@@ -3064,7 +3064,7 @@
       "Debrid"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3076,7 +3076,7 @@
     "id": "downloading-debrid-services-comparis",
     "name": "Debrid Services Comparison",
     "url": "https://debridcompare.pages.dev/",
-    "description": "Fast multi-threaded 下载器s, 网盘高速中继解析 leeches, and stream rippers.",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
     "descriptionEn": "Fast multi-threaded downloaders, debrid leeches, and stream rippers.",
     "category": "downloading",
     "tags": [
@@ -3102,7 +3102,7 @@
     "id": "downloading-torbox",
     "name": "TorBox",
     "url": "https://torbox.app/",
-    "description": "Freemium · 10GB + 10 Monthly DDL Free · Requires Sign-Up · Hosters · Unofficial Mobile Client, 2 · Subreddit · Discord · GitHub",
+    "description": "Freemium · 10GB + 10 每月 DDL 免费 · 需注册使用 · Hosters · Unofficial 移动端客户端 · 2 · Reddit 讨论区 · Discord 社区 · GitHub 开源",
     "descriptionEn": "Freemium / 10GB + 10 Monthly DDL Free / Requires Sign-Up / Hosters / Unofficial Mobile Client, 2 / Subreddit / Discord / GitHub",
     "category": "downloading",
     "tags": [
@@ -3130,7 +3130,7 @@
     "id": "downloading-real-debrid",
     "name": "Real-Debrid",
     "url": "https://real-debrid.com/",
-    "description": "Paid · Android Client · BT · 种子客户端 · DDL Client",
+    "description": "Paid · Android 客户端 · Torrent 客户端 · DDL 客户端",
     "descriptionEn": "Paid / Android Client / Torrent Client / DDL Client",
     "category": "downloading",
     "tags": [
@@ -3158,7 +3158,7 @@
     "id": "downloading-get4all",
     "name": "⁠Get4All",
     "url": "https://get4all.org/",
-    "description": "Premium Link Bypass · Use UBO + Filter & Redirect Bypassers",
+    "description": "Premium Link Bypass · Use UBO + Filter & Redirect Bypassers (高速下载与网盘解析工具)",
     "descriptionEn": "Premium Link Bypass / Use UBO + Filter & Redirect Bypassers",
     "category": "downloading",
     "tags": [
@@ -3184,7 +3184,7 @@
     "id": "downloading-iteraplay",
     "name": "iTeraPlay",
     "url": "https://iteraplay.com/",
-    "description": "⁠TeraBox 视频下载提取器s",
+    "description": "⁠TeraBox 影视视频 Downloaders",
     "descriptionEn": "⁠TeraBox Video Downloaders",
     "category": "downloading",
     "tags": [
@@ -3210,7 +3210,7 @@
     "id": "downloading-multi-och-helper",
     "name": "Multi-OCH Helper",
     "url": "https://greasyfork.org/en/scripts/13884-multi-och-helper",
-    "description": "Quickly Send DDL Links to Premiumize & NoPremium",
+    "description": "Quickly Send DDL Links 至 Premiumize & NoPremium",
     "descriptionEn": "Quickly Send DDL Links to Premiumize & NoPremium",
     "category": "downloading",
     "tags": [
@@ -3236,7 +3236,7 @@
     "id": "downloading-debrid-media-manager",
     "name": "Debrid Media Manager",
     "url": "https://debridmediamanager.com/",
-    "description": "⁠网盘高速中继解析 Managers · Cloud Managers",
+    "description": "⁠Debrid 管理工具箱 · Cloud 管理工具箱",
     "descriptionEn": "⁠Debrid Managers / Cloud Managers",
     "category": "downloading",
     "tags": [
@@ -3262,7 +3262,7 @@
     "id": "downloading-pixeldrain-limit-bypass",
     "name": "Pixeldrain Limit Bypass",
     "url": "https://pixeldrain-bypass.gamedrive.to/",
-    "description": "Fast multi-threaded 下载器s, 网盘高速中继解析 leeches, and stream rippers.",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
     "descriptionEn": "Fast multi-threaded downloaders, debrid leeches, and stream rippers.",
     "category": "downloading",
     "tags": [
@@ -3288,7 +3288,7 @@
     "id": "downloading-awesome-irc",
     "name": "Awesome IRC",
     "url": "https://github.com/davisonio/awesome-irc",
-    "description": "IRC Resources",
+    "description": "IRC 精选资源",
     "descriptionEn": "IRC Resources",
     "category": "downloading",
     "tags": [
@@ -3302,7 +3302,7 @@
       "Debrid"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3314,7 +3314,7 @@
     "id": "downloading-netsplit",
     "name": "NetSplit",
     "url": "https://netsplit.de/",
-    "description": "IRC Channel Index",
+    "description": "IRC Channel 索引目录",
     "descriptionEn": "IRC Channel Index",
     "category": "downloading",
     "tags": [
@@ -3340,7 +3340,7 @@
     "id": "downloading-irc-client-comparisons",
     "name": "IRC Client Comparisons",
     "url": "https://wikipedia.org/wiki/Comparison_of_IRC_clients",
-    "description": "Fast multi-threaded 下载器s, 网盘高速中继解析 leeches, and stream rippers.",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
     "descriptionEn": "Fast multi-threaded downloaders, debrid leeches, and stream rippers.",
     "category": "downloading",
     "tags": [
@@ -3354,7 +3354,7 @@
       "Debrid"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3366,7 +3366,7 @@
     "id": "downloading-android-irc-clients",
     "name": "Android IRC Clients",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_internet",
-    "description": "Fast multi-threaded 下载器s, 网盘高速中继解析 leeches, and stream rippers.",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
     "descriptionEn": "Fast multi-threaded downloaders, debrid leeches, and stream rippers.",
     "category": "downloading",
     "tags": [
@@ -3380,7 +3380,7 @@
       "Debrid"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3394,7 +3394,7 @@
     "id": "downloading-irc-guide",
     "name": "IRC Guide",
     "url": "https://rentry.org/ircfmhyguide",
-    "description": "IRC Guides",
+    "description": "IRC 教程与指南",
     "descriptionEn": "IRC Guides",
     "category": "downloading",
     "tags": [
@@ -3408,7 +3408,7 @@
       "Debrid"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3420,7 +3420,7 @@
     "id": "downloading-adiirc",
     "name": "AdiIRC",
     "url": "https://adiirc.com/",
-    "description": "IRC Clients · Windows, macOS, Linux",
+    "description": "IRC 跨平台客户端 · Windows · macOS · Linux",
     "descriptionEn": "IRC Clients / Windows, macOS, Linux",
     "category": "downloading",
     "tags": [
@@ -3449,7 +3449,7 @@
     "id": "downloading-konversation",
     "name": "Konversation",
     "url": "https://konversation.kde.org/",
-    "description": "IRC Client · Windows, Linux · GitHub",
+    "description": "IRC 客户端 · Windows · Linux · GitHub 开源",
     "descriptionEn": "IRC Client / Windows, Linux / GitHub",
     "category": "downloading",
     "tags": [
@@ -3477,7 +3477,7 @@
     "id": "downloading-convos",
     "name": "Convos",
     "url": "https://convos.chat/",
-    "description": "支持自建部署 IRC Client · Web",
+    "description": "Self-hosted IRC 客户端 · 网页版",
     "descriptionEn": "Self-hosted IRC Client / Web",
     "category": "downloading",
     "tags": [
@@ -3506,7 +3506,7 @@
     "id": "downloading-libera",
     "name": "Libera",
     "url": "https://libera.chat/",
-    "description": "IRC Networks",
+    "description": "IRC 网络",
     "descriptionEn": "IRC Networks",
     "category": "downloading",
     "tags": [
@@ -3532,7 +3532,7 @@
     "id": "downloading-unrealircd",
     "name": "⁠UnrealIRCd",
     "url": "https://www.unrealircd.org/",
-    "description": "IRC Server",
+    "description": "IRC 自建服务器",
     "descriptionEn": "IRC Server",
     "category": "downloading",
     "tags": [

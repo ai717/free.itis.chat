@@ -3,7 +3,7 @@
     "id": "video-tools-digital-video-intro",
     "name": "Digital Video Intro",
     "url": "https://github.com/leandromoreira/digital_video_introduction",
-    "description": "Digital Video Guides · Resources",
+    "description": "数字视频编解码全指南与资源",
     "descriptionEn": "Digital Video Guides / Resources",
     "category": "video-tools",
     "tags": [
@@ -17,7 +17,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -29,7 +29,7 @@
     "id": "video-tools-youtube-tools---resource",
     "name": "YouTube Tools / Resources",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25BA_youtube_tools",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -43,7 +43,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -55,7 +55,7 @@
     "id": "video-tools-ai-video-generators",
     "name": "AI Video Generators",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_video_generation",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -69,7 +69,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -81,7 +81,7 @@
     "id": "video-tools-broadcast-box",
     "name": "⁠Broadcast Box",
     "url": "https://b.siobud.com/",
-    "description": "Web-Based Screen Sharing",
+    "description": "免安装网页版低延迟屏幕共享",
     "descriptionEn": "Web-Based Screen Sharing",
     "category": "video-tools",
     "tags": [
@@ -109,7 +109,7 @@
     "id": "video-tools-uxplay-windows",
     "name": "⁠uxplay-windows",
     "url": "https://github.com/leapbtw/uxplay-windows",
-    "description": "AirPlay Receiver · Windows",
+    "description": "AirPlay Receiver · Windows (视频剪辑与格式转码工具)",
     "descriptionEn": "AirPlay Receiver / Windows",
     "category": "video-tools",
     "tags": [
@@ -123,7 +123,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -137,7 +137,7 @@
     "id": "video-tools-deep-live-cam",
     "name": "Deep-Live-Cam",
     "url": "https://github.com/hacksider/Deep-Live-Cam",
-    "description": "Video Face Swap · Windows, macOS, Linux",
+    "description": "影视视频 Face Swap · Windows · macOS · Linux",
     "descriptionEn": "Video Face Swap / Windows, macOS, Linux",
     "category": "video-tools",
     "tags": [
@@ -151,7 +151,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -166,7 +166,7 @@
     "id": "video-tools-rope",
     "name": "Rope",
     "url": "https://github.com/Hillobar/Rope",
-    "description": "Video Face Swap Tools · Windows · Discord",
+    "description": "影视视频 Face Swap 工具箱 · Windows · Discord 社区",
     "descriptionEn": "Video Face Swap Tools / Windows / Discord",
     "category": "video-tools",
     "tags": [
@@ -180,7 +180,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -194,7 +194,7 @@
     "id": "video-tools-videohelp-forum",
     "name": "VideoHelp Forum",
     "url": "https://forum.videohelp.com/",
-    "description": "All Things Media Discussion · Web",
+    "description": "全部 Things Media Discussion · 网页版",
     "descriptionEn": "All Things Media Discussion / Web",
     "category": "video-tools",
     "tags": [
@@ -222,7 +222,7 @@
     "id": "video-tools-icat",
     "name": "ICAT",
     "url": "https://www.nvidia.com/en-us/geforce/technologies/icat/",
-    "description": "Video Quality Comparison & Analysis Tools · Windows",
+    "description": "影视视频 Quality Comparison & Analysis 工具箱 · Windows",
     "descriptionEn": "Video Quality Comparison & Analysis Tools / Windows",
     "category": "video-tools",
     "tags": [
@@ -250,7 +250,7 @@
     "id": "video-tools-videoduplicatefinder",
     "name": "videoduplicatefinder",
     "url": "https://github.com/0x90d/videoduplicatefinder",
-    "description": "Duplicate Video Finder · Windows, macOS, Linux, Docker",
+    "description": "重复影视视频查找器 · Windows · macOS · Linux · Docker",
     "descriptionEn": "Duplicate Video Finder / Windows, macOS, Linux, Docker",
     "category": "video-tools",
     "tags": [
@@ -264,7 +264,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -280,7 +280,7 @@
     "id": "video-tools-untrunc",
     "name": "untrunc",
     "url": "https://github.com/anthwlock/untrunc",
-    "description": "Recover Broken MP4 Files · Docker",
+    "description": "Recover Broken MP4 文件 · Docker",
     "descriptionEn": "Recover Broken MP4 Files / Docker",
     "category": "video-tools",
     "tags": [
@@ -294,7 +294,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -308,7 +308,7 @@
     "id": "video-tools-imgburn",
     "name": "ImgBurn",
     "url": "https://www.majorgeeks.com/files/details/imgburn.html",
-    "description": "CD · DVD Burning · Windows",
+    "description": "CD · DVD Burning · Windows (视频剪辑与格式转码工具)",
     "descriptionEn": "CD / DVD Burning / Windows",
     "category": "video-tools",
     "tags": [
@@ -336,7 +336,7 @@
     "id": "video-tools-dvdstyler",
     "name": "DVDStyler",
     "url": "https://sourceforge.net/projects/dvdstyler/",
-    "description": "CD · DVD Burning · Windows, macOS, Linux",
+    "description": "CD · DVD Burning · Windows · macOS · Linux (视频剪辑与格式转码工具)",
     "descriptionEn": "CD / DVD Burning / Windows, macOS, Linux",
     "category": "video-tools",
     "tags": [
@@ -365,7 +365,7 @@
     "id": "video-tools-vidcoder",
     "name": "VidCoder",
     "url": "https://vidcoder.net/",
-    "description": "DVD · Blu-ray Ripping · Windows",
+    "description": "DVD · Blu-ray Ripping · Windows (视频剪辑与格式转码工具)",
     "descriptionEn": "DVD / Blu-ray Ripping / Windows",
     "category": "video-tools",
     "tags": [
@@ -393,7 +393,7 @@
     "id": "video-tools-makemkv",
     "name": "MakeMKV",
     "url": "https://forum.makemkv.com/forum/viewtopic.php?f=5&t=1053",
-    "description": "Create MKV from Blu-ray · DVD · Windows, macOS",
+    "description": "Create MKV from Blu-ray · DVD · Windows · macOS (视频剪辑与格式转码工具)",
     "descriptionEn": "Create MKV from Blu-ray / DVD / Windows, macOS",
     "category": "video-tools",
     "tags": [
@@ -422,7 +422,7 @@
     "id": "video-tools-dgdemux",
     "name": "DGDemux",
     "url": "https://www.rationalqm.us/dgdemux/dgdemux.html",
-    "description": "Blu-ray · UHD Disk Demuxer · Windows, Linux",
+    "description": "Blu-ray · UHD Disk Demuxer · Windows · Linux (视频剪辑与格式转码工具)",
     "descriptionEn": "Blu-ray / UHD Disk Demuxer / Windows, Linux",
     "category": "video-tools",
     "tags": [
@@ -450,7 +450,7 @@
     "id": "video-tools-pgcdemux",
     "name": "PgcDemux",
     "url": "https://www.videohelp.com/software/PgcDemux",
-    "description": "DVD Disk Demuxer · Windows",
+    "description": "DVD Disk Demuxer · Windows (视频剪辑与格式转码工具)",
     "descriptionEn": "DVD Disk Demuxer / Windows",
     "category": "video-tools",
     "tags": [
@@ -478,7 +478,7 @@
     "id": "video-tools-batchguy",
     "name": "BatchGuy",
     "url": "https://github.com/yaboy58/BatchGuy",
-    "description": "Blu-ray Ripping · Windows",
+    "description": "Blu-ray Ripping · Windows (视频剪辑与格式转码工具)",
     "descriptionEn": "Blu-ray Ripping / Windows",
     "category": "video-tools",
     "tags": [
@@ -492,7 +492,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -506,7 +506,7 @@
     "id": "video-tools-uhd-drives-flashing-guid",
     "name": "UHD Drives Flashing Guide",
     "url": "https://forum.makemkv.com/forum/viewtopic.php?f=16&t=19634",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -534,7 +534,7 @@
     "id": "video-tools-vhs-decode",
     "name": "VHS Decode",
     "url": "https://github.com/oyvindln/vhs-decode",
-    "description": "VHS Decoder · Windows, macOS, Linux",
+    "description": "VHS Decoder · Windows · macOS · Linux (视频剪辑与格式转码工具)",
     "descriptionEn": "VHS Decoder / Windows, macOS, Linux",
     "category": "video-tools",
     "tags": [
@@ -548,7 +548,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -563,7 +563,7 @@
     "id": "video-tools-streaming-hosts",
     "name": "Streaming Hosts",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_video_streaming",
-    "description": "Host Videos on YouTube Style Sites",
+    "description": "Host 高清视频 on YouTube 风格 Sites",
     "descriptionEn": "Host Videos on YouTube Style Sites",
     "category": "video-tools",
     "tags": [
@@ -577,7 +577,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -589,7 +589,7 @@
     "id": "video-tools-doodstream",
     "name": "DoodStream",
     "url": "https://doodstream.com/",
-    "description": "5GB · 60 Days · Requires Sign-Up · Use Adblock",
+    "description": "5GB · 60 Days · 需注册使用 · Use Adblock",
     "descriptionEn": "5GB / 60 Days / Requires Sign-Up / Use Adblock",
     "category": "video-tools",
     "tags": [
@@ -617,7 +617,7 @@
     "id": "video-tools-voe",
     "name": "VOE",
     "url": "https://voe.sx/",
-    "description": "Unlimited · 60 Days · 720p · Requires Sign-Up",
+    "description": "无使用额度限制 · 60 Days · 720P 标清标清 · 需注册使用",
     "descriptionEn": "Unlimited / 60 Days / 720p / Requires Sign-Up",
     "category": "video-tools",
     "tags": [
@@ -643,7 +643,7 @@
     "id": "video-tools-byse",
     "name": "Byse",
     "url": "https://byse.sx/",
-    "description": "50GB · 40TB per account · Forever · Requires Sign-Up",
+    "description": "50GB · 40TB per 账号 · Forever · 需注册使用",
     "descriptionEn": "50GB / 40TB per account / Forever / Requires Sign-Up",
     "category": "video-tools",
     "tags": [
@@ -669,7 +669,7 @@
     "id": "video-tools-vidoza",
     "name": "Vidoza",
     "url": "https://vidoza.net/",
-    "description": "15GB · 15 Days · Requires Sign-Up",
+    "description": "15GB · 15 Days · 需注册使用",
     "descriptionEn": "15GB / 15 Days / Requires Sign-Up",
     "category": "video-tools",
     "tags": [
@@ -695,7 +695,7 @@
     "id": "video-tools-streamain",
     "name": "⁠Streamain",
     "url": "https://streamain.com/",
-    "description": "Unlimited · Forever",
+    "description": "无使用额度限制 · Forever",
     "descriptionEn": "Unlimited / Forever",
     "category": "video-tools",
     "tags": [
@@ -721,7 +721,7 @@
     "id": "video-tools-vidmoly",
     "name": "Vidmoly",
     "url": "https://vidmoly.me/",
-    "description": "15TB · 1 Year",
+    "description": "15TB · 1 Year (视频剪辑与格式转码工具)",
     "descriptionEn": "15TB / 1 Year",
     "category": "video-tools",
     "tags": [
@@ -747,7 +747,7 @@
     "id": "video-tools-anonmp4",
     "name": "⁠AnonMP4",
     "url": "https://anonmp4.to/",
-    "description": "20GB · Forever",
+    "description": "20GB · Forever (视频剪辑与格式转码工具)",
     "descriptionEn": "20GB / Forever",
     "category": "video-tools",
     "tags": [
@@ -773,7 +773,7 @@
     "id": "video-tools-netu",
     "name": "NetU",
     "url": "https://netu.tv/",
-    "description": "7.5GB · 90 Days (after last view)",
+    "description": "7.5GB · 90 Days (after last view) (视频剪辑与格式转码工具)",
     "descriptionEn": "7.5GB / 90 Days (after last view)",
     "category": "video-tools",
     "tags": [
@@ -799,7 +799,7 @@
     "id": "video-tools-streamplay",
     "name": "Streamplay",
     "url": "https://streamplay.to/",
-    "description": "30TB · 20GB",
+    "description": "30TB · 20GB (视频剪辑与格式转码工具)",
     "descriptionEn": "30TB / 20GB",
     "category": "video-tools",
     "tags": [
@@ -825,7 +825,7 @@
     "id": "video-tools-uqload",
     "name": "UQLOAD",
     "url": "https://uqload.vc/",
-    "description": "5GB · Forever",
+    "description": "5GB · Forever (视频剪辑与格式转码工具)",
     "descriptionEn": "5GB / Forever",
     "category": "video-tools",
     "tags": [
@@ -851,7 +851,7 @@
     "id": "video-tools-luluvdoo",
     "name": "Luluvdoo",
     "url": "https://luluvdoo.com/",
-    "description": "15GB · 60 Days Since Last Download",
+    "description": "15GB · 60 Days Since Last Download (视频剪辑与格式转码工具)",
     "descriptionEn": "15GB / 60 Days Since Last Download",
     "category": "video-tools",
     "tags": [
@@ -877,7 +877,7 @@
     "id": "video-tools-streamtape",
     "name": "Streamtape",
     "url": "https://streamtape.com/",
-    "description": "15GB · Requires Sign-Up",
+    "description": "15GB · 需注册使用",
     "descriptionEn": "15GB / Requires Sign-Up",
     "category": "video-tools",
     "tags": [
@@ -903,7 +903,7 @@
     "id": "video-tools-dubz",
     "name": "Dubz",
     "url": "https://dubz.co/",
-    "description": "100MB · Forever",
+    "description": "100MB · Forever (视频剪辑与格式转码工具)",
     "descriptionEn": "100MB / Forever",
     "category": "video-tools",
     "tags": [
@@ -929,7 +929,7 @@
     "id": "video-tools-streamable",
     "name": "Streamable",
     "url": "https://streamable.com/",
-    "description": "250MB · 2 Days (90 Days with Account)",
+    "description": "250MB · 2 Days (90 Days 内置账号)",
     "descriptionEn": "250MB / 2 Days (90 Days with Account)",
     "category": "video-tools",
     "tags": [
@@ -955,7 +955,7 @@
     "id": "video-tools-uguu",
     "name": "uguu",
     "url": "https://uguu.se/",
-    "description": "128MB · 3 Hours",
+    "description": "128MB · 3 Hours (视频剪辑与格式转码工具)",
     "descriptionEn": "128MB / 3 Hours",
     "category": "video-tools",
     "tags": [
@@ -981,7 +981,7 @@
     "id": "video-tools-webmshare",
     "name": "webmshare",
     "url": "https://webmshare.com/",
-    "description": "WebM & GIF Hosting · 20MB · Forever",
+    "description": "WebM & GIF Hosting · 20MB · Forever (视频剪辑与格式转码工具)",
     "descriptionEn": "WebM & GIF Hosting / 20MB / Forever",
     "category": "video-tools",
     "tags": [
@@ -1009,7 +1009,7 @@
     "id": "video-tools-videy",
     "name": "Videy",
     "url": "https://videy.co/",
-    "description": "100MB · MP4 Only",
+    "description": "100MB · MP4 Only (视频剪辑与格式转码工具)",
     "descriptionEn": "100MB / MP4 Only",
     "category": "video-tools",
     "tags": [
@@ -1035,7 +1035,7 @@
     "id": "video-tools-obs-studio",
     "name": "OBS Studio",
     "url": "https://obsproject.com/",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -1066,7 +1066,7 @@
     "id": "video-tools-steelseries-moments",
     "name": "SteelSeries Moments",
     "url": "https://steelseries.com/gg/moments",
-    "description": "Game Recording Tools",
+    "description": "单机游戏 Recording 工具箱",
     "descriptionEn": "Game Recording Tools",
     "category": "video-tools",
     "tags": [
@@ -1092,7 +1092,7 @@
     "id": "video-tools-shinobi",
     "name": "Shinobi",
     "url": "https://shinobi.video/",
-    "description": "Network Video Recorder · macOS, Linux · Discord · GitLab",
+    "description": "网络影视视频 Recorder · macOS · Linux · Discord 社区 · GitLab 开源",
     "descriptionEn": "Network Video Recorder / macOS, Linux / Discord / GitLab",
     "category": "video-tools",
     "tags": [
@@ -1120,7 +1120,7 @@
     "id": "video-tools-mythtv",
     "name": "MythTV",
     "url": "https://www.mythtv.org/",
-    "description": "Digital Video Recorder (DVR) · Windows, macOS, Linux · GitHub",
+    "description": "Digital 影视视频 Recorder (DVR) · Windows · macOS · Linux · GitHub 开源",
     "descriptionEn": "Digital Video Recorder (DVR) / Windows, macOS, Linux / GitHub",
     "category": "video-tools",
     "tags": [
@@ -1149,7 +1149,7 @@
     "id": "video-tools-recordly",
     "name": "Recordly",
     "url": "https://recordly.dev/",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -1179,7 +1179,7 @@
     "id": "video-tools-vokoscreenng",
     "name": "vokoscreenNG",
     "url": "https://linuxecke.volkoh.de/vokoscreen/vokoscreen.html",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -1207,7 +1207,7 @@
     "id": "video-tools-shar-ec",
     "name": "Shar.ec",
     "url": "https://shar.ec/",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -1235,7 +1235,7 @@
     "id": "video-tools-screenrec",
     "name": "ScreenREC",
     "url": "https://screen-rec.vercel.app/",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -1263,7 +1263,7 @@
     "id": "video-tools-recordscreen",
     "name": "RecordScreen",
     "url": "https://recordscreen.io/",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -1291,7 +1291,7 @@
     "id": "video-tools-google-screen-recorder",
     "name": "Google Screen Recorder",
     "url": "https://toolbox.googleapps.com/apps/screen_recorder/",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -1319,7 +1319,7 @@
     "id": "video-tools-cursorful",
     "name": "⁠Cursorful",
     "url": "https://cursorful.com/",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -1347,7 +1347,7 @@
     "id": "video-tools-codecs-wiki",
     "name": "⁠Codecs Wiki",
     "url": "https://codecs.wiki/",
-    "description": "Video Encoding Guides",
+    "description": "影视视频 Encoding 教程与指南",
     "descriptionEn": "Video Encoding Guides",
     "category": "video-tools",
     "tags": [
@@ -1375,7 +1375,7 @@
     "id": "video-tools-handbrake",
     "name": "HandBrake",
     "url": "https://handbrake.fr/",
-    "description": "Video Encoding Software · Windows, macOS, Linux · Guide · GitHub",
+    "description": "影视视频 Encoding 纯净软件 · Windows · macOS · Linux · 指南 · GitHub 开源",
     "descriptionEn": "Video Encoding Software / Windows, macOS, Linux / Guide / GitHub",
     "category": "video-tools",
     "tags": [
@@ -1406,7 +1406,7 @@
     "id": "video-tools-shutter-encoder",
     "name": "Shutter Encoder",
     "url": "https://www.shutterencoder.com/",
-    "description": "Video Encoding Software · Windows, macOS, Linux · GitHub",
+    "description": "影视视频 Encoding 纯净软件 · Windows · macOS · Linux · GitHub 开源",
     "descriptionEn": "Video Encoding Software / Windows, macOS, Linux / GitHub",
     "category": "video-tools",
     "tags": [
@@ -1437,7 +1437,7 @@
     "id": "video-tools-mkvtoolnix",
     "name": "MKVToolNix",
     "url": "https://mkvtoolnix.download/",
-    "description": "MKV Editing Tools · Windows, macOS, Linux · Source Code",
+    "description": "MKV Editing 工具箱 · Windows · macOS · Linux · 源码程序源码",
     "descriptionEn": "MKV Editing Tools / Windows, macOS, Linux / Source Code",
     "category": "video-tools",
     "tags": [
@@ -1453,7 +1453,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -1468,7 +1468,7 @@
     "id": "video-tools-basics-to-the-art-of-rem",
     "name": "Basics to the Art of Remuxing",
     "url": "https://clarasguide.valeena.workers.dev/Guides/remuxing/",
-    "description": "Learn How to Remux Videos",
+    "description": "Learn How 至 Remux 高清视频",
     "descriptionEn": "Learn How to Remux Videos",
     "category": "video-tools",
     "tags": [
@@ -1484,7 +1484,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -1496,7 +1496,7 @@
     "id": "video-tools-ddvt",
     "name": "DDVT",
     "url": "https://forum.doom9.org/showthread.php?t=183479",
-    "description": "Dolby Vision RPU Demuxing · Injecting · Editing",
+    "description": "Dolby Vision RPU Demuxing · Injecting · Editing (视频剪辑与格式转码工具)",
     "descriptionEn": "Dolby Vision RPU Demuxing / Injecting / Editing",
     "category": "video-tools",
     "tags": [
@@ -1510,7 +1510,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -1522,7 +1522,7 @@
     "id": "video-tools-ifme",
     "name": "IFME",
     "url": "https://github.com/Anime4000/IFME",
-    "description": "Video Encoding · Windows, Linux",
+    "description": "影视视频 Encoding · Windows · Linux",
     "descriptionEn": "Video Encoding / Windows, Linux",
     "category": "video-tools",
     "tags": [
@@ -1536,7 +1536,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -1550,7 +1550,7 @@
     "id": "video-tools-av1an",
     "name": "Av1an",
     "url": "https://github.com/rust-av/Av1an",
-    "description": "Video Encoding · Windows, macOS, Linux",
+    "description": "影视视频 Encoding · Windows · macOS · Linux",
     "descriptionEn": "Video Encoding / Windows, macOS, Linux",
     "category": "video-tools",
     "tags": [
@@ -1564,7 +1564,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -1579,7 +1579,7 @@
     "id": "video-tools-fastflix",
     "name": "FastFlix",
     "url": "https://fastflix.org/",
-    "description": "Video Conversion · Windows, macOS, Linux · GitHub",
+    "description": "影视视频 Conversion · Windows · macOS · Linux · GitHub 开源",
     "descriptionEn": "Video Conversion / Windows, macOS, Linux / GitHub",
     "category": "video-tools",
     "tags": [
@@ -1608,7 +1608,7 @@
     "id": "video-tools-winnydows",
     "name": "Winnydows",
     "url": "https://winnydows.com/",
-    "description": "Video Conversion Software · Windows, macOS, Linux · Telegram",
+    "description": "影视视频 Conversion 纯净软件 · Windows · macOS · Linux · Telegram 交流群",
     "descriptionEn": "Video Conversion Software / Windows, macOS, Linux / Telegram",
     "category": "video-tools",
     "tags": [
@@ -1637,7 +1637,7 @@
     "id": "video-tools-staxrip",
     "name": "staxrip",
     "url": "https://github.com/staxrip/staxrip/",
-    "description": "Video Encoding · Contact Sheet + Thumbnails Creator · Windows",
+    "description": "影视视频 Encoding · Contact Sheet + Thumbnails Creator · Windows",
     "descriptionEn": "Video Encoding / Contact Sheet + Thumbnails Creator / Windows",
     "category": "video-tools",
     "tags": [
@@ -1651,7 +1651,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -1665,7 +1665,7 @@
     "id": "video-tools-xmedia-recode",
     "name": "XMedia Recode",
     "url": "https://www.xmedia-recode.de/en/",
-    "description": "Video Conversion · Windows",
+    "description": "影视视频 Conversion · Windows",
     "descriptionEn": "Video Conversion / Windows",
     "category": "video-tools",
     "tags": [
@@ -1693,7 +1693,7 @@
     "id": "video-tools-neav1e",
     "name": "NEAV1E",
     "url": "https://github.com/Alkl58/NotEnoughAV1Encodes",
-    "description": "AV1 Encoding · Windows",
+    "description": "AV1 Encoding · Windows (视频剪辑与格式转码工具)",
     "descriptionEn": "AV1 Encoding / Windows",
     "category": "video-tools",
     "tags": [
@@ -1707,7 +1707,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -1721,7 +1721,7 @@
     "id": "video-tools-sickbeard-mp4-automator",
     "name": "sickbeard_mp4_automator",
     "url": "https://github.com/mdhiggins/sickbeard_mp4_automator",
-    "description": "Automate Video Processing · Windows, macOS, Linux",
+    "description": "Automate 影视视频 Processing · Windows · macOS · Linux",
     "descriptionEn": "Automate Video Processing / Windows, macOS, Linux",
     "category": "video-tools",
     "tags": [
@@ -1735,7 +1735,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -1750,7 +1750,7 @@
     "id": "video-tools-selur",
     "name": "selur",
     "url": "https://www.selur.de/",
-    "description": "Video Encoding · Windows, Linux",
+    "description": "影视视频 Encoding · Windows · Linux",
     "descriptionEn": "Video Encoding / Windows, Linux",
     "category": "video-tools",
     "tags": [
@@ -1778,7 +1778,7 @@
     "id": "video-tools-vvenc",
     "name": "vvenc",
     "url": "https://github.com/fraunhoferhhi/vvenc",
-    "description": "VVC Encode · Decode",
+    "description": "VVC Encode · Decode (视频剪辑与格式转码工具)",
     "descriptionEn": "VVC Encode / Decode",
     "category": "video-tools",
     "tags": [
@@ -1792,7 +1792,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -1804,7 +1804,7 @@
     "id": "video-tools-autocompressor",
     "name": "Autocompressor",
     "url": "https://autocompressor.net/",
-    "description": "Compress · 2GB · BlueSky · Discord",
+    "description": "Compress · 2GB · BlueSky · Discord 社区",
     "descriptionEn": "Compress / 2GB / BlueSky / Discord",
     "category": "video-tools",
     "tags": [
@@ -1832,7 +1832,7 @@
     "id": "video-tools-compress-video-online",
     "name": "Compress Video Online",
     "url": "https://compress-video-online.com/",
-    "description": "Compress · Unlimited",
+    "description": "Compress · 无使用额度限制",
     "descriptionEn": "Compress / Unlimited",
     "category": "video-tools",
     "tags": [
@@ -1858,7 +1858,7 @@
     "id": "video-tools-8mb-video",
     "name": "8mb.video",
     "url": "https://8mb.video/",
-    "description": "Compress · 2GB · Discord",
+    "description": "Compress · 2GB · Discord 社区",
     "descriptionEn": "Compress / 2GB / Discord",
     "category": "video-tools",
     "tags": [
@@ -1884,7 +1884,7 @@
     "id": "video-tools-rotato",
     "name": "Rotato",
     "url": "https://tools.rotato.app/",
-    "description": "Compress · 2GB",
+    "description": "Compress · 2GB (视频剪辑与格式转码工具)",
     "descriptionEn": "Compress / 2GB",
     "category": "video-tools",
     "tags": [
@@ -1910,7 +1910,7 @@
     "id": "video-tools-videosmaller",
     "name": "VideoSmaller",
     "url": "https://www.videosmaller.com/",
-    "description": "Compress · 500MB",
+    "description": "Compress · 500MB (视频剪辑与格式转码工具)",
     "descriptionEn": "Compress / 500MB",
     "category": "video-tools",
     "tags": [
@@ -1936,7 +1936,7 @@
     "id": "video-tools-youcompress",
     "name": "YouCompress",
     "url": "https://www.youcompress.com/",
-    "description": "Compress · 500MB",
+    "description": "Compress · 500MB (视频剪辑与格式转码工具)",
     "descriptionEn": "Compress / 500MB",
     "category": "video-tools",
     "tags": [
@@ -1962,7 +1962,7 @@
     "id": "video-tools-mp4compress",
     "name": "MP4Compress",
     "url": "https://www.mp4compress.com/",
-    "description": "Compress · 500MB",
+    "description": "Compress · 500MB (视频剪辑与格式转码工具)",
     "descriptionEn": "Compress / 500MB",
     "category": "video-tools",
     "tags": [
@@ -1988,7 +1988,7 @@
     "id": "video-tools-video-express-converter",
     "name": "Video Express Converter",
     "url": "https://vc.germanov.dev/",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -2014,7 +2014,7 @@
     "id": "video-tools-videoconverter",
     "name": "VideoConverter",
     "url": "https://www.movavi.com/video-converter/",
-    "description": "Converter",
+    "description": "转换工具",
     "descriptionEn": "Converter",
     "category": "video-tools",
     "tags": [
@@ -2040,7 +2040,7 @@
     "id": "video-tools-restream-tools",
     "name": "Restream Tools",
     "url": "https://restream.io/tools",
-    "description": "Converter",
+    "description": "转换工具",
     "descriptionEn": "Converter",
     "category": "video-tools",
     "tags": [
@@ -2066,7 +2066,7 @@
     "id": "video-tools-ffmpeg-builds",
     "name": "FFmpeg-Builds",
     "url": "https://github.com/BtbN/FFmpeg-Builds",
-    "description": "Autobuild Tools",
+    "description": "Autobuild 工具箱",
     "descriptionEn": "Autobuild Tools",
     "category": "video-tools",
     "tags": [
@@ -2080,7 +2080,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2092,7 +2092,7 @@
     "id": "video-tools-ffmpeg-web",
     "name": "ffmpeg-web",
     "url": "https://ffmpeg-web.netlify.app/",
-    "description": "FFmpeg Web Apps",
+    "description": "FFmpeg 网页版精选应用",
     "descriptionEn": "FFmpeg Web Apps",
     "category": "video-tools",
     "tags": [
@@ -2120,7 +2120,7 @@
     "id": "video-tools-ffmpeg-libav",
     "name": "FFmpeg Libav",
     "url": "https://github.com/leandromoreira/ffmpeg-libav-tutorial",
-    "description": "FFmpeg Guides",
+    "description": "FFmpeg 教程与指南",
     "descriptionEn": "FFmpeg Guides",
     "category": "video-tools",
     "tags": [
@@ -2134,7 +2134,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2146,7 +2146,7 @@
     "id": "video-tools-asm-lessons",
     "name": "ASM Lessons",
     "url": "https://github.com/FFmpeg/asm-lessons",
-    "description": "FFmpeg Assembly Language Lessons · Multiple Languages",
+    "description": "FFmpeg Assembly 外语自学 Lessons · Multiple 多语种自学",
     "descriptionEn": "FFmpeg Assembly Language Lessons / Multiple Languages",
     "category": "video-tools",
     "tags": [
@@ -2160,7 +2160,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2172,7 +2172,7 @@
     "id": "video-tools-ffmpeg-cheat-sheet",
     "name": "FFmpeg Cheat Sheet",
     "url": "https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730",
-    "description": "Command Lists",
+    "description": "Command Lists (视频剪辑与格式转码工具)",
     "descriptionEn": "Command Lists",
     "category": "video-tools",
     "tags": [
@@ -2186,7 +2186,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2198,7 +2198,7 @@
     "id": "video-tools-webmconverter",
     "name": "WebMConverter",
     "url": "https://argorar.github.io/WebMConverter/",
-    "description": "WebM Converter",
+    "description": "WebM 转换工具",
     "descriptionEn": "WebM Converter",
     "category": "video-tools",
     "tags": [
@@ -2226,7 +2226,7 @@
     "id": "video-tools-purempv",
     "name": "PureMPV",
     "url": "https://github.com/4ndrs/PureMPV",
-    "description": "Info Copy Tool",
+    "description": "Info Copy 实用小工具",
     "descriptionEn": "Info Copy Tool",
     "category": "video-tools",
     "tags": [
@@ -2240,7 +2240,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2252,7 +2252,7 @@
     "id": "video-tools-ffmpeg-batch",
     "name": "FFmpeg Batch",
     "url": "https://ffmpeg-batch.sourceforge.io/",
-    "description": "Bulk Conversion Tools",
+    "description": "Bulk Conversion 工具箱",
     "descriptionEn": "Bulk Conversion Tools",
     "category": "video-tools",
     "tags": [
@@ -2278,7 +2278,7 @@
     "id": "video-tools-awesome-streaming",
     "name": "Awesome Streaming",
     "url": "https://github.com/juancarlospaco/awesome-streaming-tools",
-    "description": "Live 在线流媒体 Resources",
+    "description": "Live Streaming 精选资源",
     "descriptionEn": "Live Streaming Resources",
     "category": "video-tools",
     "tags": [
@@ -2292,7 +2292,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2304,7 +2304,7 @@
     "id": "video-tools-tweaks",
     "name": "Tweaks",
     "url": "https://ctt.cx/video/obs/",
-    "description": "Tweaks · Multi-Stream · 一键抠图背景移除 · Web App · Phone Controller · Smooth Zoom · Plugin Updater · Guide",
+    "description": "Tweaks · Multi-Stream · Background Remover · 网页版应用程序 · 手机号 Controller · Smooth Zoom · 扩展插件 Updater · 指南",
     "descriptionEn": "Tweaks / Multi-Stream / Background Remover / Web App / Phone Controller / Smooth Zoom / Plugin Updater / Guide",
     "category": "video-tools",
     "tags": [
@@ -2334,7 +2334,7 @@
     "id": "video-tools-streamer-bot",
     "name": "Streamer.bot",
     "url": "https://streamer.bot/",
-    "description": "Live Stream Manager · X · Subreddit · Discord · GitHub",
+    "description": "Live Stream 管理工具 · X · Reddit 讨论区 · Discord 社区 · GitHub 开源",
     "descriptionEn": "Live Stream Manager / X / Subreddit / Discord / GitHub",
     "category": "video-tools",
     "tags": [
@@ -2362,7 +2362,7 @@
     "id": "video-tools-tikfinity",
     "name": "⁠TikFinity",
     "url": "https://tikfinity.zerody.one/",
-    "description": "TikTok Live Toolkit · Discord",
+    "description": "TikTok Live 实用工具箱 · Discord 社区",
     "descriptionEn": "TikTok Live Toolkit / Discord",
     "category": "video-tools",
     "tags": [
@@ -2388,7 +2388,7 @@
     "id": "video-tools-tiktok-chat-reader",
     "name": "TikTok Chat Reader",
     "url": "https://tiktok-chat-reader.zerody.one/",
-    "description": "Live TikTok Chat Reader",
+    "description": "Live TikTok 对话聊天 Reader",
     "descriptionEn": "Live TikTok Chat Reader",
     "category": "video-tools",
     "tags": [
@@ -2414,7 +2414,7 @@
     "id": "video-tools-meldstudio",
     "name": "⁠MeldStudio",
     "url": "https://meldstudio.co/",
-    "description": "Live Stream Manager · Windows, macOS",
+    "description": "Live Stream 管理工具 · Windows · macOS",
     "descriptionEn": "Live Stream Manager / Windows, macOS",
     "category": "video-tools",
     "tags": [
@@ -2443,7 +2443,7 @@
     "id": "video-tools-streamlabs",
     "name": "StreamLabs",
     "url": "https://streamlabs.com/",
-    "description": "Live Stream Manager · Windows, macOS · GitHub",
+    "description": "Live Stream 管理工具 · Windows · macOS · GitHub 开源",
     "descriptionEn": "Live Stream Manager / Windows, macOS / GitHub",
     "category": "video-tools",
     "tags": [
@@ -2472,7 +2472,7 @@
     "id": "video-tools-stream-elements",
     "name": "Stream Elements",
     "url": "https://streamelements.com/",
-    "description": "在线流媒体 Service Manager",
+    "description": "Streaming Service 管理工具",
     "descriptionEn": "Streaming Service Manager",
     "category": "video-tools",
     "tags": [
@@ -2498,7 +2498,7 @@
     "id": "video-tools-restream",
     "name": "Restream",
     "url": "https://restream.io/",
-    "description": "Multi-Platform Streams",
+    "description": "Multi-Platform Streams (视频剪辑与格式转码工具)",
     "descriptionEn": "Multi-Platform Streams",
     "category": "video-tools",
     "tags": [
@@ -2524,7 +2524,7 @@
     "id": "video-tools-twitchchat",
     "name": "TwitchChat",
     "url": "https://twitchat.fr/",
-    "description": "Live Stream Manager · Discord · GitHub",
+    "description": "Live Stream 管理工具 · Discord 社区 · GitHub 开源",
     "descriptionEn": "Live Stream Manager / Discord / GitHub",
     "category": "video-tools",
     "tags": [
@@ -2550,7 +2550,7 @@
     "id": "video-tools-vdo-ninja",
     "name": "VDO Ninja",
     "url": "https://vdo.ninja/",
-    "description": "Live Stream Collaboration Tool",
+    "description": "Live Stream Collaboration 实用小工具",
     "descriptionEn": "Live Stream Collaboration Tool",
     "category": "video-tools",
     "tags": [
@@ -2576,7 +2576,7 @@
     "id": "video-tools-livestreamdvr",
     "name": "LiveStreamDVR",
     "url": "https://github.com/MrBrax/LiveStreamDVR",
-    "description": "Live Stream Recorder",
+    "description": "Live Stream Recorder (视频剪辑与格式转码工具)",
     "descriptionEn": "Live Stream Recorder",
     "category": "video-tools",
     "tags": [
@@ -2590,7 +2590,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2602,7 +2602,7 @@
     "id": "video-tools-nvidia-broadcast",
     "name": "NVIDIA Broadcast",
     "url": "https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/",
-    "description": "Stream Audio · Video Enhancer · Windows",
+    "description": "Stream 无损音频 · 影视视频 Enhancer · Windows",
     "descriptionEn": "Stream Audio / Video Enhancer / Windows",
     "category": "video-tools",
     "tags": [
@@ -2630,7 +2630,7 @@
     "id": "video-tools-moblin",
     "name": "⁠Moblin",
     "url": "https://github.com/eerimoq/moblin",
-    "description": "IRL Live 在线流媒体 App · iOS",
+    "description": "IRL Live Streaming 应用程序 · iOS",
     "descriptionEn": "IRL Live Streaming App / iOS",
     "category": "video-tools",
     "tags": [
@@ -2644,7 +2644,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2658,7 +2658,7 @@
     "id": "video-tools-owncast",
     "name": "Owncast",
     "url": "https://owncast.online/",
-    "description": "支持自建部署 Live 在线流媒体",
+    "description": "Self-Hosted Live Streaming (视频剪辑与格式转码工具)",
     "descriptionEn": "Self-Hosted Live Streaming",
     "category": "video-tools",
     "tags": [
@@ -2686,7 +2686,7 @@
     "id": "video-tools-wdflat",
     "name": "WDFlat",
     "url": "https://www.wdflat.com/",
-    "description": "Stream Elements",
+    "description": "Stream Elements (视频剪辑与格式转码工具)",
     "descriptionEn": "Stream Elements",
     "category": "video-tools",
     "tags": [
@@ -2712,7 +2712,7 @@
     "id": "video-tools-strem",
     "name": "Strem",
     "url": "https://github.com/strem-app/strem",
-    "description": "Stream Automation",
+    "description": "Stream Automation (视频剪辑与格式转码工具)",
     "descriptionEn": "Stream Automation",
     "category": "video-tools",
     "tags": [
@@ -2726,7 +2726,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2738,7 +2738,7 @@
     "id": "video-tools-ppink",
     "name": "ppInk",
     "url": "https://github.com/PubPub-zz/ppInk/",
-    "description": "Screen Annotation",
+    "description": "屏幕 Annotation",
     "descriptionEn": "Screen Annotation",
     "category": "video-tools",
     "tags": [
@@ -2752,7 +2752,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2766,7 +2766,7 @@
     "id": "video-tools-overlays",
     "name": "⁠Overlays",
     "url": "https://overlays.uno/",
-    "description": "Live Stream Overlays",
+    "description": "Live Stream Overlays (视频剪辑与格式转码工具)",
     "descriptionEn": "Live Stream Overlays",
     "category": "video-tools",
     "tags": [
@@ -2792,7 +2792,7 @@
     "id": "video-tools-amuse",
     "name": "Amuse",
     "url": "https://6klabs.com/amuse",
-    "description": "Now Playing Overlays",
+    "description": "Now Playing Overlays (视频剪辑与格式转码工具)",
     "descriptionEn": "Now Playing Overlays",
     "category": "video-tools",
     "tags": [
@@ -2844,7 +2844,7 @@
     "id": "video-tools-real-url",
     "name": "real-url",
     "url": "https://github.com/wbt5/real-url",
-    "description": "Copy Live Stream URLs",
+    "description": "Copy Live Stream URLs (视频剪辑与格式转码工具)",
     "descriptionEn": "Copy Live Stream URLs",
     "category": "video-tools",
     "tags": [
@@ -2858,7 +2858,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2870,7 +2870,7 @@
     "id": "video-tools-chat-downloader",
     "name": "Chat-Downloader",
     "url": "https://github.com/xenova/chat-downloader",
-    "description": "Retrieve Chat Messages from Livestreams",
+    "description": "Retrieve 对话聊天 Messages from Livestreams",
     "descriptionEn": "Retrieve Chat Messages from Livestreams",
     "category": "video-tools",
     "tags": [
@@ -2884,7 +2884,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2896,7 +2896,7 @@
     "id": "video-tools-runa-s-archive",
     "name": "Runa's Archive",
     "url": "https://kekuwi.github.io/Runa-Archive",
-    "description": "VTuber Resources · Discord",
+    "description": "VTuber 精选资源 · Discord 社区",
     "descriptionEn": "VTuber Resources / Discord",
     "category": "video-tools",
     "tags": [
@@ -2922,7 +2922,7 @@
     "id": "video-tools-vtuber-nook",
     "name": "⁠VTuber Nook",
     "url": "https://vtuber-nook.com/",
-    "description": "VTuber Resources",
+    "description": "VTuber 精选资源",
     "descriptionEn": "VTuber Resources",
     "category": "video-tools",
     "tags": [
@@ -2936,7 +2936,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2948,7 +2948,7 @@
     "id": "video-tools-best-vtuber",
     "name": "Best VTuber",
     "url": "https://gist.github.com/emilianavt/cbf4d6de6f7fb01a42d4cce922795794",
-    "description": "VTuber Resources",
+    "description": "VTuber 精选资源",
     "descriptionEn": "VTuber Resources",
     "category": "video-tools",
     "tags": [
@@ -2962,7 +2962,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2974,7 +2974,7 @@
     "id": "video-tools-vtresources",
     "name": "VTResources",
     "url": "https://vtresources.carrd.co/",
-    "description": "VTuber Resources",
+    "description": "VTuber 精选资源",
     "descriptionEn": "VTuber Resources",
     "category": "video-tools",
     "tags": [
@@ -2988,7 +2988,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3000,7 +3000,7 @@
     "id": "video-tools-vtuber-assets",
     "name": "VTuber Assets",
     "url": "https://discord.gg/acU3dFRtvC",
-    "description": "VTuber Resources",
+    "description": "VTuber 精选资源",
     "descriptionEn": "VTuber Resources",
     "category": "video-tools",
     "tags": [
@@ -3014,7 +3014,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3026,7 +3026,7 @@
     "id": "video-tools-vtuber-kit",
     "name": "VTuber Kit",
     "url": "https://kyuppin.itch.io/vtuber-kit",
-    "description": "VTuber Character Creators · Tracking",
+    "description": "VTuber Character Creators · Tracking (视频剪辑与格式转码工具)",
     "descriptionEn": "VTuber Character Creators / Tracking",
     "category": "video-tools",
     "tags": [
@@ -3040,7 +3040,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3052,7 +3052,7 @@
     "id": "video-tools-vseeface",
     "name": "VSeeFace",
     "url": "https://www.vseeface.icu/",
-    "description": "3D Tracking & Puppeteering (VRM)",
+    "description": "3D Tracking & Puppeteering (VRM) (视频剪辑与格式转码工具)",
     "descriptionEn": "3D Tracking & Puppeteering (VRM)",
     "category": "video-tools",
     "tags": [
@@ -3078,7 +3078,7 @@
     "id": "video-tools-vtube-studio",
     "name": "Vtube Studio",
     "url": "https://denchisoft.com/",
-    "description": "2D · Live2D Tracking",
+    "description": "2D · Live2D Tracking (视频剪辑与格式转码工具)",
     "descriptionEn": "2D / Live2D Tracking",
     "category": "video-tools",
     "tags": [
@@ -3092,7 +3092,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3104,7 +3104,7 @@
     "id": "video-tools-veadotube",
     "name": "veadotube",
     "url": "https://olmewe.itch.io/veadotube-mini",
-    "description": "PNGTuber & Reactive Software",
+    "description": "PNGTuber & Reactive 纯净软件",
     "descriptionEn": "PNGTuber & Reactive Software",
     "category": "video-tools",
     "tags": [
@@ -3130,7 +3130,7 @@
     "id": "video-tools-avatarify-python",
     "name": "avatarify-python",
     "url": "https://github.com/alievk/avatarify-python",
-    "description": "Real-Time Photo · Video Avatars",
+    "description": "Real-Time 摄影图片 · 影视视频 Avatars",
     "descriptionEn": "Real-Time Photo / Video Avatars",
     "category": "video-tools",
     "tags": [
@@ -3144,7 +3144,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3156,7 +3156,7 @@
     "id": "video-tools-vtuberized-logos",
     "name": "VTuberized Logos",
     "url": "https://vtuber-style-logos.vercel.app/",
-    "description": "VTuber Style Logos",
+    "description": "VTuber 风格 Logos",
     "descriptionEn": "VTuber Style Logos",
     "category": "video-tools",
     "tags": [
@@ -3170,7 +3170,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3182,7 +3182,7 @@
     "id": "video-tools-awesome-video",
     "name": "Awesome Video",
     "url": "https://github.com/krzemienski/awesome-video",
-    "description": "Video 在线流媒体 Resources",
+    "description": "影视视频 Streaming 精选资源",
     "descriptionEn": "Video Streaming Resources",
     "category": "video-tools",
     "tags": [
@@ -3196,7 +3196,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3208,7 +3208,7 @@
     "id": "video-tools-video-help",
     "name": "Video Help",
     "url": "https://www.videohelp.com/software/sections/video-players?orderby=Rating",
-    "description": "Video Player Index",
+    "description": "影视视频播放器索引目录",
     "descriptionEn": "Video Player Index",
     "category": "video-tools",
     "tags": [
@@ -3234,7 +3234,7 @@
     "id": "video-tools-mpv-clients",
     "name": "MPV Clients",
     "url": "https://mpv.rocks/",
-    "description": "MPV Based Client Index",
+    "description": "MPV Based 客户端索引目录",
     "descriptionEn": "MPV Based Client Index",
     "category": "video-tools",
     "tags": [
@@ -3260,7 +3260,7 @@
     "id": "video-tools-mpc-hc",
     "name": "MPC-HC",
     "url": "https://github.com/clsid2/mpc-hc/",
-    "description": "Video Player · YT-DL Support · OpenSubtitles Bypass",
+    "description": "影视视频播放器 · YT-DL Support · OpenSubtitles Bypass",
     "descriptionEn": "Video Player / YT-DL Support / OpenSubtitles Bypass",
     "category": "video-tools",
     "tags": [
@@ -3276,7 +3276,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -3288,7 +3288,7 @@
     "id": "video-tools-mpc-qt",
     "name": "MPC-QT",
     "url": "https://mpc-qt.github.io/",
-    "description": "Video Player · MPC UI w · MPV Internal Player · Easy Setup · GitHub",
+    "description": "影视视频播放器 · MPC UI w · MPV Internal 播放器 · Easy Setup · GitHub 开源",
     "descriptionEn": "Video Player / MPC UI w / MPV Internal Player / Easy Setup / GitHub",
     "category": "video-tools",
     "tags": [
@@ -3316,7 +3316,7 @@
     "id": "video-tools-vlc",
     "name": "VLC",
     "url": "https://nightlies.videolan.org/",
-    "description": "Video Player · Use Nightly for Correct Colors · GitHub",
+    "description": "影视视频播放器 · Use Nightly 面向 Correct Colors · GitHub 开源",
     "descriptionEn": "Video Player / Use Nightly for Correct Colors / GitHub",
     "category": "video-tools",
     "tags": [
@@ -3344,7 +3344,7 @@
     "id": "video-tools-faststream",
     "name": "FastStream",
     "url": "https://faststream.online/",
-    "description": "Fragmentation 在线流媒体 Extension · Firefox Note · GitHub",
+    "description": "Fragmentation Streaming 扩展插件 · Firefox 附注意事项 · GitHub 开源",
     "descriptionEn": "Fragmentation Streaming Extension / Firefox Note / GitHub",
     "category": "video-tools",
     "tags": [
@@ -3374,7 +3374,7 @@
     "id": "video-tools-openvideo",
     "name": "OpenVideo",
     "url": "https://openvideofs.github.io",
-    "description": "Use 在线流媒体 Sites in 免广告 Player with Subs, Speed Control & More",
+    "description": "Use Streaming Sites 在 Ad-免费播放器内置 Subs · 网速 Control & More",
     "descriptionEn": "Use Streaming Sites in Ad-Free Player with Subs, Speed Control & More",
     "category": "video-tools",
     "tags": [
@@ -3402,7 +3402,7 @@
     "id": "video-tools-codec-guide",
     "name": "Codec Guide",
     "url": "https://www.codecguide.com/",
-    "description": "Video Player Codec Collections",
+    "description": "影视视频播放器 Codec 精选合辑",
     "descriptionEn": "Video Player Codec Collections",
     "category": "video-tools",
     "tags": [
@@ -3428,7 +3428,7 @@
     "id": "video-tools-potplayer",
     "name": "PotPlayer",
     "url": "https://potplayer.tv/",
-    "description": "Video Player · Twitch Addon · YouTube Addon",
+    "description": "影视视频播放器 · Twitch Addon · YouTube Addon",
     "descriptionEn": "Video Player / Twitch Addon / YouTube Addon",
     "category": "video-tools",
     "tags": [
@@ -3456,7 +3456,7 @@
     "id": "video-tools-screenbox",
     "name": "Screenbox",
     "url": "https://github.com/huynhsontung/Screenbox",
-    "description": "Video Player",
+    "description": "影视视频播放器",
     "descriptionEn": "Video Player",
     "category": "video-tools",
     "tags": [
@@ -3470,7 +3470,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3482,7 +3482,7 @@
     "id": "video-tools-gridplayer",
     "name": "GridPlayer",
     "url": "https://github.com/vzhd1701/gridplayer",
-    "description": "Multi-Video Players",
+    "description": "Multi-影视视频播放器",
     "descriptionEn": "Multi-Video Players",
     "category": "video-tools",
     "tags": [
@@ -3496,7 +3496,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3508,7 +3508,7 @@
     "id": "video-tools-splayer",
     "name": "SPlayer",
     "url": "https://www.splayer.org/",
-    "description": "Video Player with Smart Translation",
+    "description": "影视视频播放器内置 Smart Translation",
     "descriptionEn": "Video Player with Smart Translation",
     "category": "video-tools",
     "tags": [
@@ -3534,7 +3534,7 @@
     "id": "video-tools-implay",
     "name": "ImPlay",
     "url": "https://github.com/tsl0922/ImPlay",
-    "description": "Video Player",
+    "description": "影视视频播放器",
     "descriptionEn": "Video Player",
     "category": "video-tools",
     "tags": [
@@ -3548,7 +3548,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3560,7 +3560,7 @@
     "id": "video-tools-smplayer",
     "name": "SMPlayer",
     "url": "https://www.smplayer.info/",
-    "description": "Video Player · SMTube · GitHub",
+    "description": "影视视频播放器 · SMTube · GitHub 开源",
     "descriptionEn": "Video Player / SMTube / GitHub",
     "category": "video-tools",
     "tags": [
@@ -3586,7 +3586,7 @@
     "id": "video-tools-uview",
     "name": "uView",
     "url": "https://www.idruf.com/",
-    "description": "Video Player",
+    "description": "影视视频播放器",
     "descriptionEn": "Video Player",
     "category": "video-tools",
     "tags": [
@@ -3612,7 +3612,7 @@
     "id": "video-tools-flyleaf",
     "name": "Flyleaf",
     "url": "https://github.com/SuRGeoNix/Flyleaf",
-    "description": "Video Player",
+    "description": "影视视频播放器",
     "descriptionEn": "Video Player",
     "category": "video-tools",
     "tags": [
@@ -3626,7 +3626,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3638,7 +3638,7 @@
     "id": "video-tools-kikoplay",
     "name": "KikoPlay",
     "url": "https://kikoplay.fun/",
-    "description": "Video Player",
+    "description": "影视视频播放器",
     "descriptionEn": "Video Player",
     "category": "video-tools",
     "tags": [
@@ -3664,7 +3664,7 @@
     "id": "video-tools-h5player",
     "name": "h5player",
     "url": "https://h5player.anzz.top/",
-    "description": "Add Features to HTML5 Video Players · GitHub",
+    "description": "Add Features 至 HTML5 影视视频播放器 · GitHub 开源",
     "descriptionEn": "Add Features to HTML5 Video Players / GitHub",
     "category": "video-tools",
     "tags": [
@@ -3690,7 +3690,7 @@
     "id": "video-tools-plyr",
     "name": "Plyr",
     "url": "https://plyr.io/",
-    "description": "Online HTML5, YouTube and Vimeo Player · GitHub",
+    "description": "在线免安装 HTML5 · YouTube 与 Vimeo 播放器 · GitHub 开源",
     "descriptionEn": "Online HTML5, YouTube and Vimeo Player / GitHub",
     "category": "video-tools",
     "tags": [
@@ -3716,7 +3716,7 @@
     "id": "video-tools-panoptic",
     "name": "⁠panoptic",
     "url": "https://panoptic.live/",
-    "description": "Watch Multiple Live Streams At Once",
+    "description": "Watch Multiple Live Streams At Once (视频剪辑与格式转码工具)",
     "descriptionEn": "Watch Multiple Live Streams At Once",
     "category": "video-tools",
     "tags": [
@@ -3742,7 +3742,7 @@
     "id": "video-tools-motionmonkey",
     "name": "MotionMonkey",
     "url": "https://omega.gg/MotionMonkey/",
-    "description": "Stream Online Videos in Player",
+    "description": "Stream 在线免安装高清视频在 播放器",
     "descriptionEn": "Stream Online Videos in Player",
     "category": "video-tools",
     "tags": [
@@ -3768,7 +3768,7 @@
     "id": "video-tools-streamlink",
     "name": "StreamLink",
     "url": "https://streamlink.github.io/",
-    "description": "Extract Videos from Sites to Players · Twitch Adblock · GitHub",
+    "description": "Extract 高清视频 from Sites 至播放器 · Twitch Adblock · GitHub 开源",
     "descriptionEn": "Extract Videos from Sites to Players / Twitch Adblock / GitHub",
     "category": "video-tools",
     "tags": [
@@ -3794,7 +3794,7 @@
     "id": "video-tools-polsy-org-uk",
     "name": "polsy.org.uk",
     "url": "https://polsy.org.uk/",
-    "description": "Alt Players for Video Sites",
+    "description": "Alt 播放器面向影视视频 Sites",
     "descriptionEn": "Alt Players for Video Sites",
     "category": "video-tools",
     "tags": [
@@ -3820,7 +3820,7 @@
     "id": "video-tools-syncplay",
     "name": "Syncplay",
     "url": "https://syncplay.pl/",
-    "description": "App · GitHub",
+    "description": "应用程序 · GitHub 开源",
     "descriptionEn": "App / GitHub",
     "category": "video-tools",
     "tags": [
@@ -3848,7 +3848,7 @@
     "id": "video-tools-watch2gether",
     "name": "Watch2Gether",
     "url": "https://w2g.tv/",
-    "description": "Online Player",
+    "description": "在线免安装播放器",
     "descriptionEn": "Online Player",
     "category": "video-tools",
     "tags": [
@@ -3876,7 +3876,7 @@
     "id": "video-tools-syncwatch",
     "name": "SyncWatch",
     "url": "https://github.com/Semro/syncwatch",
-    "description": "Online Extension",
+    "description": "在线免安装扩展插件",
     "descriptionEn": "Online Extension",
     "category": "video-tools",
     "tags": [
@@ -3892,7 +3892,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -3906,7 +3906,7 @@
     "id": "video-tools-kosmi",
     "name": "Kosmi",
     "url": "https://kosmi.io/",
-    "description": "Online Player",
+    "description": "在线免安装播放器",
     "descriptionEn": "Online Player",
     "category": "video-tools",
     "tags": [
@@ -3934,7 +3934,7 @@
     "id": "video-tools-watchparty",
     "name": "WatchParty",
     "url": "https://www.watchparty.me/",
-    "description": "Online · Virtual Browser · Discord · GitHub",
+    "description": "在线免安装 · Virtual Browser · Discord 社区 · GitHub 开源",
     "descriptionEn": "Online / Virtual Browser / Discord / GitHub",
     "category": "video-tools",
     "tags": [
@@ -3964,7 +3964,7 @@
     "id": "video-tools-neko",
     "name": "neko",
     "url": "https://neko.m1k1o.net/",
-    "description": "Docker Virtual Browser · GitHub",
+    "description": "Docker Virtual Browser · GitHub 开源",
     "descriptionEn": "Docker Virtual Browser / GitHub",
     "category": "video-tools",
     "tags": [
@@ -3995,7 +3995,7 @@
     "id": "video-tools-hyperbeam",
     "name": "HyperBeam",
     "url": "https://hyperbeam.com/",
-    "description": "Virtual Computer Embed",
+    "description": "Virtual Computer Embed (视频剪辑与格式转码工具)",
     "descriptionEn": "Virtual Computer Embed",
     "category": "video-tools",
     "tags": [
@@ -4021,7 +4021,7 @@
     "id": "video-tools-opentogethertube",
     "name": "OpenTogetherTube",
     "url": "https://opentogethertube.com/",
-    "description": "Online Player",
+    "description": "在线免安装播放器",
     "descriptionEn": "Online Player",
     "category": "video-tools",
     "tags": [
@@ -4047,7 +4047,7 @@
     "id": "video-tools-metastream",
     "name": "Metastream",
     "url": "https://getmetastream.com/",
-    "description": "Online Extension · Discord · GitHub",
+    "description": "在线免安装扩展插件 · Discord 社区 · GitHub 开源",
     "descriptionEn": "Online Extension / Discord / GitHub",
     "category": "video-tools",
     "tags": [
@@ -4075,7 +4075,7 @@
     "id": "video-tools-caracal-club",
     "name": "Caracal Club",
     "url": "https://caracal.club/",
-    "description": "Online Player",
+    "description": "在线免安装播放器",
     "descriptionEn": "Online Player",
     "category": "video-tools",
     "tags": [
@@ -4101,7 +4101,7 @@
     "id": "video-tools-mzelo",
     "name": "Mzelo",
     "url": "https://mzelo.com/",
-    "description": "Online Player",
+    "description": "在线免安装播放器",
     "descriptionEn": "Online Player",
     "category": "video-tools",
     "tags": [
@@ -4127,7 +4127,7 @@
     "id": "video-tools-syncup",
     "name": "⁠SyncUp",
     "url": "https://syncup.tv/",
-    "description": "Online Player",
+    "description": "在线免安装播放器",
     "descriptionEn": "Online Player",
     "category": "video-tools",
     "tags": [
@@ -4153,7 +4153,7 @@
     "id": "video-tools-cinevosync",
     "name": "⁠CinevoSync",
     "url": "https://sync.cinevo.us/",
-    "description": "Online Player",
+    "description": "在线免安装播放器",
     "descriptionEn": "Online Player",
     "category": "video-tools",
     "tags": [
@@ -4179,7 +4179,7 @@
     "id": "video-tools-videotogether",
     "name": "VideoTogether",
     "url": "https://videotogether.github.io/",
-    "description": "App",
+    "description": "应用程序",
     "descriptionEn": "App",
     "category": "video-tools",
     "tags": [
@@ -4205,7 +4205,7 @@
     "id": "video-tools-movienight",
     "name": "MovieNight",
     "url": "https://github.com/zorchenhimer/MovieNight",
-    "description": "Docker · Discord",
+    "description": "Docker · Discord 社区",
     "descriptionEn": "Docker / Discord",
     "category": "video-tools",
     "tags": [
@@ -4219,7 +4219,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4233,7 +4233,7 @@
     "id": "video-tools-awesome-mpv",
     "name": "⁠Awesome-MPV",
     "url": "https://github.com/stax76/awesome-mpv",
-    "description": "MPV Tools · Resources",
+    "description": "MPV 工具箱 · 精选资源",
     "descriptionEn": "MPV Tools / Resources",
     "category": "video-tools",
     "tags": [
@@ -4247,7 +4247,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4259,7 +4259,7 @@
     "id": "video-tools-mpv-config-guide",
     "name": "MPV Config Guide",
     "url": "https://thewiki.moe/tutorials/mpv/",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -4285,7 +4285,7 @@
     "id": "video-tools-flower-s-mpv-config",
     "name": "Flower's MPV Config",
     "url": "https://github.com/flowerey/flower-mpv-config",
-    "description": "Automated MPV Configs",
+    "description": "Automated MPV Configs (视频剪辑与格式转码工具)",
     "descriptionEn": "Automated MPV Configs",
     "category": "video-tools",
     "tags": [
@@ -4299,7 +4299,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4311,7 +4311,7 @@
     "id": "video-tools-modernz",
     "name": "ModernZ",
     "url": "https://github.com/Samillion/ModernZ",
-    "description": "Alt User Interfaces",
+    "description": "Alt User Interfaces (视频剪辑与格式转码工具)",
     "descriptionEn": "Alt User Interfaces",
     "category": "video-tools",
     "tags": [
@@ -4325,7 +4325,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4337,7 +4337,7 @@
     "id": "video-tools-simple-mpv-webui",
     "name": "Simple MPV WebUI",
     "url": "https://github.com/open-dynaMIX/simple-mpv-webui",
-    "description": "WebUI Controller",
+    "description": "WebUI Controller (视频剪辑与格式转码工具)",
     "descriptionEn": "WebUI Controller",
     "category": "video-tools",
     "tags": [
@@ -4351,7 +4351,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4365,7 +4365,7 @@
     "id": "video-tools-mpv-context-menu",
     "name": "MPV Context Menu",
     "url": "https://gitlab.com/carmanaught/mpvcontextmenu",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -4391,7 +4391,7 @@
     "id": "video-tools-mpv-scripts",
     "name": "MPV Scripts",
     "url": "https://github.com/mpv-player/mpv/wiki/User-Scripts",
-    "description": "油猴脚本s",
+    "description": "Userscripts (视频剪辑与格式转码工具)",
     "descriptionEn": "Userscripts",
     "category": "video-tools",
     "tags": [
@@ -4405,7 +4405,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4419,7 +4419,7 @@
     "id": "video-tools-videoclip",
     "name": "VideoClip",
     "url": "https://github.com/Ajatt-Tools/videoclip",
-    "description": "Clip Tool",
+    "description": "Clip 实用小工具",
     "descriptionEn": "Clip Tool",
     "category": "video-tools",
     "tags": [
@@ -4433,7 +4433,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4445,7 +4445,7 @@
     "id": "video-tools-mpv-webm",
     "name": "MPV WebM",
     "url": "https://github.com/ekisu/mpv-webm",
-    "description": "WebM Tool",
+    "description": "WebM 实用小工具",
     "descriptionEn": "WebM Tool",
     "category": "video-tools",
     "tags": [
@@ -4459,7 +4459,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4473,7 +4473,7 @@
     "id": "video-tools-play-with-mpv",
     "name": "Play With MPV",
     "url": "https://greasyfork.org/en/scripts/416271",
-    "description": "Open Videos with MPV",
+    "description": "开源高清视频内置 MPV",
     "descriptionEn": "Open Videos with MPV",
     "category": "video-tools",
     "tags": [
@@ -4499,7 +4499,7 @@
     "id": "video-tools-mpv-webtorrent-hook",
     "name": "MPV WebTorrent Hook",
     "url": "https://github.com/noctuid/mpv-webtorrent-hook",
-    "description": "Torrent 在线流媒体",
+    "description": "Torrent Streaming (视频剪辑与格式转码工具)",
     "descriptionEn": "Torrent Streaming",
     "category": "video-tools",
     "tags": [
@@ -4513,7 +4513,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4527,7 +4527,7 @@
     "id": "video-tools-mpv-autosub",
     "name": "⁠mpv-autosub",
     "url": "https://github.com/davidde/mpv-autosub",
-    "description": "Subtitle Auto 下载器",
+    "description": "Subtitle Auto Downloader (视频剪辑与格式转码工具)",
     "descriptionEn": "Subtitle Auto Downloader",
     "category": "video-tools",
     "tags": [
@@ -4541,7 +4541,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4553,7 +4553,7 @@
     "id": "video-tools-autosubsync-mpv",
     "name": "AutoSubSync MPV",
     "url": "https://github.com/joaquintorres/autosubsync-mpv",
-    "description": "Sub Sync",
+    "description": "Sub Sync (视频剪辑与格式转码工具)",
     "descriptionEn": "Sub Sync",
     "category": "video-tools",
     "tags": [
@@ -4567,7 +4567,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4579,7 +4579,7 @@
     "id": "video-tools-mpv-sponsorblock",
     "name": "MPV SponsorBlock",
     "url": "https://github.com/po5/mpv_sponsorblock",
-    "description": "SponsorBlock for MPV",
+    "description": "SponsorBlock 面向 MPV",
     "descriptionEn": "SponsorBlock for MPV",
     "category": "video-tools",
     "tags": [
@@ -4593,7 +4593,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4605,7 +4605,7 @@
     "id": "video-tools-jumpskip",
     "name": "⁠JumpSkip",
     "url": "https://github.com/ElectricArdvark/jumpskip",
-    "description": "Intro · Outro Skipping Script for MPV",
+    "description": "Intro · Outro Skipping 自动化脚本面向 MPV",
     "descriptionEn": "Intro / Outro Skipping Script for MPV",
     "category": "video-tools",
     "tags": [
@@ -4619,7 +4619,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4631,7 +4631,7 @@
     "id": "video-tools-thumbfast",
     "name": "ThumbFast",
     "url": "https://github.com/po5/thumbfast",
-    "description": "MPV Thumbnails",
+    "description": "MPV Thumbnails (视频剪辑与格式转码工具)",
     "descriptionEn": "MPV Thumbnails",
     "category": "video-tools",
     "tags": [
@@ -4645,7 +4645,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4657,7 +4657,7 @@
     "id": "video-tools-artcnn",
     "name": "ArtCNN",
     "url": "https://github.com/Artoriuz/ArtCNN",
-    "description": "Anime Upscaling",
+    "description": "动漫番剧 Upscaling",
     "descriptionEn": "Anime Upscaling",
     "category": "video-tools",
     "tags": [
@@ -4671,7 +4671,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4683,7 +4683,7 @@
     "id": "video-tools-fsr",
     "name": "FSR",
     "url": "https://gist.github.com/agyild/82219c545228d70c5604f865ce0b0ce5",
-    "description": "AMD FidelityFX port",
+    "description": "AMD FidelityFX port (视频剪辑与格式转码工具)",
     "descriptionEn": "AMD FidelityFX port",
     "category": "video-tools",
     "tags": [
@@ -4697,7 +4697,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4709,7 +4709,7 @@
     "id": "video-tools-mpv-prescalers",
     "name": "MPV Prescalers",
     "url": "https://github.com/bjin/mpv-prescalers/",
-    "description": "NNEDI · RAVU Upscaling",
+    "description": "NNEDI · RAVU Upscaling (视频剪辑与格式转码工具)",
     "descriptionEn": "NNEDI / RAVU Upscaling",
     "category": "video-tools",
     "tags": [
@@ -4723,7 +4723,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4735,7 +4735,7 @@
     "id": "video-tools-glsl-cfl-prediction",
     "name": "GLSL CFL Prediction",
     "url": "https://github.com/Artoriuz/glsl-chroma-from-luma-prediction",
-    "description": "Chroma Upscaling",
+    "description": "Chroma Upscaling (视频剪辑与格式转码工具)",
     "descriptionEn": "Chroma Upscaling",
     "category": "video-tools",
     "tags": [
@@ -4749,7 +4749,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4761,7 +4761,7 @@
     "id": "video-tools-awesome-vlc",
     "name": "Awesome VLC",
     "url": "https://github.com/mfkl/awesome-vlc",
-    "description": "VLC Resources",
+    "description": "VLC 精选资源",
     "descriptionEn": "VLC Resources",
     "category": "video-tools",
     "tags": [
@@ -4775,7 +4775,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4787,7 +4787,7 @@
     "id": "video-tools-vlsub",
     "name": "VLSub",
     "url": "https://github.com/exebetche/vlsub",
-    "description": "Sub 下载器",
+    "description": "Sub Downloader (视频剪辑与格式转码工具)",
     "descriptionEn": "Sub Downloader",
     "category": "video-tools",
     "tags": [
@@ -4801,7 +4801,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4813,7 +4813,7 @@
     "id": "video-tools-vlc-slow-seek-fix",
     "name": "VLC Slow Seek Fix",
     "url": "https://redd.it/os6f1q",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -4827,7 +4827,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4839,7 +4839,7 @@
     "id": "video-tools-jellyfin",
     "name": "Jellyfin",
     "url": "https://jellyfin.org/",
-    "description": "Media Server · Tools · Matrix · Discord · GitHub",
+    "description": "Media 自建服务器 · 工具箱 · Matrix 讨论组 · Discord 社区 · GitHub 开源",
     "descriptionEn": "Media Server / Tools / Matrix / Discord / GitHub",
     "category": "video-tools",
     "tags": [
@@ -4867,7 +4867,7 @@
     "id": "video-tools-trash-guides",
     "name": "TRaSH Guides",
     "url": "https://trash-guides.info/",
-    "description": "Server Setup Guides",
+    "description": "自建服务器 Setup 教程与指南",
     "descriptionEn": "Server Setup Guides",
     "category": "video-tools",
     "tags": [
@@ -4893,7 +4893,7 @@
     "id": "video-tools-prowlarr",
     "name": "Prowlarr",
     "url": "https://prowlarr.com/",
-    "description": "Autodownload Tools",
+    "description": "Autodownload 工具箱",
     "descriptionEn": "Autodownload Tools",
     "category": "video-tools",
     "tags": [
@@ -4919,7 +4919,7 @@
     "id": "video-tools-reiverr",
     "name": "Reiverr",
     "url": "https://github.com/aleksilassila/reiverr",
-    "description": "Media Server Manager",
+    "description": "Media 自建服务器管理工具",
     "descriptionEn": "Media Server Manager",
     "category": "video-tools",
     "tags": [
@@ -4933,7 +4933,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4945,7 +4945,7 @@
     "id": "video-tools-htpc-download-box",
     "name": "HTPC Download Box",
     "url": "https://github.com/sebgl/htpc-download-box",
-    "description": "Media Server Automation",
+    "description": "Media 自建服务器 Automation",
     "descriptionEn": "Media Server Automation",
     "category": "video-tools",
     "tags": [
@@ -4959,7 +4959,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4971,7 +4971,7 @@
     "id": "video-tools-swizzin",
     "name": "swizzin",
     "url": "https://swizzin.ltd/",
-    "description": "Media Server Install Script · Debain + Ubuntu",
+    "description": "Media 自建服务器 Install 自动化脚本 · Debain + Ubuntu",
     "descriptionEn": "Media Server Install Script / Debain + Ubuntu",
     "category": "video-tools",
     "tags": [
@@ -4997,7 +4997,7 @@
     "id": "video-tools-dms",
     "name": "DMS",
     "url": "https://github.com/anacrolix/dms",
-    "description": "Media Server",
+    "description": "Media 自建服务器",
     "descriptionEn": "Media Server",
     "category": "video-tools",
     "tags": [
@@ -5011,7 +5011,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -5023,7 +5023,7 @@
     "id": "video-tools-emby",
     "name": "Emby",
     "url": "https://emby.media/",
-    "description": "Media Server",
+    "description": "Media 自建服务器",
     "descriptionEn": "Media Server",
     "category": "video-tools",
     "tags": [
@@ -5049,7 +5049,7 @@
     "id": "video-tools-universal-media-server",
     "name": "Universal Media Server",
     "url": "https://www.universalmediaserver.com/",
-    "description": "Media Server",
+    "description": "Media 自建服务器",
     "descriptionEn": "Media Server",
     "category": "video-tools",
     "tags": [
@@ -5075,7 +5075,7 @@
     "id": "video-tools-osmc",
     "name": "OSMC",
     "url": "https://osmc.tv/",
-    "description": "Media Server",
+    "description": "Media 自建服务器",
     "descriptionEn": "Media Server",
     "category": "video-tools",
     "tags": [
@@ -5101,7 +5101,7 @@
     "id": "video-tools-kawaii-player",
     "name": "Kawaii-Player",
     "url": "https://github.com/kanishka-linux/kawaii-player",
-    "description": "Media Server",
+    "description": "Media 自建服务器",
     "descriptionEn": "Media Server",
     "category": "video-tools",
     "tags": [
@@ -5115,7 +5115,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -5127,7 +5127,7 @@
     "id": "video-tools-streama",
     "name": "Streama",
     "url": "https://github.com/streamaserver/streama",
-    "description": "Media Server",
+    "description": "Media 自建服务器",
     "descriptionEn": "Media Server",
     "category": "video-tools",
     "tags": [
@@ -5141,7 +5141,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -5153,7 +5153,7 @@
     "id": "video-tools-gerbera",
     "name": "Gerbera",
     "url": "https://gerbera.io/",
-    "description": "Media Server",
+    "description": "Media 自建服务器",
     "descriptionEn": "Media Server",
     "category": "video-tools",
     "tags": [
@@ -5179,7 +5179,7 @@
     "id": "video-tools-homehost",
     "name": "Homehost",
     "url": "https://github.com/ridhwaans/homehost",
-    "description": "Media Server",
+    "description": "Media 自建服务器",
     "descriptionEn": "Media Server",
     "category": "video-tools",
     "tags": [
@@ -5193,7 +5193,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -5205,7 +5205,7 @@
     "id": "video-tools-kyoo",
     "name": "Kyoo",
     "url": "https://github.com/zoriya/Kyoo",
-    "description": "Media Server · Discord",
+    "description": "Media 自建服务器 · Discord 社区",
     "descriptionEn": "Media Server / Discord",
     "category": "video-tools",
     "tags": [
@@ -5219,7 +5219,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -5231,7 +5231,7 @@
     "id": "video-tools-chocolate",
     "name": "Chocolate",
     "url": "https://github.com/ChocolateApp/Chocolate",
-    "description": "Media Server",
+    "description": "Media 自建服务器",
     "descriptionEn": "Media Server",
     "category": "video-tools",
     "tags": [
@@ -5245,7 +5245,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -5257,7 +5257,7 @@
     "id": "video-tools-plezy",
     "name": "Plezy",
     "url": "https://plezy.app/",
-    "description": "Media Server · Tools",
+    "description": "Media 自建服务器 · 工具箱",
     "descriptionEn": "Media Server / Tools",
     "category": "video-tools",
     "tags": [
@@ -5283,7 +5283,7 @@
     "id": "video-tools-media-hoarder",
     "name": "Media-Hoarder",
     "url": "https://github.com/theMK2k/Media-Hoarder",
-    "description": "Media Catalog Frontend",
+    "description": "Media Catalog Frontend (视频剪辑与格式转码工具)",
     "descriptionEn": "Media Catalog Frontend",
     "category": "video-tools",
     "tags": [
@@ -5297,7 +5297,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -5309,7 +5309,7 @@
     "id": "video-tools-htpc",
     "name": "HTPC",
     "url": "https://r-htpc.github.io/wiki/",
-    "description": "Home Theater PC guides · Subreddit",
+    "description": "Home Theater PC 教程与指南 · Reddit 讨论区",
     "descriptionEn": "Home Theater PC guides / Subreddit",
     "category": "video-tools",
     "tags": [
@@ -5335,7 +5335,7 @@
     "id": "video-tools-msx",
     "name": "MSX",
     "url": "https://msx.benzac.de/info/",
-    "description": "Web App",
+    "description": "网页版应用程序",
     "descriptionEn": "Web App",
     "category": "video-tools",
     "tags": [
@@ -5363,7 +5363,7 @@
     "id": "video-tools-tunarr",
     "name": "Tunarr",
     "url": "https://tunarr.com/",
-    "description": "Custom Live Channel Servers",
+    "description": "Custom Live Channel 备用节点",
     "descriptionEn": "Custom Live Channel Servers",
     "category": "video-tools",
     "tags": [
@@ -5389,7 +5389,7 @@
     "id": "video-tools-ansible-hms-docker",
     "name": "ansible-hms-docker",
     "url": "https://github.com/ahembree/ansible-hms-docker",
-    "description": "Automated Docker Media Server Setups",
+    "description": "Automated Docker Media 自建服务器 Setups",
     "descriptionEn": "Automated Docker Media Server Setups",
     "category": "video-tools",
     "tags": [
@@ -5403,7 +5403,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -5417,7 +5417,7 @@
     "id": "video-tools-seerr",
     "name": "Seerr",
     "url": "https://github.com/seerr-team/seerr",
-    "description": "User Request Management",
+    "description": "User Request Management (视频剪辑与格式转码工具)",
     "descriptionEn": "User Request Management",
     "category": "video-tools",
     "tags": [
@@ -5431,7 +5431,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -5443,7 +5443,7 @@
     "id": "video-tools-dispatcharr",
     "name": "Dispatcharr",
     "url": "https://github.com/Dispatcharr/Dispatcharr",
-    "description": "IPTV Playlist Managers for Servers",
+    "description": "IPTV Playlist 管理工具箱面向备用节点",
     "descriptionEn": "IPTV Playlist Managers for Servers",
     "category": "video-tools",
     "tags": [
@@ -5457,7 +5457,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -5469,7 +5469,7 @@
     "id": "video-tools-ytdl-sub",
     "name": "YTDL-Sub",
     "url": "https://ytdl-sub.readthedocs.io/en/",
-    "description": "Add YouTube Channels to Media Servers · GitHub",
+    "description": "Add YouTube Channels 至 Media 备用节点 · GitHub 开源",
     "descriptionEn": "Add YouTube Channels to Media Servers / GitHub",
     "category": "video-tools",
     "tags": [
@@ -5495,7 +5495,7 @@
     "id": "video-tools-xteve",
     "name": "xTeVe",
     "url": "https://github.com/xteve-project/xTeVe",
-    "description": "Plex · Emby M3U Proxy",
+    "description": "Plex · Emby M3U 代理中继",
     "descriptionEn": "Plex / Emby M3U Proxy",
     "category": "video-tools",
     "tags": [
@@ -5509,7 +5509,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -5521,7 +5521,7 @@
     "id": "video-tools-reddit-guide",
     "name": "Reddit Guide",
     "url": "https://redd.it/ma1hlm",
-    "description": "Plex Setup Guides",
+    "description": "Plex Setup 教程与指南",
     "descriptionEn": "Plex Setup Guides",
     "category": "video-tools",
     "tags": [
@@ -5535,7 +5535,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -5547,7 +5547,7 @@
     "id": "video-tools-tautulli",
     "name": "Tautulli",
     "url": "https://tautulli.com/",
-    "description": "Server Monitor · Note",
+    "description": "自建服务器 Monitor · 附注意事项",
     "descriptionEn": "Server Monitor / Note",
     "category": "video-tools",
     "tags": [
@@ -5573,7 +5573,7 @@
     "id": "video-tools-kitana",
     "name": "Kitana",
     "url": "https://github.com/pannal/Kitana",
-    "description": "Plugin Frontend",
+    "description": "扩展插件 Frontend",
     "descriptionEn": "Plugin Frontend",
     "category": "video-tools",
     "tags": [
@@ -5587,7 +5587,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -5599,7 +5599,7 @@
     "id": "video-tools-reaparr",
     "name": "Reaparr",
     "url": "https://www.reaparr.rocks/",
-    "description": "Merge Plex Libraries w · Your Own · Docs · Discord · GitHub",
+    "description": "Merge Plex Libraries w · Your Own · Docs · Discord 社区 · GitHub 开源",
     "descriptionEn": "Merge Plex Libraries w / Your Own / Docs / Discord / GitHub",
     "category": "video-tools",
     "tags": [
@@ -5625,7 +5625,7 @@
     "id": "video-tools-plexdrive",
     "name": "PlexDrive",
     "url": "https://github.com/plexdrive/plexdrive",
-    "description": "Mount Google Drive",
+    "description": "Mount Google Drive (视频剪辑与格式转码工具)",
     "descriptionEn": "Mount Google Drive",
     "category": "video-tools",
     "tags": [
@@ -5639,7 +5639,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -5651,7 +5651,7 @@
     "id": "video-tools-synclounge",
     "name": "SyncLounge",
     "url": "https://github.com/synclounge/synclounge",
-    "description": "Media Sync",
+    "description": "Media Sync (视频剪辑与格式转码工具)",
     "descriptionEn": "Media Sync",
     "category": "video-tools",
     "tags": [
@@ -5665,7 +5665,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -5677,7 +5677,7 @@
     "id": "video-tools-pseudotv",
     "name": "PseudoTV",
     "url": "https://github.com/DEFENDORe/pseudotv",
-    "description": "Create TV Channels",
+    "description": "Create 电视剧 Channels",
     "descriptionEn": "Create TV Channels",
     "category": "video-tools",
     "tags": [
@@ -5691,7 +5691,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -5703,7 +5703,7 @@
     "id": "video-tools-overseerr",
     "name": "Overseerr",
     "url": "https://seerr.dev/",
-    "description": "User Requests · IMDb Extension",
+    "description": "User Requests · IMDb 扩展插件",
     "descriptionEn": "User Requests / IMDb Extension",
     "category": "video-tools",
     "tags": [
@@ -5731,7 +5731,7 @@
     "id": "video-tools-pasta-tool",
     "name": "Pasta Tool",
     "url": "https://www.pastatool.com/",
-    "description": "Audio · Sub Changer · GitHub",
+    "description": "无损音频 · Sub Changer · GitHub 开源",
     "descriptionEn": "Audio / Sub Changer / GitHub",
     "category": "video-tools",
     "tags": [
@@ -5757,7 +5757,7 @@
     "id": "video-tools-awesome-jellyfin",
     "name": "Awesome Jellyfin",
     "url": "https://github.com/awesome-jellyfin/awesome-jellyfin",
-    "description": "Jellyfin Resources",
+    "description": "Jellyfin 精选资源",
     "descriptionEn": "Jellyfin Resources",
     "category": "video-tools",
     "tags": [
@@ -5771,7 +5771,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -5783,7 +5783,7 @@
     "id": "video-tools-fladder",
     "name": "Fladder",
     "url": "https://github.com/DonutWare/Fladder/",
-    "description": "Desktop Client · Windows, macOS, Linux, Android, iOS",
+    "description": "桌面端客户端 · Windows · macOS · Linux · Android · iOS",
     "descriptionEn": "Desktop Client / Windows, macOS, Linux, Android, iOS",
     "category": "video-tools",
     "tags": [
@@ -5799,7 +5799,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -5815,7 +5815,7 @@
     "id": "video-tools-blink",
     "name": "Blink",
     "url": "https://github.com/prayag17/Blink",
-    "description": "Desktop Client",
+    "description": "桌面端客户端",
     "descriptionEn": "Desktop Client",
     "category": "video-tools",
     "tags": [
@@ -5829,7 +5829,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -5841,7 +5841,7 @@
     "id": "video-tools-jellyfin-desktop",
     "name": "jellyfin-desktop",
     "url": "https://github.com/jellyfin/jellyfin-desktop",
-    "description": "Desktop Client",
+    "description": "桌面端客户端",
     "descriptionEn": "Desktop Client",
     "category": "video-tools",
     "tags": [
@@ -5855,7 +5855,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -5867,7 +5867,7 @@
     "id": "video-tools-findroid",
     "name": "Findroid",
     "url": "https://github.com/jarnedemeulemeester/findroid",
-    "description": "JellyFin Android Clients",
+    "description": "JellyFin Android 跨平台客户端",
     "descriptionEn": "JellyFin Android Clients",
     "category": "video-tools",
     "tags": [
@@ -5881,7 +5881,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -5895,7 +5895,7 @@
     "id": "video-tools-jellyfin-forum",
     "name": "Jellyfin Forum",
     "url": "https://forum.jellyfin.org/",
-    "description": "Official Jellyfin Forum",
+    "description": "Official Jellyfin 交流论坛",
     "descriptionEn": "Official Jellyfin Forum",
     "category": "video-tools",
     "tags": [
@@ -5921,7 +5921,7 @@
     "id": "video-tools-jellyfin-vue",
     "name": "Jellyfin Vue",
     "url": "https://github.com/jellyfin/jellyfin-vue",
-    "description": "Jellyfin Web Client",
+    "description": "Jellyfin 网页版客户端",
     "descriptionEn": "Jellyfin Web Client",
     "category": "video-tools",
     "tags": [
@@ -5935,7 +5935,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -5949,7 +5949,7 @@
     "id": "video-tools-jellyfin--arr--setup-gui",
     "name": "Jellyfin \"arr\" Setup Guide",
     "url": "https://www.fuzzygrim.com/posts/media-server",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -5975,7 +5975,7 @@
     "id": "video-tools-jellyfin-customization-g",
     "name": "Jellyfin Customization Guide",
     "url": "https://youtu.be/F85qMyBeiDI",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -5989,7 +5989,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -6001,7 +6001,7 @@
     "id": "video-tools-jellyfin-themes",
     "name": "Jellyfin Themes",
     "url": "https://jellyfin.org/docs/general/clients/css-customization/#community-themes",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -6027,7 +6027,7 @@
     "id": "video-tools-jellyfin-rpc",
     "name": "Jellyfin RPC",
     "url": "https://github.com/Radiicall/jellyfin-rpc",
-    "description": "Jellyfin Discord Rich Presence",
+    "description": "Jellyfin Discord 社区 Rich Presence",
     "descriptionEn": "Jellyfin Discord Rich Presence",
     "category": "video-tools",
     "tags": [
@@ -6041,7 +6041,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -6053,7 +6053,7 @@
     "id": "video-tools-elementum",
     "name": "Elementum",
     "url": "https://elementum.surge.sh/",
-    "description": "Torrent 在线流媒体 · Trakt Sync · Similar to Stremio + Torrentio",
+    "description": "Torrent Streaming · Trakt Sync · Similar 至 Stremio + Torrentio",
     "descriptionEn": "Torrent Streaming / Trakt Sync / Similar to Stremio + Torrentio",
     "category": "video-tools",
     "tags": [
@@ -6081,7 +6081,7 @@
     "id": "video-tools-kodi-builds-chart",
     "name": "Kodi Builds Chart",
     "url": "https://kodiapps.com/builds-chart",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -6107,7 +6107,7 @@
     "id": "video-tools-r-addons4kodi",
     "name": "r/Addons4Kodi",
     "url": "https://www.reddit.com/r/Addons4Kodi/",
-    "description": "Kodi Addons",
+    "description": "Kodi Addons (视频剪辑与格式转码工具)",
     "descriptionEn": "Kodi Addons",
     "category": "video-tools",
     "tags": [
@@ -6121,7 +6121,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -6159,7 +6159,7 @@
     "id": "video-tools-synko",
     "name": "Synko",
     "url": "https://github.com/Skaytacium/synko",
-    "description": "Kodi Stream Sync",
+    "description": "Kodi Stream Sync (视频剪辑与格式转码工具)",
     "descriptionEn": "Kodi Stream Sync",
     "category": "video-tools",
     "tags": [
@@ -6173,7 +6173,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -6185,7 +6185,7 @@
     "id": "video-tools-plex-kodi-connect",
     "name": "Plex Kodi Connect",
     "url": "https://github.com/croneter/PlexKodiConnect",
-    "description": "Plex for Kodi",
+    "description": "Plex 面向 Kodi",
     "descriptionEn": "Plex for Kodi",
     "category": "video-tools",
     "tags": [
@@ -6199,7 +6199,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -6211,7 +6211,7 @@
     "id": "video-tools-quasar",
     "name": "quasar",
     "url": "https://quasar.surge.sh/",
-    "description": "Torrent Plugin",
+    "description": "Torrent 扩展插件",
     "descriptionEn": "Torrent Plugin",
     "category": "video-tools",
     "tags": [
@@ -6237,7 +6237,7 @@
     "id": "video-tools-iptv-client",
     "name": "IPTV Client",
     "url": "https://kodi.wiki/view/Add-on:PVR_IPTV_Simple_Client",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -6263,7 +6263,7 @@
     "id": "video-tools-youtube-video-downloader",
     "name": "YouTube Video Downloaders",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -6277,7 +6277,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -6289,7 +6289,7 @@
     "id": "video-tools-twitch-video-downloaders",
     "name": "Twitch Video Downloaders",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_downloaders",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -6303,7 +6303,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -6315,7 +6315,7 @@
     "id": "video-tools-download-managers",
     "name": "Download Managers",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools/#wiki_.25B7_download_managers",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -6329,7 +6329,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -6341,7 +6341,7 @@
     "id": "video-tools-yt-dlp",
     "name": "yt-dlp",
     "url": "https://github.com/yt-dlp/yt-dlp",
-    "description": "Multi-Site · Commands · Windows, macOS, Linux · Discord",
+    "description": "跨站多源 · Commands · Windows · macOS · Linux · Discord 社区",
     "descriptionEn": "Multi-Site / Commands / Windows, macOS, Linux / Discord",
     "category": "video-tools",
     "tags": [
@@ -6357,7 +6357,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -6372,7 +6372,7 @@
     "id": "video-tools-lostnode",
     "name": "⁠lostnode",
     "url": "https://dl.lostnode.lol/",
-    "description": "Multi-Site · Online",
+    "description": "跨站多源 · 在线免安装",
     "descriptionEn": "Multi-Site / Online",
     "category": "video-tools",
     "tags": [
@@ -6400,7 +6400,7 @@
     "id": "video-tools-9xbuddy",
     "name": "9xbuddy",
     "url": "https://9xbuddy.com/",
-    "description": "Multi-Site · Online",
+    "description": "跨站多源 · 在线免安装",
     "descriptionEn": "Multi-Site / Online",
     "category": "video-tools",
     "tags": [
@@ -6428,7 +6428,7 @@
     "id": "video-tools-video-download-helper",
     "name": "Video Download Helper",
     "url": "https://www.downloadhelper.net/",
-    "description": "Extensions",
+    "description": "扩展插件",
     "descriptionEn": "Extensions",
     "category": "video-tools",
     "tags": [
@@ -6456,7 +6456,7 @@
     "id": "video-tools-videodl",
     "name": "⁠VideoDL",
     "url": "https://github.com/CharlesPikachu/videodl",
-    "description": "Multi-Site · Windows, macOS, Linux",
+    "description": "跨站多源 · Windows · macOS · Linux",
     "descriptionEn": "Multi-Site / Windows, macOS, Linux",
     "category": "video-tools",
     "tags": [
@@ -6470,7 +6470,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -6485,7 +6485,7 @@
     "id": "video-tools-vrka",
     "name": "VRKA",
     "url": "https://github.com/MaverickRox/VRKA",
-    "description": "Multi-Site · Windows, macOS, Linux",
+    "description": "跨站多源 · Windows · macOS · Linux",
     "descriptionEn": "Multi-Site / Windows, macOS, Linux",
     "category": "video-tools",
     "tags": [
@@ -6499,7 +6499,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -6514,7 +6514,7 @@
     "id": "video-tools-neodlp",
     "name": "NeoDLP",
     "url": "https://neodlp.neosubhamoy.com/",
-    "description": "Multi-Site · Windows, macOS, Linux · GitHub",
+    "description": "跨站多源 · Windows · macOS · Linux · GitHub 开源",
     "descriptionEn": "Multi-Site / Windows, macOS, Linux / GitHub",
     "category": "video-tools",
     "tags": [
@@ -6543,7 +6543,7 @@
     "id": "video-tools-scrawler",
     "name": "SCrawler",
     "url": "https://github.com/AAndyProgram/SCrawler",
-    "description": "Multi-Site · Windows, macOS, Linux · Discord",
+    "description": "跨站多源 · Windows · macOS · Linux · Discord 社区",
     "descriptionEn": "Multi-Site / Windows, macOS, Linux / Discord",
     "category": "video-tools",
     "tags": [
@@ -6557,7 +6557,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -6572,7 +6572,7 @@
     "id": "video-tools-musvkrobot",
     "name": "Musvkrobot",
     "url": "https://t.me/musvkrobot",
-    "description": "Multi-Site · Telegram Bot",
+    "description": "跨站多源 · Telegram 交流群 Bot",
     "descriptionEn": "Multi-Site / Telegram Bot",
     "category": "video-tools",
     "tags": [
@@ -6598,7 +6598,7 @@
     "id": "video-tools-yoink-tools",
     "name": "yoink.tools",
     "url": "https://yoink.tools/",
-    "description": "Multi-Site · Online",
+    "description": "跨站多源 · 在线免安装",
     "descriptionEn": "Multi-Site / Online",
     "category": "video-tools",
     "tags": [
@@ -6624,7 +6624,7 @@
     "id": "video-tools-amp4",
     "name": "AMP4",
     "url": "https://amp4.cc/",
-    "description": "Multi-Site · Online",
+    "description": "跨站多源 · 在线免安装",
     "descriptionEn": "Multi-Site / Online",
     "category": "video-tools",
     "tags": [
@@ -6650,7 +6650,7 @@
     "id": "video-tools-videofk",
     "name": "VideoFK",
     "url": "https://www.videofk.com/",
-    "description": "Multi-Site · Online",
+    "description": "跨站多源 · 在线免安装",
     "descriptionEn": "Multi-Site / Online",
     "category": "video-tools",
     "tags": [
@@ -6676,7 +6676,7 @@
     "id": "video-tools-ofa-downloader",
     "name": "⁠OFA Downloader",
     "url": "https://oneforalldownloader.com/",
-    "description": "Multi-Site · Online",
+    "description": "跨站多源 · 在线免安装",
     "descriptionEn": "Multi-Site / Online",
     "category": "video-tools",
     "tags": [
@@ -6702,7 +6702,7 @@
     "id": "video-tools-yt-dlp-online",
     "name": "⁠YT-DLP Online",
     "url": "https://ytdlp.online/",
-    "description": "Multi-Site · Online",
+    "description": "跨站多源 · 在线免安装",
     "descriptionEn": "Multi-Site / Online",
     "category": "video-tools",
     "tags": [
@@ -6728,7 +6728,7 @@
     "id": "video-tools-ssstik",
     "name": "SSSTik",
     "url": "https://ssstik.io/",
-    "description": "TikTok",
+    "description": "TikTok (视频剪辑与格式转码工具)",
     "descriptionEn": "TikTok",
     "category": "video-tools",
     "tags": [
@@ -6754,7 +6754,7 @@
     "id": "video-tools-threads-downloader",
     "name": "Threads Downloader",
     "url": "https://threadsdownloader.com/",
-    "description": "Threads",
+    "description": "Threads (视频剪辑与格式转码工具)",
     "descriptionEn": "Threads",
     "category": "video-tools",
     "tags": [
@@ -6780,7 +6780,7 @@
     "id": "video-tools-piner",
     "name": "Piner",
     "url": "https://piner.io/",
-    "description": "Pinterest · Online",
+    "description": "Pinterest · 在线免安装",
     "descriptionEn": "Pinterest / Online",
     "category": "video-tools",
     "tags": [
@@ -6806,7 +6806,7 @@
     "id": "video-tools-reelsave",
     "name": "⁠ReelSave",
     "url": "https://reelsave.app/",
-    "description": "Instagram",
+    "description": "Instagram (视频剪辑与格式转码工具)",
     "descriptionEn": "Instagram",
     "category": "video-tools",
     "tags": [
@@ -6832,7 +6832,7 @@
     "id": "video-tools-hls-downloader",
     "name": "hls-downloader",
     "url": "https://github.com/puemos/hls-downloader",
-    "description": "HLS 下载器s",
+    "description": "HLS Downloaders (视频剪辑与格式转码工具)",
     "descriptionEn": "HLS Downloaders",
     "category": "video-tools",
     "tags": [
@@ -6846,7 +6846,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -6860,7 +6860,7 @@
     "id": "video-tools-getwvkeys",
     "name": "GetWVKeys",
     "url": "https://getwvkeys.cc/",
-    "description": "Send Widevine Requests · GitHub",
+    "description": "Send Widevine Requests · GitHub 开源",
     "descriptionEn": "Send Widevine Requests / GitHub",
     "category": "video-tools",
     "tags": [
@@ -6886,7 +6886,7 @@
     "id": "video-tools-drm-bypass-toolkit",
     "name": "DRM Bypass Toolkit",
     "url": "https://rentry.co/FMHYB64#dbt",
-    "description": "DRM Bypass Guide",
+    "description": "DRM Bypass 指南",
     "descriptionEn": "DRM Bypass Guide",
     "category": "video-tools",
     "tags": [
@@ -6900,7 +6900,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -6912,7 +6912,7 @@
     "id": "video-tools-r-videoediting",
     "name": "r/VideoEditing",
     "url": "https://www.reddit.com/r/VideoEditing/",
-    "description": "Video Editing Subreddit · Wiki",
+    "description": "影视视频 Editing Reddit 讨论区 · 知识维基",
     "descriptionEn": "Video Editing Subreddit / Wiki",
     "category": "video-tools",
     "tags": [
@@ -6928,7 +6928,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -6940,7 +6940,7 @@
     "id": "video-tools-eyecandy",
     "name": "Eyecandy",
     "url": "https://eyecannndy.com/",
-    "description": "Visual Technique Examples · Discord",
+    "description": "Visual Technique Examples · Discord 社区",
     "descriptionEn": "Visual Technique Examples / Discord",
     "category": "video-tools",
     "tags": [
@@ -6968,7 +6968,7 @@
     "id": "video-tools-waifu2x-gui",
     "name": "Waifu2x GUI",
     "url": "https://github.com/AaronFeng753/Waifu2x-Extension-GUI",
-    "description": "Video Upscaling",
+    "description": "影视视频 Upscaling",
     "descriptionEn": "Video Upscaling",
     "category": "video-tools",
     "tags": [
@@ -6984,7 +6984,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -6998,7 +6998,7 @@
     "id": "video-tools-codecs-and-containers",
     "name": "Codecs and Containers",
     "url": "https://www.reddit.com/r/VideoEditing/wiki/codecsandcontainers",
-    "description": "Info on Codecs & Containers",
+    "description": "Info on Codecs & Containers (视频剪辑与格式转码工具)",
     "descriptionEn": "Info on Codecs & Containers",
     "category": "video-tools",
     "tags": [
@@ -7012,7 +7012,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -7024,7 +7024,7 @@
     "id": "video-tools-videohelp-forum-2",
     "name": "VideoHelp Forum",
     "url": "https://forum.videohelp.com/forums/2-Video",
-    "description": "Video Editing Forums",
+    "description": "影视视频 Editing 极客社区",
     "descriptionEn": "Video Editing Forums",
     "category": "video-tools",
     "tags": [
@@ -7050,7 +7050,7 @@
     "id": "video-tools-linux-video-editors",
     "name": "Linux Video Editors",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_linux_video",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -7064,7 +7064,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -7078,7 +7078,7 @@
     "id": "video-tools-kdenlive",
     "name": "Kdenlive",
     "url": "https://kdenlive.org/en/",
-    "description": "轻量视频剪辑工具 · Windows, macOS, Linux · GitHub",
+    "description": "影视视频编辑器 · Windows · macOS · Linux · GitHub 开源",
     "descriptionEn": "Video Editor / Windows, macOS, Linux / GitHub",
     "category": "video-tools",
     "tags": [
@@ -7109,7 +7109,7 @@
     "id": "video-tools-losslesscut",
     "name": "LosslessCut",
     "url": "https://github.com/mifi/lossless-cut",
-    "description": "轻量视频剪辑工具 · Windows, macOS, Linux",
+    "description": "影视视频编辑器 · Windows · macOS · Linux",
     "descriptionEn": "Video Editor / Windows, macOS, Linux",
     "category": "video-tools",
     "tags": [
@@ -7125,7 +7125,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -7140,7 +7140,7 @@
     "id": "video-tools-shotcut",
     "name": "Shotcut",
     "url": "https://shotcut.org/",
-    "description": "轻量视频剪辑工具 · Windows, macOS, Linux · GitHub",
+    "description": "影视视频编辑器 · Windows · macOS · Linux · GitHub 开源",
     "descriptionEn": "Video Editor / Windows, macOS, Linux / GitHub",
     "category": "video-tools",
     "tags": [
@@ -7171,7 +7171,7 @@
     "id": "video-tools-openshot",
     "name": "OpenShot",
     "url": "https://www.openshot.org/",
-    "description": "轻量视频剪辑工具 · Windows, macOS, Linux · Source Code",
+    "description": "影视视频编辑器 · Windows · macOS · Linux · 源码程序源码",
     "descriptionEn": "Video Editor / Windows, macOS, Linux / Source Code",
     "category": "video-tools",
     "tags": [
@@ -7200,7 +7200,7 @@
     "id": "video-tools-keyflame",
     "name": "Keyflame",
     "url": "https://rentry.co/FMHYB64#keyflame",
-    "description": "轻量视频剪辑工具s · Plugins",
+    "description": "影视视频在线编辑器 · 扩展插件",
     "descriptionEn": "Video Editors / Plugins",
     "category": "video-tools",
     "tags": [
@@ -7214,7 +7214,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -7226,7 +7226,7 @@
     "id": "video-tools-vsdc",
     "name": "VSDC",
     "url": "https://www.videosoftdev.com/",
-    "description": "轻量视频剪辑工具 · Windows, macOS",
+    "description": "影视视频编辑器 · Windows · macOS",
     "descriptionEn": "Video Editor / Windows, macOS",
     "category": "video-tools",
     "tags": [
@@ -7255,7 +7255,7 @@
     "id": "video-tools-avidemux",
     "name": "Avidemux",
     "url": "http://fixounet.free.fr/avidemux/",
-    "description": "轻量视频剪辑工具 · Windows, macOS, Linux",
+    "description": "影视视频编辑器 · Windows · macOS · Linux",
     "descriptionEn": "Video Editor / Windows, macOS, Linux",
     "category": "video-tools",
     "tags": [
@@ -7284,7 +7284,7 @@
     "id": "video-tools-auto-editor",
     "name": "Auto-Editor",
     "url": "https://auto-editor.com/",
-    "description": "CLI Editor",
+    "description": "CLI 编辑器",
     "descriptionEn": "CLI Editor",
     "category": "video-tools",
     "tags": [
@@ -7310,7 +7310,7 @@
     "id": "video-tools-moviepy",
     "name": "MoviePy",
     "url": "https://zulko.github.io/moviepy/",
-    "description": "Python Editor · GitHub",
+    "description": "Python 编辑器 · GitHub 开源",
     "descriptionEn": "Python Editor / GitHub",
     "category": "video-tools",
     "tags": [
@@ -7336,7 +7336,7 @@
     "id": "video-tools-webm-generator",
     "name": "Webm Generator",
     "url": "https://github.com/dfaker/WebmGenerator",
-    "description": "Webm Editor · Windows",
+    "description": "Webm 编辑器 · Windows",
     "descriptionEn": "Webm Editor / Windows",
     "category": "video-tools",
     "tags": [
@@ -7350,7 +7350,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -7365,7 +7365,7 @@
     "id": "video-tools-avisynth",
     "name": "avisynth",
     "url": "http://avisynth.nl/index.php/Main_Page",
-    "description": "Video Processor · Windows, macOS, Linux",
+    "description": "影视视频 Processor · Windows · macOS · Linux",
     "descriptionEn": "Video Processor / Windows, macOS, Linux",
     "category": "video-tools",
     "tags": [
@@ -7394,7 +7394,7 @@
     "id": "video-tools-vapoursynth",
     "name": "VapourSynth",
     "url": "https://www.vapoursynth.com/",
-    "description": "Video Processor · Windows, Linux",
+    "description": "影视视频 Processor · Windows · Linux",
     "descriptionEn": "Video Processor / Windows, Linux",
     "category": "video-tools",
     "tags": [
@@ -7422,7 +7422,7 @@
     "id": "video-tools-source-filmmaker",
     "name": "Source Filmmaker",
     "url": "https://store.steampowered.com/app/1840/Source_Filmmaker/",
-    "description": "Steam Movie-Making Tool · Resources · Windows",
+    "description": "Steam 高清电影-Making 实用小工具 · 精选资源 · Windows",
     "descriptionEn": "Steam Movie-Making Tool / Resources / Windows",
     "category": "video-tools",
     "tags": [
@@ -7450,7 +7450,7 @@
     "id": "video-tools-openrv",
     "name": "OpenRV",
     "url": "https://github.com/AcademySoftwareFoundation/OpenRV",
-    "description": "Image · Sequence Playback Review · Windows, macOS, Linux",
+    "description": "高清图像 · Sequence Playback Review · Windows · macOS · Linux",
     "descriptionEn": "Image / Sequence Playback Review / Windows, macOS, Linux",
     "category": "video-tools",
     "tags": [
@@ -7464,7 +7464,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -7479,7 +7479,7 @@
     "id": "video-tools-suckless-cut",
     "name": "suckless-cut",
     "url": "https://github.com/couleur-tweak-tips/suckless-cut",
-    "description": "Cut & Trim Videos · Windows, macOS, Linux",
+    "description": "Cut & Trim 高清视频 · Windows · macOS · Linux",
     "descriptionEn": "Cut & Trim Videos / Windows, macOS, Linux",
     "category": "video-tools",
     "tags": [
@@ -7493,7 +7493,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -7508,7 +7508,7 @@
     "id": "video-tools-vidcutter",
     "name": "vidcutter",
     "url": "https://github.com/ozmartian/vidcutter",
-    "description": "Cut & Trim Videos · Script",
+    "description": "Cut & Trim 高清视频 · 自动化脚本",
     "descriptionEn": "Cut & Trim Videos / Script",
     "category": "video-tools",
     "tags": [
@@ -7522,7 +7522,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -7534,7 +7534,7 @@
     "id": "video-tools-freemocap",
     "name": "FreeMoCap",
     "url": "https://freemocap.org/",
-    "description": "Motion Tracking · Windows, macOS, Linux · GitHub",
+    "description": "Motion Tracking · Windows · macOS · Linux · GitHub 开源",
     "descriptionEn": "Motion Tracking / Windows, macOS, Linux / GitHub",
     "category": "video-tools",
     "tags": [
@@ -7563,7 +7563,7 @@
     "id": "video-tools-kurku",
     "name": "Kurku",
     "url": "https://app.kurku.tech/",
-    "description": "Motion Tracking · Web",
+    "description": "Motion Tracking · 网页版",
     "descriptionEn": "Motion Tracking / Web",
     "category": "video-tools",
     "tags": [
@@ -7591,7 +7591,7 @@
     "id": "video-tools-mastershot",
     "name": "Mastershot",
     "url": "https://mastershot.app/",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -7619,7 +7619,7 @@
     "id": "video-tools-wide-video",
     "name": "wide.video",
     "url": "https://wide.video/",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -7647,7 +7647,7 @@
     "id": "video-tools-pikimov",
     "name": "Pikimov",
     "url": "https://pikimov.com/",
-    "description": "Use Chromium Browser · Discord",
+    "description": "Use Chromium Browser · Discord 社区",
     "descriptionEn": "Use Chromium Browser / Discord",
     "category": "video-tools",
     "tags": [
@@ -7677,7 +7677,7 @@
     "id": "video-tools-klippy",
     "name": "Klippy",
     "url": "https://www.klippy.pro/",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -7703,7 +7703,7 @@
     "id": "video-tools-freecut",
     "name": "FreeCut",
     "url": "https://www.freecut.net/",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -7729,7 +7729,7 @@
     "id": "video-tools-panzoid",
     "name": "Panzoid",
     "url": "https://panzoid.com/",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -7755,7 +7755,7 @@
     "id": "video-tools-tooscut",
     "name": "⁠Tooscut",
     "url": "https://tooscut.app/",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -7781,7 +7781,7 @@
     "id": "video-tools-vidmix",
     "name": "vidmix",
     "url": "https://vidmix.app/",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -7807,7 +7807,7 @@
     "id": "video-tools-video-cutter",
     "name": "Video Cutter",
     "url": "https://video-cutter-js.com/",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -7833,7 +7833,7 @@
     "id": "video-tools-omniclip",
     "name": "Omniclip",
     "url": "https://omniclip.app/",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -7859,7 +7859,7 @@
     "id": "video-tools-cuttr",
     "name": "Cuttr",
     "url": "https://cuttr.in/",
-    "description": "Transcription Based Editor",
+    "description": "Transcription Based 编辑器",
     "descriptionEn": "Transcription Based Editor",
     "category": "video-tools",
     "tags": [
@@ -7885,7 +7885,7 @@
     "id": "video-tools-vididoo",
     "name": "Vididoo",
     "url": "https://vididoo.vercel.app/",
-    "description": "Multitool",
+    "description": "Multitool (视频剪辑与格式转码工具)",
     "descriptionEn": "Multitool",
     "category": "video-tools",
     "tags": [
@@ -7911,7 +7911,7 @@
     "id": "video-tools-videocandy",
     "name": "VideoCandy",
     "url": "https://videocandy.com/",
-    "description": "Multitool",
+    "description": "Multitool (视频剪辑与格式转码工具)",
     "descriptionEn": "Multitool",
     "category": "video-tools",
     "tags": [
@@ -7937,7 +7937,7 @@
     "id": "video-tools-video2edit",
     "name": "Video2Edit",
     "url": "https://www.video2edit.com/",
-    "description": "Multitool",
+    "description": "Multitool (视频剪辑与格式转码工具)",
     "descriptionEn": "Multitool",
     "category": "video-tools",
     "tags": [
@@ -7963,7 +7963,7 @@
     "id": "video-tools-crop-video",
     "name": "Crop Video",
     "url": "https://crop-video.com/",
-    "description": "Crop Videos",
+    "description": "Crop 高清视频",
     "descriptionEn": "Crop Videos",
     "category": "video-tools",
     "tags": [
@@ -7989,7 +7989,7 @@
     "id": "video-tools-loopvid",
     "name": "LoopVid",
     "url": "https://loopvid.kastden.org/",
-    "description": "Loop Videos",
+    "description": "Loop 高清视频",
     "descriptionEn": "Loop Videos",
     "category": "video-tools",
     "tags": [
@@ -8015,7 +8015,7 @@
     "id": "video-tools-crossfade",
     "name": "Crossfade",
     "url": "https://crossfade.io/",
-    "description": "Video · Audio Crossfading",
+    "description": "影视视频 · 无损音频 Crossfading",
     "descriptionEn": "Video / Audio Crossfading",
     "category": "video-tools",
     "tags": [
@@ -8041,7 +8041,7 @@
     "id": "video-tools-vidlouder",
     "name": "VidLouder",
     "url": "https://www.videolouder.com/",
-    "description": "Increase Video Volume",
+    "description": "Increase 影视视频 Volume",
     "descriptionEn": "Increase Video Volume",
     "category": "video-tools",
     "tags": [
@@ -8067,7 +8067,7 @@
     "id": "video-tools-convert2video",
     "name": "Convert2Video",
     "url": "https://convert2video.com/",
-    "description": "Image · Audio to Video",
+    "description": "高清图像 · 无损音频至 影视视频",
     "descriptionEn": "Image / Audio to Video",
     "category": "video-tools",
     "tags": [
@@ -8093,7 +8093,7 @@
     "id": "video-tools-gyroflow",
     "name": "Gyroflow",
     "url": "https://gyroflow.xyz/",
-    "description": "Video Stabilization",
+    "description": "影视视频 Stabilization",
     "descriptionEn": "Video Stabilization",
     "category": "video-tools",
     "tags": [
@@ -8119,7 +8119,7 @@
     "id": "video-tools-flowframes",
     "name": "Flowframes",
     "url": "https://nmkd.itch.io/flowframes",
-    "description": "Video Interpolation · Increase FPS",
+    "description": "影视视频 Interpolation · Increase FPS",
     "descriptionEn": "Video Interpolation / Increase FPS",
     "category": "video-tools",
     "tags": [
@@ -8145,7 +8145,7 @@
     "id": "video-tools-ntsc-rs",
     "name": "⁠ntsc-rs",
     "url": "https://ntsc.rs/",
-    "description": "TV + VHS Artifact Video Effect Editor · Web Version · GitHub",
+    "description": "电视剧 + VHS Artifact 影视视频 Effect 编辑器 · 网页版 Version · GitHub 开源",
     "descriptionEn": "TV + VHS Artifact Video Effect Editor / Web Version / GitHub",
     "category": "video-tools",
     "tags": [
@@ -8173,7 +8173,7 @@
     "id": "video-tools-videocolorizercolab",
     "name": "VideoColorizerColab",
     "url": "https://colab.research.google.com/github/jantic/DeOldify/blob/master/VideoColorizerColab.ipynb",
-    "description": "Video Colorization Colab",
+    "description": "影视视频 Colorization Colab",
     "descriptionEn": "Video Colorization Colab",
     "category": "video-tools",
     "tags": [
@@ -8199,7 +8199,7 @@
     "id": "video-tools-dithering-studio",
     "name": "⁠Dithering Studio",
     "url": "https://ditheringstudio.com/",
-    "description": "Video Dithering Tool",
+    "description": "影视视频 Dithering 实用小工具",
     "descriptionEn": "Video Dithering Tool",
     "category": "video-tools",
     "tags": [
@@ -8225,7 +8225,7 @@
     "id": "video-tools-opencolorio",
     "name": "OpenColorIO",
     "url": "https://opencolorio.org/",
-    "description": "Video Color Manager",
+    "description": "影视视频 Color 管理工具",
     "descriptionEn": "Video Color Manager",
     "category": "video-tools",
     "tags": [
@@ -8251,7 +8251,7 @@
     "id": "video-tools-freshluts",
     "name": "FreshLUTs",
     "url": "https://freshluts.com/",
-    "description": "Free LUTs (Color Filters)",
+    "description": "免费 LUTs (Color Filters)",
     "descriptionEn": "Free LUTs (Color Filters)",
     "category": "video-tools",
     "tags": [
@@ -8277,7 +8277,7 @@
     "id": "video-tools-blur",
     "name": "blur",
     "url": "https://github.com/f0e/blur",
-    "description": "Add Motion Blur to Videos · Tutorial",
+    "description": "Add Motion Blur 至高清视频 · 教程",
     "descriptionEn": "Add Motion Blur to Videos / Tutorial",
     "category": "video-tools",
     "tags": [
@@ -8291,7 +8291,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -8303,7 +8303,7 @@
     "id": "video-tools-propainter",
     "name": "ProPainter",
     "url": "https://github.com/sczhou/ProPainter",
-    "description": "Video Inpainting",
+    "description": "影视视频 Inpainting",
     "descriptionEn": "Video Inpainting",
     "category": "video-tools",
     "tags": [
@@ -8317,7 +8317,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -8329,7 +8329,7 @@
     "id": "video-tools-corridorkey",
     "name": "CorridorKey",
     "url": "https://github.com/nikopueringer/CorridorKey2.0",
-    "description": "AI Green Screen Extraction Tool · Unmixing · High VRAM Requirements · DaVinci Plugin · GUI · Discord",
+    "description": "AI Green 屏幕 Extraction 实用小工具 · Unmixing · High VRAM Requirements · DaVinci 扩展插件 · GUI · Discord 社区",
     "descriptionEn": "AI Green Screen Extraction Tool / Unmixing / High VRAM Requirements / DaVinci Plugin / GUI / Discord",
     "category": "video-tools",
     "tags": [
@@ -8343,7 +8343,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -8355,7 +8355,7 @@
     "id": "video-tools-footagecrate",
     "name": "FootageCrate",
     "url": "https://footagecrate.com/",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -8381,7 +8381,7 @@
     "id": "video-tools-freevideoeffect",
     "name": "FreeVideoEffect",
     "url": "https://freevideoeffect.com/",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -8407,7 +8407,7 @@
     "id": "video-tools-videocopilot",
     "name": "VideoCoPilot",
     "url": "https://www.videocopilot.net/products/ae22/",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -8433,7 +8433,7 @@
     "id": "video-tools-flex-cg-vfx",
     "name": "flex_cg_vfx",
     "url": "https://t.me/flex_cg_vfx",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -8459,7 +8459,7 @@
     "id": "video-tools-download-pirate",
     "name": "Download Pirate",
     "url": "https://www.downloadpirate.com/",
-    "description": "**Use Adblock** · Discord",
+    "description": "**Use Adblock** · Discord 社区",
     "descriptionEn": "**Use Adblock** / Discord",
     "category": "video-tools",
     "tags": [
@@ -8485,7 +8485,7 @@
     "id": "video-tools-ae-blender",
     "name": "Ae Blender",
     "url": "https://www.aeblender.com/",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -8511,7 +8511,7 @@
     "id": "video-tools-hunterae",
     "name": "HunterAE",
     "url": "https://hunterae.com/",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -8537,7 +8537,7 @@
     "id": "video-tools-scenepacks",
     "name": "⁠ScenePacks",
     "url": "https://t.me/moviescenepack",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -8563,7 +8563,7 @@
     "id": "video-tools-aetemp",
     "name": "AETemp",
     "url": "https://t.me/AETemp",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -8589,7 +8589,7 @@
     "id": "video-tools-visual-effects-pack",
     "name": "Visual Effects Pack",
     "url": "https://t.me/visual_effects_pack",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -8615,7 +8615,7 @@
     "id": "video-tools-aedownloadpro",
     "name": "AEDownloadPro",
     "url": "https://aedownloadpro.com/",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -8641,7 +8641,7 @@
     "id": "video-tools-intro-hd",
     "name": "Intro HD",
     "url": "https://intro-hd.net/",
-    "description": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
+    "description": "无损视频切片、FFmpeg 图形界面与格式转码工具",
     "descriptionEn": "Lossless video splitters, FFmpeg GUIs, and media transcoding tools.",
     "category": "video-tools",
     "tags": [
@@ -8667,7 +8667,7 @@
     "id": "video-tools-unreal-engine",
     "name": "Unreal Engine",
     "url": "https://www.unrealengine.com/",
-    "description": "3D Creation Tools",
+    "description": "3D Creation 工具箱",
     "descriptionEn": "3D Creation Tools",
     "category": "video-tools",
     "tags": [
@@ -8697,7 +8697,7 @@
     "id": "video-tools-modding-guides",
     "name": "Modding Guides",
     "url": "https://github.com/Dmgvol/UE_Modding",
-    "description": "Modding Guides · Megascans · Model Extractor · Model Viewer · UPK Explorer · Wiki",
+    "description": "Modding 教程与指南 · Megascans · 3D 资产 Extractor · 3D 资产查看器 · UPK Explorer · 知识维基",
     "descriptionEn": "Modding Guides / Megascans / Model Extractor / Model Viewer / UPK Explorer / Wiki",
     "category": "video-tools",
     "tags": [
@@ -8713,7 +8713,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -8725,7 +8725,7 @@
     "id": "video-tools-autograph",
     "name": "⁠Autograph",
     "url": "https://www.maxon.net/en/autograph",
-    "description": "Motion Graphics Editors · Animation Tools",
+    "description": "Motion 计算机图形学在线编辑器 · Animation 工具箱",
     "descriptionEn": "Motion Graphics Editors / Animation Tools",
     "category": "video-tools",
     "tags": [
@@ -8751,7 +8751,7 @@
     "id": "video-tools-animaker",
     "name": "Animaker",
     "url": "https://www.animaker.com/",
-    "description": "Animated Video Creator",
+    "description": "Animated 影视视频 Creator",
     "descriptionEn": "Animated Video Creator",
     "category": "video-tools",
     "tags": [
@@ -8777,7 +8777,7 @@
     "id": "video-tools-3dthis",
     "name": "3DThis",
     "url": "https://3dthis.com/",
-    "description": "3D Animation Tools",
+    "description": "3D Animation 工具箱",
     "descriptionEn": "3D Animation Tools",
     "category": "video-tools",
     "tags": [
@@ -8803,7 +8803,7 @@
     "id": "video-tools-su3yaki",
     "name": "⁠Su3yaki",
     "url": "https://kasuga.itch.io/su3yaki",
-    "description": "Create 3D Turntable Animations",
+    "description": "Create 3D Turntable Animations (视频剪辑与格式转码工具)",
     "descriptionEn": "Create 3D Turntable Animations",
     "category": "video-tools",
     "tags": [
@@ -8829,7 +8829,7 @@
     "id": "video-tools-mega-scans",
     "name": "Mega Scans",
     "url": "https://quixel.com/megascans",
-    "description": "3D Scans",
+    "description": "3D Scans (视频剪辑与格式转码工具)",
     "descriptionEn": "3D Scans",
     "category": "video-tools",
     "tags": [
@@ -8855,7 +8855,7 @@
     "id": "video-tools-planetside",
     "name": "PlanetSide",
     "url": "https://planetside.co.uk/",
-    "description": "CG Environment Generator",
+    "description": "CG Environment 生成器",
     "descriptionEn": "CG Environment Generator",
     "category": "video-tools",
     "tags": [
@@ -8881,7 +8881,7 @@
     "id": "video-tools-cgplugdump",
     "name": "cgplugdump",
     "url": "https://t.me/cgplugdump",
-    "description": "CG Software Plugins",
+    "description": "CG 纯净软件扩展插件",
     "descriptionEn": "CG Software Plugins",
     "category": "video-tools",
     "tags": [
@@ -8907,7 +8907,7 @@
     "id": "video-tools-physically-based",
     "name": "Physically Based",
     "url": "https://physicallybased.info/",
-    "description": "RGB Values of Elements",
+    "description": "RGB Values 精选 Elements",
     "descriptionEn": "RGB Values of Elements",
     "category": "video-tools",
     "tags": [
@@ -8933,7 +8933,7 @@
     "id": "video-tools-animeeffects",
     "name": "AnimeEffects",
     "url": "https://github.com/AnimeEffectsDevs/AnimeEffects",
-    "description": "2D Animation Tools",
+    "description": "2D Animation 工具箱",
     "descriptionEn": "2D Animation Tools",
     "category": "video-tools",
     "tags": [
@@ -8947,7 +8947,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -8959,7 +8959,7 @@
     "id": "video-tools-storyboarder",
     "name": "Storyboarder",
     "url": "https://wonderunit.com/storyboarder/",
-    "description": "Quickly Visualize & Test Animations · GitHub",
+    "description": "Quickly Visualize & 测试 Animations · GitHub 开源",
     "descriptionEn": "Quickly Visualize & Test Animations / GitHub",
     "category": "video-tools",
     "tags": [
@@ -8985,7 +8985,7 @@
     "id": "video-tools-luxcorerender",
     "name": "LuxCoreRender",
     "url": "https://luxcorerender.org/",
-    "description": "Rendering Engine",
+    "description": "Rendering 开发引擎",
     "descriptionEn": "Rendering Engine",
     "category": "video-tools",
     "tags": [
@@ -9011,7 +9011,7 @@
     "id": "video-tools-renderchan",
     "name": "RenderChan",
     "url": "https://morevnaproject.org/renderchan/",
-    "description": "2D Animation Render Manager",
+    "description": "2D Animation Render 管理工具",
     "descriptionEn": "2D Animation Render Manager",
     "category": "video-tools",
     "tags": [
@@ -9037,7 +9037,7 @@
     "id": "video-tools-mandelbulber",
     "name": "Mandelbulber",
     "url": "https://mandelbulber.com/",
-    "description": "Fractal Rendering Software · 3D",
+    "description": "Fractal Rendering 纯净软件 · 3D",
     "descriptionEn": "Fractal Rendering Software / 3D",
     "category": "video-tools",
     "tags": [
@@ -9063,7 +9063,7 @@
     "id": "video-tools-jwildfire",
     "name": "JWildfire",
     "url": "https://jwildfire.overwhale.com/",
-    "description": "Flame Fractal Rendering Software",
+    "description": "Flame Fractal Rendering 纯净软件",
     "descriptionEn": "Flame Fractal Rendering Software",
     "category": "video-tools",
     "tags": [
@@ -9089,7 +9089,7 @@
     "id": "video-tools-bestsnip",
     "name": "BestSnip",
     "url": "https://bestsnip.com/animation/",
-    "description": "Online Animation Tools",
+    "description": "在线免安装 Animation 工具箱",
     "descriptionEn": "Online Animation Tools",
     "category": "video-tools",
     "tags": [
@@ -9117,7 +9117,7 @@
     "id": "video-tools-glaxnimate",
     "name": "Glaxnimate",
     "url": "https://glaxnimate.org/",
-    "description": "Vector Animation Tools",
+    "description": "Vector Animation 工具箱",
     "descriptionEn": "Vector Animation Tools",
     "category": "video-tools",
     "tags": [
@@ -9169,7 +9169,7 @@
     "id": "video-tools-flipanim",
     "name": "FlipAnim",
     "url": "https://flipanim.com/",
-    "description": "Create Animated Flipbooks",
+    "description": "Create Animated Flipbooks (视频剪辑与格式转码工具)",
     "descriptionEn": "Create Animated Flipbooks",
     "category": "video-tools",
     "tags": [
@@ -9195,7 +9195,7 @@
     "id": "video-tools-viggle",
     "name": "Viggle",
     "url": "https://viggle.ai/",
-    "description": "Animated Character Creators · Discord",
+    "description": "Animated Character Creators · Discord 社区",
     "descriptionEn": "Animated Character Creators / Discord",
     "category": "video-tools",
     "tags": [
@@ -9221,7 +9221,7 @@
     "id": "video-tools-mixamo",
     "name": "Mixamo",
     "url": "https://www.mixamo.com/",
-    "description": "3D Character Animation Tools",
+    "description": "3D Character Animation 工具箱",
     "descriptionEn": "3D Character Animation Tools",
     "category": "video-tools",
     "tags": [
@@ -9247,7 +9247,7 @@
     "id": "video-tools-mmhuman3d",
     "name": "MMHuman3D",
     "url": "https://github.com/open-mmlab/mmhuman3d",
-    "description": "3D Human Model Creator",
+    "description": "3D 拟人化 3D 资产 Creator",
     "descriptionEn": "3D Human Model Creator",
     "category": "video-tools",
     "tags": [
@@ -9261,7 +9261,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -9273,7 +9273,7 @@
     "id": "video-tools-blender-open-movies",
     "name": "Blender Open Movies",
     "url": "https://youtube.com/playlist?list=PLav47HAVZMjnTFVZL-aImCQIC0uLZtNCz",
-    "description": "CGI Assets",
+    "description": "CGI Assets (视频剪辑与格式转码工具)",
     "descriptionEn": "CGI Assets",
     "category": "video-tools",
     "tags": [
@@ -9299,7 +9299,7 @@
     "id": "video-tools-awesome-stock-resources",
     "name": "Awesome Stock Resources",
     "url": "https://github.com/neutraltone/awesome-stock-resources#videos",
-    "description": "Stock Video Indexes",
+    "description": "Stock 影视视频导航索引",
     "descriptionEn": "Stock Video Indexes",
     "category": "video-tools",
     "tags": [
@@ -9313,7 +9313,7 @@
       "Transcoding"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -9325,7 +9325,7 @@
     "id": "video-tools-commons-wikimedia",
     "name": "commons.wikimedia",
     "url": "https://commons.wikimedia.org/wiki/Category:Videos",
-    "description": "Wiki Commons Video Files",
+    "description": "知识维基 Commons 影视视频文件",
     "descriptionEn": "Wiki Commons Video Files",
     "category": "video-tools",
     "tags": [
@@ -9351,7 +9351,7 @@
     "id": "video-tools-destockd",
     "name": "⁠Destockd",
     "url": "https://www.destockd.com/",
-    "description": "Stock Videos",
+    "description": "Stock 高清视频",
     "descriptionEn": "Stock Videos",
     "category": "video-tools",
     "tags": [
@@ -9377,7 +9377,7 @@
     "id": "video-tools-moving-image-archive",
     "name": "Moving Image Archive",
     "url": "https://www.movingimagearchive.com/",
-    "description": "Stock Videos",
+    "description": "Stock 高清视频",
     "descriptionEn": "Stock Videos",
     "category": "video-tools",
     "tags": [
@@ -9403,7 +9403,7 @@
     "id": "video-tools-dareful",
     "name": "Dareful",
     "url": "https://dareful.com/",
-    "description": "4K Stock Videos",
+    "description": "4K 超高清 Stock 高清视频",
     "descriptionEn": "4K Stock Videos",
     "category": "video-tools",
     "tags": [
@@ -9429,7 +9429,7 @@
     "id": "video-tools-monzoom",
     "name": "Monzoom",
     "url": "https://www.monzoom.com/",
-    "description": "4K Stock Videos",
+    "description": "4K 超高清 Stock 高清视频",
     "descriptionEn": "4K Stock Videos",
     "category": "video-tools",
     "tags": [
@@ -9455,7 +9455,7 @@
     "id": "video-tools-beachfrontbroll",
     "name": "BeachFrontBroll",
     "url": "https://www.beachfrontbroll.com/",
-    "description": "Stock Videos",
+    "description": "Stock 高清视频",
     "descriptionEn": "Stock Videos",
     "category": "video-tools",
     "tags": [
@@ -9481,7 +9481,7 @@
     "id": "video-tools-magnific",
     "name": "Magnific",
     "url": "https://www.magnific.com/videos",
-    "description": "Stock Videos",
+    "description": "Stock 高清视频",
     "descriptionEn": "Stock Videos",
     "category": "video-tools",
     "tags": [
@@ -9507,7 +9507,7 @@
     "id": "video-tools-veed-io",
     "name": "veed.io",
     "url": "https://www.veed.io/videos",
-    "description": "Stock Videos",
+    "description": "Stock 高清视频",
     "descriptionEn": "Stock Videos",
     "category": "video-tools",
     "tags": [
@@ -9533,7 +9533,7 @@
     "id": "video-tools-vidsplay",
     "name": "VidsPlay",
     "url": "https://www.vidsplay.com/",
-    "description": "Stock Videos",
+    "description": "Stock 高清视频",
     "descriptionEn": "Stock Videos",
     "category": "video-tools",
     "tags": [
@@ -9559,7 +9559,7 @@
     "id": "video-tools-mixkit",
     "name": "MixKit",
     "url": "https://mixkit.co/",
-    "description": "Stock Videos",
+    "description": "Stock 高清视频",
     "descriptionEn": "Stock Videos",
     "category": "video-tools",
     "tags": [
@@ -9585,7 +9585,7 @@
     "id": "video-tools-ineedfx",
     "name": "ineedfx",
     "url": "https://ineedfx.com/",
-    "description": "Stock Videos",
+    "description": "Stock 高清视频",
     "descriptionEn": "Stock Videos",
     "category": "video-tools",
     "tags": [
@@ -9611,7 +9611,7 @@
     "id": "video-tools-motionplaces",
     "name": "MotionPlaces",
     "url": "https://www.motionplaces.com/",
-    "description": "Worldwide Stock Videos",
+    "description": "Worldwide Stock 高清视频",
     "descriptionEn": "Worldwide Stock Videos",
     "category": "video-tools",
     "tags": [
@@ -9637,7 +9637,7 @@
     "id": "video-tools-dronestock",
     "name": "DroneStock",
     "url": "https://dronestock.com/",
-    "description": "Drone Video Footage",
+    "description": "Drone 影视视频 Footage",
     "descriptionEn": "Drone Video Footage",
     "category": "video-tools",
     "tags": [
@@ -9663,7 +9663,7 @@
     "id": "video-tools-movietools",
     "name": "MovieTools",
     "url": "https://movietools.info/",
-    "description": "Video Loops",
+    "description": "影视视频 Loops",
     "descriptionEn": "Video Loops",
     "category": "video-tools",
     "tags": [

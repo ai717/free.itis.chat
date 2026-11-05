@@ -3,7 +3,7 @@
     "id": "ai-deepseek",
     "name": "DeepSeek",
     "url": "https://chat.deepseek.com/",
-    "description": "DeepSeek V4.1 Flash 1017 · Sign-Up · Unlimited · Subreddit · Discord · GitHub",
+    "description": "DeepSeek V4.1 Flash 1017 · 需注册账号 · 无使用额度限制 · Reddit 讨论区 · Discord 社区 · GitHub 开源",
     "descriptionEn": "DeepSeek V4.1 Flash 1017 / Sign-Up / Unlimited / Subreddit / Discord / GitHub",
     "category": "ai",
     "tags": [
@@ -31,7 +31,7 @@
     "id": "ai-qwen-studio",
     "name": "Qwen Studio",
     "url": "https://chat.qwen.ai/",
-    "description": "Qwen3.8 Max · Qwen3.7 Plus · No Sign-Up · Clear Cookies to Reset Limits · Subreddit · Discord · GitHub",
+    "description": "Qwen3.8 Max · Qwen3.7 Plus · 免注册直接使用 · 清除 Cookie 可重置免费额度 · Reddit 讨论区 · Discord 社区 · GitHub 开源",
     "descriptionEn": "Qwen3.8 Max / Qwen3.7 Plus / No Sign-Up / Clear Cookies to Reset Limits / Subreddit / Discord / GitHub",
     "category": "ai",
     "tags": [
@@ -59,7 +59,7 @@
     "id": "ai-z-ai",
     "name": "⁠Z.ai",
     "url": "https://chat.z.ai/",
-    "description": "GLM 5.3 · GLM 5.3 Flash · Agent · Slides · Sign-Up · Discord · GitHub",
+    "description": "GLM 5.3 · GLM 5.3 Flash · AI Agent 智能体 · PPT 演示生成 · 需注册账号 · Discord 社区 · GitHub 开源",
     "descriptionEn": "GLM 5.3 / GLM 5.3 Flash / Agent / Slides / Sign-Up / Discord / GitHub",
     "category": "ai",
     "tags": [
@@ -87,7 +87,7 @@
     "id": "ai-google-ai-studio",
     "name": "Google AI Studio",
     "url": "https://aistudio.google.com/app/prompts/new_chat",
-    "description": "Gemini 3.8 Flash · Gemini 3.1 Pro Preview · Gemini 3.5 Flash-Lite · Google Sign-Up · Add Features · Subreddit · Discord",
+    "description": "Gemini 3.8 Flash · Gemini 3.1 Pro Preview · Gemini 3.5 Flash-Lite · Google 需注册账号 · 附增值功能 · Reddit 讨论区 · Discord 社区",
     "descriptionEn": "Gemini 3.8 Flash / Gemini 3.1 Pro Preview / Gemini 3.5 Flash-Lite / Google Sign-Up / Add Features / Subreddit / Discord",
     "category": "ai",
     "tags": [
@@ -115,7 +115,7 @@
     "id": "ai-meta-ai",
     "name": "Meta AI",
     "url": "https://www.meta.ai/",
-    "description": "Muse Spark 1.2 · Muse Glimmer 30B · Meta Sign-Up · Unlimited",
+    "description": "Muse Spark 1.2 · Muse Glimmer 30B · Meta 需注册账号 · 无使用额度限制",
     "descriptionEn": "Muse Spark 1.2 / Muse Glimmer 30B / Meta Sign-Up / Unlimited",
     "category": "ai",
     "tags": [
@@ -141,7 +141,7 @@
     "id": "ai-kimi",
     "name": "Kimi",
     "url": "https://www.kimi.ai/",
-    "description": "Slides · Google Login or Phone # Required · Subreddit · Discord · GitHub",
+    "description": "PPT 演示生成 · Google 登录或 手机号 # 需验证 · Reddit 讨论区 · Discord 社区 · GitHub 开源",
     "descriptionEn": "Slides / Google Login or Phone # Required / Subreddit / Discord / GitHub",
     "category": "ai",
     "tags": [
@@ -167,7 +167,7 @@
     "id": "ai-chatgpt",
     "name": "ChatGPT",
     "url": "https://chatgpt.com/",
-    "description": "GPT-6 Luna · Unlimited · Add Features · Limits · r · OpenAI · r · ChatGPT · Discord",
+    "description": "GPT-6 Luna · 无使用额度限制 · 附增值功能 · 存在调用额度限制 · r · OpenAI · r · ChatGPT · Discord 社区",
     "descriptionEn": "GPT-6 Luna / Unlimited / Add Features / Limits / r / OpenAI / r / ChatGPT / Discord",
     "category": "ai",
     "tags": [
@@ -193,7 +193,7 @@
     "id": "ai-longcat",
     "name": "⁠LongCat",
     "url": "https://longcat.ai/chat/",
-    "description": "LongCat 2.0 · Sign-Up · Unlimited · X",
+    "description": "LongCat 2.0 · 需注册账号 · 无使用额度限制 · X",
     "descriptionEn": "LongCat 2.0 / Sign-Up / Unlimited / X",
     "category": "ai",
     "tags": [
@@ -219,7 +219,7 @@
     "id": "ai-tencent-ai-studio",
     "name": "Tencent AI Studio",
     "url": "https://aistudio.tencent.com/",
-    "description": "Hy4 Preview · Unlimited · Sign-Up",
+    "description": "Hy4 Preview · 无使用额度限制 · 需注册账号",
     "descriptionEn": "Hy4 Preview / Unlimited / Sign-Up",
     "category": "ai",
     "tags": [
@@ -245,7 +245,7 @@
     "id": "ai-mimo-studio",
     "name": "⁠MiMo Studio",
     "url": "https://aistudio.xiaomimimo.com/",
-    "description": "MiMo-V2.6-Pro · MiMo-V2.6 flash · Sign-Up",
+    "description": "MiMo-V2.6-Pro · MiMo-V2.6 flash · 需注册账号",
     "descriptionEn": "MiMo-V2.6-Pro / MiMo-V2.6 flash / Sign-Up",
     "category": "ai",
     "tags": [
@@ -271,7 +271,7 @@
     "id": "ai-grok",
     "name": "Grok",
     "url": "https://grok.com/",
-    "description": "Grok 4.6 · Agent · Traffic-Based · Rate Display, 2 · Subreddit · Discord",
+    "description": "Grok 4.6 · AI Agent 智能体 · 按网络流量计费 · 费率实时显示 · 2 · Reddit 讨论区 · Discord 社区",
     "descriptionEn": "Grok 4.6 / Agent / Traffic-Based / Rate Display, 2 / Subreddit / Discord",
     "category": "ai",
     "tags": [
@@ -299,7 +299,7 @@
     "id": "ai-gemini",
     "name": "Gemini",
     "url": "https://gemini.google.com/",
-    "description": "Gemini 3.5 Flash-Lite · Add Features · Limits · Subreddit · Discord",
+    "description": "Gemini 3.5 Flash-Lite · 附增值功能 · 存在调用额度限制 · Reddit 讨论区 · Discord 社区",
     "descriptionEn": "Gemini 3.5 Flash-Lite / Add Features / Limits / Subreddit / Discord",
     "category": "ai",
     "tags": [
@@ -325,7 +325,7 @@
     "id": "ai-claude",
     "name": "Claude",
     "url": "https://claude.ai/",
-    "description": "Claude Sonnet 5.5 · Requires Sign-Up + Sometimes Phone # · Add Features · Resources · Learning, 2 · Usage Tracker 节点 · Subreddit · Discord",
+    "description": "Claude Sonnet 5.5 · 需注册使用 + 部分情况下手机号 # · 附增值功能 · 精选资源 · 自学路线 · 2 · Usage Tracker 节点 · Reddit 讨论区 · Discord 社区",
     "descriptionEn": "Claude Sonnet 5.5 / Requires Sign-Up + Sometimes Phone # / Add Features / Resources / Learning, 2 / Usage Tracker / Subreddit / Discord",
     "category": "ai",
     "tags": [
@@ -353,7 +353,7 @@
     "id": "ai-chat-motif",
     "name": "⁠Chat Motif",
     "url": "https://chat.motiftech.io/chat",
-    "description": "Motif 3 · Unlimited",
+    "description": "Motif 3 · 无使用额度限制",
     "descriptionEn": "Motif 3 / Unlimited",
     "category": "ai",
     "tags": [
@@ -379,7 +379,7 @@
     "id": "ai-minimax-ai",
     "name": "MiniMax AI",
     "url": "https://agent.minimax.io/",
-    "description": "MiniMax M3.1 Flash · Agent · Sign-Up · GitHub",
+    "description": "MiniMax M3.1 Flash · AI Agent 智能体 · 需注册账号 · GitHub 开源",
     "descriptionEn": "MiniMax M3.1 Flash / Agent / Sign-Up / GitHub",
     "category": "ai",
     "tags": [
@@ -405,7 +405,7 @@
     "id": "ai-microsoft-copilot",
     "name": "Microsoft Copilot",
     "url": "https://copilot.microsoft.com",
-    "description": "GPT-5.2 (Think Deeper) · Sign-Up · Limits",
+    "description": "GPT-5.2 (Think Deeper) · 需注册账号 · 存在调用额度限制",
     "descriptionEn": "GPT-5.2 (Think Deeper) / Sign-Up / Limits",
     "category": "ai",
     "tags": [
@@ -431,7 +431,7 @@
     "id": "ai-mistral",
     "name": "Mistral",
     "url": "https://chat.mistral.ai",
-    "description": "GLM 5.3 · Subreddit · Discord",
+    "description": "GLM 5.3 · Reddit 讨论区 · Discord 社区",
     "descriptionEn": "GLM 5.3 / Subreddit / Discord",
     "category": "ai",
     "tags": [
@@ -457,7 +457,7 @@
     "id": "ai-ai2-playground",
     "name": "⁠Ai2 Playground",
     "url": "https://playground.allenai.org/",
-    "description": "Olmo 3.1 32B Think · No Sign-Up · Unlimited · Discord",
+    "description": "Olmo 3.1 32B Think · 免注册直接使用 · 无使用额度限制 · Discord 社区",
     "descriptionEn": "Olmo 3.1 32B Think / No Sign-Up / Unlimited / Discord",
     "category": "ai",
     "tags": [
@@ -483,7 +483,7 @@
     "id": "ai-solar",
     "name": "⁠Solar",
     "url": "https://solar-chat.upstage.ai/",
-    "description": "Solar Pro 4 · No Sign-Up · Discord",
+    "description": "Solar Pro 4 · 免注册直接使用 · Discord 社区",
     "descriptionEn": "Solar Pro 4 / No Sign-Up / Discord",
     "category": "ai",
     "tags": [
@@ -509,7 +509,7 @@
     "id": "ai-solar-playground",
     "name": "⁠Solar Playground",
     "url": "https://console.upstage.ai/playground/chat",
-    "description": "Solar Pro 4 · No Sign-Up · Discord",
+    "description": "Solar Pro 4 · 免注册直接使用 · Discord 社区",
     "descriptionEn": "Solar Pro 4 / No Sign-Up / Discord",
     "category": "ai",
     "tags": [
@@ -535,7 +535,7 @@
     "id": "ai-arceeai",
     "name": "ArceeAI",
     "url": "https://chat.arcee.ai/chat",
-    "description": "Trinity Large Thinking · Unlimited · Discord",
+    "description": "Trinity Large Thinking · 无使用额度限制 · Discord 社区",
     "descriptionEn": "Trinity Large Thinking / Unlimited / Discord",
     "category": "ai",
     "tags": [
@@ -561,7 +561,7 @@
     "id": "ai-sarvam",
     "name": "Sarvam",
     "url": "https://dashboard.sarvam.ai/chat",
-    "description": "Sarvam 105B · Unlimited · Sign-Up",
+    "description": "Sarvam 105B · 无使用额度限制 · 需注册账号",
     "descriptionEn": "Sarvam 105B / Unlimited / Sign-Up",
     "category": "ai",
     "tags": [
@@ -587,7 +587,7 @@
     "id": "ai-inception",
     "name": "⁠Inception",
     "url": "https://chat.inceptionlabs.ai/",
-    "description": "Mercury 3 · Unlimited",
+    "description": "Mercury 3 · 无使用额度限制",
     "descriptionEn": "Mercury 3 / Unlimited",
     "category": "ai",
     "tags": [
@@ -613,7 +613,7 @@
     "id": "ai-together-ai",
     "name": "⁠Together.ai",
     "url": "https://chat.together.ai/",
-    "description": "GLM-5.3 · Kimi K3 · Qwen3.8 2.4T A95B · DeepSeek V4 Pro 0813 · Sign-Up · Up To 110 Daily · Discord",
+    "description": "GLM-5.3 · Kimi K3 · Qwen3.8 2.4T A95B · DeepSeek V4 Pro 0813 · 需注册账号 · Up 至每日免费 110 次 · Discord 社区",
     "descriptionEn": "GLM-5.3 / Kimi K3 / Qwen3.8 2.4T A95B / DeepSeek V4 Pro 0813 / Sign-Up / Up To 110 Daily / Discord",
     "category": "ai",
     "tags": [
@@ -641,7 +641,7 @@
     "id": "ai-nvidia-nim",
     "name": "NVIDIA NIM",
     "url": "https://build.nvidia.com/models",
-    "description": "Kimi K3 · DeepSeek V4 Pro 0813 · MiniMax M3 · Unlimited · No Sign-Up",
+    "description": "Kimi K3 · DeepSeek V4 Pro 0813 · MiniMax M3 · 无使用额度限制 · 免注册直接使用",
     "descriptionEn": "Kimi K3 / DeepSeek V4 Pro 0813 / MiniMax M3 / Unlimited / No Sign-Up",
     "category": "ai",
     "tags": [
@@ -667,7 +667,7 @@
     "id": "ai-tryingopen",
     "name": "⁠Tryingopen",
     "url": "https://www.tryingopen.com/",
-    "description": "DeepSeek V4 Pro · Qwen3.8 27B · GLM-5.3-Flash · Kimi K3 · Unlimited (12 per chat) · OpenAI Bridge",
+    "description": "DeepSeek V4 Pro · Qwen3.8 27B · GLM-5.3-Flash · Kimi K3 · 无使用额度限制 (单次会话限 12 条) · OpenAI 中继接口",
     "descriptionEn": "DeepSeek V4 Pro / Qwen3.8 27B / GLM-5.3-Flash / Kimi K3 / Unlimited (12 per chat) / OpenAI Bridge",
     "category": "ai",
     "tags": [
@@ -693,7 +693,7 @@
     "id": "ai-lumo",
     "name": "⁠Lumo",
     "url": "https://lumo.proton.me/",
-    "description": "Qwen3.5 122B A10B (Lite, 100 Daily) · GLM 5.2 (Max, 20 Daily) · Sign-Up · OpenAI Bridge · Reasoning",
+    "description": "Qwen3.5 122B A10B (Lite · 每日免费 100 次) · GLM 5.2 (Max · 每日免费 20 次) · 需注册账号 · OpenAI 中继接口 · 深度逻辑推理能力",
     "descriptionEn": "Qwen3.5 122B A10B (Lite, 100 Daily) / GLM 5.2 (Max, 20 Daily) / Sign-Up / OpenAI Bridge / Reasoning",
     "category": "ai",
     "tags": [
@@ -719,7 +719,7 @@
     "id": "ai-ish",
     "name": "⁠ISH",
     "url": "https://ish.chat/",
-    "description": "DeepSeek V4 Flash 0731 · MiniMax M3 · GLM 5.3 Flash · 50K Tokens Daily · Subreddit · Discord",
+    "description": "DeepSeek V4 Flash 0731 · MiniMax M3 · GLM 5.3 Flash · 每日提供 50K Token 额度 · Reddit 讨论区 · Discord 社区",
     "descriptionEn": "DeepSeek V4 Flash 0731 / MiniMax M3 / GLM 5.3 Flash / 50K Tokens Daily / Subreddit / Discord",
     "category": "ai",
     "tags": [
@@ -745,7 +745,7 @@
     "id": "ai-ecosia-ai",
     "name": "⁠Ecosia AI",
     "url": "https://www.ecosia.org/ai-chat",
-    "description": "Mistral Small 4 · Mistral Small 3.2 · Unlimited",
+    "description": "Mistral Small 4 · Mistral Small 3.2 · 无使用额度限制",
     "descriptionEn": "Mistral Small 4 / Mistral Small 3.2 / Unlimited",
     "category": "ai",
     "tags": [
@@ -771,7 +771,7 @@
     "id": "ai-ai-assistant",
     "name": "AI Assistant",
     "url": "https://aiassistantbot.pages.dev/",
-    "description": "GLM 4.7 · gpt-oss-120b · No Sign-Up",
+    "description": "GLM 4.7 · gpt-oss-120b · 免注册直接使用",
     "descriptionEn": "GLM 4.7 / gpt-oss-120b / No Sign-Up",
     "category": "ai",
     "tags": [
@@ -797,7 +797,7 @@
     "id": "ai-apertus",
     "name": "Apertus",
     "url": "https://publicai.co/chat",
-    "description": "Apertus v1.5 70B Thinking · ALIA 40B (Spain) · Apertus v1.5 8B Thinking (No Sign-Up)",
+    "description": "Apertus v1.5 70B Thinking · ALIA 40B (Spain) · Apertus v1.5 8B Thinking (免注册直接使用)",
     "descriptionEn": "Apertus v1.5 70B Thinking / ALIA 40B (Spain) / Apertus v1.5 8B Thinking (No Sign-Up)",
     "category": "ai",
     "tags": [
@@ -823,7 +823,7 @@
     "id": "ai-arena",
     "name": "Arena",
     "url": "https://arena.ai/text/direct",
-    "description": "Multiple Models · Agent · Sign-Up · Limits · X · Discord",
+    "description": "Multiple 3D 资产模型 · AI Agent 智能体 · 需注册账号 · 存在调用额度限制 · X · Discord 社区",
     "descriptionEn": "Multiple Models / Agent / Sign-Up / Limits / X / Discord",
     "category": "ai",
     "tags": [
@@ -849,7 +849,7 @@
     "id": "ai-awesome-ai-web-search",
     "name": "Awesome AI Web Search",
     "url": "https://github.com/felladrin/awesome-ai-web-search",
-    "description": "AI 独立搜索引擎 Index",
+    "description": "AI 搜索检索开发引擎索引目录",
     "descriptionEn": "AI Search Engine Index",
     "category": "ai",
     "tags": [
@@ -863,7 +863,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -877,7 +877,7 @@
     "id": "ai-ask-brave",
     "name": "⁠Ask Brave",
     "url": "https://search.brave.com/ask",
-    "description": "AI 独立搜索引擎",
+    "description": "AI 搜索检索开发引擎",
     "descriptionEn": "AI Search Engine",
     "category": "ai",
     "tags": [
@@ -905,7 +905,7 @@
     "id": "ai-google-ai-mode",
     "name": "Google AI Mode",
     "url": "https://google.com/aimode",
-    "description": "AI 独立搜索引擎 · 5 Daily · Pro (Google Sign-Up) · Fast (No Sign-Up)",
+    "description": "AI 搜索检索开发引擎 · 每日免费 5 次 · Pro (Google 需注册账号) · 高速 (免注册直接使用)",
     "descriptionEn": "AI Search Engine / 5 Daily / Pro (Google Sign-Up) / Fast (No Sign-Up)",
     "category": "ai",
     "tags": [
@@ -933,7 +933,7 @@
     "id": "ai-textfx",
     "name": "TextFX",
     "url": "https://textfx.withgoogle.com/",
-    "description": "AI Creative Writing Tools",
+    "description": "AI 创意写作与小说辅助工具箱",
     "descriptionEn": "AI Creative Writing Tools",
     "category": "ai",
     "tags": [
@@ -963,7 +963,7 @@
     "id": "ai-perplexity",
     "name": "Perplexity",
     "url": "https://www.perplexity.ai/",
-    "description": "AI 独立搜索引擎 · Enhancements · Discord",
+    "description": "AI 搜索检索开发引擎 · Enhancements · Discord 社区",
     "descriptionEn": "AI Search Engine / Enhancements / Discord",
     "category": "ai",
     "tags": [
@@ -989,7 +989,7 @@
     "id": "ai-arena-2",
     "name": "Arena",
     "url": "https://arena.ai/search/direct",
-    "description": "AI 独立搜索引擎 · Sign-Up · X · Discord",
+    "description": "AI 搜索检索开发引擎 · 需注册账号 · X · Discord 社区",
     "descriptionEn": "AI Search Engine / Sign-Up / X / Discord",
     "category": "ai",
     "tags": [
@@ -1015,7 +1015,7 @@
     "id": "ai-exa",
     "name": "⁠Exa",
     "url": "https://exa.ai/search",
-    "description": "AI 独立搜索引擎",
+    "description": "AI 搜索检索开发引擎",
     "descriptionEn": "AI Search Engine",
     "category": "ai",
     "tags": [
@@ -1041,7 +1041,7 @@
     "id": "ai-vane",
     "name": "Vane",
     "url": "https://github.com/ItzCrazyKns/Vane",
-    "description": "FOSS AI 独立搜索引擎 · 支持自建部署 · Discord",
+    "description": "自由开源 AI 搜索检索开发引擎 · Self-Hosted · Discord 社区",
     "descriptionEn": "FOSS AI Search Engine / Self-Hosted / Discord",
     "category": "ai",
     "tags": [
@@ -1055,7 +1055,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -1069,7 +1069,7 @@
     "id": "ai-learn-about",
     "name": "Learn About",
     "url": "https://learning.google.com/experiments/learn-about",
-    "description": "Google's Educational Search AIs",
+    "description": "Google 学术教育搜索 AI 套件",
     "descriptionEn": "Google's Educational Search AIs",
     "category": "ai",
     "tags": [
@@ -1095,7 +1095,7 @@
     "id": "ai-sci-bot",
     "name": "⁠Sci-Bot",
     "url": "https://sci-bot.ru/",
-    "description": "Sci-Hub Research Chatbot",
+    "description": "Sci-Hub 论文检索与研读对话助手",
     "descriptionEn": "Sci-Hub Research Chatbot",
     "category": "ai",
     "tags": [
@@ -1121,7 +1121,7 @@
     "id": "ai-alphaxiv",
     "name": "Alphaxiv",
     "url": "https://www.alphaxiv.org/",
-    "description": "Research Chatbot",
+    "description": "学术文献智能研读与问答助手",
     "descriptionEn": "Research Chatbot",
     "category": "ai",
     "tags": [
@@ -1147,7 +1147,7 @@
     "id": "ai-bohrium",
     "name": "⁠Bohrium",
     "url": "https://www.bohrium.com/",
-    "description": "Research Chatbot",
+    "description": "学术文献智能研读与问答助手",
     "descriptionEn": "Research Chatbot",
     "category": "ai",
     "tags": [
@@ -1173,7 +1173,7 @@
     "id": "ai-scispace",
     "name": "SciSpace",
     "url": "https://scispace.com/",
-    "description": "Research Chatbot · Discord",
+    "description": "学术文献智能研读与问答助手 · Discord 社区",
     "descriptionEn": "Research Chatbot / Discord",
     "category": "ai",
     "tags": [
@@ -1199,7 +1199,7 @@
     "id": "ai-scinito",
     "name": "Scinito",
     "url": "https://ekb.scinito.ai/ai/chat",
-    "description": "Research Chatbot",
+    "description": "学术文献智能研读与问答助手",
     "descriptionEn": "Research Chatbot",
     "category": "ai",
     "tags": [
@@ -1225,7 +1225,7 @@
     "id": "ai-sakana-chat",
     "name": "⁠Sakana Chat",
     "url": "https://chat.sakana.ai/",
-    "description": "Research Chatbot",
+    "description": "学术文献智能研读与问答助手",
     "descriptionEn": "Research Chatbot",
     "category": "ai",
     "tags": [
@@ -1251,7 +1251,7 @@
     "id": "ai-elicit",
     "name": "Elicit",
     "url": "https://elicit.com/",
-    "description": "Research Chatbot · GitHub",
+    "description": "学术文献智能研读与问答助手 · GitHub 开源",
     "descriptionEn": "Research Chatbot / GitHub",
     "category": "ai",
     "tags": [
@@ -1277,7 +1277,7 @@
     "id": "ai-gemini-notebook",
     "name": "Gemini Notebook",
     "url": "https://notebooklm.google.com/",
-    "description": "Document Chatbot · Note-Taking · Slides · Anki Export · Subreddit · Discord",
+    "description": "文档对话与知识库问答助手 · 智能笔记记录与知识整理 · PPT 演示生成 · 支持导出至 Anki 卡片 · Reddit 讨论区 · Discord 社区",
     "descriptionEn": "Document Chatbot / Note-Taking / Slides / Anki Export / Subreddit / Discord",
     "category": "ai",
     "tags": [
@@ -1305,7 +1305,7 @@
     "id": "ai-privategpt",
     "name": "PrivateGPT",
     "url": "https://privategpt.dev/",
-    "description": "Document Chatbot · Note-Taking · Discord · GitHub",
+    "description": "文档对话与知识库问答助手 · 智能笔记记录与知识整理 · Discord 社区 · GitHub 开源",
     "descriptionEn": "Document Chatbot / Note-Taking / Discord / GitHub",
     "category": "ai",
     "tags": [
@@ -1331,7 +1331,7 @@
     "id": "ai-onyx",
     "name": "Onyx",
     "url": "https://www.onyx.app/",
-    "description": "Document Chatbot · Note-Taking · Discord · GitHub",
+    "description": "文档对话与知识库问答助手 · 智能笔记记录与知识整理 · Discord 社区 · GitHub 开源",
     "descriptionEn": "Document Chatbot / Note-Taking / Discord / GitHub",
     "category": "ai",
     "tags": [
@@ -1357,7 +1357,7 @@
     "id": "ai-docsgpt",
     "name": "DocsGPT",
     "url": "https://www.docsgpt.cloud/",
-    "description": "Document Chatbot · Note-Taking · Discord · GitHub",
+    "description": "文档对话与知识库问答助手 · 智能笔记记录与知识整理 · Discord 社区 · GitHub 开源",
     "descriptionEn": "Document Chatbot / Note-Taking / Discord / GitHub",
     "category": "ai",
     "tags": [
@@ -1383,7 +1383,7 @@
     "id": "ai-anara",
     "name": "⁠Anara",
     "url": "https://anara.com/",
-    "description": "Document Chatbot",
+    "description": "文档对话与知识库问答助手",
     "descriptionEn": "Document Chatbot",
     "category": "ai",
     "tags": [
@@ -1409,7 +1409,7 @@
     "id": "ai-paper2gal",
     "name": "⁠Paper2Gal",
     "url": "https://paper2gal.com/",
-    "description": "Turn Academic Papers into Visual Novels via AI",
+    "description": "转换 Academic 学术文献为 Visual Novels via AI",
     "descriptionEn": "Turn Academic Papers into Visual Novels via AI",
     "category": "ai",
     "tags": [
@@ -1435,7 +1435,7 @@
     "id": "ai-hyperspace",
     "name": "Hyperspace",
     "url": "https://hyper.space/",
-    "description": "P2P AI Network · GitHub",
+    "description": "P2P AI 网络 · GitHub 开源",
     "descriptionEn": "P2P AI Network / GitHub",
     "category": "ai",
     "tags": [
@@ -1461,7 +1461,7 @@
     "id": "ai-sillytavern",
     "name": "SillyTavern",
     "url": "https://docs.sillytavern.app/",
-    "description": "Desktop App · Presets · Themes · Android) · Subreddit · Discord · GitHub",
+    "description": "桌面端应用程序 · 预设配置 · 主题美化包 · Android) · Reddit 讨论区 · Discord 社区 · GitHub 开源",
     "descriptionEn": "Desktop App / Presets / Themes / Android) / Subreddit / Discord / GitHub",
     "category": "ai",
     "tags": [
@@ -1491,7 +1491,7 @@
     "id": "ai-open-webui",
     "name": "Open WebUI",
     "url": "https://openwebui.com/",
-    "description": "Web UI · Discord · GitHub",
+    "description": "网页版 UI · Discord 社区 · GitHub 开源",
     "descriptionEn": "Web UI / Discord / GitHub",
     "category": "ai",
     "tags": [
@@ -1521,7 +1521,7 @@
     "id": "ai-jan",
     "name": "Jan",
     "url": "https://jan.ai/",
-    "description": "Desktop App · Discord · GitHub",
+    "description": "桌面端应用程序 · Discord 社区 · GitHub 开源",
     "descriptionEn": "Desktop App / Discord / GitHub",
     "category": "ai",
     "tags": [
@@ -1549,7 +1549,7 @@
     "id": "ai-lm-studio",
     "name": "LM Studio",
     "url": "https://lmstudio.ai/download",
-    "description": "Desktop App · 支持自建部署 Models Only · Discord · GitHub",
+    "description": "桌面端应用程序 · Self-Hosted 3D 资产模型 Only · Discord 社区 · GitHub 开源",
     "descriptionEn": "Desktop App / Self-Hosted Models Only / Discord / GitHub",
     "category": "ai",
     "tags": [
@@ -1579,7 +1579,7 @@
     "id": "ai-textgen",
     "name": "TextGen",
     "url": "https://github.com/oobabooga/textgen",
-    "description": "Web UI · 支持自建部署 Models Only · Colab · Subreddit · Discord",
+    "description": "网页版 UI · Self-Hosted 3D 资产模型 Only · Colab · Reddit 讨论区 · Discord 社区",
     "descriptionEn": "Web UI / Self-Hosted Models Only / Colab / Subreddit / Discord",
     "category": "ai",
     "tags": [
@@ -1595,7 +1595,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -1610,7 +1610,7 @@
     "id": "ai-cherry-studio",
     "name": "Cherry Studio",
     "url": "https://cherryai.com/",
-    "description": "Desktop App · Mobile · Discord · GitHub",
+    "description": "桌面端应用程序 · 移动端 · Discord 社区 · GitHub 开源",
     "descriptionEn": "Desktop App / Mobile / Discord / GitHub",
     "category": "ai",
     "tags": [
@@ -1638,7 +1638,7 @@
     "id": "ai-unsloth",
     "name": "⁠Unsloth",
     "url": "https://unsloth.ai/",
-    "description": "Desktop App · 支持自建部署 · Notebooks · Guide · GitHub",
+    "description": "桌面端应用程序 · Self-Hosted · Notebooks · 指南 · GitHub 开源",
     "descriptionEn": "Desktop App / Self-Hosted / Notebooks / Guide / GitHub",
     "category": "ai",
     "tags": [
@@ -1668,7 +1668,7 @@
     "id": "ai-gobbonet",
     "name": "GobboNet",
     "url": "https://goblincorps.com/gobbonet",
-    "description": "Desktop App · GitHub",
+    "description": "桌面端应用程序 · GitHub 开源",
     "descriptionEn": "Desktop App / GitHub",
     "category": "ai",
     "tags": [
@@ -1694,7 +1694,7 @@
     "id": "ai-gpt4free",
     "name": "GPT4Free",
     "url": "https://github.com/xtekky/gpt4free",
-    "description": "Desktop App · Web · Telegram · Discord",
+    "description": "桌面端应用程序 · 网页版 · Telegram 交流群 · Discord 社区",
     "descriptionEn": "Desktop App / Web / Telegram / Discord",
     "category": "ai",
     "tags": [
@@ -1708,7 +1708,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -1722,7 +1722,7 @@
     "id": "ai-msty",
     "name": "Msty",
     "url": "https://msty.ai/",
-    "description": "Desktop App · Discord",
+    "description": "桌面端应用程序 · Discord 社区",
     "descriptionEn": "Desktop App / Discord",
     "category": "ai",
     "tags": [
@@ -1748,7 +1748,7 @@
     "id": "ai-locally-uncensored",
     "name": "⁠Locally Uncensored",
     "url": "https://locallyuncensored.com/",
-    "description": "Desktop App",
+    "description": "桌面端应用程序",
     "descriptionEn": "Desktop App",
     "category": "ai",
     "tags": [
@@ -1774,7 +1774,7 @@
     "id": "ai-kelivo",
     "name": "Kelivo",
     "url": "https://github.com/Chevey339/kelivo",
-    "description": "Desktop App",
+    "description": "桌面端应用程序",
     "descriptionEn": "Desktop App",
     "category": "ai",
     "tags": [
@@ -1788,7 +1788,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -1800,7 +1800,7 @@
     "id": "ai-lemonade",
     "name": "⁠Lemonade",
     "url": "https://lemonade-server.ai/",
-    "description": "Desktop App · Discord · GitHub",
+    "description": "桌面端应用程序 · Discord 社区 · GitHub 开源",
     "descriptionEn": "Desktop App / Discord / GitHub",
     "category": "ai",
     "tags": [
@@ -1826,7 +1826,7 @@
     "id": "ai-chatbox",
     "name": "Chatbox",
     "url": "https://chatboxai.app/",
-    "description": "Desktop App · GitHub",
+    "description": "桌面端应用程序 · GitHub 开源",
     "descriptionEn": "Desktop App / GitHub",
     "category": "ai",
     "tags": [
@@ -1852,7 +1852,7 @@
     "id": "ai-lobehub",
     "name": "LobeHub",
     "url": "https://lobechat.com/chat",
-    "description": "Desktop App · Requires Sign-Up · Discord · GitHub",
+    "description": "桌面端应用程序 · 需注册使用 · Discord 社区 · GitHub 开源",
     "descriptionEn": "Desktop App / Requires Sign-Up / Discord / GitHub",
     "category": "ai",
     "tags": [
@@ -1878,7 +1878,7 @@
     "id": "ai-noi",
     "name": "Noi",
     "url": "https://noib.app/",
-    "description": "Desktop App · Discord · GitHub",
+    "description": "桌面端应用程序 · Discord 社区 · GitHub 开源",
     "descriptionEn": "Desktop App / Discord / GitHub",
     "category": "ai",
     "tags": [
@@ -1904,7 +1904,7 @@
     "id": "ai-odysseus",
     "name": "⁠Odysseus",
     "url": "https://odysseus-dev.github.io/odysseus/",
-    "description": "Web UI · GitHub",
+    "description": "网页版 UI · GitHub 开源",
     "descriptionEn": "Web UI / GitHub",
     "category": "ai",
     "tags": [
@@ -1932,7 +1932,7 @@
     "id": "ai-librechat",
     "name": "LibreChat",
     "url": "https://librechat.ai/",
-    "description": "Web UI · Discord · GitHub",
+    "description": "网页版 UI · Discord 社区 · GitHub 开源",
     "descriptionEn": "Web UI / Discord / GitHub",
     "category": "ai",
     "tags": [
@@ -1960,7 +1960,7 @@
     "id": "ai-lollms",
     "name": "LoLLMs",
     "url": "https://lollms.com/",
-    "description": "Web UI · GitHub",
+    "description": "网页版 UI · GitHub 开源",
     "descriptionEn": "Web UI / GitHub",
     "category": "ai",
     "tags": [
@@ -1988,7 +1988,7 @@
     "id": "ai-anythingllm",
     "name": "AnythingLLM",
     "url": "https://anythingllm.com/",
-    "description": "Desktop App · Discord · GitHub",
+    "description": "桌面端应用程序 · Discord 社区 · GitHub 开源",
     "descriptionEn": "Desktop App / Discord / GitHub",
     "category": "ai",
     "tags": [
@@ -2014,7 +2014,7 @@
     "id": "ai-colibri",
     "name": "⁠Colibri",
     "url": "https://github.com/JustVugg/colibri",
-    "description": "Run GLM 5.2 w · 24GB RAM",
+    "description": "本地运行 GLM 5.2 w · 24GB RAM",
     "descriptionEn": "Run GLM 5.2 w / 24GB RAM",
     "category": "ai",
     "tags": [
@@ -2028,7 +2028,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2040,7 +2040,7 @@
     "id": "ai-tgpt",
     "name": "tgpt",
     "url": "https://github.com/aandrew-me/tgpt",
-    "description": "Command-Line Interface",
+    "description": "命令行交互工具 (CLI)",
     "descriptionEn": "Command-Line Interface",
     "category": "ai",
     "tags": [
@@ -2054,7 +2054,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2066,7 +2066,7 @@
     "id": "ai-ch-at",
     "name": "⁠ch.at",
     "url": "https://github.com/Deep-ai-inc/ch.at",
-    "description": "Language Model Bridge · Lightweight · Minimal",
+    "description": "大语言模型 API 兼容中继接口 · 轻量极简 · 极简",
     "descriptionEn": "Language Model Bridge / Lightweight / Minimal",
     "category": "ai",
     "tags": [
@@ -2080,7 +2080,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2092,7 +2092,7 @@
     "id": "ai-awesome-local-llm",
     "name": "Awesome Local LLM",
     "url": "https://github.com/rafska/awesome-local-llm/",
-    "description": "Local LLM Platforms · Resources",
+    "description": "Local LLM Platforms · 精选资源",
     "descriptionEn": "Local LLM Platforms / Resources",
     "category": "ai",
     "tags": [
@@ -2106,7 +2106,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2118,7 +2118,7 @@
     "id": "ai-llama-cpp",
     "name": "llama.cpp",
     "url": "https://llama.app/",
-    "description": "支持自建部署 Transformer-Based LLMs · GitHub",
+    "description": "Self-Hosted Transformer-Based LLMs · GitHub 开源",
     "descriptionEn": "Self-Hosted Transformer-Based LLMs / GitHub",
     "category": "ai",
     "tags": [
@@ -2148,7 +2148,7 @@
     "id": "ai-koboldcpp",
     "name": "KoboldCpp",
     "url": "https://github.com/LostRuins/koboldcpp",
-    "description": "llama.cpp with API + GUI · ROCm · Colab",
+    "description": "llama.cpp 内置 API + GUI · ROCm · Colab",
     "descriptionEn": "llama.cpp with API + GUI / ROCm / Colab",
     "category": "ai",
     "tags": [
@@ -2164,7 +2164,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -2176,7 +2176,7 @@
     "id": "ai-sonar",
     "name": "Sonar",
     "url": "https://sonar.dphn.ai/",
-    "description": "Serve LLMs at Scale with Kobold & OpenAI APIs · Colab · GitHub",
+    "description": "Serve LLMs at Scale 内置 Kobold & OpenAI APIs · Colab · GitHub 开源",
     "descriptionEn": "Serve LLMs at Scale with Kobold & OpenAI APIs / Colab / GitHub",
     "category": "ai",
     "tags": [
@@ -2204,7 +2204,7 @@
     "id": "ai-leon",
     "name": "Leon",
     "url": "https://getleon.ai/",
-    "description": "支持自建部署 · Discord · GitHub",
+    "description": "Self-Hosted · Discord 社区 · GitHub 开源",
     "descriptionEn": "Self-Hosted / Discord / GitHub",
     "category": "ai",
     "tags": [
@@ -2232,7 +2232,7 @@
     "id": "ai-ollama",
     "name": "Ollama",
     "url": "https://ollama.com/",
-    "description": "支持自建部署 · Discord · GitHub",
+    "description": "Self-Hosted · Discord 社区 · GitHub 开源",
     "descriptionEn": "Self-Hosted / Discord / GitHub",
     "category": "ai",
     "tags": [
@@ -2260,7 +2260,7 @@
     "id": "ai-gpt4all",
     "name": "GPT4All",
     "url": "https://www.nomic.ai/gpt4all",
-    "description": "支持自建部署 · Discord · GitHub",
+    "description": "Self-Hosted · Discord 社区 · GitHub 开源",
     "descriptionEn": "Self-Hosted / Discord / GitHub",
     "category": "ai",
     "tags": [
@@ -2288,7 +2288,7 @@
     "id": "ai-llamafile",
     "name": "llamafile",
     "url": "https://github.com/Mozilla-Ocho/llamafile",
-    "description": "Run LLM with Single Files · Discord",
+    "description": "本地运行 LLM 内置 Single 文件 · Discord 社区",
     "descriptionEn": "Run LLM with Single Files / Discord",
     "category": "ai",
     "tags": [
@@ -2302,7 +2302,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2314,7 +2314,7 @@
     "id": "ai-llm-api-key-proxy",
     "name": "LLM-API-Key-Proxy",
     "url": "https://github.com/Mirrowel/LLM-API-Key-Proxy",
-    "description": "LLM API Key Proxy",
+    "description": "大模型 API Key 聚合分发与反向代理中继",
     "descriptionEn": "LLM API Key Proxy",
     "category": "ai",
     "tags": [
@@ -2328,7 +2328,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2340,7 +2340,7 @@
     "id": "ai-can-i-run-ai-locally",
     "name": "⁠Can I Run AI Locally",
     "url": "https://www.canirun.ai/",
-    "description": "Determine Which AI Models You Can Run Locally",
+    "description": "本地电脑硬件与大模型算力匹配评估",
     "descriptionEn": "Determine Which AI Models You Can Run Locally",
     "category": "ai",
     "tags": [
@@ -2366,7 +2366,7 @@
     "id": "ai-localai",
     "name": "⁠LocalAI",
     "url": "https://localai.io/",
-    "description": "支持自建部署 Models · GitHub",
+    "description": "Self-Hosted 3D 资产模型 · GitHub 开源",
     "descriptionEn": "Self-Hosted Models / GitHub",
     "category": "ai",
     "tags": [
@@ -2394,7 +2394,7 @@
     "id": "ai-sukino-findings",
     "name": "Sukino-Findings",
     "url": "https://rentry.org/Sukino-Findings",
-    "description": "AI Roleplay Resources",
+    "description": "AI 沉浸式角色扮演资源库",
     "descriptionEn": "AI Roleplay Resources",
     "category": "ai",
     "tags": [
@@ -2408,7 +2408,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2420,7 +2420,7 @@
     "id": "ai-perchance",
     "name": "Perchance",
     "url": "https://perchance.org/ai-character-chat",
-    "description": "Roleplaying + Images · No Sign-Up · Unlimited · Some NSFW · Resources · Lemmy · Subreddit · Discord",
+    "description": "互动角色扮演 + 图像插画 · 免注册直接使用 · 无使用额度限制 · Some NSFW · 精选资源 · Lemmy · Reddit 讨论区 · Discord 社区",
     "descriptionEn": "Roleplaying + Images / No Sign-Up / Unlimited / Some NSFW / Resources / Lemmy / Subreddit / Discord",
     "category": "ai",
     "tags": [
@@ -2448,7 +2448,7 @@
     "id": "ai-pygmalionai",
     "name": "PygmalionAI",
     "url": "https://pygmalion.chat/",
-    "description": "Roleplaying Chatbots · Unlimited (Free Models) · Sign-Up · Guide · Resources · Subreddit · Discord · GitHub",
+    "description": "互动角色扮演聊天机器人 · 无使用额度限制 (免费 3D 资产模型) · 需注册账号 · 指南 · 精选资源 · Reddit 讨论区 · Discord 社区 · GitHub 开源",
     "descriptionEn": "Roleplaying Chatbots / Unlimited (Free Models) / Sign-Up / Guide / Resources / Subreddit / Discord / GitHub",
     "category": "ai",
     "tags": [
@@ -2476,7 +2476,7 @@
     "id": "ai-agnai",
     "name": "Agnai",
     "url": "https://agnai.chat/",
-    "description": "Chatbot Builders + Roleplaying + Images · Unlimited · Some NSFW · Discord",
+    "description": "对话助手 Builders + 互动角色扮演 + 图像插画 · 无使用额度限制 · Some NSFW · Discord 社区",
     "descriptionEn": "Chatbot Builders + Roleplaying + Images / Unlimited / Some NSFW / Discord",
     "category": "ai",
     "tags": [
@@ -2504,7 +2504,7 @@
     "id": "ai-flowgpt",
     "name": "FlowGPT",
     "url": "https://flowgpt.com",
-    "description": "Roleplaying Chatbots · Unlimited (Model-Ares) · Some NSFW · Discord",
+    "description": "互动角色扮演聊天机器人 · 无使用额度限制 (3D 资产-Ares) · Some NSFW · Discord 社区",
     "descriptionEn": "Roleplaying Chatbots / Unlimited (Model-Ares) / Some NSFW / Discord",
     "category": "ai",
     "tags": [
@@ -2532,7 +2532,7 @@
     "id": "ai-hammerai",
     "name": "HammerAI",
     "url": "https://www.hammerai.com/characters",
-    "description": "Chatbot Builder + Roleplaying + Images · Unlimited · Some NSFW · Local · Discord · Subreddit · X",
+    "description": "对话助手 Builder + 互动角色扮演 + 图像插画 · 无使用额度限制 · Some NSFW · Local · Discord 社区 · Reddit 讨论区 · X",
     "descriptionEn": "Chatbot Builder + Roleplaying + Images / Unlimited / Some NSFW / Local / Discord / Subreddit / X",
     "category": "ai",
     "tags": [
@@ -2558,7 +2558,7 @@
     "id": "ai-miku",
     "name": "Miku",
     "url": "https://docs.miku.gg/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -2584,7 +2584,7 @@
     "id": "ai-4thwall-ai",
     "name": "4thWall AI",
     "url": "https://beta.4wall.ai/",
-    "description": "Roleplaying Chatbots · No Sign-Up",
+    "description": "互动角色扮演聊天机器人 · 免注册直接使用",
     "descriptionEn": "Roleplaying Chatbots / No Sign-Up",
     "category": "ai",
     "tags": [
@@ -2610,7 +2610,7 @@
     "id": "ai-ai-dungeon",
     "name": "AI Dungeon",
     "url": "https://aidungeon.com/",
-    "description": "Roleplaying + Story Chatbot · No Sign-Up",
+    "description": "互动角色扮演 + Story 对话助手 · 免注册直接使用",
     "descriptionEn": "Roleplaying + Story Chatbot / No Sign-Up",
     "category": "ai",
     "tags": [
@@ -2636,7 +2636,7 @@
     "id": "ai-koboldai-web",
     "name": "KoboldAI Web",
     "url": "https://lite.koboldai.net/",
-    "description": "Roleplaying + Images · No Sign-Up · Unlimited · Some NSFW · Discord",
+    "description": "互动角色扮演 + 图像插画 · 免注册直接使用 · 无使用额度限制 · Some NSFW · Discord 社区",
     "descriptionEn": "Roleplaying + Images / No Sign-Up / Unlimited / Some NSFW / Discord",
     "category": "ai",
     "tags": [
@@ -2664,7 +2664,7 @@
     "id": "ai-verba",
     "name": "Verba",
     "url": "https://verba.ink/",
-    "description": "Roleplaying + Images · Unlimited · Discord",
+    "description": "互动角色扮演 + 图像插画 · 无使用额度限制 · Discord 社区",
     "descriptionEn": "Roleplaying + Images / Unlimited / Discord",
     "category": "ai",
     "tags": [
@@ -2690,7 +2690,7 @@
     "id": "ai-tavernai",
     "name": "TavernAI",
     "url": "https://tavernai.net/",
-    "description": "Roleplaying · Story Chatbot · Colab · Discord · GitHub",
+    "description": "互动角色扮演 · Story 对话助手 · Colab · Discord 社区 · GitHub 开源",
     "descriptionEn": "Roleplaying / Story Chatbot / Colab / Discord / GitHub",
     "category": "ai",
     "tags": [
@@ -2716,7 +2716,7 @@
     "id": "ai-koboldai",
     "name": "KoboldAI",
     "url": "https://koboldai.com/",
-    "description": "GUI for Roleplaying Chatbots · No Sign-Up · Discord · GitHub",
+    "description": "GUI 面向互动角色扮演聊天机器人 · 免注册直接使用 · Discord 社区 · GitHub 开源",
     "descriptionEn": "GUI for Roleplaying Chatbots / No Sign-Up / Discord / GitHub",
     "category": "ai",
     "tags": [
@@ -2742,7 +2742,7 @@
     "id": "ai-crossing-the-uncanny-val",
     "name": "Crossing the Uncanny Valley",
     "url": "https://www.sesame.com/blog/crossing-the-uncanny-valley-of-voice#demo",
-    "description": "Realistic AI Voice Chat",
+    "description": "拟真 AI 语音实时双向对话",
     "descriptionEn": "Realistic AI Voice Chat",
     "category": "ai",
     "tags": [
@@ -2768,7 +2768,7 @@
     "id": "ai-your-ai-slop-bores-me",
     "name": "⁠your ai slop bores me",
     "url": "https://youraislopbores.me/",
-    "description": "Interactive Human AI Roleplaying",
+    "description": "沉浸式拟人 AI 交互角色扮演平台",
     "descriptionEn": "Interactive Human AI Roleplaying",
     "category": "ai",
     "tags": [
@@ -2794,7 +2794,7 @@
     "id": "ai-lumiverse",
     "name": "⁠Lumiverse",
     "url": "https://lumiverse.chat/",
-    "description": "支持自建部署 Roleplaying Models",
+    "description": "Self-Hosted 互动角色扮演 3D 资产模型",
     "descriptionEn": "Self-Hosted Roleplaying Models",
     "category": "ai",
     "tags": [
@@ -2822,7 +2822,7 @@
     "id": "ai-marinara-engine",
     "name": "Marinara Engine",
     "url": "https://github.com/Pasta-Devs/Marinara-Engine",
-    "description": "支持自建部署 Roleplaying Models",
+    "description": "Self-Hosted 互动角色扮演 3D 资产模型",
     "descriptionEn": "Self-Hosted Roleplaying Models",
     "category": "ai",
     "tags": [
@@ -2836,7 +2836,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2850,7 +2850,7 @@
     "id": "ai-vbench",
     "name": "VBench",
     "url": "https://huggingface.co/spaces/Vchitect/VBench_Leaderboard",
-    "description": "Video Generation Model Leaderboard",
+    "description": "全球 AI 视频生成大模型跑分天梯榜",
     "descriptionEn": "Video Generation Model Leaderboard",
     "category": "ai",
     "tags": [
@@ -2876,7 +2876,7 @@
     "id": "ai-google-flow",
     "name": "Google Flow",
     "url": "https://flow.google.com/",
-    "description": "Veo 3.1 · Veo 3.1 Lite · Omni Flash · 50 Credits Daily · Google Sign-Up · Android · iOS · Discord",
+    "description": "Veo 3.1 · Veo 3.1 Lite · Omni Flash · 每日赠送 50 点算力额度 · Google 需注册账号 · Android · iOS · Discord 社区",
     "descriptionEn": "Veo 3.1 / Veo 3.1 Lite / Omni Flash / 50 Credits Daily / Google Sign-Up / Android / iOS / Discord",
     "category": "ai",
     "tags": [
@@ -2907,7 +2907,7 @@
     "id": "ai-vibes",
     "name": "Vibes",
     "url": "https://vibes.ai/",
-    "description": "Unlimited · Meta Sign-Up",
+    "description": "无使用额度限制 · Meta 需注册账号",
     "descriptionEn": "Unlimited / Meta Sign-Up",
     "category": "ai",
     "tags": [
@@ -2933,7 +2933,7 @@
     "id": "ai-arena-3",
     "name": "Arena",
     "url": "https://arena.ai/video",
-    "description": "2 Daily · Sign-Up · Random Models · End-Watermark · X · Discord",
+    "description": "每日免费 2 次 · 需注册账号 · Random 3D 资产模型 · End-Watermark · X · Discord 社区",
     "descriptionEn": "2 Daily / Sign-Up / Random Models / End-Watermark / X / Discord",
     "category": "ai",
     "tags": [
@@ -2959,7 +2959,7 @@
     "id": "ai-design-arena",
     "name": "Design Arena",
     "url": "https://www.designarena.ai/",
-    "description": "Multiple Models · Video Editing · Random Models · Reset Limits · w Temp Mail · X · Discord",
+    "description": "Multiple 3D 资产模型 · 影视视频 Editing · Random 3D 资产模型 · Reset Limits · w Temp Mail · X · Discord 社区",
     "descriptionEn": "Multiple Models / Video Editing / Random Models / Reset Limits / w Temp Mail / X / Discord",
     "category": "ai",
     "tags": [
@@ -2985,7 +2985,7 @@
     "id": "ai-wan-ai",
     "name": "Wan AI",
     "url": "https://create.wan.video/explore/video/generate?model=wan2.7",
-    "description": "Wan 2.7 · Image to Video · 10 Credits Daily (Fast Credit Based, Slow Unlimited) · GitHub",
+    "description": "Wan 2.7 · 高清图像至 影视视频 · 每日赠送 10 点算力额度 (高速积分 Based · Slow 无使用额度限制) · GitHub 开源",
     "descriptionEn": "Wan 2.7 / Image to Video / 10 Credits Daily (Fast Credit Based, Slow Unlimited) / GitHub",
     "category": "ai",
     "tags": [
@@ -3011,7 +3011,7 @@
     "id": "ai-klipy",
     "name": "⁠Klipy",
     "url": "https://klipy.com/create/gif-maker/",
-    "description": "Veo 3 · GIF Only · 4s-5s · 4 Daily · Sign-Up",
+    "description": "Veo 3 · GIF Only · 4s-5s · 每日免费 4 次 · 需注册账号",
     "descriptionEn": "Veo 3 / GIF Only / 4s-5s / 4 Daily / Sign-Up",
     "category": "ai",
     "tags": [
@@ -3037,7 +3037,7 @@
     "id": "ai-aifreevideo",
     "name": "AIFreeVideo",
     "url": "https://aifreevideo.com/",
-    "description": "Unlimited · MiniMax Video-01 · Sign-Up",
+    "description": "无使用额度限制 · MiniMax 影视视频-01 · 需注册账号",
     "descriptionEn": "Unlimited / MiniMax Video-01 / Sign-Up",
     "category": "ai",
     "tags": [
@@ -3063,7 +3063,7 @@
     "id": "ai-modelscope-video",
     "name": "ModelScope Video",
     "url": "https://modelscope.ai/civision/video-generation",
-    "description": "Wan 2.2 14B · 3 Daily · Note",
+    "description": "Wan 2.2 14B · 每日免费 3 次 · 附注意事项",
     "descriptionEn": "Wan 2.2 14B / 3 Daily / Note",
     "category": "ai",
     "tags": [
@@ -3089,7 +3089,7 @@
     "id": "ai-pixverse",
     "name": "PixVerse",
     "url": "https://pixverse.ai/",
-    "description": "3 Daily · Discord",
+    "description": "每日免费 3 次 · Discord 社区",
     "descriptionEn": "3 Daily / Discord",
     "category": "ai",
     "tags": [
@@ -3115,7 +3115,7 @@
     "id": "ai-framepack",
     "name": "FramePack",
     "url": "https://github.com/colinurbs/FramePack-Studio",
-    "description": "Desktop App · Local Models · Requires NVIDIA GPU",
+    "description": "桌面端应用程序 · Local 3D 资产模型 · 需要 NVIDIA GPU",
     "descriptionEn": "Desktop App / Local Models / Requires NVIDIA GPU",
     "category": "ai",
     "tags": [
@@ -3129,7 +3129,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3141,7 +3141,7 @@
     "id": "ai-amuse",
     "name": "⁠Amuse",
     "url": "https://github.com/saddam213/AmuseAI",
-    "description": "Desktop App · Local Models · X",
+    "description": "桌面端应用程序 · Local 3D 资产模型 · X",
     "descriptionEn": "Desktop App / Local Models / X",
     "category": "ai",
     "tags": [
@@ -3155,7 +3155,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3167,7 +3167,7 @@
     "id": "ai-eggnog",
     "name": "Eggnog",
     "url": "https://www.eggnog.ai/",
-    "description": "AI Character Video Remixer + Editor",
+    "description": "AI 角色视频混剪与重绘编辑器",
     "descriptionEn": "AI Character Video Remixer + Editor",
     "category": "ai",
     "tags": [
@@ -3193,7 +3193,7 @@
     "id": "ai-pinokio",
     "name": "⁠Pinokio",
     "url": "https://pinokio.co/",
-    "description": "Plugin-Based · 支持自建部署 · NVIDIA Required",
+    "description": "扩展插件-Based · Self-Hosted · NVIDIA 需验证",
     "descriptionEn": "Plugin-Based / Self-Hosted / NVIDIA Required",
     "category": "ai",
     "tags": [
@@ -3221,7 +3221,7 @@
     "id": "ai-awesome-opus-5-5-videos",
     "name": "⁠Awesome Opus 5.5 Videos",
     "url": "https://skillry.dev/ai-videos/opus-5-5",
-    "description": "Video Gen Prompts · GitHub",
+    "description": "影视视频 Gen 提示词库 · GitHub 开源",
     "descriptionEn": "Video Gen Prompts / GitHub",
     "category": "ai",
     "tags": [
@@ -3247,7 +3247,7 @@
     "id": "ai-arena-text-to-image",
     "name": "Arena Text to Image",
     "url": "https://arena.ai/leaderboard/text-to-image",
-    "description": "Image Gen Benchmarks · Leaderboards",
+    "description": "高清图像 Gen 性能跑分 · 天梯榜",
     "descriptionEn": "Image Gen Benchmarks / Leaderboards",
     "category": "ai",
     "tags": [
@@ -3273,7 +3273,7 @@
     "id": "ai-bing-create",
     "name": "Bing Create",
     "url": "https://www.bing.com/images/create",
-    "description": "Unlimited · MAI-Image-2.5-Flash · Editing · Generating · Sign-Up",
+    "description": "无使用额度限制 · MAI-高清图像-2.5-Flash · Editing · Generating · 需注册账号",
     "descriptionEn": "Unlimited / MAI-Image-2.5-Flash / Editing / Generating / Sign-Up",
     "category": "ai",
     "tags": [
@@ -3299,7 +3299,7 @@
     "id": "ai-google-ai-studio-2",
     "name": "Google AI Studio",
     "url": "https://aistudio.google.com/generate-image",
-    "description": "Nano Banana 2 Lite · Editing · Google Login · Discord",
+    "description": "Nano Banana 2 Lite · Editing · Google 登录 · Discord 社区",
     "descriptionEn": "Nano Banana 2 Lite / Editing / Google Login / Discord",
     "category": "ai",
     "tags": [
@@ -3325,7 +3325,7 @@
     "id": "ai-perchance-2",
     "name": "Perchance",
     "url": "https://perchance.org/ai-photo-generator",
-    "description": "Chroma-Based · Unlimited · Resources · Lemmy · Subreddit · Discord",
+    "description": "Chroma-Based · 无使用额度限制 · 精选资源 · Lemmy · Reddit 讨论区 · Discord 社区",
     "descriptionEn": "Chroma-Based / Unlimited / Resources / Lemmy / Subreddit / Discord",
     "category": "ai",
     "tags": [
@@ -3351,7 +3351,7 @@
     "id": "ai-wan-ai-image",
     "name": "Wan AI Image",
     "url": "https://create.wan.video/explore/image/generate?model=wan2.7-pro",
-    "description": "Wan 2.7 Pro · Wan 2.6 · 10 Credits Daily (Fast Credit Based, Slow Unlimited) · Sign-Up",
+    "description": "Wan 2.7 Pro · Wan 2.6 · 每日赠送 10 点算力额度 (高速积分 Based · Slow 无使用额度限制) · 需注册账号",
     "descriptionEn": "Wan 2.7 Pro / Wan 2.6 / 10 Credits Daily (Fast Credit Based, Slow Unlimited) / Sign-Up",
     "category": "ai",
     "tags": [
@@ -3377,7 +3377,7 @@
     "id": "ai-opensourcegen",
     "name": "OpenSourceGen",
     "url": "https://opensourcegen.com/",
-    "description": "Hunyuan Image 3.0 · Z-Image Turbo · 1500 Credits Per Day · Sign-Up · Discord",
+    "description": "Hunyuan 高清图像 3.0 · Z-高清图像 Turbo · 1500 积分额度 Per Day · 需注册账号 · Discord 社区",
     "descriptionEn": "Hunyuan Image 3.0 / Z-Image Turbo / 1500 Credits Per Day / Sign-Up / Discord",
     "category": "ai",
     "tags": [
@@ -3403,7 +3403,7 @@
     "id": "ai-recraft",
     "name": "Recraft",
     "url": "https://www.recraft.ai/",
-    "description": "30 Daily · Sign-Up · Discord",
+    "description": "每日免费 30 次 · 需注册账号 · Discord 社区",
     "descriptionEn": "30 Daily / Sign-Up / Discord",
     "category": "ai",
     "tags": [
@@ -3429,7 +3429,7 @@
     "id": "ai-theresanaiforthat",
     "name": "TheresAnAIForThat",
     "url": "https://theresanaiforthat.com/@taaft/image-to-image-generator/",
-    "description": "Editing · Unlimited · Flux Kontext Dev",
+    "description": "Editing · 无使用额度限制 · Flux Kontext Dev",
     "descriptionEn": "Editing / Unlimited / Flux Kontext Dev",
     "category": "ai",
     "tags": [
@@ -3455,7 +3455,7 @@
     "id": "ai-photogpt",
     "name": "⁠PhotoGPT",
     "url": "https://photogpt.io/",
-    "description": "8 Daily · Multiple Generators · Reset Limits w · 经过审计的无日志隐私 VPN 隧道",
+    "description": "每日免费 8 次 · 内置多种生成模型 · Reset Limits w · VPN",
     "descriptionEn": "8 Daily / Multiple Generators / Reset Limits w / VPN",
     "category": "ai",
     "tags": [
@@ -3481,7 +3481,7 @@
     "id": "ai-arena-4",
     "name": "Arena",
     "url": "https://arena.ai/image/direct",
-    "description": "Multiple Generators · Editing · 15 Daily · Sign-Up · X · Discord",
+    "description": "内置多种生成模型 · Editing · 每日免费 15 次 · 需注册账号 · X · Discord 社区",
     "descriptionEn": "Multiple Generators / Editing / 15 Daily / Sign-Up / X / Discord",
     "category": "ai",
     "tags": [
@@ -3507,7 +3507,7 @@
     "id": "ai-mai-playground",
     "name": "⁠MAI Playground",
     "url": "https://playground.microsoft.ai/chat",
-    "description": "MAI-Image-2.5 · MAI-Image-2.5 Flash · MAI-Image-2.5-Pro · 10 Daily · Sign-Up",
+    "description": "MAI-高清图像-2.5 · MAI-高清图像-2.5 Flash · MAI-高清图像-2.5-Pro · 每日免费 10 次 · 需注册账号",
     "descriptionEn": "MAI-Image-2.5 / MAI-Image-2.5 Flash / MAI-Image-2.5-Pro / 10 Daily / Sign-Up",
     "category": "ai",
     "tags": [
@@ -3533,7 +3533,7 @@
     "id": "ai-modelscope-images",
     "name": "ModelScope Images",
     "url": "https://modelscope.ai/civision/image-generation",
-    "description": "Qwen Image Edit · Z-Image Turbo · 100 Credits Daily · Model Cost Varies · Note",
+    "description": "Qwen 高清图像 Edit · Z-高清图像 Turbo · 每日赠送 100 点算力额度 · 不同大模型消耗额度不同 · 附注意事项",
     "descriptionEn": "Qwen Image Edit / Z-Image Turbo / 100 Credits Daily / Model Cost Varies / Note",
     "category": "ai",
     "tags": [
@@ -3559,7 +3559,7 @@
     "id": "ai-z-gen-turbo",
     "name": "Z-GEN TURBO",
     "url": "https://z-gen-turbo.vercel.app/",
-    "description": "Z-Image Turbo",
+    "description": "Z-高清图像 Turbo",
     "descriptionEn": "Z-Image Turbo",
     "category": "ai",
     "tags": [
@@ -3585,7 +3585,7 @@
     "id": "ai-ernie--hf",
     "name": "ERNIE (HF)",
     "url": "https://huggingface.co/spaces/akhaliq/ERNIE-Image-Turbo",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -3611,7 +3611,7 @@
     "id": "ai-chatgpt-images",
     "name": "⁠ChatGPT Images",
     "url": "https://chatgpt.com/images/",
-    "description": "GPT Image 2 · 8 Daily · Sign-Up",
+    "description": "GPT 高清图像 2 · 每日免费 8 次 · 需注册账号",
     "descriptionEn": "GPT Image 2 / 8 Daily / Sign-Up",
     "category": "ai",
     "tags": [
@@ -3637,7 +3637,7 @@
     "id": "ai-mage",
     "name": "Mage",
     "url": "https://www.mage.space/",
-    "description": "Flux Schnell",
+    "description": "Flux Schnell (AI 领域专业实用工具)",
     "descriptionEn": "Flux Schnell",
     "category": "ai",
     "tags": [
@@ -3663,7 +3663,7 @@
     "id": "ai-coze",
     "name": "⁠Coze",
     "url": "https://space.coze.cn/",
-    "description": "Seadream 4.0 · 50 Daily · Sign-Up with Phone # · US Select CA",
+    "description": "Seadream 4.0 · 每日免费 50 次 · 需注册账号内置手机号 # · US Select CA",
     "descriptionEn": "Seadream 4.0 / 50 Daily / Sign-Up with Phone # / US Select CA",
     "category": "ai",
     "tags": [
@@ -3689,7 +3689,7 @@
     "id": "ai-diffusers-image-outpaint",
     "name": "Diffusers Image Outpaint",
     "url": "https://huggingface.co/spaces/fffiloni/diffusers-image-outpaint",
-    "description": "AI Image Extender · Limits",
+    "description": "AI 高清图像 Extender · 存在调用额度限制",
     "descriptionEn": "AI Image Extender / Limits",
     "category": "ai",
     "tags": [
@@ -3715,7 +3715,7 @@
     "id": "ai-genie",
     "name": "Genie",
     "url": "https://lumalabs.ai/genie",
-    "description": "3D AI 图像生成工作流s",
+    "description": "3D 高清图像生成工具",
     "descriptionEn": "3D Image Generators",
     "category": "ai",
     "tags": [
@@ -3741,7 +3741,7 @@
     "id": "ai-interactive-scenes",
     "name": "Interactive Scenes",
     "url": "https://lumalabs.ai/interactive-scenes",
-    "description": "Generate Interactive Scenes · Discord",
+    "description": "Generate 交互式 Scenes · Discord 社区",
     "descriptionEn": "Generate Interactive Scenes / Discord",
     "category": "ai",
     "tags": [
@@ -3767,7 +3767,7 @@
     "id": "ai-illusion-diffusion",
     "name": "Illusion Diffusion",
     "url": "https://huggingface.co/spaces/AP123/IllusionDiffusion",
-    "description": "Illusion Artwork Generator · Limits",
+    "description": "Illusion Artwork 生成器 · 存在调用额度限制",
     "descriptionEn": "Illusion Artwork Generator / Limits",
     "category": "ai",
     "tags": [
@@ -3793,7 +3793,7 @@
     "id": "ai-stability-matrix",
     "name": "Stability Matrix",
     "url": "https://lykos.ai/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -3821,7 +3821,7 @@
     "id": "ai-invoke",
     "name": "Invoke",
     "url": "https://invoke.ai/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -3849,7 +3849,7 @@
     "id": "ai-comfyui",
     "name": "ComfyUI",
     "url": "https://www.comfy.org/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -3877,7 +3877,7 @@
     "id": "ai-fooocus",
     "name": "Fooocus",
     "url": "https://github.com/lllyasviel/Fooocus",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -3893,7 +3893,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -3905,7 +3905,7 @@
     "id": "ai-mochi-diffusion",
     "name": "Mochi Diffusion",
     "url": "https://github.com/MochiDiffusion/MochiDiffusion",
-    "description": "Stable Diffusion for Mac · Discord",
+    "description": "Stable Diffusion 面向 Mac · Discord 社区",
     "descriptionEn": "Stable Diffusion for Mac / Discord",
     "category": "ai",
     "tags": [
@@ -3921,7 +3921,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -3935,7 +3935,7 @@
     "id": "ai-sdnext",
     "name": "SDNext",
     "url": "https://github.com/vladmandic/sdnext",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -3949,7 +3949,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3963,7 +3963,7 @@
     "id": "ai-easy-diffusion",
     "name": "Easy Diffusion",
     "url": "https://easydiffusion.github.io/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -3989,7 +3989,7 @@
     "id": "ai-makeayo",
     "name": "Makeayo",
     "url": "https://makeayo.com",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -4015,7 +4015,7 @@
     "id": "ai-biniou",
     "name": "biniou",
     "url": "https://github.com/Woolverine94/biniou",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -4029,7 +4029,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4041,7 +4041,7 @@
     "id": "ai-sygil-webui",
     "name": "Sygil WebUI",
     "url": "https://sygil-dev.github.io/sygil-webui/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -4069,7 +4069,7 @@
     "id": "ai-radiata",
     "name": "Radiata",
     "url": "https://ddpn08.github.io/Radiata/en/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -4095,7 +4095,7 @@
     "id": "ai-sd-webui-forge",
     "name": "SD WebUI Forge",
     "url": "https://github.com/Haoming02/sd-webui-forge-classic/tree/neo",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -4109,7 +4109,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4123,7 +4123,7 @@
     "id": "ai-comfyui-zluda",
     "name": "ComfyUI-Zluda",
     "url": "https://github.com/patientx/ComfyUI-Zluda",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -4137,7 +4137,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4149,7 +4149,7 @@
     "id": "ai-paper2gui",
     "name": "Paper2GUI",
     "url": "https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md",
-    "description": "AI Image Resources",
+    "description": "AI 图像生成、提示词与画风资源库",
     "descriptionEn": "AI Image Resources",
     "category": "ai",
     "tags": [
@@ -4163,7 +4163,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4175,7 +4175,7 @@
     "id": "ai-civitai",
     "name": "Civitai",
     "url": "https://civitai.com/",
-    "description": "SD Model Index · Archive · Subreddit · Discord · GitHub",
+    "description": "SD 3D 资产索引目录 · 归档库 · Reddit 讨论区 · Discord 社区 · GitHub 开源",
     "descriptionEn": "SD Model Index / Archive / Subreddit / Discord / GitHub",
     "category": "ai",
     "tags": [
@@ -4201,7 +4201,7 @@
     "id": "ai-awesome-gpt-image",
     "name": "⁠Awesome GPT Image",
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2",
-    "description": "Image Prompt Indexes",
+    "description": "AI 生图高质量提示词与画风索引库",
     "descriptionEn": "Image Prompt Indexes",
     "category": "ai",
     "tags": [
@@ -4215,7 +4215,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4227,7 +4227,7 @@
     "id": "ai-a-traveler-s-guide-to-th",
     "name": "A Traveler's Guide to the Latent Space",
     "url": "https://sweet-hall-e72.notion.site/A-Traveler-s-Guide-to-the-Latent-Space-85efba7e5e6a40e5bd3cae980f30235f",
-    "description": "AI Art Guide",
+    "description": "AI Art 指南",
     "descriptionEn": "AI Art Guide",
     "category": "ai",
     "tags": [
@@ -4255,7 +4255,7 @@
     "id": "ai-imagepromptguru",
     "name": "⁠ImagePromptGuru",
     "url": "https://imagepromptguru.net/",
-    "description": "Determine Image Prompts",
+    "description": "硬件评估高清图像提示词库",
     "descriptionEn": "Determine Image Prompts",
     "category": "ai",
     "tags": [
@@ -4281,7 +4281,7 @@
     "id": "ai-sd-dynamic-prompts",
     "name": "SD Dynamic Prompts",
     "url": "https://github.com/adieyal/sd-dynamic-prompts",
-    "description": "Extension for Automatic1111",
+    "description": "扩展插件面向 Automatic1111",
     "descriptionEn": "Extension for Automatic1111",
     "category": "ai",
     "tags": [
@@ -4295,7 +4295,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4309,7 +4309,7 @@
     "id": "ai-ai-horde",
     "name": "AI Horde",
     "url": "https://stablehorde.net/",
-    "description": "Stable Diffusion GPU Horde · Interface, 2, 3 · Discord · GitHub",
+    "description": "Stable Diffusion GPU Horde · Interface · 2 · 3 · Discord 社区 · GitHub 开源",
     "descriptionEn": "Stable Diffusion GPU Horde / Interface, 2, 3 / Discord / GitHub",
     "category": "ai",
     "tags": [
@@ -4335,7 +4335,7 @@
     "id": "ai-iopaint",
     "name": "IOPaint",
     "url": "https://www.iopaint.com/",
-    "description": "Image Fill · Item Removal · Colab",
+    "description": "高清图像 Fill · Item Removal · Colab",
     "descriptionEn": "Image Fill / Item Removal / Colab",
     "category": "ai",
     "tags": [
@@ -4361,7 +4361,7 @@
     "id": "ai-generative-ai-for-beginn",
     "name": "Generative AI for Beginners",
     "url": "https://microsoft.github.io/generative-ai-for-beginners/",
-    "description": "Generative AI Guides",
+    "description": "Generative AI 教程与指南",
     "descriptionEn": "Generative AI Guides",
     "category": "ai",
     "tags": [
@@ -4387,7 +4387,7 @@
     "id": "ai-synthid",
     "name": "⁠SynthID",
     "url": "https://synthid.com/",
-    "description": "Identify AI SynthID Watermarks (Google, Nvidia, OpenAI, Kakao Only)",
+    "description": "Identify AI SynthID Watermarks (Google · Nvidia · OpenAI · Kakao Only) (AI 领域专业实用工具)",
     "descriptionEn": "Identify AI SynthID Watermarks (Google, Nvidia, OpenAI, Kakao Only)",
     "category": "ai",
     "tags": [
@@ -4413,7 +4413,7 @@
     "id": "ai-suno",
     "name": "Suno",
     "url": "https://suno.com/",
-    "description": "10 Daily · Guide · Discord",
+    "description": "每日免费 10 次 · 指南 · Discord 社区",
     "descriptionEn": "10 Daily / Guide / Discord",
     "category": "ai",
     "tags": [
@@ -4441,7 +4441,7 @@
     "id": "ai-treblo",
     "name": "Treblo",
     "url": "https://treblo.com/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -4467,7 +4467,7 @@
     "id": "ai-google-flow-music",
     "name": "Google Flow Music",
     "url": "https://www.flowmusic.app/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -4493,7 +4493,7 @@
     "id": "ai-wolframtones",
     "name": "WolframTones",
     "url": "https://tones.wolfram.com/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -4519,7 +4519,7 @@
     "id": "ai-stable-audio",
     "name": "Stable Audio",
     "url": "https://www.stableaudio.com/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -4545,7 +4545,7 @@
     "id": "ai-musicgen",
     "name": "MusicGen",
     "url": "https://github.com/facebookresearch/audiocraft/blob/main/docs/MUSICGEN.md",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -4559,7 +4559,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4571,7 +4571,7 @@
     "id": "ai-waveformer",
     "name": "Waveformer",
     "url": "https://github.com/fofr/waveformer",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -4585,7 +4585,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4597,7 +4597,7 @@
     "id": "ai-soundraw",
     "name": "SOUNDRAW",
     "url": "https://soundraw.io/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -4623,7 +4623,7 @@
     "id": "ai-yue2-3b",
     "name": "⁠YuE2-3B",
     "url": "https://huggingface.co/m-a-p/YuE2-3B",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -4649,7 +4649,7 @@
     "id": "ai-ace-step-1-5",
     "name": "⁠ACE-Step 1.5",
     "url": "https://huggingface.co/spaces/ACE-Step/Ace-Step-v1.5",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -4675,7 +4675,7 @@
     "id": "ai-mubert",
     "name": "Mubert",
     "url": "https://mubert.com/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -4701,7 +4701,7 @@
     "id": "ai-aiva",
     "name": "AIVA",
     "url": "https://aiva.ai/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -4727,7 +4727,7 @@
     "id": "ai-boomy",
     "name": "Boomy",
     "url": "https://boomy.com/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -4753,7 +4753,7 @@
     "id": "ai-musicgpt",
     "name": "⁠MusicGPT",
     "url": "https://musicgpt.com/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -4779,7 +4779,7 @@
     "id": "ai-ai-jukebox",
     "name": "AI Jukebox",
     "url": "https://huggingface.co/spaces/enzostvs/ai-jukebox",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -4805,7 +4805,7 @@
     "id": "ai-eapy",
     "name": "Eapy",
     "url": "https://home.eapy.io/",
-    "description": "MIDI Sample Generator",
+    "description": "MIDI Sample 生成器",
     "descriptionEn": "MIDI Sample Generator",
     "category": "ai",
     "tags": [
@@ -4831,7 +4831,7 @@
     "id": "ai-pack-generator",
     "name": "Pack Generator",
     "url": "https://output.com/products/pack-generator",
-    "description": "Sample Pack Generator",
+    "description": "Sample Pack 生成器",
     "descriptionEn": "Sample Pack Generator",
     "category": "ai",
     "tags": [
@@ -4857,7 +4857,7 @@
     "id": "ai-mmaudio",
     "name": "MMAudio",
     "url": "https://hkchengrex.com/MMAudio/",
-    "description": "Generate Audio for Silent Videos · Demo · Colab · GitHub",
+    "description": "Generate 无损音频面向 Silent 高清视频 · Demo · Colab · GitHub 开源",
     "descriptionEn": "Generate Audio for Silent Videos / Demo / Colab / GitHub",
     "category": "ai",
     "tags": [
@@ -4883,7 +4883,7 @@
     "id": "ai-awesome-ai-sound",
     "name": "Awesome AI Sound",
     "url": "https://github.com/wildminder/awesome-ai-voice",
-    "description": "TTS + Voice Generation Model Index",
+    "description": "TTS + 实时语音生成 3D 资产索引目录",
     "descriptionEn": "TTS + Voice Generation Model Index",
     "category": "ai",
     "tags": [
@@ -4897,7 +4897,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4909,7 +4909,7 @@
     "id": "ai-arena-tts",
     "name": "Arena TTS",
     "url": "https://voiceofindia.ai/",
-    "description": "文本转语音 (TTS) Model Benchmarks · Leaderboards",
+    "description": "Text 至 Speech 3D 资产性能跑分 · 天梯榜",
     "descriptionEn": "Text to Speech Model Benchmarks / Leaderboards",
     "category": "ai",
     "tags": [
@@ -4935,7 +4935,7 @@
     "id": "ai-tts-online",
     "name": "TTS Online",
     "url": "https://www.text-to-speech.online/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -4963,7 +4963,7 @@
     "id": "ai-audiblez",
     "name": "Audiblez",
     "url": "https://github.com/santinic/audiblez",
-    "description": "Convert Books · Documents to Audiobooks",
+    "description": "Convert 电子书图书 · Documents 至有声书",
     "descriptionEn": "Convert Books / Documents to Audiobooks",
     "category": "ai",
     "tags": [
@@ -4977,7 +4977,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4989,7 +4989,7 @@
     "id": "ai-google-illuminate",
     "name": "Google Illuminate",
     "url": "https://illuminate.google.com/",
-    "description": "Generate AI Conversations",
+    "description": "Generate AI Conversations (AI 领域专业实用工具)",
     "descriptionEn": "Generate AI Conversations",
     "category": "ai",
     "tags": [
@@ -5015,7 +5015,7 @@
     "id": "ai-elevenlabs",
     "name": "ElevenLabs",
     "url": "https://elevenlabs.io/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -5041,7 +5041,7 @@
     "id": "ai-google-speech-gen",
     "name": "Google Speech Gen",
     "url": "https://aistudio.google.com/generate-speech",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -5067,7 +5067,7 @@
     "id": "ai-tts-webui",
     "name": "TTS-WebUI",
     "url": "https://ttswebui.com/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -5095,7 +5095,7 @@
     "id": "ai-fakeyou",
     "name": "FakeYou",
     "url": "https://fakeyou.com/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -5121,7 +5121,7 @@
     "id": "ai-openai-fm",
     "name": "OpenAI.fm",
     "url": "https://www.openai.fm/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -5147,7 +5147,7 @@
     "id": "ai-gpt-sovits",
     "name": "⁠GPT-SoVITS",
     "url": "https://github.com/RVC-Boss/GPT-SoVITS",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -5161,7 +5161,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -5173,7 +5173,7 @@
     "id": "ai-audio-cpp",
     "name": "audio.cpp",
     "url": "https://github.com/0xShug0/audio.cpp",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -5187,7 +5187,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -5199,7 +5199,7 @@
     "id": "ai-kyutai-tts",
     "name": "Kyutai TTS",
     "url": "https://kyutai.org/next/tts",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -5225,7 +5225,7 @@
     "id": "ai-kittentts",
     "name": "⁠KittenTTS",
     "url": "https://github.com/KittenML/KittenTTS",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -5239,7 +5239,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -5251,7 +5251,7 @@
     "id": "ai-zyphra",
     "name": "Zyphra",
     "url": "https://cloud.zyphra.com/audio-playground",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -5277,7 +5277,7 @@
     "id": "ai-kikivoice",
     "name": "⁠KikiVoice",
     "url": "https://kikivoice.ai/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -5303,7 +5303,7 @@
     "id": "ai-audioarena",
     "name": "AudioArena",
     "url": "https://audioarena.ai/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -5329,7 +5329,7 @@
     "id": "ai-lazypy",
     "name": "LazyPy",
     "url": "https://lazypy.ro/tts/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -5355,7 +5355,7 @@
     "id": "ai-echo-tts",
     "name": "⁠Echo TTS",
     "url": "https://huggingface.co/spaces/jordand/echo-tts-preview",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -5381,7 +5381,7 @@
     "id": "ai-kokoro-tts",
     "name": "Kokoro TTS",
     "url": "https://huggingface.co/spaces/hexgrad/Kokoro-TTS",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -5407,7 +5407,7 @@
     "id": "ai-ondoku",
     "name": "Ondoku",
     "url": "https://ondoku3.com/en/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -5433,7 +5433,7 @@
     "id": "ai-speechma",
     "name": "⁠Speechma",
     "url": "https://speechma.com/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -5459,7 +5459,7 @@
     "id": "ai-chatterbox",
     "name": "⁠Chatterbox",
     "url": "https://huggingface.co/spaces/ResembleAI/Chatterbox",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -5485,7 +5485,7 @@
     "id": "ai-audio-z-ai",
     "name": "⁠Audio.Z.AI",
     "url": "https://audio.z.ai/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -5511,7 +5511,7 @@
     "id": "ai-anyvoicelab",
     "name": "AnyVoiceLab",
     "url": "https://anyvoicelab.com/long-form-text-to-speech-converter/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -5537,7 +5537,7 @@
     "id": "ai-voicecraft",
     "name": "VoiceCraft",
     "url": "https://github.com/jasonppy/VoiceCraft",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -5551,7 +5551,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -5563,7 +5563,7 @@
     "id": "ai-emotivoice",
     "name": "EmotiVoice",
     "url": "https://github.com/netease-youdao/EmotiVoice",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -5577,7 +5577,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -5589,7 +5589,7 @@
     "id": "ai-cartesia",
     "name": "⁠Cartesia",
     "url": "https://play.cartesia.ai/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -5615,7 +5615,7 @@
     "id": "ai-fish-audio",
     "name": "Fish Audio",
     "url": "https://fish.audio/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -5641,7 +5641,7 @@
     "id": "ai-audio-webui",
     "name": "Audio-WebUI",
     "url": "https://github.com/gitmylo/audio-webui",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -5655,7 +5655,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -5669,7 +5669,7 @@
     "id": "ai-vanillavoice",
     "name": "VanillaVoice",
     "url": "https://www.vanillavoice.com/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -5695,7 +5695,7 @@
     "id": "ai-soundoftext",
     "name": "SoundofText",
     "url": "https://soundoftext.com/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -5721,7 +5721,7 @@
     "id": "ai-freetts",
     "name": "FreeTTS",
     "url": "https://freetts.com/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -5747,7 +5747,7 @@
     "id": "ai-naturalreaders",
     "name": "NaturalReaders",
     "url": "https://www.naturalreaders.com/online/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -5773,7 +5773,7 @@
     "id": "ai-aivocal",
     "name": "AIVocal",
     "url": "https://aivocal.io/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -5799,7 +5799,7 @@
     "id": "ai-moe-tts",
     "name": "Moe TTS",
     "url": "https://huggingface.co/spaces/skytnt/moe-tts",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -5825,7 +5825,7 @@
     "id": "ai-applio",
     "name": "Applio",
     "url": "https://applio.org/",
-    "description": "Local Voice Cloning · No Sign-Up · Discord · GitHub · Windows, macOS, Linux",
+    "description": "Local 实时语音 Cloning · 免注册直接使用 · Discord 社区 · GitHub 开源 · Windows · macOS · Linux",
     "descriptionEn": "Local Voice Cloning / No Sign-Up / Discord / GitHub / Windows, macOS, Linux",
     "category": "ai",
     "tags": [
@@ -5856,7 +5856,7 @@
     "id": "ai-rvc-v2",
     "name": "RVC V2",
     "url": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/docs/en/README.en.md",
-    "description": "Local Voice Cloning · Discord · Windows, Linux",
+    "description": "Local 实时语音 Cloning · Discord 社区 · Windows · Linux",
     "descriptionEn": "Local Voice Cloning / Discord / Windows, Linux",
     "category": "ai",
     "tags": [
@@ -5872,7 +5872,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -5887,7 +5887,7 @@
     "id": "ai-voice-changer",
     "name": "Voice Changer",
     "url": "https://github.com/w-okada/voice-changer/blob/master/docs_i18n/README_en.md",
-    "description": "Real-Time Voice Changer (W-Okada) · GitHub · Colab · Windows, macOS, Linux, Web",
+    "description": "Real-Time 实时语音 Changer (W-Okada) · GitHub 开源 · Colab · Windows · macOS · Linux · 网页版",
     "descriptionEn": "Real-Time Voice Changer (W-Okada) / GitHub / Colab / Windows, macOS, Linux, Web",
     "category": "ai",
     "tags": [
@@ -5901,7 +5901,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -5917,7 +5917,7 @@
     "id": "ai-voicestudio",
     "name": "⁠VoiceStudio",
     "url": "https://voicestudio.sh/",
-    "description": "Voice Cloning · Windows, macOS, Linux · GitHub",
+    "description": "实时语音 Cloning · Windows · macOS · Linux · GitHub 开源",
     "descriptionEn": "Voice Cloning / Windows, macOS, Linux / GitHub",
     "category": "ai",
     "tags": [
@@ -5946,7 +5946,7 @@
     "id": "ai-voice-models",
     "name": "Voice Models",
     "url": "https://voice-models.com/",
-    "description": "AI Voice Models and Guides · Discord",
+    "description": "AI 实时语音 3D 资产模型与 教程与指南 · Discord 社区",
     "descriptionEn": "AI Voice Models and Guides / Discord",
     "category": "ai",
     "tags": [
@@ -5972,7 +5972,7 @@
     "id": "ai-anyvoicelab-2",
     "name": "AnyVoiceLab",
     "url": "https://anyvoicelab.com/voice-cloning/",
-    "description": "Voice Cloning · No Sign-Up · Web",
+    "description": "实时语音 Cloning · 免注册直接使用 · 网页版",
     "descriptionEn": "Voice Cloning / No Sign-Up / Web",
     "category": "ai",
     "tags": [
@@ -6000,7 +6000,7 @@
     "id": "ai-allvoicelab",
     "name": "AllVoiceLab",
     "url": "https://www.allvoicelab.com/",
-    "description": "Voice Cloning · Web",
+    "description": "实时语音 Cloning · 网页版",
     "descriptionEn": "Voice Cloning / Web",
     "category": "ai",
     "tags": [
@@ -6028,7 +6028,7 @@
     "id": "ai-multisong-leaderboard",
     "name": "MultiSong Leaderboard",
     "url": "https://mvsep.com/quality_checker/multisong_leaderboard",
-    "description": "Music & Voice Separation AI Leaderboards",
+    "description": "音乐流媒体 & 实时语音 Separation AI 天梯榜",
     "descriptionEn": "Music & Voice Separation AI Leaderboards",
     "category": "ai",
     "tags": [
@@ -6054,7 +6054,7 @@
     "id": "ai-mvsep",
     "name": "MVSEP",
     "url": "https://mvsep.com/",
-    "description": "50 Daily · Decrease Queue Time",
+    "description": "每日免费 50 次 · Decrease Queue Time",
     "descriptionEn": "50 Daily / Decrease Queue Time",
     "category": "ai",
     "tags": [
@@ -6082,7 +6082,7 @@
     "id": "ai-splitter",
     "name": "Splitter",
     "url": "https://www.bandlab.com/splitter",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -6108,7 +6108,7 @@
     "id": "ai-vocalremover",
     "name": "VocalRemover",
     "url": "https://vocalremover.org/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -6134,7 +6134,7 @@
     "id": "ai-audacity-effects",
     "name": "Audacity Effects",
     "url": "https://www.audacityteam.org/download/openvino/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -6160,7 +6160,7 @@
     "id": "ai-ultimate-vocal-remover",
     "name": "Ultimate Vocal Remover",
     "url": "https://ultimatevocalremover.com/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -6186,7 +6186,7 @@
     "id": "ai-remove-vocals",
     "name": "Remove Vocals",
     "url": "https://www.remove-vocals.com/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -6212,7 +6212,7 @@
     "id": "ai-vocali-se",
     "name": "Vocali.se",
     "url": "https://vocali.se/en",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -6238,7 +6238,7 @@
     "id": "ai-mazmazika",
     "name": "Mazmazika",
     "url": "https://www.mazmazika.com/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -6264,7 +6264,7 @@
     "id": "ai-ezstems",
     "name": "Ezstems",
     "url": "https://ezstems.com/",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -6290,7 +6290,7 @@
     "id": "ai-hermes-agent",
     "name": "Hermes Agent",
     "url": "https://hermes-agent.nousresearch.com/",
-    "description": "General Purpose Agent · Docs · GitHub · Discord",
+    "description": "General Purpose Agent · Docs · GitHub 开源 · Discord 社区",
     "descriptionEn": "General Purpose Agent / Docs / GitHub / Discord",
     "category": "ai",
     "tags": [
@@ -6318,7 +6318,7 @@
     "id": "ai-openclaw",
     "name": "OpenClaw",
     "url": "https://openclaw.ai/",
-    "description": "General Purpose Agent · Docs · GitHub · Discord",
+    "description": "General Purpose Agent · Docs · GitHub 开源 · Discord 社区",
     "descriptionEn": "General Purpose Agent / Docs / GitHub / Discord",
     "category": "ai",
     "tags": [
@@ -6344,7 +6344,7 @@
     "id": "ai-goose",
     "name": "Goose",
     "url": "https://goose-docs.ai/",
-    "description": "General Purpose Agent · GitHub",
+    "description": "General Purpose Agent · GitHub 开源",
     "descriptionEn": "General Purpose Agent / GitHub",
     "category": "ai",
     "tags": [
@@ -6370,7 +6370,7 @@
     "id": "ai-paseo",
     "name": "Paseo",
     "url": "https://paseo.sh/",
-    "description": "Multi-Agent Coding Environment · All Platforms · GitHub",
+    "description": "Multi-Agent 编程实操 Environment · 全部 Platforms · GitHub 开源",
     "descriptionEn": "Multi-Agent Coding Environment / All Platforms / GitHub",
     "category": "ai",
     "tags": [
@@ -6396,7 +6396,7 @@
     "id": "ai-ai-price-compare",
     "name": "AI Price Compare",
     "url": "https://countless.dev/",
-    "description": "AI · LLM API Price Comparisons",
+    "description": "AI · LLM API Price Comparisons (AI 领域专业实用工具)",
     "descriptionEn": "AI / LLM API Price Comparisons",
     "category": "ai",
     "tags": [
@@ -6422,7 +6422,7 @@
     "id": "ai-sindresorhus-s-awesome-c",
     "name": "sindresorhus's Awesome ChatGPT",
     "url": "https://github.com/sindresorhus/awesome-chatgpt",
-    "description": "AI Resources",
+    "description": "AI 精选资源",
     "descriptionEn": "AI Resources",
     "category": "ai",
     "tags": [
@@ -6436,7 +6436,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -6448,7 +6448,7 @@
     "id": "ai-every-chatgpt-gui",
     "name": "Every ChatGPT GUI",
     "url": "https://github.com/billmei/every-chatgpt-gui",
-    "description": "ChatGPT GUI Index",
+    "description": "ChatGPT GUI 索引目录",
     "descriptionEn": "ChatGPT GUI Index",
     "category": "ai",
     "tags": [
@@ -6462,7 +6462,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -6474,7 +6474,7 @@
     "id": "ai-ai-api-tools",
     "name": "AI API Tools",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools/#wiki_.25B7_api_tools",
-    "description": "开源 and free AI models, inference interfaces, and toolkit.",
+    "description": "开源/免费 AI 大模型工具、推理界面与应用套件",
     "descriptionEn": "Open-source and free AI models, inference interfaces, and toolkit.",
     "category": "ai",
     "tags": [
@@ -6488,7 +6488,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -6500,7 +6500,7 @@
     "id": "ai-tldraw-computer",
     "name": "tldraw computer",
     "url": "https://computer.tldraw.com/",
-    "description": "Create Component Workflows to Generate or Transform Data · Discord · GitHub",
+    "description": "Create Component Workflows 至 Generate 或 Transform Data · Discord 社区 · GitHub 开源",
     "descriptionEn": "Create Component Workflows to Generate or Transform Data / Discord / GitHub",
     "category": "ai",
     "tags": [
@@ -6526,7 +6526,7 @@
     "id": "ai-page-assist",
     "name": "⁠Page Assist",
     "url": "https://github.com/n4ze3m/page-assist",
-    "description": "Extensions",
+    "description": "扩展插件",
     "descriptionEn": "Extensions",
     "category": "ai",
     "tags": [
@@ -6540,7 +6540,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -6555,7 +6555,7 @@
     "id": "ai-llm",
     "name": "LLM",
     "url": "https://llm.datasette.io/",
-    "description": "LLM CLI · Discord · GitHub",
+    "description": "LLM CLI · Discord 社区 · GitHub 开源",
     "descriptionEn": "LLM CLI / Discord / GitHub",
     "category": "ai",
     "tags": [
@@ -6581,7 +6581,7 @@
     "id": "ai-gpu-unlock",
     "name": "⁠gpu-unlock",
     "url": "https://github.com/Zagitta/gpu-unlock",
-    "description": "Unlock Full Tensor throughput on NVIDIA GPUs · Linux",
+    "description": "Unlock Full Tensor throughput on NVIDIA GPUs · Linux (AI 领域专业实用工具)",
     "descriptionEn": "Unlock Full Tensor throughput on NVIDIA GPUs / Linux",
     "category": "ai",
     "tags": [
@@ -6595,7 +6595,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -6607,7 +6607,7 @@
     "id": "ai-lightsession",
     "name": "⁠LightSession",
     "url": "https://github.com/11me/light-session",
-    "description": "Fix ChatGPT Lag",
+    "description": "Fix ChatGPT Lag (AI 领域专业实用工具)",
     "descriptionEn": "Fix ChatGPT Lag",
     "category": "ai",
     "tags": [
@@ -6621,7 +6621,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -6633,7 +6633,7 @@
     "id": "ai-privatiser",
     "name": "⁠Privatiser",
     "url": "https://privatiser.net/",
-    "description": "Anonymize Sensitive Data for AI",
+    "description": "Anonymize Sensitive Data 面向 AI",
     "descriptionEn": "Anonymize Sensitive Data for AI",
     "category": "ai",
     "tags": [
@@ -6659,7 +6659,7 @@
     "id": "ai-agent-reach",
     "name": "⁠Agent Reach",
     "url": "https://github.com/Panniantong/Agent-Reach",
-    "description": "Connect AI Agents to Popular Internet Platforms",
+    "description": "Connect AI Agents 至 Popular Internet Platforms",
     "descriptionEn": "Connect AI Agents to Popular Internet Platforms",
     "category": "ai",
     "tags": [
@@ -6673,7 +6673,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -6685,7 +6685,7 @@
     "id": "ai-massivemark",
     "name": "MassiveMark",
     "url": "https://www.bibcit.com/en/massivemark",
-    "description": "Convert LLM Chats to DOCX · Discord",
+    "description": "Convert LLM 对话聊天至 DOCX · Discord 社区",
     "descriptionEn": "Convert LLM Chats to DOCX / Discord",
     "category": "ai",
     "tags": [
@@ -6711,7 +6711,7 @@
     "id": "ai-screenpipe",
     "name": "screenpipe",
     "url": "https://screenpipe.com/",
-    "description": "AI 无水印屏幕录制 · No Sign-Up · Discord · GitHub",
+    "description": "AI 屏幕 Recorder · 免注册直接使用 · Discord 社区 · GitHub 开源",
     "descriptionEn": "AI Screen Recorder / No Sign-Up / Discord / GitHub",
     "category": "ai",
     "tags": [
@@ -6737,7 +6737,7 @@
     "id": "ai-chatgpt-exporter",
     "name": "ChatGPT Exporter",
     "url": "https://greasyfork.org/en/scripts/456055",
-    "description": "Export Chats · GitHub",
+    "description": "Export 对话聊天 · GitHub 开源",
     "descriptionEn": "Export Chats / GitHub",
     "category": "ai",
     "tags": [
@@ -6763,7 +6763,7 @@
     "id": "ai-gpthemes",
     "name": "GPThemes",
     "url": "https://github.com/itsmartashub/GPThemes",
-    "description": "ChatGPT Themes",
+    "description": "ChatGPT 主题美化包",
     "descriptionEn": "ChatGPT Themes",
     "category": "ai",
     "tags": [
@@ -6777,7 +6777,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -6789,7 +6789,7 @@
     "id": "ai-whichllm",
     "name": "⁠WhichLLM",
     "url": "https://github.com/Andyyyy64/whichllm",
-    "description": "LLM Performance Comparison Tool",
+    "description": "LLM Performance Comparison 实用小工具",
     "descriptionEn": "LLM Performance Comparison Tool",
     "category": "ai",
     "tags": [
@@ -6803,7 +6803,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -6815,7 +6815,7 @@
     "id": "ai-llm-model-vram-calculato",
     "name": "LLM Model VRAM Calculator",
     "url": "https://huggingface.co/spaces/NyxKrage/LLM-Model-VRAM-Calculator",
-    "description": "LLM Requirement Calculators",
+    "description": "LLM Requirement Calculators (AI 领域专业实用工具)",
     "descriptionEn": "LLM Requirement Calculators",
     "category": "ai",
     "tags": [
@@ -6841,7 +6841,7 @@
     "id": "ai-hugging-face",
     "name": "Hugging Face",
     "url": "https://huggingface.co/",
-    "description": "开源 AI Model Hub, Datasets & Spaces",
+    "description": "开源-源码 AI 3D 资产 Hub · Datasets & Spaces",
     "descriptionEn": "Open-Source AI Model Hub, Datasets & Spaces",
     "category": "ai",
     "tags": [
@@ -6869,7 +6869,7 @@
     "id": "ai-pirate-face",
     "name": "⁠Pirate Face",
     "url": "https://pirateface.co/",
-    "description": "Model Weight Torrents",
+    "description": "3D 资产 Weight Torrents",
     "descriptionEn": "Model Weight Torrents",
     "category": "ai",
     "tags": [
@@ -6895,7 +6895,7 @@
     "id": "ai-the-hugging-bay",
     "name": "⁠The Hugging Bay",
     "url": "https://huggingbay.xyz/",
-    "description": "开源 AI Model Catalog & Torrent Index",
+    "description": "开源-源码 AI 3D 资产 Catalog & Torrent 索引目录",
     "descriptionEn": "Open-Source AI Model Catalog & Torrent Index",
     "category": "ai",
     "tags": [
@@ -6921,7 +6921,7 @@
     "id": "ai-modelscope",
     "name": "ModelScope",
     "url": "https://modelscope.cn/",
-    "description": "开源 AI Model Repository",
+    "description": "开源-源码 AI 3D 资产 Repository",
     "descriptionEn": "Open-Source AI Model Repository",
     "category": "ai",
     "tags": [
@@ -6947,7 +6947,7 @@
     "id": "ai-prompt-engineering-guide",
     "name": "Prompt Engineering Guide",
     "url": "https://www.promptingguide.ai",
-    "description": "Prompting Guides",
+    "description": "Prompting 教程与指南",
     "descriptionEn": "Prompting Guides",
     "category": "ai",
     "tags": [
@@ -6975,7 +6975,7 @@
     "id": "ai-chatgpt-system-prompt",
     "name": "ChatGPT System Prompt",
     "url": "https://github.com/LouisShark/chatgpt_system_prompt",
-    "description": "Prompt Directory",
+    "description": "提示词收录目录",
     "descriptionEn": "Prompt Directory",
     "category": "ai",
     "tags": [
@@ -6989,7 +6989,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -7001,7 +7001,7 @@
     "id": "ai-system-prompts",
     "name": "⁠system-prompts",
     "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-    "description": "Prompt Directory",
+    "description": "提示词收录目录",
     "descriptionEn": "Prompt Directory",
     "category": "ai",
     "tags": [
@@ -7015,7 +7015,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -7027,7 +7027,7 @@
     "id": "ai-the-big-prompt-library",
     "name": "The Big Prompt Library",
     "url": "https://github.com/0xeb/TheBigPromptLibrary",
-    "description": "Prompt Directory",
+    "description": "提示词收录目录",
     "descriptionEn": "Prompt Directory",
     "category": "ai",
     "tags": [
@@ -7041,7 +7041,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -7053,7 +7053,7 @@
     "id": "ai-jailbreak-listings",
     "name": "Jailbreak Listings",
     "url": "https://rentry.org/jb-listing",
-    "description": "Prompt Directories · Jailbreaks",
+    "description": "提示词 Directories · 越狱提示词与防护测试",
     "descriptionEn": "Prompt Directories / Jailbreaks",
     "category": "ai",
     "tags": [
@@ -7067,7 +7067,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -7079,7 +7079,7 @@
     "id": "ai-system-prompts-leaks",
     "name": "⁠System Prompts Leaks",
     "url": "https://github.com/asgeirtj/system_prompts_leaks",
-    "description": "AI System Prompts",
+    "description": "AI 系统提示词库",
     "descriptionEn": "AI System Prompts",
     "category": "ai",
     "tags": [
@@ -7093,7 +7093,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -7105,7 +7105,7 @@
     "id": "ai-injectprompt-companion",
     "name": "InjectPrompt Companion",
     "url": "https://companion.injectprompt.com/",
-    "description": "AI Jailbreak Prompt Assistant",
+    "description": "AI Jailbreak 提示词 Assistant",
     "descriptionEn": "AI Jailbreak Prompt Assistant",
     "category": "ai",
     "tags": [
@@ -7131,7 +7131,7 @@
     "id": "ai-heretic",
     "name": "⁠Heretic",
     "url": "https://github.com/p-e-w/heretic",
-    "description": "AI Jailbreak · Anti-Censorship Tool · Discord",
+    "description": "AI Jailbreak · Anti-Censorship 实用小工具 · Discord 社区",
     "descriptionEn": "AI Jailbreak / Anti-Censorship Tool / Discord",
     "category": "ai",
     "tags": [
@@ -7145,7 +7145,7 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -7157,7 +7157,7 @@
     "id": "ai-promptfoo",
     "name": "promptfoo",
     "url": "https://www.promptfoo.dev/",
-    "description": "Prompt Playgrounds · Discord · GitHub",
+    "description": "提示词 Playgrounds · Discord 社区 · GitHub 开源",
     "descriptionEn": "Prompt Playgrounds / Discord / GitHub",
     "category": "ai",
     "tags": [
@@ -7183,7 +7183,7 @@
     "id": "ai-tensor-trust",
     "name": "Tensor Trust",
     "url": "https://tensortrust.ai/",
-    "description": "Prompting Skill Games",
+    "description": "Prompting Skill 游戏资源",
     "descriptionEn": "Prompting Skill Games",
     "category": "ai",
     "tags": [
@@ -7209,7 +7209,7 @@
     "id": "ai-gobble-bot",
     "name": "Gobble Bot",
     "url": "https://gobble.bot/",
-    "description": "Generate Text Files for Chatbots",
+    "description": "Generate Text 文件面向聊天机器人",
     "descriptionEn": "Generate Text Files for Chatbots",
     "category": "ai",
     "tags": [
@@ -7235,7 +7235,7 @@
     "id": "ai-llm-explorer",
     "name": "⁠LLM Explorer",
     "url": "https://llm-explorer.com/",
-    "description": "LLM Databases · Indexes",
+    "description": "LLM 结构化资料库 · 导航索引",
     "descriptionEn": "LLM Databases / Indexes",
     "category": "ai",
     "tags": [
@@ -7263,7 +7263,7 @@
     "id": "ai-futuretools",
     "name": "FutureTools",
     "url": "https://www.futuretools.io/?pricing-model=free",
-    "description": "AI Directory · Discord",
+    "description": "AI 收录目录 · Discord 社区",
     "descriptionEn": "AI Directory / Discord",
     "category": "ai",
     "tags": [
@@ -7291,7 +7291,7 @@
     "id": "ai-google-labs",
     "name": "Google Labs",
     "url": "https://labs.google/",
-    "description": "Google AI Experiments · Subreddit · Discord",
+    "description": "Google AI Experiments · Reddit 讨论区 · Discord 社区",
     "descriptionEn": "Google AI Experiments / Subreddit / Discord",
     "category": "ai",
     "tags": [
@@ -7319,7 +7319,7 @@
     "id": "ai-models-dev",
     "name": "Models.dev",
     "url": "https://models.dev/",
-    "description": "AI Model Database · Pricing · GitHub",
+    "description": "AI 3D 资产资料库 · Pricing · GitHub 开源",
     "descriptionEn": "AI Model Database / Pricing / GitHub",
     "category": "ai",
     "tags": [
@@ -7345,7 +7345,7 @@
     "id": "ai-llm-resources-hub",
     "name": "LLM Resources Hub",
     "url": "https://llmresourceshub.vercel.app/",
-    "description": "AI Directory",
+    "description": "AI 收录目录",
     "descriptionEn": "AI Directory",
     "category": "ai",
     "tags": [
@@ -7371,7 +7371,7 @@
     "id": "ai-it-s-better-with-ai",
     "name": "It's Better With AI",
     "url": "https://itsbetterwithai.com/",
-    "description": "AI Directory",
+    "description": "AI 收录目录",
     "descriptionEn": "AI Directory",
     "category": "ai",
     "tags": [
@@ -7397,7 +7397,7 @@
     "id": "ai-gpt-demo",
     "name": "GPT Demo",
     "url": "https://www.gptdemo.net/gpt/search?lg=en&cate=&keywords=&tags=free,&sort=popular",
-    "description": "AI Directory",
+    "description": "AI 收录目录",
     "descriptionEn": "AI Directory",
     "category": "ai",
     "tags": [
@@ -7423,7 +7423,7 @@
     "id": "ai-lm-council",
     "name": "⁠LM Council",
     "url": "https://lmcouncil.ai/benchmarks",
-    "description": "AI Benchmark Index · Comparisons",
+    "description": "AI 基准测试索引目录 · Comparisons",
     "descriptionEn": "AI Benchmark Index / Comparisons",
     "category": "ai",
     "tags": [
@@ -7449,7 +7449,7 @@
     "id": "ai-artificial-analysis",
     "name": "Artificial Analysis",
     "url": "https://artificialanalysis.ai/",
-    "description": "Chatbot, Image, and Video Benchmarks · X · Discord",
+    "description": "对话助手 · 高清图像 · 与影视视频性能跑分 · X · Discord 社区",
     "descriptionEn": "Chatbot, Image, and Video Benchmarks / X / Discord",
     "category": "ai",
     "tags": [
@@ -7477,7 +7477,7 @@
     "id": "ai-kaggle-benchmarks",
     "name": "⁠Kaggle Benchmarks",
     "url": "https://www.kaggle.com/benchmarks",
-    "description": "Chatbot Leaderboards · Benchmarks",
+    "description": "对话助手天梯榜 · 性能跑分",
     "descriptionEn": "Chatbot Leaderboards / Benchmarks",
     "category": "ai",
     "tags": [
@@ -7505,7 +7505,7 @@
     "id": "ai-arena-5",
     "name": "Arena",
     "url": "https://arena.ai/leaderboard",
-    "description": "Chatbot Leaderboards · Benchmarks · X · Discord",
+    "description": "对话助手天梯榜 · 性能跑分 · X · Discord 社区",
     "descriptionEn": "Chatbot Leaderboards / Benchmarks / X / Discord",
     "category": "ai",
     "tags": [
@@ -7533,7 +7533,7 @@
     "id": "ai-openrouter",
     "name": "OpenRouter",
     "url": "https://openrouter.ai/rankings",
-    "description": "Chatbot Popularity Rankings · Discord · GitHub",
+    "description": "对话助手 Popularity Rankings · Discord 社区 · GitHub 开源",
     "descriptionEn": "Chatbot Popularity Rankings / Discord / GitHub",
     "category": "ai",
     "tags": [
@@ -7559,7 +7559,7 @@
     "id": "ai-seal-llm-leaderboards",
     "name": "SEAL LLM Leaderboards",
     "url": "https://labs.scale.com/leaderboard",
-    "description": "Chatbot Leaderboards",
+    "description": "对话助手天梯榜",
     "descriptionEn": "Chatbot Leaderboards",
     "category": "ai",
     "tags": [
@@ -7585,7 +7585,7 @@
     "id": "ai-context-arena",
     "name": "Context Arena",
     "url": "https://contextarena.ai/",
-    "description": "Chatbot Leaderboards · Benchmarks",
+    "description": "对话助手天梯榜 · 性能跑分",
     "descriptionEn": "Chatbot Leaderboards / Benchmarks",
     "category": "ai",
     "tags": [
@@ -7611,7 +7611,7 @@
     "id": "ai-rankedagi",
     "name": "⁠RankedAGI",
     "url": "https://rankedagi.com/",
-    "description": "Chatbot Leaderboards · Benchmarks",
+    "description": "对话助手天梯榜 · 性能跑分",
     "descriptionEn": "Chatbot Leaderboards / Benchmarks",
     "category": "ai",
     "tags": [
@@ -7637,7 +7637,7 @@
     "id": "ai-llm-stats",
     "name": "LLM Stats",
     "url": "https://llm-stats.com/",
-    "description": "Chatbot Leaderboard · X · Discord",
+    "description": "对话助手天梯榜 · X · Discord 社区",
     "descriptionEn": "Chatbot Leaderboard / X / Discord",
     "category": "ai",
     "tags": [
@@ -7663,7 +7663,7 @@
     "id": "ai-openlm-arena",
     "name": "OpenLM Arena",
     "url": "https://openlm.ai/chatbot-arena/",
-    "description": "Chatbot Leaderboard",
+    "description": "对话助手天梯榜",
     "descriptionEn": "Chatbot Leaderboard",
     "category": "ai",
     "tags": [
@@ -7689,7 +7689,7 @@
     "id": "ai-wolfram-llm-benchmarking",
     "name": "Wolfram LLM Benchmarking Project",
     "url": "https://www.wolfram.com/llm-benchmarking-project/",
-    "description": "Chatbot Leaderboards · Benchmarks",
+    "description": "对话助手天梯榜 · 性能跑分",
     "descriptionEn": "Chatbot Leaderboards / Benchmarks",
     "category": "ai",
     "tags": [
@@ -7715,7 +7715,7 @@
     "id": "ai-epoch-ai",
     "name": "⁠Epoch AI",
     "url": "https://epoch.ai/eci",
-    "description": "Combines Multiple AI Benchmarks",
+    "description": "Combines Multiple AI 性能跑分",
     "descriptionEn": "Combines Multiple AI Benchmarks",
     "category": "ai",
     "tags": [
@@ -7741,7 +7741,7 @@
     "id": "ai-open-vlm-leaderboard",
     "name": "Open VLM Leaderboard",
     "url": "https://huggingface.co/spaces/opencompass/open_vlm_leaderboard",
-    "description": "VLM Benchmark Leaderboard Aggregator",
+    "description": "VLM 基准测试天梯榜 Aggregator",
     "descriptionEn": "VLM Benchmark Leaderboard Aggregator",
     "category": "ai",
     "tags": [
@@ -7769,7 +7769,7 @@
     "id": "ai-designarena",
     "name": "⁠DesignArena",
     "url": "https://www.designarena.ai/leaderboard/",
-    "description": "AI Design Benchmarks · X · Discord",
+    "description": "AI Design 性能跑分 · X · Discord 社区",
     "descriptionEn": "AI Design Benchmarks / X / Discord",
     "category": "ai",
     "tags": [
@@ -7795,7 +7795,7 @@
     "id": "ai-eq-bench",
     "name": "⁠EQ-Bench",
     "url": "https://eqbench.com/",
-    "description": "AI Emotional Intelligence Benchmarks · GitHub",
+    "description": "AI Emotional Intelligence 性能跑分 · GitHub 开源",
     "descriptionEn": "AI Emotional Intelligence Benchmarks / GitHub",
     "category": "ai",
     "tags": [
@@ -7821,7 +7821,7 @@
     "id": "ai-matharena",
     "name": "MathArena",
     "url": "https://matharena.ai/",
-    "description": "AI Mathematics Benchmarks · Competitions",
+    "description": "AI Mathematics 性能跑分 · Competitions",
     "descriptionEn": "AI Mathematics Benchmarks / Competitions",
     "category": "ai",
     "tags": [
@@ -7847,7 +7847,7 @@
     "id": "ai-vals-ai",
     "name": "⁠Vals AI",
     "url": "https://www.vals.ai/",
-    "description": "AI Finance · Tax · Law Benchmarks",
+    "description": "AI Finance · Tax · Law 性能跑分",
     "descriptionEn": "AI Finance / Tax / Law Benchmarks",
     "category": "ai",
     "tags": [
@@ -7873,7 +7873,7 @@
     "id": "ai-ugi-leaderboard",
     "name": "⁠UGI Leaderboard",
     "url": "https://huggingface.co/spaces/DontPlanToEnd/UGI-Leaderboard",
-    "description": "AI ERP Writing & Censors Benchmark",
+    "description": "AI ERP 写作 & Censors 基准测试",
     "descriptionEn": "AI ERP Writing & Censors Benchmark",
     "category": "ai",
     "tags": [
@@ -7899,7 +7899,7 @@
     "id": "ai-simple-bench",
     "name": "⁠Simple Bench",
     "url": "https://simple-bench.com/",
-    "description": "AI Human Reasoning Benchmarks",
+    "description": "AI 拟人化 Reasoning 性能跑分",
     "descriptionEn": "AI Human Reasoning Benchmarks",
     "category": "ai",
     "tags": [
@@ -7925,7 +7925,7 @@
     "id": "ai-speechmap-ai",
     "name": "⁠SpeechMap.AI",
     "url": "https://speechmap.ai/",
-    "description": "AI Free Speech Benchmarks · GitHub",
+    "description": "AI 免费 Speech 性能跑分 · GitHub 开源",
     "descriptionEn": "AI Free Speech Benchmarks / GitHub",
     "category": "ai",
     "tags": [
@@ -7951,7 +7951,7 @@
     "id": "ai-tripstitch",
     "name": "⁠Tripstitch",
     "url": "https://tripstitch.app/benchmarks/",
-    "description": "AI Trip Planning Benchmarks",
+    "description": "AI Trip Planning 性能跑分",
     "descriptionEn": "AI Trip Planning Benchmarks",
     "category": "ai",
     "tags": [
@@ -7977,7 +7977,7 @@
     "id": "ai-llms-bullshit-benchmark",
     "name": "⁠LLMs Bullshit Benchmark",
     "url": "https://petergpt.github.io/bullshit-benchmark/viewer/index.html",
-    "description": "Broken Premise Detection Benchmarks",
+    "description": "Broken Premise Detection 性能跑分",
     "descriptionEn": "Broken Premise Detection Benchmarks",
     "category": "ai",
     "tags": [
@@ -8003,7 +8003,7 @@
     "id": "ai-voxelbench",
     "name": "⁠VoxelBench",
     "url": "https://voxelbench.ai/",
-    "description": "Minecraft AI Generation Benchmark",
+    "description": "Minecraft AI 生成基准测试",
     "descriptionEn": "Minecraft AI Generation Benchmark",
     "category": "ai",
     "tags": [
@@ -8029,7 +8029,7 @@
     "id": "ai-deepswe",
     "name": "DeepSWE",
     "url": "https://deepswe.datacurve.ai/",
-    "description": "Coding AI Leaderboard · Benchmarks · GitHub",
+    "description": "编程实操 AI 天梯榜 · 性能跑分 · GitHub 开源",
     "descriptionEn": "Coding AI Leaderboard / Benchmarks / GitHub",
     "category": "ai",
     "tags": [
@@ -8057,7 +8057,7 @@
     "id": "ai-swebench",
     "name": "SWEBench",
     "url": "https://www.swebench.com/",
-    "description": "Software Engineering AI Leaderboard · Benchmarks · GitHub",
+    "description": "纯净软件 Engineering AI 天梯榜 · 性能跑分 · GitHub 开源",
     "descriptionEn": "Software Engineering AI Leaderboard / Benchmarks / GitHub",
     "category": "ai",
     "tags": [
@@ -8087,7 +8087,7 @@
     "id": "ai-webdev-arena",
     "name": "WebDev Arena",
     "url": "https://arena.ai/leaderboard/code/webdev",
-    "description": "Coding AI Leaderboard · Benchmarks",
+    "description": "编程实操 AI 天梯榜 · 性能跑分",
     "descriptionEn": "Coding AI Leaderboard / Benchmarks",
     "category": "ai",
     "tags": [
@@ -8115,7 +8115,7 @@
     "id": "ai-aider-llm-leaderboards",
     "name": "Aider LLM Leaderboards",
     "url": "https://aider.chat/docs/leaderboards/",
-    "description": "Coding AI Leaderboard · Benchmarks",
+    "description": "编程实操 AI 天梯榜 · 性能跑分",
     "descriptionEn": "Coding AI Leaderboard / Benchmarks",
     "category": "ai",
     "tags": [

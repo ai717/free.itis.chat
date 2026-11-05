@@ -127,25 +127,10 @@ CATEGORY_DEFAULTS_EN = {
     'misc': 'Curated digital survival tools, geek treasures, and web oddities.'
 }
 
+from retranslate import translate_full_description
+
 def translate_description(desc_en: str, cat_id: str, name: str) -> str:
-    if not desc_en or desc_en == name:
-        return CATEGORY_DEFAULTS_ZH.get(cat_id, '开源免费数字实用资源')
-    
-    # Try exact match in phrase dict
-    lower = desc_en.lower()
-    for phrase, zh in PHRASE_DICT.items():
-        if lower == phrase:
-            return zh
-            
-    # Substring substitutions
-    zh_result = desc_en
-    for phrase, zh in sorted(PHRASE_DICT.items(), key=lambda x: -len(x[0])):
-        pattern = re.compile(re.escape(phrase), re.IGNORECASE)
-        zh_result = pattern.sub(zh, zh_result)
-        
-    zh_result = re.sub(r'\s*/\s*', ' · ', zh_result)
-    zh_result = zh_result.strip(' ·,')
-    return zh_result if zh_result else CATEGORY_DEFAULTS_ZH.get(cat_id, '开源免费数字实用资源')
+    return translate_full_description(desc_en, cat_id, name)
 
 def generate_tags(line_text: str, cat_id: str, name: str, is_starred: bool) -> tuple[list[str], list[str]]:
     tags_zh = []
@@ -287,7 +272,7 @@ def parse_category_file(
             if matched_reason:
                 safeguard = 'danger' if 'malware' in matched_reason.lower() else 'warning'
                 warning_text_en = f'Caveat: {matched_reason}'
-                warning_text_zh = f'避坑警告: {matched_reason}'
+                warning_text_zh = '避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！'
             elif 'warning' in raw_line.lower():
                 safeguard = 'warning'
                 warning_text_en = 'Contains specific caveats or usage restrictions.'

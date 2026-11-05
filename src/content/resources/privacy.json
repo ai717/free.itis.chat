@@ -3,7 +3,7 @@
     "id": "privacy-spotify-adblockers",
     "name": "Spotify Adblockers",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25BA_spotify_tools",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -17,7 +17,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -29,7 +29,7 @@
     "id": "privacy-twitch-adblockers",
     "name": "Twitch Adblockers",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_adblockers",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -43,7 +43,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -55,7 +55,7 @@
     "id": "privacy-bypass-url-redirects",
     "name": "Bypass URL Redirects",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -69,7 +69,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -81,7 +81,7 @@
     "id": "privacy-bypass-article-paywalls",
     "name": "Bypass Article Paywalls",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -95,7 +95,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -107,7 +107,7 @@
     "id": "privacy-ublock-origin",
     "name": "uBlock Origin",
     "url": "https://github.com/gorhill/uBlock",
-    "description": "广告拦截器s · Redundant Extensions",
+    "description": "Adblockers · Redundant 扩展插件",
     "descriptionEn": "Adblockers / Redundant Extensions",
     "category": "privacy",
     "tags": [
@@ -123,7 +123,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -137,7 +137,7 @@
     "id": "privacy-uassets",
     "name": "uAssets",
     "url": "https://github.com/uBlockOrigin/uAssets/issues",
-    "description": "uAssets · Hosts · AdGuard · EasyList",
+    "description": "uAssets · Hosts · AdGuard · EasyList (隐私安全与防护利器)",
     "descriptionEn": "uAssets / Hosts / AdGuard / EasyList",
     "category": "privacy",
     "tags": [
@@ -153,7 +153,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -165,7 +165,7 @@
     "id": "privacy-sponsorblock",
     "name": "SponsorBlock",
     "url": "https://sponsor.ajay.app/",
-    "description": "Skip Sponsored YouTube Ads · X · Subreddit · Discord · GitHub",
+    "description": "Skip Sponsored YouTube Ads · X · Reddit 讨论区 · Discord 社区 · GitHub 开源",
     "descriptionEn": "Skip Sponsored YouTube Ads / X / Subreddit / Discord / GitHub",
     "category": "privacy",
     "tags": [
@@ -193,7 +193,7 @@
     "id": "privacy-bookmarklet",
     "name": "Bookmarklet",
     "url": "https://github.com/mchangrh/sb.js",
-    "description": "Bookmarklet · Script · Ports · Database · Chromecast",
+    "description": "Bookmarklet · 自动化脚本 · Ports · 资料库 · Chromecast",
     "descriptionEn": "Bookmarklet / Script / Ports / Database / Chromecast",
     "category": "privacy",
     "tags": [
@@ -209,7 +209,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -221,7 +221,7 @@
     "id": "privacy-zen",
     "name": "⁠Zen",
     "url": "https://irbis.sh/zen/",
-    "description": "System-Wide 广告拦截器 · Discord · GitHub",
+    "description": "系统-Wide Adblocker · Discord 社区 · GitHub 开源",
     "descriptionEn": "System-Wide Adblocker / Discord / GitHub",
     "category": "privacy",
     "tags": [
@@ -247,7 +247,7 @@
     "id": "privacy-disblock-origin",
     "name": "Disblock Origin",
     "url": "https://codeberg.org/AllPurposeMat/Disblock-Origin",
-    "description": "Hide Discord Nitro · Boost Ads",
+    "description": "Hide Discord 社区 Nitro · Boost Ads",
     "descriptionEn": "Hide Discord Nitro / Boost Ads",
     "category": "privacy",
     "tags": [
@@ -273,7 +273,7 @@
     "id": "privacy-popup-blocker--strict",
     "name": "Popup Blocker (strict)",
     "url": "https://github.com/schomery/popup-blocker",
-    "description": "Popup Blockers · Note",
+    "description": "Popup Blockers · 附注意事项",
     "descriptionEn": "Popup Blockers / Note",
     "category": "privacy",
     "tags": [
@@ -287,7 +287,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -301,7 +301,7 @@
     "id": "privacy-behindtheoverlay",
     "name": "BehindTheOverlay",
     "url": "https://github.com/NicolaeNMV/BehindTheOverlay",
-    "description": "Hide Website Overlays",
+    "description": "Hide Website Overlays (隐私安全与防护利器)",
     "descriptionEn": "Hide Website Overlays",
     "category": "privacy",
     "tags": [
@@ -315,7 +315,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -329,7 +329,7 @@
     "id": "privacy-bilibilisponsorblock",
     "name": "BilibiliSponsorBlock",
     "url": "https://www.bsbsb.top/",
-    "description": "Skip Sponsored Bilibili Ads · Safari · GitHub",
+    "description": "Skip Sponsored Bilibili Ads · Safari · GitHub 开源",
     "descriptionEn": "Skip Sponsored Bilibili Ads / Safari / GitHub",
     "category": "privacy",
     "tags": [
@@ -355,7 +355,7 @@
     "id": "privacy-yout-ube",
     "name": "YouT-ube",
     "url": "https://www.yout-ube.com/",
-    "description": "Bypass YouTubes Forced uBO Player Delay",
+    "description": "Bypass YouTubes Forced uBO 播放器 Delay",
     "descriptionEn": "Bypass YouTubes Forced uBO Player Delay",
     "category": "privacy",
     "tags": [
@@ -381,7 +381,7 @@
     "id": "privacy-filterlists",
     "name": "FilterLists",
     "url": "https://filterlists.com/",
-    "description": "Filter · Host List Directory",
+    "description": "Filter · Host List 收录目录",
     "descriptionEn": "Filter / Host List Directory",
     "category": "privacy",
     "tags": [
@@ -407,7 +407,7 @@
     "id": "privacy-legitimateurlshortener",
     "name": "LegitimateURLShortener",
     "url": "https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/LegitimateURLShortener.txt",
-    "description": "Query Parameter Cleaning Rules · Use with AdGuard URL Tracking Protection",
+    "description": "Query Parameter Cleaning Rules · Use 内置 AdGuard URL Tracking Protection",
     "descriptionEn": "Query Parameter Cleaning Rules / Use with AdGuard URL Tracking Protection",
     "category": "privacy",
     "tags": [
@@ -435,7 +435,7 @@
     "id": "privacy-hagezi-blocklists",
     "name": "HaGeZi Blocklists",
     "url": "https://github.com/hagezi/dns-blocklists",
-    "description": "Blocklist Collection · Use Mini Editions · Note",
+    "description": "Blocklist 宝藏合辑 · Use Mini Editions · 附注意事项",
     "descriptionEn": "Blocklist Collection / Use Mini Editions / Note",
     "category": "privacy",
     "tags": [
@@ -451,7 +451,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -463,7 +463,7 @@
     "id": "privacy-hblock",
     "name": "hBlock",
     "url": "https://hblock.molinero.dev/",
-    "description": "Blocklist Collection · GitHub",
+    "description": "Blocklist 宝藏合辑 · GitHub 开源",
     "descriptionEn": "Blocklist Collection / GitHub",
     "category": "privacy",
     "tags": [
@@ -489,7 +489,7 @@
     "id": "privacy-fmhy-filterlist",
     "name": "FMHY Filterlist",
     "url": "https://github.com/fmhy/FMHYFilterlist",
-    "description": "Unsafe Sites Filter",
+    "description": "Unsafe Sites Filter (隐私安全与防护利器)",
     "descriptionEn": "Unsafe Sites Filter",
     "category": "privacy",
     "tags": [
@@ -503,7 +503,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -515,7 +515,7 @@
     "id": "privacy-ai-ublock-blacklist",
     "name": "AI uBlock Blacklist",
     "url": "https://github.com/alvi-se/ai-ublock-blacklist",
-    "description": "Blocks AI Generated Sites",
+    "description": "Blocks AI Generated Sites (隐私安全与防护利器)",
     "descriptionEn": "Blocks AI Generated Sites",
     "category": "privacy",
     "tags": [
@@ -529,7 +529,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -541,7 +541,7 @@
     "id": "privacy-dns-providers",
     "name": "DNS Providers",
     "url": "https://adguard-dns.io/kb/general/dns-providers/",
-    "description": "DNS Provider Index",
+    "description": "DNS Provider 索引目录",
     "descriptionEn": "DNS Provider Index",
     "category": "privacy",
     "tags": [
@@ -567,7 +567,7 @@
     "id": "privacy-free-dns-resolvers",
     "name": "Free DNS Resolvers",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_resolvers",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -581,7 +581,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -593,7 +593,7 @@
     "id": "privacy-pi-hole",
     "name": "Pi-Hole",
     "url": "https://pi-hole.net/",
-    "description": "支持自建部署 DNS Adblocking · X · Subreddit · GitHub",
+    "description": "Self-Hosted DNS Adblocking · X · Reddit 讨论区 · GitHub 开源",
     "descriptionEn": "Self-Hosted DNS Adblocking / X / Subreddit / GitHub",
     "category": "privacy",
     "tags": [
@@ -623,7 +623,7 @@
     "id": "privacy-filters",
     "name": "Filters",
     "url": "https://firebog.net/",
-    "description": "Filters, 2 · Tray App · Android Server (root)",
+    "description": "Filters · 2 · Tray 应用程序 · Android 自建服务器 (root)",
     "descriptionEn": "Filters, 2 / Tray App / Android Server (root)",
     "category": "privacy",
     "tags": [
@@ -653,7 +653,7 @@
     "id": "privacy-adguard-home",
     "name": "AdGuard Home",
     "url": "https://adguard.com/en/adguard-home/overview.html",
-    "description": "支持自建部署 DNS Adblocking · Balena-AdGuard · X · Subreddit · Telegram · GitHub",
+    "description": "Self-Hosted DNS Adblocking · Balena-AdGuard · X · Reddit 讨论区 · Telegram 交流群 · GitHub 开源",
     "descriptionEn": "Self-Hosted DNS Adblocking / Balena-AdGuard / X / Subreddit / Telegram / GitHub",
     "category": "privacy",
     "tags": [
@@ -683,7 +683,7 @@
     "id": "privacy-dns-speed-test",
     "name": "DNS Speed Test",
     "url": "https://dnsspeedtest.online/",
-    "description": "DNS Speed Tests",
+    "description": "DNS 网速测速",
     "descriptionEn": "DNS Speed Tests",
     "category": "privacy",
     "tags": [
@@ -709,7 +709,7 @@
     "id": "privacy-tiarap",
     "name": "Tiarap",
     "url": "https://doh.tiar.app/",
-    "description": "DNS Adblocking · GitHub",
+    "description": "DNS Adblocking · GitHub 开源",
     "descriptionEn": "DNS Adblocking / GitHub",
     "category": "privacy",
     "tags": [
@@ -735,7 +735,7 @@
     "id": "privacy-rethink-dns",
     "name": "Rethink DNS",
     "url": "https://rethinkdns.com/configure",
-    "description": "DNS Adblocking · Subreddit · Telegram",
+    "description": "DNS Adblocking · Reddit 讨论区 · Telegram 交流群",
     "descriptionEn": "DNS Adblocking / Subreddit / Telegram",
     "category": "privacy",
     "tags": [
@@ -761,7 +761,7 @@
     "id": "privacy-blocky",
     "name": "Blocky",
     "url": "https://0xerr0r.github.io/blocky/latest/",
-    "description": "DNS Adblocking · GitHub",
+    "description": "DNS Adblocking · GitHub 开源",
     "descriptionEn": "DNS Adblocking / GitHub",
     "category": "privacy",
     "tags": [
@@ -787,7 +787,7 @@
     "id": "privacy-adguard-dns",
     "name": "AdGuard DNS",
     "url": "https://adguard-dns.io/",
-    "description": "Customizable DNS Adblocking Service · X · Subreddit · Telegram",
+    "description": "Customizable DNS Adblocking Service · X · Reddit 讨论区 · Telegram 交流群",
     "descriptionEn": "Customizable DNS Adblocking Service / X / Subreddit / Telegram",
     "category": "privacy",
     "tags": [
@@ -813,7 +813,7 @@
     "id": "privacy-control-d",
     "name": "Control D",
     "url": "https://controld.com/free-dns",
-    "description": "Customizable DNS Adblocking Service · X · Subreddit · Discord",
+    "description": "Customizable DNS Adblocking Service · X · Reddit 讨论区 · Discord 社区",
     "descriptionEn": "Customizable DNS Adblocking Service / X / Subreddit / Discord",
     "category": "privacy",
     "tags": [
@@ -839,7 +839,7 @@
     "id": "privacy-libredns",
     "name": "LibreDNS",
     "url": "https://libredns.gr/",
-    "description": "DNS Adblocking · GitLab",
+    "description": "DNS Adblocking · GitLab 开源",
     "descriptionEn": "DNS Adblocking / GitLab",
     "category": "privacy",
     "tags": [
@@ -865,7 +865,7 @@
     "id": "privacy-nextdns",
     "name": "NextDNS",
     "url": "https://nextdns.io",
-    "description": "Customizable DNS Adblocking Service · Guide · GitHub",
+    "description": "Customizable DNS Adblocking Service · 指南 · GitHub 开源",
     "descriptionEn": "Customizable DNS Adblocking Service / Guide / GitHub",
     "category": "privacy",
     "tags": [
@@ -891,7 +891,7 @@
     "id": "privacy-nxfilter",
     "name": "NxFilter",
     "url": "https://nxfilter.org/",
-    "description": "支持自建部署 Customizable DNS Adblocking · Subreddit",
+    "description": "Self-Hosted Customizable DNS Adblocking · Reddit 讨论区",
     "descriptionEn": "Self-Hosted Customizable DNS Adblocking / Subreddit",
     "category": "privacy",
     "tags": [
@@ -919,7 +919,7 @@
     "id": "privacy-tblock",
     "name": "TBlock",
     "url": "https://tblock.me/",
-    "description": "DNS Adblocking Client · Source Code",
+    "description": "DNS Adblocking 客户端 · 源码程序源码",
     "descriptionEn": "DNS Adblocking Client / Source Code",
     "category": "privacy",
     "tags": [
@@ -945,7 +945,7 @@
     "id": "privacy-yogadns",
     "name": "YogaDNS",
     "url": "https://yogadns.com/",
-    "description": "Custom DNS Client for Windows",
+    "description": "Custom DNS 客户端面向 Windows",
     "descriptionEn": "Custom DNS Client for Windows",
     "category": "privacy",
     "tags": [
@@ -973,7 +973,7 @@
     "id": "privacy-diversion",
     "name": "Diversion",
     "url": "https://diversion.ch/",
-    "description": "Asuswrt-Merlin Router Adblock Manager",
+    "description": "Asuswrt-Merlin Router Adblock 管理工具",
     "descriptionEn": "Asuswrt-Merlin Router Adblock Manager",
     "category": "privacy",
     "tags": [
@@ -999,7 +999,7 @@
     "id": "privacy-technitium",
     "name": "Technitium",
     "url": "https://technitium.com/dns",
-    "description": "支持自建部署 DNS Server · Subreddit · GitHub",
+    "description": "Self-Hosted DNS 自建服务器 · Reddit 讨论区 · GitHub 开源",
     "descriptionEn": "Self-Hosted DNS Server / Subreddit / GitHub",
     "category": "privacy",
     "tags": [
@@ -1027,7 +1027,7 @@
     "id": "privacy-oisd",
     "name": "OISD",
     "url": "https://oisd.nl/",
-    "description": "Multi-Source Domain Blocklist · GitHub",
+    "description": "Multi-源码 Domain Blocklist · GitHub 开源",
     "descriptionEn": "Multi-Source Domain Blocklist / GitHub",
     "category": "privacy",
     "tags": [
@@ -1055,7 +1055,7 @@
     "id": "privacy-hblock-2",
     "name": "hBlock",
     "url": "https://github.com/hectorm/hblock",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -1069,7 +1069,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -1081,7 +1081,7 @@
     "id": "privacy-stevenblack-hosts",
     "name": "StevenBlack Hosts",
     "url": "https://github.com/StevenBlack/hosts",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -1095,7 +1095,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -1107,7 +1107,7 @@
     "id": "privacy-spamhaus",
     "name": "Spamhaus",
     "url": "https://www.spamhaus.org/blocklists/",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -1121,7 +1121,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -1133,7 +1133,7 @@
     "id": "privacy-black-mirror",
     "name": "black-mirror",
     "url": "https://github.com/T145/black-mirror",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -1147,7 +1147,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -1159,7 +1159,7 @@
     "id": "privacy-scam-blocklist",
     "name": "Scam Blocklist",
     "url": "https://github.com/durablenapkin/scamblocklist",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -1173,7 +1173,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -1187,7 +1187,7 @@
     "id": "privacy-neodevhost",
     "name": "neodevhost",
     "url": "https://github.com/neodevpro/neodevhost",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -1201,7 +1201,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -1213,7 +1213,7 @@
     "id": "privacy-1hosts",
     "name": "1Hosts",
     "url": "https://o0.pages.dev/",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -1239,7 +1239,7 @@
     "id": "privacy-phishing-army",
     "name": "Phishing Army",
     "url": "https://phishing.army/",
-    "description": "DNS Phishing Blocklist · X",
+    "description": "DNS Phishing Blocklist · X (隐私安全与防护利器)",
     "descriptionEn": "DNS Phishing Blocklist / X",
     "category": "privacy",
     "tags": [
@@ -1265,7 +1265,7 @@
     "id": "privacy-the-second-opinion",
     "name": "The Second Opinion",
     "url": "https://jijirae.github.io/thesecondopinion/index.html",
-    "description": "Portable Malware Scanners · Removal Tools · GitHub",
+    "description": "绿色便携版 Malware Scanners · Removal 工具箱 · GitHub 开源",
     "descriptionEn": "Portable Malware Scanners / Removal Tools / GitHub",
     "category": "privacy",
     "tags": [
@@ -1291,7 +1291,7 @@
     "id": "privacy-malwarebytes",
     "name": "Malwarebytes",
     "url": "https://www.malwarebytes.com/",
-    "description": "Antivirus",
+    "description": "Antivirus (隐私安全与防护利器)",
     "descriptionEn": "Antivirus",
     "category": "privacy",
     "tags": [
@@ -1307,7 +1307,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -1319,7 +1319,7 @@
     "id": "privacy-adwcleaner",
     "name": "AdwCleaner",
     "url": "https://www.malwarebytes.com/adwcleaner/",
-    "description": "Anti-Adware · X",
+    "description": "Anti-Adware · X (隐私安全与防护利器)",
     "descriptionEn": "Anti-Adware / X",
     "category": "privacy",
     "tags": [
@@ -1335,7 +1335,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -1347,7 +1347,7 @@
     "id": "privacy-security---antivirus-mul",
     "name": "Security / Antivirus Multireddit",
     "url": "https://www.reddit.com/user/goretsky/m/security/",
-    "description": "Reddit Communities",
+    "description": "Reddit Communities (隐私安全与防护利器)",
     "descriptionEn": "Reddit Communities",
     "category": "privacy",
     "tags": [
@@ -1363,7 +1363,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -1375,7 +1375,7 @@
     "id": "privacy-fmhy-safeguard",
     "name": "FMHY SafeGuard",
     "url": "https://fmhy.github.io/FMHY-SafeGuard/",
-    "description": "Detects if Current Site is Trusted · Untrusted · GitHub",
+    "description": "Detects if Current Site is Trusted · Untrusted · GitHub 开源",
     "descriptionEn": "Detects if Current Site is Trusted / Untrusted / GitHub",
     "category": "privacy",
     "tags": [
@@ -1403,7 +1403,7 @@
     "id": "privacy-bleepingcomputer",
     "name": "BleepingComputer",
     "url": "https://www.bleepingcomputer.com/forums/f/22/virus-trojan-spyware-and-malware-removal-help/",
-    "description": "Malware Removal Forums · Note",
+    "description": "Malware Removal 极客社区 · 附注意事项",
     "descriptionEn": "Malware Removal Forums / Note",
     "category": "privacy",
     "tags": [
@@ -1431,7 +1431,7 @@
     "id": "privacy-microsoft-safety-scanner",
     "name": "Microsoft Safety Scanner",
     "url": "https://learn.microsoft.com/en-us/defender-endpoint/safety-scanner-download",
-    "description": "On-Demand AV Scanner",
+    "description": "On-Demand AV Scanner (隐私安全与防护利器)",
     "descriptionEn": "On-Demand AV Scanner",
     "category": "privacy",
     "tags": [
@@ -1457,7 +1457,7 @@
     "id": "privacy-rifteyy",
     "name": "⁠rifteyy",
     "url": "https://rifteyy.org/",
-    "description": "Malware Removal Guides · Blog · Infostrealer Prevention · Recovery",
+    "description": "Malware Removal 教程与指南 · Blog · Infostrealer Prevention · Recovery",
     "descriptionEn": "Malware Removal Guides / Blog / Infostrealer Prevention / Recovery",
     "category": "privacy",
     "tags": [
@@ -1483,7 +1483,7 @@
     "id": "privacy-pywhat",
     "name": "pyWhat",
     "url": "https://github.com/bee-san/pyWhat",
-    "description": "Identify Anything · Discord",
+    "description": "Identify Anything · Discord 社区",
     "descriptionEn": "Identify Anything / Discord",
     "category": "privacy",
     "tags": [
@@ -1497,7 +1497,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -1509,7 +1509,7 @@
     "id": "privacy-detect-it-easy",
     "name": "Detect It Easy",
     "url": "https://github.com/horsicq/detect-it-easy",
-    "description": "File Identification + Static Inspection Tool",
+    "description": "文件 Identification + Static Inspection 实用小工具",
     "descriptionEn": "File Identification + Static Inspection Tool",
     "category": "privacy",
     "tags": [
@@ -1523,7 +1523,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -1535,7 +1535,7 @@
     "id": "privacy-no-more-ransom",
     "name": "No More Ransom",
     "url": "https://www.nomoreransom.org/en/decryption-tools.html",
-    "description": "Ransomware Decryption Tools",
+    "description": "Ransomware Decryption 工具箱",
     "descriptionEn": "Ransomware Decryption Tools",
     "category": "privacy",
     "tags": [
@@ -1561,7 +1561,7 @@
     "id": "privacy-id-ransomware",
     "name": "ID Ransomware",
     "url": "https://id-ransomware.malwarehunterteam.com/",
-    "description": "Ransomware Identification Tool",
+    "description": "Ransomware Identification 实用小工具",
     "descriptionEn": "Ransomware Identification Tool",
     "category": "privacy",
     "tags": [
@@ -1575,7 +1575,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -1587,7 +1587,7 @@
     "id": "privacy-winitor",
     "name": "Winitor",
     "url": "https://www.winitor.com/",
-    "description": "EXE Malware Assessment",
+    "description": "EXE Malware Assessment (隐私安全与防护利器)",
     "descriptionEn": "EXE Malware Assessment",
     "category": "privacy",
     "tags": [
@@ -1615,7 +1615,7 @@
     "id": "privacy-configuredefender",
     "name": "ConfigureDefender",
     "url": "https://github.com/AndyFul/ConfigureDefender",
-    "description": "Configure Windows Defender Settings",
+    "description": "Configure Windows Defender Settings (隐私安全与防护利器)",
     "descriptionEn": "Configure Windows Defender Settings",
     "category": "privacy",
     "tags": [
@@ -1629,7 +1629,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -1643,7 +1643,7 @@
     "id": "privacy-virtual-machines",
     "name": "Virtual Machines",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_virtual_machines",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -1657,7 +1657,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -1671,7 +1671,7 @@
     "id": "privacy-triage",
     "name": "Triage",
     "url": "https://tria.ge/",
-    "description": "Online Sandbox",
+    "description": "在线免安装 Sandbox",
     "descriptionEn": "Online Sandbox",
     "category": "privacy",
     "tags": [
@@ -1687,7 +1687,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -1699,7 +1699,7 @@
     "id": "privacy-any-run",
     "name": "ANY.RUN",
     "url": "https://any.run/",
-    "description": "Online Sandbox · Discord · Note",
+    "description": "在线免安装 Sandbox · Discord 社区 · 附注意事项",
     "descriptionEn": "Online Sandbox / Discord / Note",
     "category": "privacy",
     "tags": [
@@ -1725,7 +1725,7 @@
     "id": "privacy-cuckoo",
     "name": "Cuckoo",
     "url": "https://cuckoo.cert.ee/",
-    "description": "Online Sandbox",
+    "description": "在线免安装 Sandbox",
     "descriptionEn": "Online Sandbox",
     "category": "privacy",
     "tags": [
@@ -1751,7 +1751,7 @@
     "id": "privacy-sandboxie-plus",
     "name": "Sandboxie Plus",
     "url": "https://sandboxie-plus.com/",
-    "description": "Local Sandbox Environment · Guide · GitHub",
+    "description": "Local Sandbox Environment · 指南 · GitHub 开源",
     "descriptionEn": "Local Sandbox Environment / Guide / GitHub",
     "category": "privacy",
     "tags": [
@@ -1777,7 +1777,7 @@
     "id": "privacy-windows-sandbox",
     "name": "Windows Sandbox",
     "url": "https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-overview",
-    "description": "Full Local Virtual Machine Sandbox Environment",
+    "description": "Full Local Virtual Machine Sandbox Environment (隐私安全与防护利器)",
     "descriptionEn": "Full Local Virtual Machine Sandbox Environment",
     "category": "privacy",
     "tags": [
@@ -1806,7 +1806,7 @@
     "id": "privacy-dangerzone",
     "name": "Dangerzone",
     "url": "https://dangerzone.rocks/",
-    "description": "Convert Malicious PDFs to Safe Files · GitHub",
+    "description": "Convert Malicious PDFs 至 Safe 文件 · GitHub 开源",
     "descriptionEn": "Convert Malicious PDFs to Safe Files / GitHub",
     "category": "privacy",
     "tags": [
@@ -1832,7 +1832,7 @@
     "id": "privacy-virustotal",
     "name": "VirusTotal",
     "url": "https://www.virustotal.com/",
-    "description": "Online File Scanner · Scan Results Guide · CLI · Uploader · Lite Version",
+    "description": "在线免安装文件 Scanner · Scan Results 指南 · CLI · Uploader · Lite Version",
     "descriptionEn": "Online File Scanner / Scan Results Guide / CLI / Uploader / Lite Version",
     "category": "privacy",
     "tags": [
@@ -1848,7 +1848,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -1862,7 +1862,7 @@
     "id": "privacy-hybrid-analysis",
     "name": "Hybrid Analysis",
     "url": "https://hybrid-analysis.com/",
-    "description": "Online File Scanner",
+    "description": "在线免安装文件 Scanner",
     "descriptionEn": "Online File Scanner",
     "category": "privacy",
     "tags": [
@@ -1888,7 +1888,7 @@
     "id": "privacy-jotti",
     "name": "Jotti",
     "url": "https://virusscan.jotti.org/en",
-    "description": "Online File Scanner",
+    "description": "在线免安装文件 Scanner",
     "descriptionEn": "Online File Scanner",
     "category": "privacy",
     "tags": [
@@ -1914,7 +1914,7 @@
     "id": "privacy-kaspersky-opentip",
     "name": "Kaspersky OpenTIP",
     "url": "https://opentip.kaspersky.com/",
-    "description": "Online File Scanner",
+    "description": "在线免安装文件 Scanner",
     "descriptionEn": "Online File Scanner",
     "category": "privacy",
     "tags": [
@@ -1940,7 +1940,7 @@
     "id": "privacy-malprob",
     "name": "⁠Malprob",
     "url": "https://malprob.io/",
-    "description": "Online File Scanner · Signup Required",
+    "description": "在线免安装文件 Scanner · 需注册使用",
     "descriptionEn": "Online File Scanner / Signup Required",
     "category": "privacy",
     "tags": [
@@ -1966,7 +1966,7 @@
     "id": "privacy-filescan-io",
     "name": "Filescan.io",
     "url": "https://www.filescan.io/",
-    "description": "Online File Scanner · X · GitHub",
+    "description": "在线免安装文件 Scanner · X · GitHub 开源",
     "descriptionEn": "Online File Scanner / X / GitHub",
     "category": "privacy",
     "tags": [
@@ -1992,7 +1992,7 @@
     "id": "privacy-manalyzer",
     "name": "Manalyzer",
     "url": "https://manalyzer.org/",
-    "description": "PE File Scanner · GitHub",
+    "description": "PE 文件 Scanner · GitHub 开源",
     "descriptionEn": "PE File Scanner / GitHub",
     "category": "privacy",
     "tags": [
@@ -2018,7 +2018,7 @@
     "id": "privacy-sms-verification-sites",
     "name": "SMS Verification Sites",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sms_verification_sites",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -2032,7 +2032,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2044,7 +2044,7 @@
     "id": "privacy-file-encryption",
     "name": "File Encryption",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_file_encryption",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -2058,7 +2058,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2070,7 +2070,7 @@
     "id": "privacy-drive-formatting---file-",
     "name": "Drive Formatting / File Deletion",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_formatting_.2F_deletion",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -2084,7 +2084,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2096,7 +2096,7 @@
     "id": "privacy-photo-forensics---metada",
     "name": "Photo Forensics / Metadata",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_photo_forensics_.2F_metadata",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -2110,7 +2110,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2122,7 +2122,7 @@
     "id": "privacy-privacy-focused-android-",
     "name": "Privacy-Focused Android Operating Systems",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_operating_systems",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -2136,7 +2136,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2150,7 +2150,7 @@
     "id": "privacy-whonix",
     "name": "Whonix",
     "url": "https://www.whonix.org/",
-    "description": "Privacy-Focused Operating Systems",
+    "description": "隐私安全-Focused Operating 文件系统",
     "descriptionEn": "Privacy-Focused Operating Systems",
     "category": "privacy",
     "tags": [
@@ -2178,7 +2178,7 @@
     "id": "privacy-w10privacy",
     "name": "W10Privacy",
     "url": "https://www.w10privacy.de/english-home/",
-    "description": "Privacy and Data Protection Tools",
+    "description": "隐私安全与 Data Protection 工具箱",
     "descriptionEn": "Privacy and Data Protection Tools",
     "category": "privacy",
     "tags": [
@@ -2204,7 +2204,7 @@
     "id": "privacy-telemetry-md",
     "name": "Telemetry.md",
     "url": "https://gist.github.com/ave9858/a2153957afb053f7d0e7ffdd6c3dcb89",
-    "description": "Disable Windows 10 · 11 Telemetry",
+    "description": "Disable Windows 10 · 11 Telemetry (隐私安全与防护利器)",
     "descriptionEn": "Disable Windows 10 / 11 Telemetry",
     "category": "privacy",
     "tags": [
@@ -2218,7 +2218,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2232,7 +2232,7 @@
     "id": "privacy-agent-dvr",
     "name": "Agent DVR",
     "url": "https://www.ispyconnect.com/",
-    "description": "Security Camera Systems",
+    "description": "网络安全 Camera 文件系统",
     "descriptionEn": "Security Camera Systems",
     "category": "privacy",
     "tags": [
@@ -2258,7 +2258,7 @@
     "id": "privacy-go2rtc",
     "name": "⁠go2rtc",
     "url": "https://github.com/AlexxIT/go2rtc",
-    "description": "Security Camera Bridge + Stream Manager",
+    "description": "网络安全 Camera 中继接口 + Stream 管理工具",
     "descriptionEn": "Security Camera Bridge + Stream Manager",
     "category": "privacy",
     "tags": [
@@ -2272,7 +2272,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2284,7 +2284,7 @@
     "id": "privacy-team-elite",
     "name": "Team Elite",
     "url": "https://www.te-home.net/",
-    "description": "Security Software",
+    "description": "网络安全纯净软件",
     "descriptionEn": "Security Software",
     "category": "privacy",
     "tags": [
@@ -2310,7 +2310,7 @@
     "id": "privacy-yourdigitalrights",
     "name": "YourDigitalRights",
     "url": "https://yourdigitalrights.org/",
-    "description": "Get Organizations to Delete Your Personal Data",
+    "description": "Get Organizations 至 Delete Your Personal Data",
     "descriptionEn": "Get Organizations to Delete Your Personal Data",
     "category": "privacy",
     "tags": [
@@ -2336,7 +2336,7 @@
     "id": "privacy-big-ass-data-broker-opt-",
     "name": "Big Ass Data Broker Opt-Out List",
     "url": "https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List",
-    "description": "Data Broker Removal & Opt-Out Methods",
+    "description": "Data Broker Removal & Opt-Out Methods (隐私安全与防护利器)",
     "descriptionEn": "Data Broker Removal & Opt-Out Methods",
     "category": "privacy",
     "tags": [
@@ -2350,7 +2350,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2362,7 +2362,7 @@
     "id": "privacy-datarequests",
     "name": "⁠DataRequests",
     "url": "https://www.datarequests.org/",
-    "description": "GDPR Request Generator · Tools · GitHub",
+    "description": "GDPR Request 生成器 · 工具箱 · GitHub 开源",
     "descriptionEn": "GDPR Request Generator / Tools / GitHub",
     "category": "privacy",
     "tags": [
@@ -2388,7 +2388,7 @@
     "id": "privacy-surfer-protocol",
     "name": "Surfer Protocol",
     "url": "https://github.com/Surfer-Org/Protocol",
-    "description": "Multi-Platform User Data Exporter · Discord",
+    "description": "Multi-Platform User Data Exporter · Discord 社区",
     "descriptionEn": "Multi-Platform User Data Exporter / Discord",
     "category": "privacy",
     "tags": [
@@ -2402,7 +2402,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2416,7 +2416,7 @@
     "id": "privacy-gnupg",
     "name": "GnuPG",
     "url": "https://gnupg.org/",
-    "description": "Data · Communication Encryption Tool · Installer · Key Manager",
+    "description": "Data · Communication Encryption 实用小工具 · Installer · 密钥管理工具",
     "descriptionEn": "Data / Communication Encryption Tool / Installer / Key Manager",
     "category": "privacy",
     "tags": [
@@ -2444,7 +2444,7 @@
     "id": "privacy-privnote",
     "name": "PrivNote",
     "url": "https://privnote.com/",
-    "description": "Self-Destructing Messages · Private Notes",
+    "description": "Self-Destructing Messages · Private 附注意事项",
     "descriptionEn": "Self-Destructing Messages / Private Notes",
     "category": "privacy",
     "tags": [
@@ -2470,7 +2470,7 @@
     "id": "privacy-portable-secret",
     "name": "⁠Portable Secret",
     "url": "https://alcazarsec.github.io/portable-secret/",
-    "description": "Self-Contained HTML Files that Decrypt Locally in Browser · GitHub",
+    "description": "Self-Contained HTML 文件 that Decrypt 本地离线在 Browser · GitHub 开源",
     "descriptionEn": "Self-Contained HTML Files that Decrypt Locally in Browser / GitHub",
     "category": "privacy",
     "tags": [
@@ -2498,7 +2498,7 @@
     "id": "privacy-forensic-focus",
     "name": "Forensic Focus",
     "url": "https://www.forensicfocus.com/forums/",
-    "description": "Digital Forensics Discussion Forums · Discord",
+    "description": "Digital Forensics Discussion 极客社区 · Discord 社区",
     "descriptionEn": "Digital Forensics Discussion Forums / Discord",
     "category": "privacy",
     "tags": [
@@ -2524,7 +2524,7 @@
     "id": "privacy-surveillancewatch",
     "name": "SurveillanceWatch",
     "url": "https://www.surveillancewatch.io/",
-    "description": "Surveillance Company Connections",
+    "description": "Surveillance Company Connections (隐私安全与防护利器)",
     "descriptionEn": "Surveillance Company Connections",
     "category": "privacy",
     "tags": [
@@ -2550,7 +2550,7 @@
     "id": "privacy-atlas-of-surveillance",
     "name": "⁠Atlas of Surveillance",
     "url": "https://www.atlasofsurveillance.org/",
-    "description": "Police · Surveillance Tech Map",
+    "description": "Police · Surveillance 极客科技全景地图",
     "descriptionEn": "Police / Surveillance Tech Map",
     "category": "privacy",
     "tags": [
@@ -2576,7 +2576,7 @@
     "id": "privacy-sparrow-map",
     "name": "⁠Sparrow Map",
     "url": "https://map.sparrowmap.com/",
-    "description": "Police Vehicle Map · Community Camera Network",
+    "description": "Police Vehicle 全景地图 · 用户社区 Camera 网络",
     "descriptionEn": "Police Vehicle Map / Community Camera Network",
     "category": "privacy",
     "tags": [
@@ -2602,7 +2602,7 @@
     "id": "privacy-alpr-watch",
     "name": "ALPR Watch",
     "url": "https://alprwatch.org/",
-    "description": "AI Automated License Plate Reader Cameras · ALPR Maps",
+    "description": "AI Automated License Plate Reader Cameras · ALPR 互动地图",
     "descriptionEn": "AI Automated License Plate Reader Cameras / ALPR Maps",
     "category": "privacy",
     "tags": [
@@ -2628,7 +2628,7 @@
     "id": "privacy-eyesonflock",
     "name": "EyesOnFlock",
     "url": "https://eyesonflock.com/",
-    "description": "AI Flock Surveillance Database · Tracking",
+    "description": "AI Flock Surveillance 资料库 · Tracking",
     "descriptionEn": "AI Flock Surveillance Database / Tracking",
     "category": "privacy",
     "tags": [
@@ -2654,7 +2654,7 @@
     "id": "privacy-have-i-been-flocked",
     "name": "Have I Been Flocked?",
     "url": "https://haveibeenflocked.com/",
-    "description": "Check to See if Your Plate Has Been Tagged by Flock Surveillance",
+    "description": "检测至 See if Your Plate Has Been Tagged 由 Flock Surveillance",
     "descriptionEn": "Check to See if Your Plate Has Been Tagged by Flock Surveillance",
     "category": "privacy",
     "tags": [
@@ -2680,7 +2680,7 @@
     "id": "privacy-people-over-papers",
     "name": "People Over Papers",
     "url": "https://iceout.org/en/",
-    "description": "ICE Activity Information · Maps",
+    "description": "ICE Activity Information · 互动地图",
     "descriptionEn": "ICE Activity Information / Maps",
     "category": "privacy",
     "tags": [
@@ -2706,7 +2706,7 @@
     "id": "privacy-if-an-agent-knocks",
     "name": "If An Agent Knocks",
     "url": "https://docs.google.com/document/d/176Yds1p63Q3iaKilw0luChMzlJhODdiPvF2I4g9eIXo/",
-    "description": "Best Practices if Contacted by Agents",
+    "description": "Best Practices if Contacted 由 Agents",
     "descriptionEn": "Best Practices if Contacted by Agents",
     "category": "privacy",
     "tags": [
@@ -2732,7 +2732,7 @@
     "id": "privacy-privacy-guides",
     "name": "Privacy Guides",
     "url": "https://www.privacyguides.org/",
-    "description": "Educational Guide · Discuss · .onion · Matrix · GitHub",
+    "description": "教育自学指南 · Discuss · .onion · Matrix 讨论组 · GitHub 开源",
     "descriptionEn": "Educational Guide / Discuss / .onion / Matrix / GitHub",
     "category": "privacy",
     "tags": [
@@ -2760,7 +2760,7 @@
     "id": "privacy-the-hitchhiker-s-guide",
     "name": "The Hitchhiker’s Guide",
     "url": "https://anonymousplanet.net/",
-    "description": "Online Anonymity Guide · GitHub",
+    "description": "在线免安装 Anonymity 指南 · GitHub 开源",
     "descriptionEn": "Online Anonymity Guide / GitHub",
     "category": "privacy",
     "tags": [
@@ -2788,7 +2788,7 @@
     "id": "privacy-the-opsec-bible",
     "name": "The OPSEC Bible",
     "url": "http://opbible7nans45sg33cbyeiwqmlp5fu7lklu6jd6f3mivrjeqadco5yd.onion/",
-    "description": "Online Anonymity Guide",
+    "description": "在线免安装 Anonymity 指南",
     "descriptionEn": "Online Anonymity Guide",
     "category": "privacy",
     "tags": [
@@ -2816,7 +2816,7 @@
     "id": "privacy-the-new-oil",
     "name": "The New Oil",
     "url": "https://thenewoil.org/",
-    "description": "Educational Guide · GitHub",
+    "description": "教育自学指南 · GitHub 开源",
     "descriptionEn": "Educational Guide / GitHub",
     "category": "privacy",
     "tags": [
@@ -2844,7 +2844,7 @@
     "id": "privacy-no-trace",
     "name": "No Trace",
     "url": "https://www.notrace.how/",
-    "description": "Educational Guide · .onion",
+    "description": "教育自学指南 · .onion",
     "descriptionEn": "Educational Guide / .onion",
     "category": "privacy",
     "tags": [
@@ -2872,7 +2872,7 @@
     "id": "privacy-awesome-privacy",
     "name": "Awesome Privacy",
     "url": "https://awesome-privacy.xyz/",
-    "description": "Privacy Apps · Services",
+    "description": "隐私安全精选应用 · Services",
     "descriptionEn": "Privacy Apps / Services",
     "category": "privacy",
     "tags": [
@@ -2900,7 +2900,7 @@
     "id": "privacy-consumer-rights-wiki",
     "name": "Consumer Rights Wiki",
     "url": "https://consumerrights.wiki/",
-    "description": "Documents Practices That Impact Consumer Rights · Extension · Discord",
+    "description": "Documents Practices That Impact Consumer Rights · 扩展插件 · Discord 社区",
     "descriptionEn": "Documents Practices That Impact Consumer Rights / Extension / Discord",
     "category": "privacy",
     "tags": [
@@ -2930,7 +2930,7 @@
     "id": "privacy-surveillance-self-defens",
     "name": "Surveillance Self-Defense",
     "url": "https://ssd.eff.org/",
-    "description": "Educational Guide",
+    "description": "教育自学指南",
     "descriptionEn": "Educational Guide",
     "category": "privacy",
     "tags": [
@@ -2958,7 +2958,7 @@
     "id": "privacy-digital-defense",
     "name": "Digital Defense",
     "url": "https://digital-defense.io/",
-    "description": "Personal Checklist for Privacy & Security · GitHub",
+    "description": "Personal Checklist 面向隐私安全 & 网络安全 · GitHub 开源",
     "descriptionEn": "Personal Checklist for Privacy & Security / GitHub",
     "category": "privacy",
     "tags": [
@@ -2984,7 +2984,7 @@
     "id": "privacy-defensive-computing-chec",
     "name": "Defensive Computing Checklist",
     "url": "https://defensivecomputingchecklist.com/",
-    "description": "Educational Guide",
+    "description": "教育自学指南",
     "descriptionEn": "Educational Guide",
     "category": "privacy",
     "tags": [
@@ -3010,7 +3010,7 @@
     "id": "privacy-whonix-wiki",
     "name": "⁠Whonix Wiki",
     "url": "https://www.whonix.org/wiki",
-    "description": "Educational Guide · Forum",
+    "description": "教育自学指南 · 交流论坛",
     "descriptionEn": "Educational Guide / Forum",
     "category": "privacy",
     "tags": [
@@ -3036,7 +3036,7 @@
     "id": "privacy-kicksecure-wiki",
     "name": "⁠Kicksecure Wiki",
     "url": "https://www.kicksecure.com/wiki",
-    "description": "Educational Guide · Forum",
+    "description": "教育自学指南 · 交流论坛",
     "descriptionEn": "Educational Guide / Forum",
     "category": "privacy",
     "tags": [
@@ -3062,7 +3062,7 @@
     "id": "privacy-opsec-guide",
     "name": "OPSEC Guide",
     "url": "https://whos-zycher.github.io/opsec-guide/",
-    "description": "Educational Guide",
+    "description": "教育自学指南",
     "descriptionEn": "Educational Guide",
     "category": "privacy",
     "tags": [
@@ -3088,7 +3088,7 @@
     "id": "privacy-privsec",
     "name": "PrivSec",
     "url": "https://privsec.dev/",
-    "description": "Educational Guide · GitHub",
+    "description": "教育自学指南 · GitHub 开源",
     "descriptionEn": "Educational Guide / GitHub",
     "category": "privacy",
     "tags": [
@@ -3114,7 +3114,7 @@
     "id": "privacy-hostux",
     "name": "Hostux",
     "url": "https://hostux.net/en/",
-    "description": "Privacy Tools · Source Code",
+    "description": "隐私安全工具箱 · 源码程序源码",
     "descriptionEn": "Privacy Tools / Source Code",
     "category": "privacy",
     "tags": [
@@ -3140,7 +3140,7 @@
     "id": "privacy-privacy-settings",
     "name": "Privacy Settings",
     "url": "https://github.com/StellarSand/privacy-settings",
-    "description": "Privacy Setting Guides",
+    "description": "隐私安全 Setting 教程与指南",
     "descriptionEn": "Privacy Setting Guides",
     "category": "privacy",
     "tags": [
@@ -3154,7 +3154,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3166,7 +3166,7 @@
     "id": "privacy-privacy-not-included",
     "name": "Privacy Not Included",
     "url": "https://www.mozillafoundation.org/en/privacynotincluded/",
-    "description": "Product Privacy Ratings",
+    "description": "Product 隐私安全 Ratings",
     "descriptionEn": "Product Privacy Ratings",
     "category": "privacy",
     "tags": [
@@ -3192,7 +3192,7 @@
     "id": "privacy-encryptedlist",
     "name": "EncryptedList",
     "url": "https://encryptedlist.xyz/",
-    "description": "List of Encrypted Services · Apps",
+    "description": "List 精选 Encrypted Services · 精选应用",
     "descriptionEn": "List of Encrypted Services / Apps",
     "category": "privacy",
     "tags": [
@@ -3218,7 +3218,7 @@
     "id": "privacy-awesome-vehicle-security",
     "name": "Awesome Vehicle Security",
     "url": "https://github.com/jaredthecoder/awesome-vehicle-security",
-    "description": "Vehicle Security Resources",
+    "description": "Vehicle 网络安全精选资源",
     "descriptionEn": "Vehicle Security Resources",
     "category": "privacy",
     "tags": [
@@ -3232,7 +3232,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3244,7 +3244,7 @@
     "id": "privacy-safing-portmaster",
     "name": "Safing Portmaster",
     "url": "https://safing.io/",
-    "description": "Network Monitor · DNS Resolver · Firewall · X · Discord · GitHub",
+    "description": "网络 Monitor · DNS Resolver · Firewall · X · Discord 社区 · GitHub 开源",
     "descriptionEn": "Network Monitor / DNS Resolver / Firewall / X / Discord / GitHub",
     "category": "privacy",
     "tags": [
@@ -3272,7 +3272,7 @@
     "id": "privacy-dnsleaktest",
     "name": "⁠DNSLeakTest",
     "url": "https://dnsleaktest.com/",
-    "description": "DNS Leak Test",
+    "description": "DNS Leak 测试",
     "descriptionEn": "DNS Leak Test",
     "category": "privacy",
     "tags": [
@@ -3298,7 +3298,7 @@
     "id": "privacy-i2p",
     "name": "I2P",
     "url": "https://i2p.net/",
-    "description": "Encrypted Private Network Layer · Client · Subreddit · GitLab",
+    "description": "Encrypted Private 网络 Layer · 客户端 · Reddit 讨论区 · GitLab 开源",
     "descriptionEn": "Encrypted Private Network Layer / Client / Subreddit / GitLab",
     "category": "privacy",
     "tags": [
@@ -3326,7 +3326,7 @@
     "id": "privacy-freenet",
     "name": "Freenet",
     "url": "https://freenet.org/",
-    "description": "Decentralized P2P Web · GitHub",
+    "description": "Decentralized P2P 网页版 · GitHub 开源",
     "descriptionEn": "Decentralized P2P Web / GitHub",
     "category": "privacy",
     "tags": [
@@ -3354,7 +3354,7 @@
     "id": "privacy-hyphanet",
     "name": "Hyphanet",
     "url": "https://www.hyphanet.org/",
-    "description": "Decentralized P2P Web · GitHub",
+    "description": "Decentralized P2P 网页版 · GitHub 开源",
     "descriptionEn": "Decentralized P2P Web / GitHub",
     "category": "privacy",
     "tags": [
@@ -3382,7 +3382,7 @@
     "id": "privacy-rustnet",
     "name": "⁠RustNet",
     "url": "https://github.com/domcyrus/rustnet",
-    "description": "Network Monitor TUI",
+    "description": "网络 Monitor TUI",
     "descriptionEn": "Network Monitor TUI",
     "category": "privacy",
     "tags": [
@@ -3396,7 +3396,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3408,7 +3408,7 @@
     "id": "privacy-wifit3",
     "name": "⁠wifit3",
     "url": "https://github.com/derv82/wifit3",
-    "description": "USB Wi-Fi Auditing Tool",
+    "description": "USB Wi-Fi Auditing 实用小工具",
     "descriptionEn": "USB Wi-Fi Auditing Tool",
     "category": "privacy",
     "tags": [
@@ -3422,7 +3422,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3434,7 +3434,7 @@
     "id": "privacy-simplewall",
     "name": "Simplewall",
     "url": "https://github.com/henrypp/simplewall",
-    "description": "Firewall",
+    "description": "Firewall (隐私安全与防护利器)",
     "descriptionEn": "Firewall",
     "category": "privacy",
     "tags": [
@@ -3448,7 +3448,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3460,7 +3460,7 @@
     "id": "privacy-fort",
     "name": "Fort",
     "url": "https://github.com/tnodir/fort",
-    "description": "Firewall",
+    "description": "Firewall (隐私安全与防护利器)",
     "descriptionEn": "Firewall",
     "category": "privacy",
     "tags": [
@@ -3474,7 +3474,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3486,7 +3486,7 @@
     "id": "privacy-opnsense",
     "name": "OPNsense",
     "url": "https://opnsense.org/",
-    "description": "Firewall · GitHub",
+    "description": "Firewall · GitHub 开源",
     "descriptionEn": "Firewall / GitHub",
     "category": "privacy",
     "tags": [
@@ -3512,7 +3512,7 @@
     "id": "privacy-wfc",
     "name": "WFC",
     "url": "https://www.binisoft.org/wfc.php",
-    "description": "Firewall",
+    "description": "Firewall (隐私安全与防护利器)",
     "descriptionEn": "Firewall",
     "category": "privacy",
     "tags": [
@@ -3538,7 +3538,7 @@
     "id": "privacy-encode---decode-urls",
     "name": "Encode / Decode URLs",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_encode_.2F_decode",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -3552,7 +3552,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3564,7 +3564,7 @@
     "id": "privacy-justdeleteme",
     "name": "JustDeleteMe",
     "url": "https://justdeleteme.xyz/",
-    "description": "Find · Terminate Old Accounts",
+    "description": "查找 · Terminate Old 多账号",
     "descriptionEn": "Find / Terminate Old Accounts",
     "category": "privacy",
     "tags": [
@@ -3592,7 +3592,7 @@
     "id": "privacy-r-degoogle",
     "name": "r/degoogle",
     "url": "https://www.reddit.com/r/degoogle",
-    "description": "Google App Alternatives",
+    "description": "Google 应用程序优质平替",
     "descriptionEn": "Google App Alternatives",
     "category": "privacy",
     "tags": [
@@ -3606,7 +3606,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3618,7 +3618,7 @@
     "id": "privacy-phish-report",
     "name": "Phish Report",
     "url": "https://phish.report/",
-    "description": "Report Phishing Sites",
+    "description": "Report Phishing Sites (隐私安全与防护利器)",
     "descriptionEn": "Report Phishing Sites",
     "category": "privacy",
     "tags": [
@@ -3644,7 +3644,7 @@
     "id": "privacy-tos-dr",
     "name": "ToS;DR",
     "url": "https://tosdr.org/",
-    "description": "Sites Privacy Policies · Discord · GitHub",
+    "description": "Sites 隐私安全 Policies · Discord 社区 · GitHub 开源",
     "descriptionEn": "Sites Privacy Policies / Discord / GitHub",
     "category": "privacy",
     "tags": [
@@ -3670,7 +3670,7 @@
     "id": "privacy-dns-jumper",
     "name": "DNS Jumper",
     "url": "https://www.sordum.org/7952/dns-jumper-v2-3/",
-    "description": "DNS Switcher",
+    "description": "DNS Switcher (隐私安全与防护利器)",
     "descriptionEn": "DNS Switcher",
     "category": "privacy",
     "tags": [
@@ -3696,7 +3696,7 @@
     "id": "privacy-onionhop",
     "name": "⁠OnionHop",
     "url": "https://www.onionhop.de/",
-    "description": "Tor Network Client · Onion Routing · GitHub",
+    "description": "Tor 网络客户端 · Onion Routing · GitHub 开源",
     "descriptionEn": "Tor Network Client / Onion Routing / GitHub",
     "category": "privacy",
     "tags": [
@@ -3722,7 +3722,7 @@
     "id": "privacy-tweetxer",
     "name": "tweetXer",
     "url": "https://github.com/lucahammer/tweetXer",
-    "description": "Delete X.com Posts",
+    "description": "Delete X.com Posts (隐私安全与防护利器)",
     "descriptionEn": "Delete X.com Posts",
     "category": "privacy",
     "tags": [
@@ -3736,7 +3736,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3748,7 +3748,7 @@
     "id": "privacy-delete-likes-from-x-com-",
     "name": "delete-likes-from-x-com.md",
     "url": "https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d",
-    "description": "Delete X.com Likes · Favorites",
+    "description": "Delete X.com Likes · Favorites (隐私安全与防护利器)",
     "descriptionEn": "Delete X.com Likes / Favorites",
     "category": "privacy",
     "tags": [
@@ -3762,7 +3762,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3774,7 +3774,7 @@
     "id": "privacy-power-delete-suite",
     "name": "Power Delete Suite",
     "url": "https://github.com/j0be/PowerDeleteSuite",
-    "description": "Reddit Auto Post Delete",
+    "description": "Reddit Auto Post Delete (隐私安全与防护利器)",
     "descriptionEn": "Reddit Auto Post Delete",
     "category": "privacy",
     "tags": [
@@ -3788,7 +3788,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3800,7 +3800,7 @@
     "id": "privacy-browser-privacy-guides",
     "name": "Browser Privacy Guides",
     "url": "https://www.privacyguides.org/en/desktop-browsers",
-    "description": "Browser Privacy · Setup Guides",
+    "description": "Browser 隐私安全 · Setup 教程与指南",
     "descriptionEn": "Browser Privacy / Setup Guides",
     "category": "privacy",
     "tags": [
@@ -3828,7 +3828,7 @@
     "id": "privacy-browser-comparisons",
     "name": "Browser Comparisons",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25BA_browser_tools",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -3842,7 +3842,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3856,7 +3856,7 @@
     "id": "privacy-android-privacy-browsers",
     "name": "Android Privacy Browsers",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_browsers",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -3870,7 +3870,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3885,7 +3885,7 @@
     "id": "privacy-tor-browser",
     "name": "Tor Browser",
     "url": "https://www.torproject.org/",
-    "description": "Onion-Routed Browser · TG Downloads · Bridges · .onion · GitLab",
+    "description": "Onion-Routed Browser · TG Downloads · 中继接口 · .onion · GitLab 开源",
     "descriptionEn": "Onion-Routed Browser / TG Downloads / Bridges / .onion / GitLab",
     "category": "privacy",
     "tags": [
@@ -3915,7 +3915,7 @@
     "id": "privacy-mullvad-browser",
     "name": "Mullvad Browser",
     "url": "https://mullvad.net/en/browser",
-    "description": "Tor Browser Fork (without Tor network) · GitHub",
+    "description": "Tor Browser Fork (without Tor 网络) · GitHub 开源",
     "descriptionEn": "Tor Browser Fork (without Tor network) / GitHub",
     "category": "privacy",
     "tags": [
@@ -3945,7 +3945,7 @@
     "id": "privacy-librewolf",
     "name": "LibreWolf",
     "url": "https://librewolf.net/",
-    "description": "Custom Privacy-Focused Firefox · Auto-Updater, 2 · Subreddit · Source Code",
+    "description": "Custom 隐私安全-Focused Firefox · Auto-Updater · 2 · Reddit 讨论区 · 源码程序源码",
     "descriptionEn": "Custom Privacy-Focused Firefox / Auto-Updater, 2 / Subreddit / Source Code",
     "category": "privacy",
     "tags": [
@@ -3975,7 +3975,7 @@
     "id": "privacy-brave-browser",
     "name": "Brave Browser",
     "url": "https://brave.com/",
-    "description": "Privacy Chromium Browser · Debloat · Hardening · Origin (Linux) · Subreddit · GitHub",
+    "description": "隐私安全 Chromium Browser · Debloat · Hardening · Origin (Linux) · Reddit 讨论区 · GitHub 开源",
     "descriptionEn": "Privacy Chromium Browser / Debloat / Hardening / Origin (Linux) / Subreddit / GitHub",
     "category": "privacy",
     "tags": [
@@ -4003,7 +4003,7 @@
     "id": "privacy-helium-browser",
     "name": "Helium Browser",
     "url": "https://helium.computer/",
-    "description": "Privacy Chromium Browser",
+    "description": "隐私安全 Chromium Browser",
     "descriptionEn": "Privacy Chromium Browser",
     "category": "privacy",
     "tags": [
@@ -4031,7 +4031,7 @@
     "id": "privacy-phoenix",
     "name": "⁠Phoenix",
     "url": "https://codeberg.org/celenity/Phoenix",
-    "description": "Firefox Privacy Tweak · GitHub · Warning",
+    "description": "Firefox 隐私安全 Tweak · GitHub 开源 · Warning",
     "descriptionEn": "Firefox Privacy Tweak / GitHub / Warning",
     "category": "privacy",
     "tags": [
@@ -4057,7 +4057,7 @@
     "id": "privacy-arkenfox",
     "name": "arkenfox",
     "url": "https://github.com/arkenfox/user.js",
-    "description": "Firefox Privacy Tweak · Video · GUI · Warning",
+    "description": "Firefox 隐私安全 Tweak · 影视视频 · GUI · Warning",
     "descriptionEn": "Firefox Privacy Tweak / Video / GUI / Warning",
     "category": "privacy",
     "tags": [
@@ -4071,7 +4071,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4083,7 +4083,7 @@
     "id": "privacy-encrypted-sni",
     "name": "Encrypted SNI",
     "url": "https://www.cloudflare.com/ssl/encrypted-sni/",
-    "description": "Cloudflare Browser Check",
+    "description": "Cloudflare Browser 检测",
     "descriptionEn": "Cloudflare Browser Check",
     "category": "privacy",
     "tags": [
@@ -4111,7 +4111,7 @@
     "id": "privacy-disable-javascript",
     "name": "⁠Disable JavaScript",
     "url": "https://disable-javascript.org/",
-    "description": "JavaScript Disabling Guide · Can Break Sites · Whitelisting Required",
+    "description": "JavaScript Disabling 指南 · Can Break Sites · Whitelisting 需验证",
     "descriptionEn": "JavaScript Disabling Guide / Can Break Sites / Whitelisting Required",
     "category": "privacy",
     "tags": [
@@ -4137,7 +4137,7 @@
     "id": "privacy-2fa-directory",
     "name": "2FA Directory",
     "url": "https://2fa.directory/",
-    "description": "List of Sites with 2FA Support · GitHub",
+    "description": "List 精选 Sites 内置 2FA Support · GitHub 开源",
     "descriptionEn": "List of Sites with 2FA Support / GitHub",
     "category": "privacy",
     "tags": [
@@ -4163,7 +4163,7 @@
     "id": "privacy-password-managers",
     "name": "Password Managers",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_password_managers",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -4177,7 +4177,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4189,7 +4189,7 @@
     "id": "privacy-ente-auth",
     "name": "Ente Auth",
     "url": "https://ente.com/auth/",
-    "description": "2FA · All Platforms · X · Subreddit · Discord · GitHub",
+    "description": "2FA · 全部 Platforms · X · Reddit 讨论区 · Discord 社区 · GitHub 开源",
     "descriptionEn": "2FA / All Platforms / X / Subreddit / Discord / GitHub",
     "category": "privacy",
     "tags": [
@@ -4217,7 +4217,7 @@
     "id": "privacy-aegis",
     "name": "Aegis",
     "url": "https://getaegis.app/",
-    "description": "2FA · Android · GitHub",
+    "description": "2FA · Android · GitHub 开源",
     "descriptionEn": "2FA / Android / GitHub",
     "category": "privacy",
     "tags": [
@@ -4247,7 +4247,7 @@
     "id": "privacy-stratum",
     "name": "Stratum",
     "url": "https://stratumauth.com",
-    "description": "2FA · Android · GitHub",
+    "description": "2FA · Android · GitHub 开源",
     "descriptionEn": "2FA / Android / GitHub",
     "category": "privacy",
     "tags": [
@@ -4277,7 +4277,7 @@
     "id": "privacy-password-strength-chart",
     "name": "Password Strength Chart",
     "url": "https://www.reddit.com/r/dataisbeautiful/comments/1uw8fi2/oc_i_updated_our_popular_password_table_for_2026/",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -4293,7 +4293,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -4305,7 +4305,7 @@
     "id": "privacy-2fas",
     "name": "2FAS",
     "url": "https://2fas.com/",
-    "description": "2FA · Android, iOS · X · Subreddit · Discord · GitHub",
+    "description": "2FA · Android · iOS · X · Reddit 讨论区 · Discord 社区 · GitHub 开源",
     "descriptionEn": "2FA / Android, iOS / X / Subreddit / Discord / GitHub",
     "category": "privacy",
     "tags": [
@@ -4334,7 +4334,7 @@
     "id": "privacy-proton-authenticator",
     "name": "⁠Proton Authenticator",
     "url": "https://proton.me/authenticator",
-    "description": "2FA · All Platforms · Discord · GitHub",
+    "description": "2FA · 全部 Platforms · Discord 社区 · GitHub 开源",
     "descriptionEn": "2FA / All Platforms / Discord / GitHub",
     "category": "privacy",
     "tags": [
@@ -4360,7 +4360,7 @@
     "id": "privacy-mauth",
     "name": "Mauth",
     "url": "https://github.com/X1nto/Mauth",
-    "description": "2FA · Android",
+    "description": "2FA · Android (隐私安全与防护利器)",
     "descriptionEn": "2FA / Android",
     "category": "privacy",
     "tags": [
@@ -4374,7 +4374,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4388,7 +4388,7 @@
     "id": "privacy-freeotpplus",
     "name": "FreeOTPPlus",
     "url": "https://github.com/helloworld1/FreeOTPPlus",
-    "description": "2FA · Android",
+    "description": "2FA · Android (隐私安全与防护利器)",
     "descriptionEn": "2FA / Android",
     "category": "privacy",
     "tags": [
@@ -4402,7 +4402,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4416,7 +4416,7 @@
     "id": "privacy-keepassxc",
     "name": "KeePassXC",
     "url": "https://keepassxc.org/",
-    "description": "2FA · Local · Windows, macOS, Linux · Resources · Guide · Video · GitHub",
+    "description": "2FA · Local · Windows · macOS · Linux · 精选资源 · 指南 · 影视视频 · GitHub 开源",
     "descriptionEn": "2FA / Local / Windows, macOS, Linux / Resources / Guide / Video / GitHub",
     "category": "privacy",
     "tags": [
@@ -4445,7 +4445,7 @@
     "id": "privacy-authme",
     "name": "AuthMe",
     "url": "https://authme.levminer.com/",
-    "description": "2FA · Windows, macOS, Linux · GitHub",
+    "description": "2FA · Windows · macOS · Linux · GitHub 开源",
     "descriptionEn": "2FA / Windows, macOS, Linux / GitHub",
     "category": "privacy",
     "tags": [
@@ -4474,7 +4474,7 @@
     "id": "privacy-yubioath",
     "name": "Yubioath",
     "url": "https://developers.yubico.com/yubioath-flutter/",
-    "description": "2FA · YubiKey Support · Windows, Android · X · GitHub",
+    "description": "2FA · YubiKey Support · Windows · Android · X · GitHub 开源",
     "descriptionEn": "2FA / YubiKey Support / Windows, Android / X / GitHub",
     "category": "privacy",
     "tags": [
@@ -4503,7 +4503,7 @@
     "id": "privacy-otpclient",
     "name": "OTPClient",
     "url": "https://github.com/paolostivanin/OTPClient",
-    "description": "2FA · Linux",
+    "description": "2FA · Linux (隐私安全与防护利器)",
     "descriptionEn": "2FA / Linux",
     "category": "privacy",
     "tags": [
@@ -4517,7 +4517,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4529,7 +4529,7 @@
     "id": "privacy-sentinel",
     "name": "Sentinel",
     "url": "https://getsentinel.io/",
-    "description": "2FA · macOS, Android, iOS",
+    "description": "2FA · macOS · Android · iOS (隐私安全与防护利器)",
     "descriptionEn": "2FA / macOS, Android, iOS",
     "category": "privacy",
     "tags": [
@@ -4558,7 +4558,7 @@
     "id": "privacy-otp-auth",
     "name": "OTP Auth",
     "url": "https://apps.apple.com/app/otp-auth/id659877384",
-    "description": "2FA · iOS",
+    "description": "2FA · iOS (隐私安全与防护利器)",
     "descriptionEn": "2FA / iOS",
     "category": "privacy",
     "tags": [
@@ -4586,7 +4586,7 @@
     "id": "privacy-tofu",
     "name": "Tofu",
     "url": "https://www.tofuauth.com/",
-    "description": "2FA · iOS · GitHub",
+    "description": "2FA · iOS · GitHub 开源",
     "descriptionEn": "2FA / iOS / GitHub",
     "category": "privacy",
     "tags": [
@@ -4614,7 +4614,7 @@
     "id": "privacy-authenticator",
     "name": "Authenticator",
     "url": "https://authenticator.cc/",
-    "description": "2FA 浏览器扩展插件 · GitHub",
+    "description": "2FA Browser 扩展插件 · GitHub 开源",
     "descriptionEn": "2FA Browser Extension / GitHub",
     "category": "privacy",
     "tags": [
@@ -4642,7 +4642,7 @@
     "id": "privacy-2fauth",
     "name": "2FAuth",
     "url": "https://docs.2fauth.app/",
-    "description": "支持自建部署 · Web · GitHub",
+    "description": "Self-Hosted · 网页版 · GitHub 开源",
     "descriptionEn": "Self-Hosted / Web / GitHub",
     "category": "privacy",
     "tags": [
@@ -4671,7 +4671,7 @@
     "id": "privacy-vaultwarden",
     "name": "VaultWarden",
     "url": "https://github.com/dani-garcia/vaultwarden",
-    "description": "Unofficial Bitwarden Server Backend · 支持自建部署",
+    "description": "Unofficial Bitwarden 自建服务器 Backend · Self-Hosted",
     "descriptionEn": "Unofficial Bitwarden Server Backend / Self-Hosted",
     "category": "privacy",
     "tags": [
@@ -4685,7 +4685,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4699,7 +4699,7 @@
     "id": "privacy-otp-helper",
     "name": "OTP Helper",
     "url": "https://github.com/jd1378/otphelper",
-    "description": "Extract OTP Tokens",
+    "description": "Extract OTP Token 额度",
     "descriptionEn": "Extract OTP Tokens",
     "category": "privacy",
     "tags": [
@@ -4713,7 +4713,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4725,7 +4725,7 @@
     "id": "privacy-steamguard-cli",
     "name": "steamguard-cli",
     "url": "https://github.com/dyc3/steamguard-cli",
-    "description": "Generate Steam 2FA Codes",
+    "description": "Generate Steam 2FA 程序源码",
     "descriptionEn": "Generate Steam 2FA Codes",
     "category": "privacy",
     "tags": [
@@ -4739,7 +4739,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4751,7 +4751,7 @@
     "id": "privacy-eylenburg-comparisons",
     "name": "Eylenburg Comparisons",
     "url": "https://eylenburg.github.io/im_comparison.htm",
-    "description": "Chat App Indexes · Comparisons",
+    "description": "对话聊天应用程序导航索引 · Comparisons",
     "descriptionEn": "Chat App Indexes / Comparisons",
     "category": "privacy",
     "tags": [
@@ -4777,7 +4777,7 @@
     "id": "privacy-matrix-clients",
     "name": "Matrix Clients",
     "url": "https://matrix.org/ecosystem/clients/",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -4803,7 +4803,7 @@
     "id": "privacy-simplex",
     "name": "SimpleX",
     "url": "https://simplex.chat/",
-    "description": "All Platforms · GitHub",
+    "description": "全部 Platforms · GitHub 开源",
     "descriptionEn": "All Platforms / GitHub",
     "category": "privacy",
     "tags": [
@@ -4831,7 +4831,7 @@
     "id": "privacy-signal",
     "name": "Signal",
     "url": "https://signal.org/",
-    "description": "All Platforms · Requires Phone # · Stickers · GitHub",
+    "description": "全部 Platforms · 需要手机号 # · Stickers · GitHub 开源",
     "descriptionEn": "All Platforms / Requires Phone # / Stickers / GitHub",
     "category": "privacy",
     "tags": [
@@ -4859,7 +4859,7 @@
     "id": "privacy-briar",
     "name": "Briar",
     "url": "https://briarproject.org/",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -4887,7 +4887,7 @@
     "id": "privacy-wire",
     "name": "Wire",
     "url": "https://wire.com/en/download/",
-    "description": "All Platforms · Requires Phone # · GitHub",
+    "description": "全部 Platforms · 需要手机号 # · GitHub 开源",
     "descriptionEn": "All Platforms / Requires Phone # / GitHub",
     "category": "privacy",
     "tags": [
@@ -4913,7 +4913,7 @@
     "id": "privacy-session",
     "name": "Session",
     "url": "https://getsession.org/",
-    "description": "All Platforms · GitHub",
+    "description": "全部 Platforms · GitHub 开源",
     "descriptionEn": "All Platforms / GitHub",
     "category": "privacy",
     "tags": [
@@ -4939,7 +4939,7 @@
     "id": "privacy-keybase",
     "name": "Keybase",
     "url": "https://keybase.io/",
-    "description": "All Platforms · GitHub",
+    "description": "全部 Platforms · GitHub 开源",
     "descriptionEn": "All Platforms / GitHub",
     "category": "privacy",
     "tags": [
@@ -4965,7 +4965,7 @@
     "id": "privacy-jami",
     "name": "Jami",
     "url": "https://jami.net/",
-    "description": "All Platforms · GitLab",
+    "description": "全部 Platforms · GitLab 开源",
     "descriptionEn": "All Platforms / GitLab",
     "category": "privacy",
     "tags": [
@@ -4991,7 +4991,7 @@
     "id": "privacy-tox",
     "name": "Tox",
     "url": "https://tox.chat/",
-    "description": "All Platforms",
+    "description": "全部 Platforms",
     "descriptionEn": "All Platforms",
     "category": "privacy",
     "tags": [
@@ -5017,7 +5017,7 @@
     "id": "privacy-cabal",
     "name": "Cabal",
     "url": "https://cabal.chat/",
-    "description": "P2P · Serverless All Platforms · GitHub",
+    "description": "P2P · Serverless 全部 Platforms · GitHub 开源",
     "descriptionEn": "P2P / Serverless All Platforms / GitHub",
     "category": "privacy",
     "tags": [
@@ -5043,7 +5043,7 @@
     "id": "privacy-linphone",
     "name": "Linphone",
     "url": "https://www.linphone.org/",
-    "description": "All Platforms · GitLab",
+    "description": "全部 Platforms · GitLab 开源",
     "descriptionEn": "All Platforms / GitLab",
     "category": "privacy",
     "tags": [
@@ -5069,7 +5069,7 @@
     "id": "privacy-berty",
     "name": "Berty",
     "url": "https://berty.tech/",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -5098,7 +5098,7 @@
     "id": "privacy-ricochet-refresh",
     "name": "Ricochet Refresh",
     "url": "https://www.ricochetrefresh.net/",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -5127,7 +5127,7 @@
     "id": "privacy-cwtch",
     "name": "Cwtch",
     "url": "https://docs.cwtch.im",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -5157,7 +5157,7 @@
     "id": "privacy-delta-chat",
     "name": "Delta Chat",
     "url": "https://delta.chat/",
-    "description": "Decentralized Email-Based Messenger · Windows, macOS, Linux, Android",
+    "description": "Decentralized 邮箱-Based Messenger · Windows · macOS · Linux · Android",
     "descriptionEn": "Decentralized Email-Based Messenger / Windows, macOS, Linux, Android",
     "category": "privacy",
     "tags": [
@@ -5187,7 +5187,7 @@
     "id": "privacy-status",
     "name": "Status",
     "url": "https://status.app/",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -5216,7 +5216,7 @@
     "id": "privacy-damus",
     "name": "Damus",
     "url": "https://damus.io/",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -5245,7 +5245,7 @@
     "id": "privacy-databag",
     "name": "Databag",
     "url": "https://github.com/balzack/databag",
-    "description": "支持自建部署 · Android, iOS, Web · GitHub",
+    "description": "Self-Hosted · Android · iOS · 网页版 · GitHub 开源",
     "descriptionEn": "Self-Hosted / Android, iOS, Web / GitHub",
     "category": "privacy",
     "tags": [
@@ -5259,7 +5259,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -5276,7 +5276,7 @@
     "id": "privacy-ssh-chat",
     "name": "ssh-chat",
     "url": "https://github.com/shazow/ssh-chat",
-    "description": "SSH Chat",
+    "description": "SSH 对话聊天",
     "descriptionEn": "SSH Chat",
     "category": "privacy",
     "tags": [
@@ -5290,7 +5290,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -5302,7 +5302,7 @@
     "id": "privacy-openpgp-email-encryption",
     "name": "⁠OpenPGP Email Encryption",
     "url": "https://www.openpgp.org/software/",
-    "description": "Encrypted (OpenPGP) Email Client Index",
+    "description": "Encrypted (OpenPGP) 邮箱客户端索引目录",
     "descriptionEn": "Encrypted (OpenPGP) Email Client Index",
     "category": "privacy",
     "tags": [
@@ -5328,7 +5328,7 @@
     "id": "privacy-temp-mail-sites",
     "name": "Temp Mail Sites",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_temp_mail",
-    "description": "Create Temporary · Throwaway Emails",
+    "description": "Create Temporary · Throwaway 邮箱",
     "descriptionEn": "Create Temporary / Throwaway Emails",
     "category": "privacy",
     "tags": [
@@ -5342,7 +5342,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -5354,7 +5354,7 @@
     "id": "privacy-email-aliasing",
     "name": "Email Aliasing",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_email_aliasing",
-    "description": "Create Permanent Anonymous Emails",
+    "description": "Create Permanent Anonymous 邮箱",
     "descriptionEn": "Create Permanent Anonymous Emails",
     "category": "privacy",
     "tags": [
@@ -5368,7 +5368,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -5380,7 +5380,7 @@
     "id": "privacy-proton-mail",
     "name": "Proton Mail",
     "url": "https://proton.me/mail",
-    "description": "1GB Free · Encrypted Email · Deleted After 1 Year Inactive · .onion · Subreddit · More Storage · Discord · GitHub",
+    "description": "1GB 免费 · Encrypted 邮箱 · Deleted After 1 Year Inactive · .onion · Reddit 讨论区 · More Storage · Discord 社区 · GitHub 开源",
     "descriptionEn": "1GB Free / Encrypted Email / Deleted After 1 Year Inactive / .onion / Subreddit / More Storage / Discord / GitHub",
     "category": "privacy",
     "tags": [
@@ -5408,7 +5408,7 @@
     "id": "privacy-tuta",
     "name": "Tuta",
     "url": "https://tuta.com/",
-    "description": "1GB Free · Encrypted Email · Deleted After 6 Months Inactive · Subreddit · GitHub",
+    "description": "1GB 免费 · Encrypted 邮箱 · Deleted After 6 Months Inactive · Reddit 讨论区 · GitHub 开源",
     "descriptionEn": "1GB Free / Encrypted Email / Deleted After 6 Months Inactive / Subreddit / GitHub",
     "category": "privacy",
     "tags": [
@@ -5436,7 +5436,7 @@
     "id": "privacy-disroot",
     "name": "Disroot",
     "url": "https://disroot.org/en/services/email",
-    "description": "1GB Free · Encrypted Email",
+    "description": "1GB 免费 · Encrypted 邮箱",
     "descriptionEn": "1GB Free / Encrypted Email",
     "category": "privacy",
     "tags": [
@@ -5462,7 +5462,7 @@
     "id": "privacy-mailvelope",
     "name": "Mailvelope",
     "url": "https://mailvelope.com/",
-    "description": "Give Emails PGP Encryption · GitHub",
+    "description": "Give 邮箱 PGP Encryption · GitHub 开源",
     "descriptionEn": "Give Emails PGP Encryption / GitHub",
     "category": "privacy",
     "tags": [
@@ -5488,7 +5488,7 @@
     "id": "privacy-email-privacy-tester",
     "name": "Email Privacy Tester",
     "url": "https://www.emailprivacytester.com/",
-    "description": "Email Privacy Test · GitLab",
+    "description": "邮箱隐私安全测试 · GitLab 开源",
     "descriptionEn": "Email Privacy Test / GitLab",
     "category": "privacy",
     "tags": [
@@ -5514,7 +5514,7 @@
     "id": "privacy-seclists",
     "name": "SecLists",
     "url": "https://seclists.org/",
-    "description": "Security Mailing List Archive",
+    "description": "网络安全 Mailing List 归档库",
     "descriptionEn": "Security Mailing List Archive",
     "category": "privacy",
     "tags": [
@@ -5540,7 +5540,7 @@
     "id": "privacy-phishing-quiz",
     "name": "⁠Phishing Quiz",
     "url": "https://phishingquiz.withgoogle.com/",
-    "description": "Email Phishing Prevention Quiz · Guide",
+    "description": "邮箱 Phishing Prevention Quiz · 指南",
     "descriptionEn": "Email Phishing Prevention Quiz / Guide",
     "category": "privacy",
     "tags": [
@@ -5566,7 +5566,7 @@
     "id": "privacy-have-i-been-pwned",
     "name": "Have I Been Pwned?",
     "url": "https://haveibeenpwned.com/",
-    "description": "Monitor Email Breaches",
+    "description": "Monitor 邮箱 Breaches",
     "descriptionEn": "Monitor Email Breaches",
     "category": "privacy",
     "tags": [
@@ -5594,7 +5594,7 @@
     "id": "privacy-have-i-been-pwned-passwo",
     "name": "Have I Been Pwned Passwords",
     "url": "https://haveibeenpwned.com/Passwords",
-    "description": "Password Breach Check",
+    "description": "Password Breach 检测",
     "descriptionEn": "Password Breach Check",
     "category": "privacy",
     "tags": [
@@ -5622,7 +5622,7 @@
     "id": "privacy-mozilla-monitor",
     "name": "Mozilla Monitor",
     "url": "https://monitor.mozilla.org/",
-    "description": "Data Breach Check · Requires Sign-Up · GitHub",
+    "description": "Data Breach 检测 · 需注册使用 · GitHub 开源",
     "descriptionEn": "Data Breach Check / Requires Sign-Up / GitHub",
     "category": "privacy",
     "tags": [
@@ -5648,7 +5648,7 @@
     "id": "privacy-canarytokens",
     "name": "⁠CanaryTokens",
     "url": "https://canarytokens.org/nest/",
-    "description": "Breach Detection Tokens · Instant Notifications",
+    "description": "Breach Detection Token 额度 · Instant Notifications",
     "descriptionEn": "Breach Detection Tokens / Instant Notifications",
     "category": "privacy",
     "tags": [
@@ -5674,7 +5674,7 @@
     "id": "privacy-breachdirectory",
     "name": "BreachDirectory",
     "url": "https://breachdirectory.org",
-    "description": "Data Breach 独立搜索引擎s",
+    "description": "Data Breach 搜索检索开发引擎",
     "descriptionEn": "Data Breach Search Engines",
     "category": "privacy",
     "tags": [
@@ -5700,7 +5700,7 @@
     "id": "privacy-intelligence-x",
     "name": "Intelligence X",
     "url": "https://intelx.io/",
-    "description": "Password Breach Check · GitHub",
+    "description": "Password Breach 检测 · GitHub 开源",
     "descriptionEn": "Password Breach Check / GitHub",
     "category": "privacy",
     "tags": [
@@ -5726,7 +5726,7 @@
     "id": "privacy-scatteredsecrets",
     "name": "ScatteredSecrets",
     "url": "https://scatteredsecrets.com/",
-    "description": "Password Breach Check · Requires Sign-Up",
+    "description": "Password Breach 检测 · 需注册使用",
     "descriptionEn": "Password Breach Check / Requires Sign-Up",
     "category": "privacy",
     "tags": [
@@ -5752,7 +5752,7 @@
     "id": "privacy-breachdetective",
     "name": "BreachDetective",
     "url": "https://breachdetective.com/",
-    "description": "Password Breach Check · Requires Sign-Up",
+    "description": "Password Breach 检测 · 需注册使用",
     "descriptionEn": "Password Breach Check / Requires Sign-Up",
     "category": "privacy",
     "tags": [
@@ -5778,7 +5778,7 @@
     "id": "privacy-creepjs",
     "name": "CreepJS",
     "url": "https://abrahamjuliot.github.io/creepjs",
-    "description": "Tracking · Fingerprinting Tests",
+    "description": "Tracking · Fingerprinting 测速",
     "descriptionEn": "Tracking / Fingerprinting Tests",
     "category": "privacy",
     "tags": [
@@ -5808,7 +5808,7 @@
     "id": "privacy-webbkoll",
     "name": "Webbkoll",
     "url": "https://webbkoll.5july.net/",
-    "description": "Site Tracking Info",
+    "description": "Site Tracking Info (隐私安全与防护利器)",
     "descriptionEn": "Site Tracking Info",
     "category": "privacy",
     "tags": [
@@ -5836,7 +5836,7 @@
     "id": "privacy-data-removal-guide",
     "name": "Data Removal Guide",
     "url": "https://inteltechniques.com/workbook",
-    "description": "Remove Online Data",
+    "description": "清理在线免安装 Data",
     "descriptionEn": "Remove Online Data",
     "category": "privacy",
     "tags": [
@@ -5862,7 +5862,7 @@
     "id": "privacy-gameindustry",
     "name": "GameIndustry",
     "url": "https://gameindustry.eu/en/",
-    "description": "Block Tracker 节点s in Desktop · Mobile Games",
+    "description": "Block Tracker 列表在 桌面端 · 移动端游戏资源",
     "descriptionEn": "Block Trackers in Desktop / Mobile Games",
     "category": "privacy",
     "tags": [
@@ -5888,7 +5888,7 @@
     "id": "privacy-clearurls",
     "name": "ClearURLs",
     "url": "https://docs.clearurls.xyz",
-    "description": "Clean URLs · Remove Tracking Elements from URLs · Can Break Sites · Note",
+    "description": "纯净无广告 URLs · 清理 Tracking Elements from URLs · Can Break Sites · 附注意事项",
     "descriptionEn": "Clean URLs / Remove Tracking Elements from URLs / Can Break Sites / Note",
     "category": "privacy",
     "tags": [
@@ -5914,7 +5914,7 @@
     "id": "privacy-i-didn-t-set-a-cookie",
     "name": "⁠I didn't set a cookie",
     "url": "https://kuber.studio/cookie/",
-    "description": "Cookie Free Fingerprinting Demonstration",
+    "description": "Cookie 免费 Fingerprinting Demonstration",
     "descriptionEn": "Cookie Free Fingerprinting Demonstration",
     "category": "privacy",
     "tags": [
@@ -5940,7 +5940,7 @@
     "id": "privacy-browserleaks",
     "name": "BrowserLeaks",
     "url": "https://browserleaks.com/",
-    "description": "IP Leak Tests",
+    "description": "IP Leak 测速",
     "descriptionEn": "IP Leak Tests",
     "category": "privacy",
     "tags": [
@@ -5968,7 +5968,7 @@
     "id": "privacy-jshelter",
     "name": "JShelter",
     "url": "https://jshelter.org/",
-    "description": "Prevent Fingerprinting · Extensions · Warning",
+    "description": "Prevent Fingerprinting · 扩展插件 · Warning",
     "descriptionEn": "Prevent Fingerprinting / Extensions / Warning",
     "category": "privacy",
     "tags": [
@@ -5996,7 +5996,7 @@
     "id": "privacy-locale-switcher",
     "name": "Locale Switcher",
     "url": "https://chromewebstore.google.com/detail/locale-switcher/kngfjpghaokedippaapkfihdlmmlafcc",
-    "description": "Change Language Identifier · GitHub",
+    "description": "Change 外语自学 Identifier · GitHub 开源",
     "descriptionEn": "Change Language Identifier / GitHub",
     "category": "privacy",
     "tags": [
@@ -6025,7 +6025,7 @@
     "id": "privacy-anonymousredirect",
     "name": "AnonymousRedirect",
     "url": "https://adguardteam.github.io/AnonymousRedirect/",
-    "description": "Anonymize Links",
+    "description": "Anonymize Links (隐私安全与防护利器)",
     "descriptionEn": "Anonymize Links",
     "category": "privacy",
     "tags": [
@@ -6051,7 +6051,7 @@
     "id": "privacy-x-com-direct",
     "name": "X.com Direct",
     "url": "https://greasyfork.org/en/scripts/404632",
-    "description": "Removes t.co Tracking from X.com",
+    "description": "深度清理 t.co Tracking from X.com",
     "descriptionEn": "Removes t.co Tracking from X.com",
     "category": "privacy",
     "tags": [
@@ -6077,7 +6077,7 @@
     "id": "privacy-search-engine-party",
     "name": "Search Engine Party",
     "url": "https://searchengine.party/",
-    "description": "Privacy 独立搜索引擎 Comparisons · GitLab",
+    "description": "隐私安全搜索检索开发引擎 Comparisons · GitLab 开源",
     "descriptionEn": "Privacy Search Engine Comparisons / GitLab",
     "category": "privacy",
     "tags": [
@@ -6103,7 +6103,7 @@
     "id": "privacy-searx-instances",
     "name": "SearX Instances",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_searx_instances",
-    "description": "SearX Instance Index · Docs · Hosting · .onion · Matrix · GitHub",
+    "description": "SearX Instance 索引目录 · Docs · Hosting · .onion · Matrix 讨论组 · GitHub 开源",
     "descriptionEn": "SearX Instance Index / Docs / Hosting / .onion / Matrix / GitHub",
     "category": "privacy",
     "tags": [
@@ -6117,7 +6117,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -6129,7 +6129,7 @@
     "id": "privacy-brave-search",
     "name": "Brave Search",
     "url": "https://search.brave.com/",
-    "description": "Independent · Supports DDG Bangs · .onion",
+    "description": "Independent · Supports DDG Bangs · .onion (隐私安全与防护利器)",
     "descriptionEn": "Independent / Supports DDG Bangs / .onion",
     "category": "privacy",
     "tags": [
@@ -6157,7 +6157,7 @@
     "id": "privacy-duckduckgo",
     "name": "DuckDuckGo",
     "url": "https://start.duckduckgo.com/",
-    "description": "Metasearch · Bing Based · AI Free · Lite · HTML · .onion · Bangs · Bangs Extension · Bangs Script · Subreddit",
+    "description": "Metasearch · Bing Based · AI 免费 · Lite · HTML · .onion · Bangs · Bangs 扩展插件 · Bangs 自动化脚本 · Reddit 讨论区",
     "descriptionEn": "Metasearch / Bing Based / AI Free / Lite / HTML / .onion / Bangs / Bangs Extension / Bangs Script / Subreddit",
     "category": "privacy",
     "tags": [
@@ -6187,7 +6187,7 @@
     "id": "privacy-startpage",
     "name": "Startpage",
     "url": "https://www.startpage.com/",
-    "description": "Google Based · Subreddit",
+    "description": "Google Based · Reddit 讨论区",
     "descriptionEn": "Google Based / Subreddit",
     "category": "privacy",
     "tags": [
@@ -6215,7 +6215,7 @@
     "id": "privacy-4get",
     "name": "4get",
     "url": "https://4get.ca/",
-    "description": "Metasearch · Instances · Source Code",
+    "description": "Metasearch · Instances · 源码程序源码",
     "descriptionEn": "Metasearch / Instances / Source Code",
     "category": "privacy",
     "tags": [
@@ -6243,7 +6243,7 @@
     "id": "privacy-degoog",
     "name": "Degoog",
     "url": "https://github.com/degoog-org/degoog",
-    "description": "Metasearch · GitHub",
+    "description": "Metasearch · GitHub 开源",
     "descriptionEn": "Metasearch / GitHub",
     "category": "privacy",
     "tags": [
@@ -6257,7 +6257,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -6269,7 +6269,7 @@
     "id": "privacy-librey",
     "name": "LibreY",
     "url": "https://github.com/Ahwxorg/librey/",
-    "description": "Metasearch",
+    "description": "Metasearch (隐私安全与防护利器)",
     "descriptionEn": "Metasearch",
     "category": "privacy",
     "tags": [
@@ -6283,7 +6283,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -6295,7 +6295,7 @@
     "id": "privacy-search",
     "name": "search!",
     "url": "https://search.tiago.zip/",
-    "description": "AI Free · Metasearch · GitHub",
+    "description": "AI 免费 · Metasearch · GitHub 开源",
     "descriptionEn": "AI Free / Metasearch / GitHub",
     "category": "privacy",
     "tags": [
@@ -6321,7 +6321,7 @@
     "id": "privacy-mojeek",
     "name": "Mojeek",
     "url": "https://www.mojeek.com/",
-    "description": "Independent · Subreddit",
+    "description": "Independent · Reddit 讨论区",
     "descriptionEn": "Independent / Subreddit",
     "category": "privacy",
     "tags": [
@@ -6347,7 +6347,7 @@
     "id": "privacy-yacy",
     "name": "YaCy",
     "url": "https://yacy.net/",
-    "description": "Decentralized · P2P Independent · GitHub",
+    "description": "Decentralized · P2P Independent · GitHub 开源",
     "descriptionEn": "Decentralized / P2P Independent / GitHub",
     "category": "privacy",
     "tags": [
@@ -6373,7 +6373,7 @@
     "id": "privacy-techlore-chart",
     "name": "Techlore Chart",
     "url": "https://vpn.techlore.tech/",
-    "description": "经过审计的无日志隐私 VPN 隧道 Comparison Charts",
+    "description": "VPN Comparison Charts (隐私安全与防护利器)",
     "descriptionEn": "VPN Comparison Charts",
     "category": "privacy",
     "tags": [
@@ -6399,7 +6399,7 @@
     "id": "privacy-vpn-relationships",
     "name": "VPN Relationships",
     "url": "https://kumu.io/Windscribe/vpn-relationships",
-    "description": "经过审计的无日志隐私 VPN 隧道 Relationship Map",
+    "description": "VPN Relationship 全景地图",
     "descriptionEn": "VPN Relationship Map",
     "category": "privacy",
     "tags": [
@@ -6427,7 +6427,7 @@
     "id": "privacy-cloudflare-one",
     "name": "Cloudflare One",
     "url": "https://one.one.one.one/",
-    "description": "Free · Unlimited · Wireguard (kill switch) · Discord · Alt Client",
+    "description": "免费 · 无使用额度限制 · Wireguard (kill switch) · Discord 社区 · Alt 客户端",
     "descriptionEn": "Free / Unlimited / Wireguard (kill switch) / Discord / Alt Client",
     "category": "privacy",
     "tags": [
@@ -6455,7 +6455,7 @@
     "id": "privacy-proton-vpn",
     "name": "Proton VPN",
     "url": "https://protonvpn.com",
-    "description": "Free & Paid · Unlimited · No Torrenting with Free Plan · Mobile (search) · Wireguard · Subreddit · Telegram · Discord · GitHub",
+    "description": "免费 & Paid · 无使用额度限制 · No Torrenting 内置免费 Plan · 移动端 (搜索检索) · Wireguard · Reddit 讨论区 · Telegram 交流群 · Discord 社区 · GitHub 开源",
     "descriptionEn": "Free & Paid / Unlimited / No Torrenting with Free Plan / Mobile (search) / Wireguard / Subreddit / Telegram / Discord / GitHub",
     "category": "privacy",
     "tags": [
@@ -6485,7 +6485,7 @@
     "id": "privacy-windscribe",
     "name": "Windscribe",
     "url": "https://windscribe.com",
-    "description": "Free & Paid · 10GB Monthly · No Torrenting with Free Plan · Subreddit · GitHub",
+    "description": "免费 & Paid · 10GB 每月 · No Torrenting 内置免费 Plan · Reddit 讨论区 · GitHub 开源",
     "descriptionEn": "Free & Paid / 10GB Monthly / No Torrenting with Free Plan / Subreddit / GitHub",
     "category": "privacy",
     "tags": [
@@ -6515,7 +6515,7 @@
     "id": "privacy-airvpn",
     "name": "AirVPN",
     "url": "https://airvpn.org/",
-    "description": "Paid · .onion · GitHub · GitLab",
+    "description": "Paid · .onion · GitHub 开源 · GitLab 开源",
     "descriptionEn": "Paid / .onion / GitHub / GitLab",
     "category": "privacy",
     "tags": [
@@ -6543,7 +6543,7 @@
     "id": "privacy-mullvad-vpn",
     "name": "Mullvad VPN",
     "url": "https://mullvad.net/",
-    "description": "Paid · No-Log · No Port Forwarding · .onion · GitHub",
+    "description": "Paid · No-Log · No Port Forwarding · .onion · GitHub 开源",
     "descriptionEn": "Paid / No-Log / No Port Forwarding / .onion / GitHub",
     "category": "privacy",
     "tags": [
@@ -6573,7 +6573,7 @@
     "id": "privacy-ivpn",
     "name": "IVPN",
     "url": "https://www.ivpn.net/",
-    "description": "Paid · No-Log · No Port Forwarding · Subreddit · GitHub",
+    "description": "Paid · No-Log · No Port Forwarding · Reddit 讨论区 · GitHub 开源",
     "descriptionEn": "Paid / No-Log / No Port Forwarding / Subreddit / GitHub",
     "category": "privacy",
     "tags": [
@@ -6601,7 +6601,7 @@
     "id": "privacy-firefox-vpn",
     "name": "Firefox VPN",
     "url": "https://support.mozilla.org/en-US/kb/built-in-vpn",
-    "description": "Free · 50GB Monthly",
+    "description": "免费 · 50GB 每月",
     "descriptionEn": "Free / 50GB Monthly",
     "category": "privacy",
     "tags": [
@@ -6627,7 +6627,7 @@
     "id": "privacy-nym",
     "name": "Nym",
     "url": "https://nym.com/",
-    "description": "Paid · 5-Hop Mixnet · Subreddit · GitHub",
+    "description": "Paid · 5-Hop Mixnet · Reddit 讨论区 · GitHub 开源",
     "descriptionEn": "Paid / 5-Hop Mixnet / Subreddit / GitHub",
     "category": "privacy",
     "tags": [
@@ -6653,7 +6653,7 @@
     "id": "privacy-riseupvpn",
     "name": "RiseupVPN",
     "url": "https://riseup.net/en/vpn",
-    "description": "Free · Unlimited · No Port Forwarding",
+    "description": "免费 · 无使用额度限制 · No Port Forwarding",
     "descriptionEn": "Free / Unlimited / No Port Forwarding",
     "category": "privacy",
     "tags": [
@@ -6681,7 +6681,7 @@
     "id": "privacy-privadovpn",
     "name": "PrivadoVPN",
     "url": "https://privadovpn.com/freevpn",
-    "description": "Free · 10GB Monthly · Unlimited Accounts via Temp Mail",
+    "description": "免费 · 10GB 每月 · 无使用额度限制多账号 via Temp Mail",
     "descriptionEn": "Free / 10GB Monthly / Unlimited Accounts via Temp Mail",
     "category": "privacy",
     "tags": [
@@ -6707,7 +6707,7 @@
     "id": "privacy-wireguard",
     "name": "WireGuard",
     "url": "https://www.wireguard.com/",
-    "description": "经过审计的无日志隐私 VPN 隧道 Tunnel · Guide · Web UI · Source Code",
+    "description": "VPN Tunnel · 指南 · 网页版 UI · 源码程序源码",
     "descriptionEn": "VPN Tunnel / Guide / Web UI / Source Code",
     "category": "privacy",
     "tags": [
@@ -6737,7 +6737,7 @@
     "id": "privacy-tailscale",
     "name": "Tailscale",
     "url": "https://tailscale.com/",
-    "description": "WireGuard Mesh",
+    "description": "WireGuard Mesh (隐私安全与防护利器)",
     "descriptionEn": "WireGuard Mesh",
     "category": "privacy",
     "tags": [
@@ -6765,7 +6765,7 @@
     "id": "privacy-amnezia",
     "name": "Amnezia",
     "url": "https://amnezia.org/",
-    "description": "经过审计的无日志隐私 VPN 隧道 Server · Subreddit · Discord · Telegram · GitHub",
+    "description": "VPN 自建服务器 · Reddit 讨论区 · Discord 社区 · Telegram 交流群 · GitHub 开源",
     "descriptionEn": "VPN Server / Subreddit / Discord / Telegram / GitHub",
     "category": "privacy",
     "tags": [
@@ -6791,7 +6791,7 @@
     "id": "privacy-openvpn",
     "name": "OpenVPN",
     "url": "https://openvpn.net/",
-    "description": "经过审计的无日志隐私 VPN 隧道 Server",
+    "description": "VPN 自建服务器",
     "descriptionEn": "VPN Server",
     "category": "privacy",
     "tags": [
@@ -6817,7 +6817,7 @@
     "id": "privacy-wgdashboard",
     "name": "WGDashboard",
     "url": "https://wgdashboard.dev/",
-    "description": "WireGuard Panel · AmneziaWG · Subreddit · Discord · GitHub",
+    "description": "WireGuard Panel · AmneziaWG · Reddit 讨论区 · Discord 社区 · GitHub 开源",
     "descriptionEn": "WireGuard Panel / AmneziaWG / Subreddit / Discord / GitHub",
     "category": "privacy",
     "tags": [
@@ -6843,7 +6843,7 @@
     "id": "privacy-twingate",
     "name": "⁠Twingate",
     "url": "https://www.twingate.com/",
-    "description": "Zero Trust Access Tunnel",
+    "description": "Zero Trust Access Tunnel (隐私安全与防护利器)",
     "descriptionEn": "Zero Trust Access Tunnel",
     "category": "privacy",
     "tags": [
@@ -6871,7 +6871,7 @@
     "id": "privacy-headscale",
     "name": "⁠Headscale",
     "url": "https://github.com/juanfont/headscale",
-    "description": "支持自建部署 Tailscale",
+    "description": "Self-Hosted Tailscale (隐私安全与防护利器)",
     "descriptionEn": "Self-Hosted Tailscale",
     "category": "privacy",
     "tags": [
@@ -6885,7 +6885,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -6899,7 +6899,7 @@
     "id": "privacy-nebula",
     "name": "⁠Nebula",
     "url": "https://github.com/slackhq/nebula",
-    "description": "Mesh 经过审计的无日志隐私 VPN 隧道 Server",
+    "description": "Mesh VPN 自建服务器",
     "descriptionEn": "Mesh VPN Server",
     "category": "privacy",
     "tags": [
@@ -6913,7 +6913,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -6925,7 +6925,7 @@
     "id": "privacy-ipsec-vpn",
     "name": "IPsec VPN",
     "url": "https://github.com/hwdsl2/setup-ipsec-vpn",
-    "description": "经过审计的无日志隐私 VPN 隧道 Server",
+    "description": "VPN 自建服务器",
     "descriptionEn": "VPN Server",
     "category": "privacy",
     "tags": [
@@ -6939,7 +6939,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -6951,7 +6951,7 @@
     "id": "privacy-cloudflare-tunnels",
     "name": "Cloudflare Tunnels",
     "url": "https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/",
-    "description": "Application Tunnel · 经过审计的无日志隐私 VPN 隧道 Alternative · WireGuard",
+    "description": "Application Tunnel · VPN 开源平替 · WireGuard",
     "descriptionEn": "Application Tunnel / VPN Alternative / WireGuard",
     "category": "privacy",
     "tags": [
@@ -6977,7 +6977,7 @@
     "id": "privacy-cloud-wireguard-guide",
     "name": "Cloud WireGuard Guide",
     "url": "https://github.com/rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs",
-    "description": "WireGuard + Pi-hole 经过审计的无日志隐私 VPN 隧道 using Google Cloud",
+    "description": "WireGuard + Pi-hole VPN using Google Cloud (隐私安全与防护利器)",
     "descriptionEn": "WireGuard + Pi-hole VPN using Google Cloud",
     "category": "privacy",
     "tags": [
@@ -6991,7 +6991,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -7003,7 +7003,7 @@
     "id": "privacy-tinc-vpn",
     "name": "tinc VPN",
     "url": "https://www.tinc-vpn.org/",
-    "description": "经过审计的无日志隐私 VPN 隧道 Tunnel · GitHub · GitLab",
+    "description": "VPN Tunnel · GitHub 开源 · GitLab 开源",
     "descriptionEn": "VPN Tunnel / GitHub / GitLab",
     "category": "privacy",
     "tags": [
@@ -7029,7 +7029,7 @@
     "id": "privacy-wirehole",
     "name": "WireHole",
     "url": "https://github.com/IAmStoxe/wirehole",
-    "description": "WireGuard + Pi-hole 经过审计的无日志隐私 VPN 隧道 · Web UI",
+    "description": "WireGuard + Pi-hole VPN · 网页版 UI",
     "descriptionEn": "WireGuard + Pi-hole VPN / Web UI",
     "category": "privacy",
     "tags": [
@@ -7043,7 +7043,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -7057,7 +7057,7 @@
     "id": "privacy-openconnect",
     "name": "OpenConnect",
     "url": "https://gitlab.com/openconnect/openconnect",
-    "description": "SSL 经过审计的无日志隐私 VPN 隧道 · GUI",
+    "description": "SSL VPN · GUI (隐私安全与防护利器)",
     "descriptionEn": "SSL VPN / GUI",
     "category": "privacy",
     "tags": [
@@ -7083,7 +7083,7 @@
     "id": "privacy-pritunl",
     "name": "Pritunl",
     "url": "https://pritunl.com/",
-    "description": "经过审计的无日志隐私 VPN 隧道 Server · GitHub",
+    "description": "VPN 自建服务器 · GitHub 开源",
     "descriptionEn": "VPN Server / GitHub",
     "category": "privacy",
     "tags": [
@@ -7109,7 +7109,7 @@
     "id": "privacy-algo-vpn",
     "name": "Algo VPN",
     "url": "https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/",
-    "description": "Cloud 经过审计的无日志隐私 VPN 隧道 · GitHub",
+    "description": "Cloud VPN · GitHub 开源",
     "descriptionEn": "Cloud VPN / GitHub",
     "category": "privacy",
     "tags": [
@@ -7135,7 +7135,7 @@
     "id": "privacy-sshuttle",
     "name": "SShuttle",
     "url": "https://sshuttle.readthedocs.io/en",
-    "description": "SSH 经过审计的无日志隐私 VPN 隧道 Server · GitHub",
+    "description": "SSH VPN 自建服务器 · GitHub 开源",
     "descriptionEn": "SSH VPN Server / GitHub",
     "category": "privacy",
     "tags": [
@@ -7161,7 +7161,7 @@
     "id": "privacy-dsvpn",
     "name": "DSVPN",
     "url": "https://github.com/jedisct1/dsvpn",
-    "description": "Simple 经过审计的无日志隐私 VPN 隧道 Server",
+    "description": "Simple VPN 自建服务器",
     "descriptionEn": "Simple VPN Server",
     "category": "privacy",
     "tags": [
@@ -7175,7 +7175,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -7187,7 +7187,7 @@
     "id": "privacy-ocserv",
     "name": "ocserv",
     "url": "https://ocserv.gitlab.io/www/index.html",
-    "description": "SSL 经过审计的无日志隐私 VPN 隧道 Server",
+    "description": "SSL VPN 自建服务器",
     "descriptionEn": "SSL VPN Server",
     "category": "privacy",
     "tags": [
@@ -7213,7 +7213,7 @@
     "id": "privacy-free-vpn-configs",
     "name": "Free VPN Configs",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_vpn_configs",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -7227,7 +7227,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -7239,7 +7239,7 @@
     "id": "privacy-vpn-binding-guide",
     "name": "VPN Binding Guide",
     "url": "https://wispydocs.pages.dev/torrenting/",
-    "description": "Bind 经过审计的无日志隐私 VPN 隧道 to BT · 种子客户端 to Avoid ISP Letters",
+    "description": "Bind VPN 至 Torrent 客户端至 Avoid ISP Letters",
     "descriptionEn": "Bind VPN to Torrent Client to Avoid ISP Letters",
     "category": "privacy",
     "tags": [
@@ -7267,7 +7267,7 @@
     "id": "privacy-wiresock",
     "name": "⁠WireSock",
     "url": "https://wiresock.net/",
-    "description": "Split Tunneling Clients",
+    "description": "Split Tunneling 跨平台客户端",
     "descriptionEn": "Split Tunneling Clients",
     "category": "privacy",
     "tags": [
@@ -7295,7 +7295,7 @@
     "id": "privacy-wg-tunnel",
     "name": "WG Tunnel",
     "url": "https://wgtunnel.com/",
-    "description": "WireGuard & AmneziaWG Client · Android · Desktop · Telegram · GitHub",
+    "description": "WireGuard & AmneziaWG 客户端 · Android · 桌面端 · Telegram 交流群 · GitHub 开源",
     "descriptionEn": "WireGuard & AmneziaWG Client / Android / Desktop / Telegram / GitHub",
     "category": "privacy",
     "tags": [
@@ -7323,7 +7323,7 @@
     "id": "privacy-vpn-hotspot",
     "name": "VPN Hotspot",
     "url": "https://github.com/Mygod/VPNHotspot",
-    "description": "Share 经过审计的无日志隐私 VPN 隧道 Connection over Hotspot · Rooted Android",
+    "description": "Share VPN Connection over Hotspot · Rooted Android (隐私安全与防护利器)",
     "descriptionEn": "Share VPN Connection over Hotspot / Rooted Android",
     "category": "privacy",
     "tags": [
@@ -7337,7 +7337,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -7351,7 +7351,7 @@
     "id": "privacy-gluetun",
     "name": "Gluetun",
     "url": "https://github.com/qdm12/gluetun",
-    "description": "经过审计的无日志隐私 VPN 隧道 using Docker",
+    "description": "VPN using Docker (隐私安全与防护利器)",
     "descriptionEn": "VPN using Docker",
     "category": "privacy",
     "tags": [
@@ -7365,7 +7365,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -7379,7 +7379,7 @@
     "id": "privacy-lantern",
     "name": "Lantern",
     "url": "https://lantern.io/",
-    "description": "Proxy App · GitHub",
+    "description": "代理中继应用程序 · GitHub 开源",
     "descriptionEn": "Proxy App / GitHub",
     "category": "privacy",
     "tags": [
@@ -7405,7 +7405,7 @@
     "id": "privacy-psiphon",
     "name": "Psiphon",
     "url": "https://psiphon.ca/",
-    "description": "Hybrid Proxy 经过审计的无日志隐私 VPN 隧道 App",
+    "description": "Hybrid 代理中继 VPN 应用程序",
     "descriptionEn": "Hybrid Proxy VPN App",
     "category": "privacy",
     "tags": [
@@ -7431,7 +7431,7 @@
     "id": "privacy-freesocks",
     "name": "FreeSocks",
     "url": "https://freesocks.org/",
-    "description": "Shadowsocks App · GitHub",
+    "description": "Shadowsocks 应用程序 · GitHub 开源",
     "descriptionEn": "Shadowsocks App / GitHub",
     "category": "privacy",
     "tags": [
@@ -7457,7 +7457,7 @@
     "id": "privacy-snowflake",
     "name": "Snowflake",
     "url": "https://snowflake.torproject.org/",
-    "description": "Tor Proxy 浏览器扩展插件",
+    "description": "Tor 代理中继 Browser 扩展插件",
     "descriptionEn": "Tor Proxy Browser Extension",
     "category": "privacy",
     "tags": [
@@ -7485,7 +7485,7 @@
     "id": "privacy-censor-tracker",
     "name": "Censor Tracker",
     "url": "https://censortracker.org/",
-    "description": "Proxy Extensions",
+    "description": "代理中继扩展插件",
     "descriptionEn": "Proxy Extensions",
     "category": "privacy",
     "tags": [
@@ -7513,7 +7513,7 @@
     "id": "privacy-acrylic",
     "name": "Acrylic",
     "url": "https://mayakron.altervista.org/",
-    "description": "Local DNS Proxy",
+    "description": "Local DNS 代理中继",
     "descriptionEn": "Local DNS Proxy",
     "category": "privacy",
     "tags": [
@@ -7539,7 +7539,7 @@
     "id": "privacy-dnscrypt",
     "name": "DNSCrypt",
     "url": "https://dnscrypt.info/",
-    "description": "Local DNS Encryption Proxy",
+    "description": "Local DNS Encryption 代理中继",
     "descriptionEn": "Local DNS Encryption Proxy",
     "category": "privacy",
     "tags": [
@@ -7565,7 +7565,7 @@
     "id": "privacy-3x-ui",
     "name": "3X-UI",
     "url": "https://docs.sanaei.dev/",
-    "description": "Proxy Panel · Telegram · GitHub · **Guide**",
+    "description": "代理中继 Panel · Telegram 交流群 · GitHub 开源 · **指南**",
     "descriptionEn": "Proxy Panel / Telegram / GitHub / **Guide**",
     "category": "privacy",
     "tags": [
@@ -7593,7 +7593,7 @@
     "id": "privacy-project-x",
     "name": "Project X",
     "url": "https://github.com/XTLS/Xray-core",
-    "description": "Xray Proxy Core · Telegram, 2",
+    "description": "Xray 代理中继 Core · Telegram 交流群 · 2",
     "descriptionEn": "Xray Proxy Core / Telegram, 2",
     "category": "privacy",
     "tags": [
@@ -7609,7 +7609,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -7621,7 +7621,7 @@
     "id": "privacy-na-veproxy",
     "name": "NaïveProxy",
     "url": "https://github.com/klzgrad/naiveproxy",
-    "description": "Chromium-based Proxy",
+    "description": "Chromium-based 代理中继",
     "descriptionEn": "Chromium-based Proxy",
     "category": "privacy",
     "tags": [
@@ -7635,7 +7635,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -7647,7 +7647,7 @@
     "id": "privacy-hysteria",
     "name": "Hysteria",
     "url": "https://v2.hysteria.network/",
-    "description": "Speed Focused Proxy Protocol · Telegram · GitHub",
+    "description": "网速 Focused 代理中继 Protocol · Telegram 交流群 · GitHub 开源",
     "descriptionEn": "Speed Focused Proxy Protocol / Telegram / GitHub",
     "category": "privacy",
     "tags": [
@@ -7673,7 +7673,7 @@
     "id": "privacy-shadowsocks",
     "name": "Shadowsocks",
     "url": "https://shadowsocks.org/",
-    "description": "Simple Proxy Protocol · GitHub",
+    "description": "Simple 代理中继 Protocol · GitHub 开源",
     "descriptionEn": "Simple Proxy Protocol / GitHub",
     "category": "privacy",
     "tags": [
@@ -7699,7 +7699,7 @@
     "id": "privacy-sing-box",
     "name": "sing-box",
     "url": "https://sing-box.sagernet.org/",
-    "description": "Proxy Core · Telegram · GitHub",
+    "description": "代理中继 Core · Telegram 交流群 · GitHub 开源",
     "descriptionEn": "Proxy Core / Telegram / GitHub",
     "category": "privacy",
     "tags": [
@@ -7725,7 +7725,7 @@
     "id": "privacy-hiddify-manager",
     "name": "Hiddify Manager",
     "url": "https://hiddify.com/",
-    "description": "Proxy Panel · Telegram · GitHub",
+    "description": "代理中继 Panel · Telegram 交流群 · GitHub 开源",
     "descriptionEn": "Proxy Panel / Telegram / GitHub",
     "category": "privacy",
     "tags": [
@@ -7751,7 +7751,7 @@
     "id": "privacy-outline",
     "name": "Outline",
     "url": "https://getoutline.org/",
-    "description": "Shadowsocks Server · Guide · Subreddit · GitHub",
+    "description": "Shadowsocks 自建服务器 · 指南 · Reddit 讨论区 · GitHub 开源",
     "descriptionEn": "Shadowsocks Server / Guide / Subreddit / GitHub",
     "category": "privacy",
     "tags": [
@@ -7777,7 +7777,7 @@
     "id": "privacy-vpnhood",
     "name": "VpnHood",
     "url": "https://github.com/vpnhood/VpnHood",
-    "description": "Proxy Server",
+    "description": "代理中继自建服务器",
     "descriptionEn": "Proxy Server",
     "category": "privacy",
     "tags": [
@@ -7791,7 +7791,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -7803,7 +7803,7 @@
     "id": "privacy-scramjet",
     "name": "Scramjet",
     "url": "https://docs.titaniumnetwork.org/proxies/scramjet/",
-    "description": "Web Proxy Server",
+    "description": "网页版代理中继自建服务器",
     "descriptionEn": "Web Proxy Server",
     "category": "privacy",
     "tags": [
@@ -7831,7 +7831,7 @@
     "id": "privacy-nginx-proxy-manager",
     "name": "Nginx Proxy Manager",
     "url": "https://nginxproxymanager.com",
-    "description": "Reverse Proxy UI · Subreddit · GitHub",
+    "description": "Reverse 代理中继 UI · Reddit 讨论区 · GitHub 开源",
     "descriptionEn": "Reverse Proxy UI / Subreddit / GitHub",
     "category": "privacy",
     "tags": [
@@ -7857,7 +7857,7 @@
     "id": "privacy-v2rayn",
     "name": "v2rayN",
     "url": "https://github.com/2dust/v2rayN",
-    "description": "Proxy Client · Windows, macOS, Linux",
+    "description": "代理中继客户端 · Windows · macOS · Linux",
     "descriptionEn": "Proxy Client / Windows, macOS, Linux",
     "category": "privacy",
     "tags": [
@@ -7873,7 +7873,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -7888,7 +7888,7 @@
     "id": "privacy-v2rayng",
     "name": "v2rayNG",
     "url": "https://github.com/2dust/v2rayNG",
-    "description": "Proxy Client · Android",
+    "description": "代理中继客户端 · Android",
     "descriptionEn": "Proxy Client / Android",
     "category": "privacy",
     "tags": [
@@ -7904,7 +7904,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -7918,7 +7918,7 @@
     "id": "privacy-shadowsocks-2",
     "name": "Shadowsocks",
     "url": "https://shadowsocks.org/doc/getting-started.html#gui-clients",
-    "description": "Shadowsocks Client · All Platforms · GitHub",
+    "description": "Shadowsocks 客户端 · 全部 Platforms · GitHub 开源",
     "descriptionEn": "Shadowsocks Client / All Platforms / GitHub",
     "category": "privacy",
     "tags": [
@@ -7944,7 +7944,7 @@
     "id": "privacy-sing-box-2",
     "name": "sing-box",
     "url": "https://sing-box.sagernet.org/clients/",
-    "description": "Proxy Client · macOS, Android · Telegram · GitHub",
+    "description": "代理中继客户端 · macOS · Android · Telegram 交流群 · GitHub 开源",
     "descriptionEn": "Proxy Client / macOS, Android / Telegram / GitHub",
     "category": "privacy",
     "tags": [
@@ -7973,7 +7973,7 @@
     "id": "privacy-throne",
     "name": "Throne",
     "url": "https://throneproj.github.io/",
-    "description": "Proxy Client · Sing-Box GUI · Windows, macOS, Linux · GitHub",
+    "description": "代理中继客户端 · Sing-Box GUI · Windows · macOS · Linux · GitHub 开源",
     "descriptionEn": "Proxy Client / Sing-Box GUI / Windows, macOS, Linux / GitHub",
     "category": "privacy",
     "tags": [
@@ -8002,7 +8002,7 @@
     "id": "privacy-v2box",
     "name": "V2Box",
     "url": "https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box",
-    "description": "Proxy Client",
+    "description": "代理中继客户端",
     "descriptionEn": "Proxy Client",
     "category": "privacy",
     "tags": [
@@ -8031,7 +8031,7 @@
     "id": "privacy-clashverge",
     "name": "ClashVerge",
     "url": "https://www.clashverge.dev/",
-    "description": "Proxy Client · Windows, macOS, Linux · GitHub",
+    "description": "代理中继客户端 · Windows · macOS · Linux · GitHub 开源",
     "descriptionEn": "Proxy Client / Windows, macOS, Linux / GitHub",
     "category": "privacy",
     "tags": [
@@ -8060,7 +8060,7 @@
     "id": "privacy-streisand",
     "name": "Streisand",
     "url": "https://streisand.pages.dev/",
-    "description": "Proxy Client · macOS, iOS",
+    "description": "代理中继客户端 · macOS · iOS",
     "descriptionEn": "Proxy Client / macOS, iOS",
     "category": "privacy",
     "tags": [
@@ -8088,7 +8088,7 @@
     "id": "privacy-flclash",
     "name": "⁠FlClash",
     "url": "https://github.com/chen08209/FlClash/blob/main/README.md",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -8102,7 +8102,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -8118,7 +8118,7 @@
     "id": "privacy-husi",
     "name": "husi",
     "url": "https://github.com/xchacha20-poly1305/husi",
-    "description": "Proxy Client · Android",
+    "description": "代理中继客户端 · Android",
     "descriptionEn": "Proxy Client / Android",
     "category": "privacy",
     "tags": [
@@ -8132,7 +8132,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -8146,7 +8146,7 @@
     "id": "privacy-exclave",
     "name": "⁠Exclave",
     "url": "https://github.com/dyhkwong/Exclave",
-    "description": "Proxy Client · Android",
+    "description": "代理中继客户端 · Android",
     "descriptionEn": "Proxy Client / Android",
     "category": "privacy",
     "tags": [
@@ -8160,7 +8160,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -8174,7 +8174,7 @@
     "id": "privacy-wireproxy",
     "name": "wireproxy",
     "url": "https://github.com/whyvl/wireproxy",
-    "description": "WireGuard as Proxy · Windows, macOS, Linux",
+    "description": "WireGuard as 代理中继 · Windows · macOS · Linux",
     "descriptionEn": "WireGuard as Proxy / Windows, macOS, Linux",
     "category": "privacy",
     "tags": [
@@ -8188,7 +8188,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -8203,7 +8203,7 @@
     "id": "privacy-great-firewall-bypass",
     "name": "Great Firewall Bypass",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/non-eng#wiki_.25B7_great_firewall",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -8217,7 +8217,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -8229,7 +8229,7 @@
     "id": "privacy-project-atlas",
     "name": "⁠Project Atlas",
     "url": "https://project-atlas-dbb.pages.dev/",
-    "description": "Censorship Bypass Guide",
+    "description": "Censorship Bypass 指南",
     "descriptionEn": "Censorship Bypass Guide",
     "category": "privacy",
     "tags": [
@@ -8257,7 +8257,7 @@
     "id": "privacy-net4people",
     "name": "⁠Net4people",
     "url": "https://github.com/net4people/bbs/issues",
-    "description": "Worldwide Censorship Circumvention Discussion",
+    "description": "Worldwide Censorship Circumvention Discussion (隐私安全与防护利器)",
     "descriptionEn": "Worldwide Censorship Circumvention Discussion",
     "category": "privacy",
     "tags": [
@@ -8273,7 +8273,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -8285,7 +8285,7 @@
     "id": "privacy-byedpiandroid",
     "name": "ByeDPIAndroid",
     "url": "https://github.com/dovecoteescapee/ByeDPIAndroid",
-    "description": "Network Packet Alter Tool · Android",
+    "description": "网络 Packet Alter 实用小工具 · Android",
     "descriptionEn": "Network Packet Alter Tool / Android",
     "category": "privacy",
     "tags": [
@@ -8301,7 +8301,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -8315,7 +8315,7 @@
     "id": "privacy-zapret",
     "name": "zapret",
     "url": "https://github.com/bol-van/zapret2",
-    "description": "Network Packet Alter Tools",
+    "description": "网络 Packet Alter 工具箱",
     "descriptionEn": "Network Packet Alter Tools",
     "category": "privacy",
     "tags": [
@@ -8331,7 +8331,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -8343,7 +8343,7 @@
     "id": "privacy-dnsveil",
     "name": "DNSveil",
     "url": "https://msasanmh.github.io/DNSveil/",
-    "description": "DNS Client · GitHub",
+    "description": "DNS 客户端 · GitHub 开源",
     "descriptionEn": "DNS Client / GitHub",
     "category": "privacy",
     "tags": [
@@ -8371,7 +8371,7 @@
     "id": "privacy-geph",
     "name": "⁠Geph",
     "url": "https://geph.io/",
-    "description": "Anti-Censorship Proxy · GitHub",
+    "description": "Anti-Censorship 代理中继 · GitHub 开源",
     "descriptionEn": "Anti-Censorship Proxy / GitHub",
     "category": "privacy",
     "tags": [
@@ -8397,7 +8397,7 @@
     "id": "privacy-dnstt-xyz",
     "name": "DNSTT.XYZ",
     "url": "https://dnstt.xyz/",
-    "description": "Mobile DNS Tunnels · Censorship Bypass",
+    "description": "移动端 DNS Tunnels · Censorship Bypass",
     "descriptionEn": "Mobile DNS Tunnels / Censorship Bypass",
     "category": "privacy",
     "tags": [
@@ -8423,7 +8423,7 @@
     "id": "privacy-filterwatch",
     "name": "⁠FilterWatch",
     "url": "https://filter.watch/english/",
-    "description": "Censorship News · Articles",
+    "description": "Censorship 全球资讯 · Articles",
     "descriptionEn": "Censorship News / Articles",
     "category": "privacy",
     "tags": [
@@ -8449,7 +8449,7 @@
     "id": "privacy-byebyedpi",
     "name": "ByeByeDPI",
     "url": "https://github.com/romanvht/ByeByeDPI/blob/master/README-en.md",
-    "description": "Network Packet Alter · Packet Level Proxies",
+    "description": "网络 Packet Alter · Packet Level Proxies",
     "descriptionEn": "Network Packet Alter / Packet Level Proxies",
     "category": "privacy",
     "tags": [
@@ -8463,7 +8463,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -8475,7 +8475,7 @@
     "id": "privacy-youtubeunblock",
     "name": "YouTubeUnblock",
     "url": "https://github.com/Waujito/youtubeUnblock",
-    "description": "Unblock YouTube with SNI Spoof · OpenWrt · Entware Routers",
+    "description": "Unblock YouTube 内置 SNI Spoof · OpenWrt · Entware Routers",
     "descriptionEn": "Unblock YouTube with SNI Spoof / OpenWrt / Entware Routers",
     "category": "privacy",
     "tags": [
@@ -8489,7 +8489,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -8501,7 +8501,7 @@
     "id": "privacy-proxy-lists",
     "name": "Proxy Lists",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_proxy_lists",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -8515,7 +8515,7 @@
       "Privacy"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -8527,7 +8527,7 @@
     "id": "privacy-titanium-network",
     "name": "Titanium Network",
     "url": "https://titaniumnetwork.org/#services",
-    "description": "Multi-Proxy · Instances · Discord · GitHub",
+    "description": "Multi-代理中继 · Instances · Discord 社区 · GitHub 开源",
     "descriptionEn": "Multi-Proxy / Instances / Discord / GitHub",
     "category": "privacy",
     "tags": [
@@ -8553,7 +8553,7 @@
     "id": "privacy-sslsecureproxy",
     "name": "SSLSecureProxy",
     "url": "https://www.sslsecureproxy.com/",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -8579,7 +8579,7 @@
     "id": "privacy-proxyof2",
     "name": "ProxyOf2",
     "url": "https://proxyof2.com/",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -8605,7 +8605,7 @@
     "id": "privacy-phantom",
     "name": "Phantom",
     "url": "https://phantom.lol/",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -8631,7 +8631,7 @@
     "id": "privacy-reflect4",
     "name": "Reflect4",
     "url": "https://reflect4.me/",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -8657,7 +8657,7 @@
     "id": "privacy-proxypal",
     "name": "ProxyPal",
     "url": "https://proxypal.net/",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -8683,7 +8683,7 @@
     "id": "privacy-proxyium",
     "name": "Proxyium",
     "url": "https://proxyium.com/",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -8709,7 +8709,7 @@
     "id": "privacy-google-translate",
     "name": "Google Translate",
     "url": "https://translate.google.com/",
-    "description": "开源 privacy protection, adblocking, and cybersecurity tools.",
+    "description": "开源隐私保护、去广告与网络安全工具",
     "descriptionEn": "Open-source privacy protection, adblocking, and cybersecurity tools.",
     "category": "privacy",
     "tags": [
@@ -8735,7 +8735,7 @@
     "id": "privacy-proxy-checker",
     "name": "Proxy Checker",
     "url": "https://proxy-checker.net/",
-    "description": "Proxy Scrapers · Checkers",
+    "description": "代理中继 Scrapers · Checkers",
     "descriptionEn": "Proxy Scrapers / Checkers",
     "category": "privacy",
     "tags": [
@@ -8761,7 +8761,7 @@
     "id": "privacy-knaben-info",
     "name": "Knaben.info",
     "url": "https://knaben.info/",
-    "description": "Torrent Site Proxies",
+    "description": "Torrent Site Proxies (隐私安全与防护利器)",
     "descriptionEn": "Torrent Site Proxies",
     "category": "privacy",
     "tags": [

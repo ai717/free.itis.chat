@@ -3,7 +3,7 @@
     "id": "storage-shots-so",
     "name": "shots.so",
     "url": "https://shots.so/",
-    "description": "Mockup Creator · Editor",
+    "description": "Mockup Creator · 编辑器",
     "descriptionEn": "Mockup Creator / Editor",
     "category": "storage",
     "tags": [
@@ -31,7 +31,7 @@
     "id": "storage-mockoops",
     "name": "Mockoops",
     "url": "https://mockoops.mohitya.dev/",
-    "description": "Animated Mockups",
+    "description": "Animated Mockups (云存储与备份同步利器)",
     "descriptionEn": "Animated Mockups",
     "category": "storage",
     "tags": [
@@ -57,7 +57,7 @@
     "id": "storage-really-good-emails",
     "name": "Really Good Emails",
     "url": "https://reallygoodemails.com/",
-    "description": "Product Email Mobile Designs and Templates",
+    "description": "Product 邮箱移动端 Designs 与 Templates",
     "descriptionEn": "Product Email Mobile Designs and Templates",
     "category": "storage",
     "tags": [
@@ -83,7 +83,7 @@
     "id": "storage-screenshot-rocks",
     "name": "Screenshot Rocks",
     "url": "https://screenshot.rocks/",
-    "description": "Create Screenshot Mockups of Websites · GitHub",
+    "description": "Create Screenshot Mockups 精选 Websites · GitHub 开源",
     "descriptionEn": "Create Screenshot Mockups of Websites / GitHub",
     "category": "storage",
     "tags": [
@@ -111,7 +111,7 @@
     "id": "storage-rawgraphs",
     "name": "RAWGraphs",
     "url": "https://app.rawgraphs.io/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -139,7 +139,7 @@
     "id": "storage-draw-io",
     "name": "draw.io",
     "url": "https://www.drawio.com/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -167,7 +167,7 @@
     "id": "storage-kroki",
     "name": "Kroki",
     "url": "https://kroki.io/#try",
-    "description": "Text to Diagrams · CLI",
+    "description": "Text 至 Diagrams · CLI",
     "descriptionEn": "Text to Diagrams / CLI",
     "category": "storage",
     "tags": [
@@ -195,7 +195,7 @@
     "id": "storage-datavizcatalogue",
     "name": "DataVizCatalogue",
     "url": "https://datavizcatalogue.com/",
-    "description": "Data Visualization Wiki",
+    "description": "Data Visualization 知识维基",
     "descriptionEn": "Data Visualization Wiki",
     "category": "storage",
     "tags": [
@@ -223,7 +223,7 @@
     "id": "storage-flowchart-fun",
     "name": "Flowchart Fun",
     "url": "https://flowchart.fun/",
-    "description": "Generate Flowchart from Text · GitHub",
+    "description": "Generate Flowchart from Text · GitHub 开源",
     "descriptionEn": "Generate Flowchart from Text / GitHub",
     "category": "storage",
     "tags": [
@@ -249,7 +249,7 @@
     "id": "storage-vinnslu",
     "name": "Vinnslu",
     "url": "https://maltsev.github.io/vinnslu/",
-    "description": "Tabular Data Parser",
+    "description": "Tabular Data Parser (云存储与备份同步利器)",
     "descriptionEn": "Tabular Data Parser",
     "category": "storage",
     "tags": [
@@ -275,7 +275,7 @@
     "id": "storage-cascii",
     "name": "Cascii",
     "url": "https://cascii.app/",
-    "description": "Create ASCII Diagrams",
+    "description": "Create ASCII Diagrams (云存储与备份同步利器)",
     "descriptionEn": "Create ASCII Diagrams",
     "category": "storage",
     "tags": [
@@ -301,7 +301,7 @@
     "id": "storage-svgbob-editor",
     "name": "SVGBob Editor",
     "url": "https://ivanceras.github.io/svgbob-editor/",
-    "description": "Convert ASCII Diagrams to SVG Images · GitHub",
+    "description": "Convert ASCII Diagrams 至 SVG 图像插画 · GitHub 开源",
     "descriptionEn": "Convert ASCII Diagrams to SVG Images / GitHub",
     "category": "storage",
     "tags": [
@@ -327,7 +327,7 @@
     "id": "storage-umlet",
     "name": "UMLet",
     "url": "https://www.umlet.com/",
-    "description": "UML Diagrams Generators · Creators",
+    "description": "UML Diagrams 生成工具 · Creators",
     "descriptionEn": "UML Diagrams Generators / Creators",
     "category": "storage",
     "tags": [
@@ -353,7 +353,7 @@
     "id": "storage-planttext",
     "name": "PlantText",
     "url": "https://www.planttext.com/",
-    "description": "UML Editor",
+    "description": "UML 编辑器",
     "descriptionEn": "UML Editor",
     "category": "storage",
     "tags": [
@@ -379,7 +379,7 @@
     "id": "storage-evernote-design",
     "name": "Evernote.Design",
     "url": "https://www.evernote.design/",
-    "description": "Design Resources",
+    "description": "Design 精选资源",
     "descriptionEn": "Design Resources",
     "category": "storage",
     "tags": [
@@ -405,7 +405,7 @@
     "id": "storage-the-people-s-design-libr",
     "name": "The People's Design Library",
     "url": "https://rentry.co/FMHYB64#design-resources",
-    "description": "Design Resources",
+    "description": "Design 精选资源",
     "descriptionEn": "Design Resources",
     "category": "storage",
     "tags": [
@@ -419,7 +419,7 @@
       "Object Storage"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -431,7 +431,7 @@
     "id": "storage-rentryresource",
     "name": "⁠rentryresource",
     "url": "https://rentryresource.neocities.org/",
-    "description": "Free Site Design · Neocities Resources",
+    "description": "免费 Site Design · Neocities 精选资源",
     "descriptionEn": "Free Site Design / Neocities Resources",
     "category": "storage",
     "tags": [
@@ -457,7 +457,7 @@
     "id": "storage-cloudflare-dns",
     "name": "Cloudflare DNS",
     "url": "https://www.cloudflare.com/products/dns/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -485,7 +485,7 @@
     "id": "storage-desec",
     "name": "deSEC",
     "url": "https://desec.io/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -513,7 +513,7 @@
     "id": "storage-retrogames-cc",
     "name": "RetroGames.cc",
     "url": "https://www.retrogames.cc/",
-    "description": "Retro Consoles · 经典主机复古游戏模拟器JS",
+    "description": "Retro Consoles · EmulatorJS (云存储与备份同步利器)",
     "descriptionEn": "Retro Consoles / EmulatorJS",
     "category": "storage",
     "tags": [
@@ -539,7 +539,7 @@
     "id": "storage-oldgameshelf",
     "name": "OldGameShelf",
     "url": "https://oldgames.app/",
-    "description": "Retro Consoles · 经典主机复古游戏模拟器JS",
+    "description": "Retro Consoles · EmulatorJS (云存储与备份同步利器)",
     "descriptionEn": "Retro Consoles / EmulatorJS",
     "category": "storage",
     "tags": [
@@ -565,7 +565,7 @@
     "id": "storage-retrogamesnexus",
     "name": "RetroGamesNexus",
     "url": "https://retrogamesnexus.com/",
-    "description": "Retro Consoles · 经典主机复古游戏模拟器JS",
+    "description": "Retro Consoles · EmulatorJS (云存储与备份同步利器)",
     "descriptionEn": "Retro Consoles / EmulatorJS",
     "category": "storage",
     "tags": [
@@ -591,7 +591,7 @@
     "id": "storage-classicgamezone",
     "name": "ClassicGameZone",
     "url": "https://classicgamezone.com/",
-    "description": "Retro Consoles · 经典主机复古游戏模拟器JS",
+    "description": "Retro Consoles · EmulatorJS (云存储与备份同步利器)",
     "descriptionEn": "Retro Consoles / EmulatorJS",
     "category": "storage",
     "tags": [
@@ -617,7 +617,7 @@
     "id": "storage-retroplayonline",
     "name": "retroplayonline",
     "url": "https://www.retroplayonline.com/",
-    "description": "Retro Consoles · 经典主机复古游戏模拟器JS",
+    "description": "Retro Consoles · EmulatorJS (云存储与备份同步利器)",
     "descriptionEn": "Retro Consoles / EmulatorJS",
     "category": "storage",
     "tags": [
@@ -643,7 +643,7 @@
     "id": "storage-pegasus-online",
     "name": "Pegasus Online",
     "url": "https://pegasus-online.pl/en/",
-    "description": "Retro Consoles · 经典主机复古游戏模拟器JS",
+    "description": "Retro Consoles · EmulatorJS (云存储与备份同步利器)",
     "descriptionEn": "Retro Consoles / EmulatorJS",
     "category": "storage",
     "tags": [
@@ -669,7 +669,7 @@
     "id": "storage-emulatorgameszone",
     "name": "EmulatorGamesZone",
     "url": "https://emulatorgameszone.com/",
-    "description": "Retro Consoles · 经典主机复古游戏模拟器JS",
+    "description": "Retro Consoles · EmulatorJS (云存储与备份同步利器)",
     "descriptionEn": "Retro Consoles / EmulatorJS",
     "category": "storage",
     "tags": [
@@ -695,7 +695,7 @@
     "id": "storage-letsplaygb",
     "name": "LetsPlayGB",
     "url": "https://www.letsplaygb.com/",
-    "description": "Game Boy · 经典主机复古游戏模拟器JS",
+    "description": "单机游戏 Boy · EmulatorJS",
     "descriptionEn": "Game Boy / EmulatorJS",
     "category": "storage",
     "tags": [
@@ -721,7 +721,7 @@
     "id": "storage-play-nes",
     "name": "Play NES",
     "url": "https://www.playnesonline.com/",
-    "description": "NES Browser 经典主机复古游戏模拟器 · 经典主机复古游戏模拟器JS",
+    "description": "NES Browser 游戏模拟器 · EmulatorJS",
     "descriptionEn": "NES Browser Emulator / EmulatorJS",
     "category": "storage",
     "tags": [
@@ -749,7 +749,7 @@
     "id": "storage-let-s-play-sega",
     "name": "Let's Play Sega",
     "url": "https://www.letsplaysega.com/",
-    "description": "Sega Genesis Browser 经典主机复古游戏模拟器 · 经典主机复古游戏模拟器JS",
+    "description": "Sega Genesis Browser 游戏模拟器 · EmulatorJS",
     "descriptionEn": "Sega Genesis Browser Emulator / EmulatorJS",
     "category": "storage",
     "tags": [
@@ -777,7 +777,7 @@
     "id": "storage-mega-drive-emulator",
     "name": "Mega Drive Emulator",
     "url": "https://megadrive-emulator.com/",
-    "description": "Sega Megadrive Browser 经典主机复古游戏模拟器 · 经典主机复古游戏模拟器JS",
+    "description": "Sega Megadrive Browser 游戏模拟器 · EmulatorJS",
     "descriptionEn": "Sega Megadrive Browser Emulator / EmulatorJS",
     "category": "storage",
     "tags": [
@@ -805,7 +805,7 @@
     "id": "storage-playretrogames",
     "name": "PlayRetroGames",
     "url": "https://www.playretrogames.com/",
-    "description": "Retro Consoles · NeptunJS",
+    "description": "Retro Consoles · NeptunJS (云存储与备份同步利器)",
     "descriptionEn": "Retro Consoles / NeptunJS",
     "category": "storage",
     "tags": [
@@ -831,7 +831,7 @@
     "id": "storage-playemulator",
     "name": "PlayEmulator",
     "url": "https://playemulator.online/",
-    "description": "Retro Consoles · NeptunJS",
+    "description": "Retro Consoles · NeptunJS (云存储与备份同步利器)",
     "descriptionEn": "Retro Consoles / NeptunJS",
     "category": "storage",
     "tags": [
@@ -857,7 +857,7 @@
     "id": "storage-8bbit",
     "name": "8bbit",
     "url": "https://www.8bbit.com/",
-    "description": "NES Browser 经典主机复古游戏模拟器 · NeptunJS",
+    "description": "NES Browser 游戏模拟器 · NeptunJS",
     "descriptionEn": "NES Browser Emulator / NeptunJS",
     "category": "storage",
     "tags": [
@@ -885,7 +885,7 @@
     "id": "storage-neogeofun",
     "name": "NeoGeoFun",
     "url": "https://www.neogeofun.com/",
-    "description": "Neo Geo Browser 经典主机复古游戏模拟器 · NeptunJS",
+    "description": "Neo Geo Browser 游戏模拟器 · NeptunJS",
     "descriptionEn": "Neo Geo Browser Emulator / NeptunJS",
     "category": "storage",
     "tags": [
@@ -913,7 +913,7 @@
     "id": "storage-public-dns-indexes",
     "name": "Public DNS indexes",
     "url": "https://www.publicdns.xyz/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -939,7 +939,7 @@
     "id": "storage-cloudflare-1-1-1-1",
     "name": "Cloudflare 1.1.1.1",
     "url": "https://developers.cloudflare.com/1.1.1.1/ip-addresses/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -967,7 +967,7 @@
     "id": "storage-quad9",
     "name": "Quad9",
     "url": "https://quad9.net/",
-    "description": "Malware, Phishing, Spyware & Botnet DNS Protection · GitHub",
+    "description": "Malware · Phishing · Spyware & Botnet DNS Protection · GitHub 开源",
     "descriptionEn": "Malware, Phishing, Spyware & Botnet DNS Protection / GitHub",
     "category": "storage",
     "tags": [
@@ -995,7 +995,7 @@
     "id": "storage-artemis",
     "name": "Artemis",
     "url": "https://dns.fuzzing.uk/",
-    "description": "Piracy Site DNS Resolver · GitHub",
+    "description": "资源分享 Site DNS Resolver · GitHub 开源",
     "descriptionEn": "Piracy Site DNS Resolver / GitHub",
     "category": "storage",
     "tags": [
@@ -1021,7 +1021,7 @@
     "id": "storage-unbound",
     "name": "Unbound",
     "url": "https://www.nlnetlabs.nl/projects/unbound/",
-    "description": "支持自建部署, Validating, Recursive, Caching Resolver · GitHub",
+    "description": "Self-Hosted · Validating · Recursive · Caching Resolver · GitHub 开源",
     "descriptionEn": "Self-Hosted, Validating, Recursive, Caching Resolver / GitHub",
     "category": "storage",
     "tags": [
@@ -1049,7 +1049,7 @@
     "id": "storage-tiarap",
     "name": "Tiarap",
     "url": "https://tiar.app/",
-    "description": "Privacy-Friendly DNS Resolver",
+    "description": "隐私安全-Friendly DNS Resolver",
     "descriptionEn": "Privacy-Friendly DNS Resolver",
     "category": "storage",
     "tags": [
@@ -1075,7 +1075,7 @@
     "id": "storage-dnsbunker",
     "name": "DNSBunker",
     "url": "https://dnsbunker.org/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -1101,7 +1101,7 @@
     "id": "storage-hagezi-dns",
     "name": "HaGeZi DNS",
     "url": "https://github.com/hagezi/dns-servers",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -1115,7 +1115,7 @@
       "Object Storage"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -1127,7 +1127,7 @@
     "id": "storage-bancuh",
     "name": "Bancuh",
     "url": "https://bancuh.com/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -1153,7 +1153,7 @@
     "id": "storage-adguard",
     "name": "AdGuard",
     "url": "https://adguard-dns.io/en/public-dns.html",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -1179,7 +1179,7 @@
     "id": "storage-dns-for-family",
     "name": "DNS for Family",
     "url": "https://dnsforfamily.com/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -1205,7 +1205,7 @@
     "id": "storage-dns-forge",
     "name": "DNS Forge",
     "url": "https://dnsforge.de/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -1231,7 +1231,7 @@
     "id": "storage-hurricane-electric",
     "name": "Hurricane Electric",
     "url": "https://dns.he.net/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -1257,7 +1257,7 @@
     "id": "storage-uncensoreddns",
     "name": "UncensoredDNS",
     "url": "https://blog.uncensoreddns.org/dns-servers/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -1283,7 +1283,7 @@
     "id": "storage-dns-sb",
     "name": "dns.sb",
     "url": "https://dns.sb/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -1309,7 +1309,7 @@
     "id": "storage-f0rc3run",
     "name": "F0rc3Run",
     "url": "https://forcerun.page.gd/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -1335,7 +1335,7 @@
     "id": "storage-v2nodes",
     "name": "V2Nodes",
     "url": "https://v2nodes.com/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -1361,7 +1361,7 @@
     "id": "storage-v2ray-servers",
     "name": "v2ray servers",
     "url": "https://github.com/ebrasha/free-v2ray-public-list",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -1375,7 +1375,7 @@
       "Object Storage"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -1387,7 +1387,7 @@
     "id": "storage-racevpn",
     "name": "RaceVPN",
     "url": "https://www.racevpn.com/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -1413,7 +1413,7 @@
     "id": "storage-greenssh",
     "name": "GreenSSH",
     "url": "https://www.greenssh.com/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -1439,7 +1439,7 @@
     "id": "storage-vpn-fail",
     "name": "vpn.fail",
     "url": "https://vpn.fail/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -1465,7 +1465,7 @@
     "id": "storage-vpn-jantit",
     "name": "VPN Jantit",
     "url": "https://www.vpnjantit.com/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -1491,7 +1491,7 @@
     "id": "storage-shadowmere",
     "name": "Shadowmere",
     "url": "https://shadowmere.xyz",
-    "description": "Shadowsocks",
+    "description": "Shadowsocks (云存储与备份同步利器)",
     "descriptionEn": "Shadowsocks",
     "category": "storage",
     "tags": [
@@ -1517,7 +1517,7 @@
     "id": "storage-hi-load-vpn",
     "name": "Hi!Load VPN",
     "url": "https://t.me/hlvpnbot",
-    "description": "30GB per month · No Torrenting · Support",
+    "description": "30GB per month · No Torrenting · Support (云存储与备份同步利器)",
     "descriptionEn": "30GB per month / No Torrenting / Support",
     "category": "storage",
     "tags": [
@@ -1543,7 +1543,7 @@
     "id": "storage-sshocean",
     "name": "sshOcean",
     "url": "https://sshocean.com/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -1569,7 +1569,7 @@
     "id": "storage-freevpn",
     "name": "FreeVPN",
     "url": "https://www.freevpn.us/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -1595,7 +1595,7 @@
     "id": "storage-sshkit",
     "name": "SSHKit",
     "url": "https://sshkit.com/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -1621,7 +1621,7 @@
     "id": "storage-jagoanssh",
     "name": "JagoanSSH",
     "url": "https://www.jagoanssh.com/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -1647,7 +1647,7 @@
     "id": "storage-fastssh",
     "name": "fastssh",
     "url": "https://www.fastssh.com/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -1673,7 +1673,7 @@
     "id": "storage-opentunnel",
     "name": "OpenTunnel",
     "url": "https://opentunnel.net/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -1699,7 +1699,7 @@
     "id": "storage-howdy",
     "name": "Howdy",
     "url": "https://howdy.id/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -1725,7 +1725,7 @@
     "id": "storage-proxybot",
     "name": "ProxyBot",
     "url": "https://t.me/vamproxy_bot",
-    "description": "Telegram Proxy Bot",
+    "description": "Telegram 交流群代理中继 Bot",
     "descriptionEn": "Telegram Proxy Bot",
     "category": "storage",
     "tags": [
@@ -1751,7 +1751,7 @@
     "id": "storage-proxy-socks5-bot",
     "name": "proxy_socks5_bot",
     "url": "https://t.me/BestMTProxyBot",
-    "description": "Telegram Shadowsocks Bots",
+    "description": "Telegram 交流群 Shadowsocks Bots",
     "descriptionEn": "Telegram Shadowsocks Bots",
     "category": "storage",
     "tags": [
@@ -1777,7 +1777,7 @@
     "id": "storage-gd-demon---challenge-lis",
     "name": "⁠GD Demon / Challenge Lists",
     "url": "https://docs.google.com/document/d/1tYM7XWS18B7s2g4lplzF6qU2T8LHi3-kQkybGIhXlqE",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -1803,7 +1803,7 @@
     "id": "storage-pointercrate",
     "name": "Pointercrate",
     "url": "https://pointercrate.com/demonlist/",
-    "description": "Original Demon List · Stats Viewer · GitHub",
+    "description": "Original Demon List · Stats 查看器 · GitHub 开源",
     "descriptionEn": "Original Demon List / Stats Viewer / GitHub",
     "category": "storage",
     "tags": [
@@ -1831,7 +1831,7 @@
     "id": "storage-aredl",
     "name": "AREDL",
     "url": "https://aredl.net/",
-    "description": "All Rated Extreme Demons List · Discord · GitHub",
+    "description": "全部 Rated Extreme Demons List · Discord 社区 · GitHub 开源",
     "descriptionEn": "All Rated Extreme Demons List / Discord / GitHub",
     "category": "storage",
     "tags": [
@@ -1859,7 +1859,7 @@
     "id": "storage-edel",
     "name": "⁠EDEL",
     "url": "https://docs.google.com/spreadsheets/d/1-2-n2aU__rQya_IESevHjEU0f1xbegKUZEslk7fV38Q/",
-    "description": "Extreme Demon Enjoyment List · Discord",
+    "description": "Extreme Demon Enjoyment List · Discord 社区",
     "descriptionEn": "Extreme Demon Enjoyment List / Discord",
     "category": "storage",
     "tags": [
@@ -1885,7 +1885,7 @@
     "id": "storage-pemonlist",
     "name": "Pemonlist",
     "url": "https://pemonlist.com/",
-    "description": "Platformer Demon Lists · Leaderboards",
+    "description": "Platformer Demon Lists · 天梯榜",
     "descriptionEn": "Platformer Demon Lists / Leaderboards",
     "category": "storage",
     "tags": [
@@ -1911,7 +1911,7 @@
     "id": "storage-demonlist",
     "name": "Demonlist",
     "url": "https://demonlist.org/",
-    "description": "Unrated Demons Lists",
+    "description": "Unrated Demons Lists (云存储与备份同步利器)",
     "descriptionEn": "Unrated Demons Lists",
     "category": "storage",
     "tags": [
@@ -1937,7 +1937,7 @@
     "id": "storage-idl",
     "name": "IDL",
     "url": "https://insanedemonlist.com/",
-    "description": "Insane Demon List · Discord",
+    "description": "Insane Demon List · Discord 社区",
     "descriptionEn": "Insane Demon List / Discord",
     "category": "storage",
     "tags": [
@@ -1963,7 +1963,7 @@
     "id": "storage-hdl",
     "name": "⁠HDL",
     "url": "https://hdl.pages.dev/",
-    "description": "Hard Demon List · Discord",
+    "description": "Hard Demon List · Discord 社区",
     "descriptionEn": "Hard Demon List / Discord",
     "category": "storage",
     "tags": [
@@ -1989,7 +1989,7 @@
     "id": "storage-mdl",
     "name": "MDL",
     "url": "https://mediumdemonslist.pages.dev/",
-    "description": "Medium Demon List · Discord",
+    "description": "Medium Demon List · Discord 社区",
     "descriptionEn": "Medium Demon List / Discord",
     "category": "storage",
     "tags": [
@@ -2015,7 +2015,7 @@
     "id": "storage-edl",
     "name": "EDL",
     "url": "https://easydemonlist.pages.dev/",
-    "description": "Easy Demon List · Discord",
+    "description": "Easy Demon List · Discord 社区",
     "descriptionEn": "Easy Demon List / Discord",
     "category": "storage",
     "tags": [
@@ -2041,7 +2041,7 @@
     "id": "storage-nwl",
     "name": "NWL",
     "url": "https://docs.google.com/spreadsheets/d/1YxUE2kkvhT2E6AjnkvTf-o8iu_shSLbuFkEFcZOvieA",
-    "description": "Non-Listworthy Extreme Demon List · Discord",
+    "description": "Non-Listworthy Extreme Demon List · Discord 社区",
     "descriptionEn": "Non-Listworthy Extreme Demon List / Discord",
     "category": "storage",
     "tags": [
@@ -2067,7 +2067,7 @@
     "id": "storage-hppl",
     "name": "HPPL",
     "url": "https://docs.google.com/document/d/1RZ524Gsou0w4djb3I13vvYV6Q9pp77UjlJkS_Et8b28/",
-    "description": "Hardest Physically Possible Levels List · Discord",
+    "description": "Hardest Physically Possible Levels List · Discord 社区",
     "descriptionEn": "Hardest Physically Possible Levels List / Discord",
     "category": "storage",
     "tags": [
@@ -2093,7 +2093,7 @@
     "id": "storage-htpl",
     "name": "HTPL",
     "url": "https://docs.google.com/document/d/1GvNWez3Vh3Q6AQXLshYOmA3sXG-9JbV6Zf7ZzRpba0o/",
-    "description": "Hardest Theoretically Possible Levels List · Discord",
+    "description": "Hardest Theoretically Possible Levels List · Discord 社区",
     "descriptionEn": "Hardest Theoretically Possible Levels List / Discord",
     "category": "storage",
     "tags": [
@@ -2119,7 +2119,7 @@
     "id": "storage-edi",
     "name": "⁠EDI",
     "url": "https://edi-d6y.pages.dev/",
-    "description": "Hardest Completed Achievements · Discord",
+    "description": "Hardest Completed 支持成就系统 · Discord 社区",
     "descriptionEn": "Hardest Completed Achievements / Discord",
     "category": "storage",
     "tags": [
@@ -2145,7 +2145,7 @@
     "id": "storage-hrr-mobile-list",
     "name": "HRR Mobile List",
     "url": "https://mobilepointercrate.com/",
-    "description": "High Refresh Rate Mobile List",
+    "description": "High Refresh Rate 移动端 List",
     "descriptionEn": "High Refresh Rate Mobile List",
     "category": "storage",
     "tags": [
@@ -2171,7 +2171,7 @@
     "id": "storage-lrr-demonlist",
     "name": "LRR Demonlist",
     "url": "https://gdlrrlist.com/",
-    "description": "Low Refresh Rate Demon List · Discord",
+    "description": "Low Refresh Rate Demon List · Discord 社区",
     "descriptionEn": "Low Refresh Rate Demon List / Discord",
     "category": "storage",
     "tags": [
@@ -2197,7 +2197,7 @@
     "id": "storage-impossible-levels-list",
     "name": "Impossible Levels List",
     "url": "https://impossiblelevels.com/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -2223,7 +2223,7 @@
     "id": "storage-nine-circles-demonlist",
     "name": "Nine Circles Demonlist",
     "url": "https://ninecirclesdemonlist.com/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -2249,7 +2249,7 @@
     "id": "storage-2p-list",
     "name": "⁠2P List",
     "url": "https://2plist.github.io/2plist",
-    "description": "2 Player GD List · Discord",
+    "description": "2 播放器 GD List · Discord 社区",
     "descriptionEn": "2 Player GD List / Discord",
     "category": "storage",
     "tags": [
@@ -2275,7 +2275,7 @@
     "id": "storage-archive-org-downloader",
     "name": "Archive.org-Downloader",
     "url": "https://github.com/MiniGlome/Archive.org-Downloader",
-    "description": "Download Books in PDF Format",
+    "description": "Download 电子书图书在 PDF 格式",
     "descriptionEn": "Download Books in PDF Format",
     "category": "storage",
     "tags": [
@@ -2289,7 +2289,7 @@
       "Object Storage"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2301,7 +2301,7 @@
     "id": "storage-ia-book-ripper",
     "name": "IA Book Ripper",
     "url": "https://bookripper.neocities.org/",
-    "description": "Download Borrowed Books",
+    "description": "Download Borrowed 电子书图书",
     "descriptionEn": "Download Borrowed Books",
     "category": "storage",
     "tags": [
@@ -2327,7 +2327,7 @@
     "id": "storage-internetarchive",
     "name": "internetarchive",
     "url": "https://github.com/jjjake/internetarchive",
-    "description": "CLI Tool",
+    "description": "CLI 实用小工具",
     "descriptionEn": "CLI Tool",
     "category": "storage",
     "tags": [
@@ -2341,7 +2341,7 @@
       "Object Storage"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2353,7 +2353,7 @@
     "id": "storage-themoeway",
     "name": "TheMoeWay",
     "url": "https://learnjapanese.moe/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -2381,7 +2381,7 @@
     "id": "storage-japreader",
     "name": "japReader",
     "url": "https://github.com/marisukukise/japReader",
-    "description": "Japanese Text Translator",
+    "description": "Japanese Text Translator (云存储与备份同步利器)",
     "descriptionEn": "Japanese Text Translator",
     "category": "storage",
     "tags": [
@@ -2395,7 +2395,7 @@
       "Object Storage"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2407,7 +2407,7 @@
     "id": "storage-ichi-moe",
     "name": "ichi.moe",
     "url": "https://ichi.moe/",
-    "description": "Japanese to English Phrase Translation",
+    "description": "Japanese 至 English Phrase Translation",
     "descriptionEn": "Japanese to English Phrase Translation",
     "category": "storage",
     "tags": [
@@ -2433,7 +2433,7 @@
     "id": "storage-nippon-colors",
     "name": "Nippon Colors",
     "url": "https://nipponcolors.com/",
-    "description": "Traditional Japanese Color Meanings",
+    "description": "Traditional Japanese Color Meanings (云存储与备份同步利器)",
     "descriptionEn": "Traditional Japanese Color Meanings",
     "category": "storage",
     "tags": [
@@ -2459,7 +2459,7 @@
     "id": "storage-poricom",
     "name": "Poricom",
     "url": "https://github.com/blueaxis/Poricom",
-    "description": "Kanji Character Identifier",
+    "description": "Kanji Character Identifier (云存储与备份同步利器)",
     "descriptionEn": "Kanji Character Identifier",
     "category": "storage",
     "tags": [
@@ -2473,7 +2473,7 @@
       "Object Storage"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2485,7 +2485,7 @@
     "id": "storage-android-readers",
     "name": "Android Readers",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_manga",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -2499,7 +2499,7 @@
       "Object Storage"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -2514,7 +2514,7 @@
     "id": "storage-suwayomi",
     "name": "Suwayomi",
     "url": "https://github.com/Suwayomi",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -2530,7 +2530,7 @@
       "Object Storage"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -2542,7 +2542,7 @@
     "id": "storage-extensions",
     "name": "Extensions",
     "url": "https://keiyoushi.github.io/",
-    "description": "Extensions, 2 · Desktop Client",
+    "description": "扩展插件 · 2 · 桌面端客户端",
     "descriptionEn": "Extensions, 2 / Desktop Client",
     "category": "storage",
     "tags": [
@@ -2572,7 +2572,7 @@
     "id": "storage-imslp",
     "name": "IMSLP",
     "url": "https://imslp.org/wiki/Main_Page",
-    "description": "Public Domain Scores",
+    "description": "Public Domain Scores (云存储与备份同步利器)",
     "descriptionEn": "Public Domain Scores",
     "category": "storage",
     "tags": [
@@ -2600,7 +2600,7 @@
     "id": "storage-musescore-com",
     "name": "Musescore.com",
     "url": "https://musescore.com/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -2628,7 +2628,7 @@
     "id": "storage-8notes",
     "name": "8notes",
     "url": "https://www.8notes.com/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -2654,7 +2654,7 @@
     "id": "storage-notes-box",
     "name": "Notes Box",
     "url": "https://notes-box.com/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -2680,7 +2680,7 @@
     "id": "storage-musopen",
     "name": "Musopen",
     "url": "https://musopen.org/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -2706,7 +2706,7 @@
     "id": "storage-free-scores",
     "name": "Free Scores",
     "url": "https://www.free-scores.com/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -2732,7 +2732,7 @@
     "id": "storage-free-scores-2",
     "name": "free-scores",
     "url": "https://www.free-scores.com/free-sheet-music.php",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -2758,7 +2758,7 @@
     "id": "storage-bateristaspt",
     "name": "bateristaspt",
     "url": "https://www.bateristaspt.com/membros/drumscores/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -2784,7 +2784,7 @@
     "id": "storage-tchunes",
     "name": "tchunes",
     "url": "https://www.daev.ca/tchunes/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -2810,7 +2810,7 @@
     "id": "storage-flutetunes",
     "name": "flutetunes",
     "url": "https://www.flutetunes.com/",
-    "description": "Flute Sheet Music",
+    "description": "Flute Sheet 音乐流媒体",
     "descriptionEn": "Flute Sheet Music",
     "category": "storage",
     "tags": [
@@ -2836,7 +2836,7 @@
     "id": "storage-ichigo-s-sheet-music",
     "name": "Ichigo's Sheet Music",
     "url": "https://ichigos.com/",
-    "description": "Video Game & Anime Sheet Music",
+    "description": "影视视频单机游戏 & 动漫番剧 Sheet 音乐流媒体",
     "descriptionEn": "Video Game & Anime Sheet Music",
     "category": "storage",
     "tags": [
@@ -2862,7 +2862,7 @@
     "id": "storage-ninsheetmusic",
     "name": "NinSheetMusic",
     "url": "https://www.ninsheetmusic.org/",
-    "description": "Video Game Sheet Music",
+    "description": "影视视频单机游戏 Sheet 音乐流媒体",
     "descriptionEn": "Video Game Sheet Music",
     "category": "storage",
     "tags": [
@@ -2888,7 +2888,7 @@
     "id": "storage-choralwiki",
     "name": "ChoralWiki",
     "url": "https://www.cpdl.org/wiki/index.php/Main_Page",
-    "description": "Choral Music Sheets",
+    "description": "Choral 音乐流媒体 Sheets",
     "descriptionEn": "Choral Music Sheets",
     "category": "storage",
     "tags": [
@@ -2914,7 +2914,7 @@
     "id": "storage-bandmusic-pdf-library",
     "name": "BandMusic PDF Library",
     "url": "https://bandmusicpdf.org/",
-    "description": "Golden Age Band Music Sheets",
+    "description": "Golden Age Band 音乐流媒体 Sheets",
     "descriptionEn": "Golden Age Band Music Sheets",
     "category": "storage",
     "tags": [
@@ -2940,7 +2940,7 @@
     "id": "storage-a-collection-of-christma",
     "name": "A Collection of Christmas Carols",
     "url": "https://acollectionofchristmascarols.com/",
-    "description": "Christmas Carol Sheet Music",
+    "description": "Christmas Carol Sheet 音乐流媒体",
     "descriptionEn": "Christmas Carol Sheet Music",
     "category": "storage",
     "tags": [
@@ -2966,7 +2966,7 @@
     "id": "storage-diamm",
     "name": "DIAMM",
     "url": "https://www.diamm.ac.uk/",
-    "description": "Medieval Manuscripts",
+    "description": "Medieval Manuscripts (云存储与备份同步利器)",
     "descriptionEn": "Medieval Manuscripts",
     "category": "storage",
     "tags": [
@@ -2992,7 +2992,7 @@
     "id": "storage-unt-digital-library",
     "name": "UNT Digital Library",
     "url": "https://digital.library.unt.edu/explore/collections/VRBR/browse/",
-    "description": "Rare Manuscripts",
+    "description": "Rare Manuscripts (云存储与备份同步利器)",
     "descriptionEn": "Rare Manuscripts",
     "category": "storage",
     "tags": [
@@ -3018,7 +3018,7 @@
     "id": "storage-mozarteum",
     "name": "Mozarteum",
     "url": "https://dme.mozarteum.at/DME/nma/nmapub_srch.php?l=2",
-    "description": "Digital Mozart Edition",
+    "description": "Digital Mozart Edition (云存储与备份同步利器)",
     "descriptionEn": "Digital Mozart Edition",
     "category": "storage",
     "tags": [
@@ -3044,7 +3044,7 @@
     "id": "storage-the-session",
     "name": "The Session",
     "url": "https://thesession.org/",
-    "description": "Traditional Irish Sheet Music",
+    "description": "Traditional Irish Sheet 音乐流媒体",
     "descriptionEn": "Traditional Irish Sheet Music",
     "category": "storage",
     "tags": [
@@ -3070,7 +3070,7 @@
     "id": "storage-brown-university",
     "name": "Brown University",
     "url": "https://library.brown.edu/cds/sheetmusic/afam/about.html",
-    "description": "African American Sheet Music",
+    "description": "African American Sheet 音乐流媒体",
     "descriptionEn": "African American Sheet Music",
     "category": "storage",
     "tags": [
@@ -3096,7 +3096,7 @@
     "id": "storage-contemporary-music-score",
     "name": "Contemporary Music Score",
     "url": "https://escholarship.org/uc/uclamusicscores",
-    "description": "University Collections",
+    "description": "University 精选合辑",
     "descriptionEn": "University Collections",
     "category": "storage",
     "tags": [
@@ -3122,7 +3122,7 @@
     "id": "storage-sheet-music-consortium",
     "name": "Sheet Music Consortium",
     "url": "https://www.library.ucla.edu/about/programs/sheet-music-consortium/",
-    "description": "Search Universities",
+    "description": "搜索检索 Universities",
     "descriptionEn": "Search Universities",
     "category": "storage",
     "tags": [
@@ -3148,7 +3148,7 @@
     "id": "storage-public-domain-sherpa",
     "name": "Public Domain Sherpa",
     "url": "https://www.publicdomainsherpa.com/free-sheet-music.html",
-    "description": "Sheet Music Resources",
+    "description": "Sheet 音乐流媒体精选资源",
     "descriptionEn": "Sheet Music Resources",
     "category": "storage",
     "tags": [
@@ -3174,7 +3174,7 @@
     "id": "storage-touying",
     "name": "⁠Touying",
     "url": "https://touying-typ.github.io/",
-    "description": "Typst-Based Presentation Tool",
+    "description": "Typst-Based Presentation 实用小工具",
     "descriptionEn": "Typst-Based Presentation Tool",
     "category": "storage",
     "tags": [
@@ -3200,7 +3200,7 @@
     "id": "storage-slidev",
     "name": "Slidev",
     "url": "https://sli.dev/",
-    "description": "Markdown Presentation Slides · GitHub",
+    "description": "Markdown Presentation Slides · GitHub 开源",
     "descriptionEn": "Markdown Presentation Slides / GitHub",
     "category": "storage",
     "tags": [
@@ -3226,7 +3226,7 @@
     "id": "storage-slides",
     "name": "Slides",
     "url": "https://maaslalani.com/slides/",
-    "description": "Terminal-Based Presentation Tool · GitHub",
+    "description": "Terminal-Based Presentation 实用小工具 · GitHub 开源",
     "descriptionEn": "Terminal-Based Presentation Tool / GitHub",
     "category": "storage",
     "tags": [
@@ -3252,7 +3252,7 @@
     "id": "storage-proxy-list",
     "name": "PROXY List",
     "url": "https://github.com/TheSpeedX/PROXY-List",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -3268,7 +3268,7 @@
       "Object Storage"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": true,
     "isStarred": true,
@@ -3280,7 +3280,7 @@
     "id": "storage-instance-scores",
     "name": "Instance Scores",
     "url": "https://searx.neocities.org/instancescores",
-    "description": "Searx Instance Indexes",
+    "description": "Searx Instance 导航索引",
     "descriptionEn": "Searx Instance Indexes",
     "category": "storage",
     "tags": [
@@ -3306,7 +3306,7 @@
     "id": "storage-opnxng",
     "name": "OpnXNG",
     "url": "https://opnxng.com/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -3334,7 +3334,7 @@
     "id": "storage-gettempnumber",
     "name": "gettempnumber",
     "url": "https://gettempnumber.com/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -3362,7 +3362,7 @@
     "id": "storage-us-phone-number",
     "name": "us-phone-number",
     "url": "https://us-phone-number.com/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -3390,7 +3390,7 @@
     "id": "storage-sms24",
     "name": "sms24",
     "url": "https://www.sms24.me/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -3418,7 +3418,7 @@
     "id": "storage-receive-sms",
     "name": "receive-sms",
     "url": "https://receive-sms.cc/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -3446,7 +3446,7 @@
     "id": "storage-smsonline",
     "name": "⁠SMSOnline",
     "url": "https://www.smsonline.cloud/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -3474,7 +3474,7 @@
     "id": "storage-awesome-icons",
     "name": "Awesome Icons",
     "url": "https://github.com/notlmn/awesome-icons",
-    "description": "Icon Site Indexes",
+    "description": "Icon Site 导航索引",
     "descriptionEn": "Icon Site Indexes",
     "category": "storage",
     "tags": [
@@ -3488,7 +3488,7 @@
       "Object Storage"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3500,7 +3500,7 @@
     "id": "storage-iconify",
     "name": "Iconify",
     "url": "https://iconify.design/",
-    "description": "Icon Collections",
+    "description": "Icon 精选合辑",
     "descriptionEn": "Icon Collections",
     "category": "storage",
     "tags": [
@@ -3528,7 +3528,7 @@
     "id": "storage-icons8",
     "name": "Icons8",
     "url": "https://icons8.com/icons",
-    "description": "Icon Collections",
+    "description": "Icon 精选合辑",
     "descriptionEn": "Icon Collections",
     "category": "storage",
     "tags": [
@@ -3556,7 +3556,7 @@
     "id": "storage-svg-repo",
     "name": "SVG Repo",
     "url": "https://www.svgrepo.com/",
-    "description": "Icon Collections",
+    "description": "Icon 精选合辑",
     "descriptionEn": "Icon Collections",
     "category": "storage",
     "tags": [
@@ -3584,7 +3584,7 @@
     "id": "storage-noun-project",
     "name": "Noun Project",
     "url": "https://thenounproject.com/",
-    "description": "Monochrome Icons",
+    "description": "Monochrome Icons (云存储与备份同步利器)",
     "descriptionEn": "Monochrome Icons",
     "category": "storage",
     "tags": [
@@ -3612,7 +3612,7 @@
     "id": "storage-svgl",
     "name": "SVGL",
     "url": "https://svgl.app/",
-    "description": "Company · Brand · Program Icons",
+    "description": "Company · Brand · Program Icons (云存储与备份同步利器)",
     "descriptionEn": "Company / Brand / Program Icons",
     "category": "storage",
     "tags": [
@@ -3640,7 +3640,7 @@
     "id": "storage-3dicons",
     "name": "⁠3DIcons",
     "url": "https://3dicons.co/",
-    "description": "3D SVG Icons",
+    "description": "3D SVG Icons (云存储与备份同步利器)",
     "descriptionEn": "3D SVG Icons",
     "category": "storage",
     "tags": [
@@ -3666,7 +3666,7 @@
     "id": "storage-heroicons-animated",
     "name": "heroicons-animated",
     "url": "https://www.heroicons-animated.com/",
-    "description": "Animated Icons",
+    "description": "Animated Icons (云存储与备份同步利器)",
     "descriptionEn": "Animated Icons",
     "category": "storage",
     "tags": [
@@ -3692,7 +3692,7 @@
     "id": "storage-healthicons",
     "name": "HealthIcons",
     "url": "https://healthicons.org/",
-    "description": "Medical Icons",
+    "description": "Medical Icons (云存储与备份同步利器)",
     "descriptionEn": "Medical Icons",
     "category": "storage",
     "tags": [
@@ -3718,7 +3718,7 @@
     "id": "storage-react-typescript-cheatsh",
     "name": "React TypeScript Cheatsheets",
     "url": "https://react-typescript-cheatsheet.netlify.app",
-    "description": "TypeScript Cheatsheet for React Devs",
+    "description": "TypeScript 速查手册面向 React Devs",
     "descriptionEn": "TypeScript Cheatsheet for React Devs",
     "category": "storage",
     "tags": [
@@ -3744,7 +3744,7 @@
     "id": "storage-clean-code-typescript",
     "name": "Clean Code TypeScript",
     "url": "https://labs42io.github.io/clean-code-typescript",
-    "description": "Clean Code for TypeScript",
+    "description": "纯净无广告程序源码面向 TypeScript",
     "descriptionEn": "Clean Code for TypeScript",
     "category": "storage",
     "tags": [
@@ -3770,7 +3770,7 @@
     "id": "storage-typescript-deep-dive",
     "name": "TypeScript Deep Dive",
     "url": "https://basarat.gitbook.io/typescript/getting-started",
-    "description": "TypeScript Guides",
+    "description": "TypeScript 教程与指南",
     "descriptionEn": "TypeScript Guides",
     "category": "storage",
     "tags": [
@@ -3796,7 +3796,7 @@
     "id": "storage-typehero",
     "name": "TypeHero",
     "url": "https://typehero.dev/",
-    "description": "TypeScript Exercises · Challenges",
+    "description": "TypeScript Exercises · Challenges (云存储与备份同步利器)",
     "descriptionEn": "TypeScript Exercises / Challenges",
     "category": "storage",
     "tags": [
@@ -3822,7 +3822,7 @@
     "id": "storage-trpc",
     "name": "tRPC",
     "url": "https://trpc.io/",
-    "description": "Build Type-Safe TypeScript APIs",
+    "description": "Build Type-Safe TypeScript APIs (云存储与备份同步利器)",
     "descriptionEn": "Build Type-Safe TypeScript APIs",
     "category": "storage",
     "tags": [
@@ -3848,7 +3848,7 @@
     "id": "storage-coursevania",
     "name": "Coursevania",
     "url": "https://coursevania.com/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -3876,7 +3876,7 @@
     "id": "storage-couponscorpion",
     "name": "CouponScorpion",
     "url": "https://couponscorpion.com/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
@@ -3904,7 +3904,7 @@
     "id": "storage-udemy-free",
     "name": "Udemy FREE",
     "url": "https://t.me/udemyforu",
-    "description": "Udemy TG Channels",
+    "description": "Udemy TG Channels (云存储与备份同步利器)",
     "descriptionEn": "Udemy TG Channels",
     "category": "storage",
     "tags": [
@@ -3930,7 +3930,7 @@
     "id": "storage-udemy-course-enroller",
     "name": "Udemy-Course-Enroller",
     "url": "https://github.com/techtanic/Discounted-Udemy-Course-Enroller",
-    "description": "Auto Course Enrollment",
+    "description": "Auto 精品公开课 Enrollment",
     "descriptionEn": "Auto Course Enrollment",
     "category": "storage",
     "tags": [
@@ -3944,7 +3944,7 @@
       "Object Storage"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3956,7 +3956,7 @@
     "id": "storage-udemypy",
     "name": "UdemyPy",
     "url": "https://github.com/dylannalex/UdemyPy",
-    "description": "Udemy Course Bots",
+    "description": "Udemy 精品公开课 Bots",
     "descriptionEn": "Udemy Course Bots",
     "category": "storage",
     "tags": [
@@ -3970,7 +3970,7 @@
       "Object Storage"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -3982,7 +3982,7 @@
     "id": "storage-udemy-downloader",
     "name": "udemy-downloader",
     "url": "https://github.com/Puyodead1/udemy-downloader",
-    "description": "Udemy 下载器",
+    "description": "Udemy Downloader (云存储与备份同步利器)",
     "descriptionEn": "Udemy Downloader",
     "category": "storage",
     "tags": [
@@ -3996,7 +3996,7 @@
       "Object Storage"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: Listed as unsafe by FMHY community",
+    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
     "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
     "featured": false,
     "isStarred": false,
@@ -4008,7 +4008,7 @@
     "id": "storage-udemy-download-guide",
     "name": "Udemy Download Guide",
     "url": "https://docs.google.com/document/d/1W91OS9rj7h9DBp5UwR68lA2zMEtqNmxdGaNVmBktIaw/",
-    "description": "Free cloud storage, multi-drive mounters, and encrypted backups.",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
     "descriptionEn": "Free cloud storage, multi-drive mounters, and encrypted backups.",
     "category": "storage",
     "tags": [
