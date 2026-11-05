@@ -79,7 +79,7 @@ export const ResourceList: React.FC<ResourceListProps> = ({
   return (
     <div className="w-full space-y-6">
       {/* Top Filter & Search Toolbar */}
-      <div className="p-4 rounded-2xl bg-white dark:bg-white/[0.02] border border-slate-200 dark:border-white/5 shadow-xs dark:shadow-none backdrop-blur-xl space-y-3">
+      <div className="p-4 rounded-2xl bg-white dark:bg-white/[0.02] border border-slate-200 dark:border-white/10 space-y-3">
         <div className="flex flex-col sm:flex-row items-center justify-between gap-3">
           {/* Quick Instant Search */}
           <div className="relative w-full sm:max-w-md">
@@ -170,7 +170,7 @@ export const ResourceList: React.FC<ResourceListProps> = ({
 
       {/* Content Rendering: Grouped or Single Flat List */}
       {filteredItems.length === 0 ? (
-        <div className="text-center py-16 px-4 rounded-2xl bg-white dark:bg-white/[0.01] border border-slate-200 dark:border-white/5 shadow-xs">
+        <div className="text-center py-16 px-4 rounded-2xl bg-white dark:bg-white/[0.01] border border-slate-200 dark:border-white/10">
           <p className="text-slate-500 dark:text-slate-400 text-sm">
             {lang === 'en' ? 'No matching resources found' : '没有匹配到任何符合条件的资源'}
           </p>

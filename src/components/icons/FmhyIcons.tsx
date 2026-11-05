@@ -16,9 +16,9 @@ export const FmhyInfoIcon: React.FC<IconProps> = ({ className = 'w-3.5 h-3.5', t
   </svg>
 );
 
-// 2. FMHY 纯净扁平化金星徽章 (24x24 严格居中)
+// 2. FMHY 纯正扁平化单色星标 (Flat Solid Amber, 无深色描边)
 export const FmhyStarIcon: React.FC<IconProps> = ({ className = 'w-3.5 h-3.5', title = 'FMHY 重点推荐' }) => (
-  <svg viewBox="0 0 24 24" className={className} fill="#F59E0B" stroke="#D97706" strokeWidth="1" xmlns="http://www.w3.org/2000/svg">
+  <svg viewBox="0 0 24 24" className={className} fill="#EAB308" xmlns="http://www.w3.org/2000/svg">
     <title>{title}</title>
     <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" />
   </svg>
@@ -35,7 +35,7 @@ export const FmhyRedirectIcon: React.FC<IconProps> = ({ className = 'w-3.5 h-3.5
   </svg>
 );
 
-// 4. 真实官方 GitHub 剪影 (Simple Icons 24x24 完整居中)
+// 4. 真实官方 GitHub 剪影 (Simple Icons 24x24 完整居中扁平)
 export const GithubIcon: React.FC<IconProps> = ({ className = 'w-3.5 h-3.5', title = 'GitHub 源码' }) => (
   <svg viewBox="0 0 24 24" className={className} fill="currentColor" xmlns="http://www.w3.org/2000/svg">
     <title>{title}</title>
@@ -43,7 +43,7 @@ export const GithubIcon: React.FC<IconProps> = ({ className = 'w-3.5 h-3.5', tit
   </svg>
 );
 
-// 5. 真实官方 Windows 图标 (24x24 严格居中)
+// 5. 真实官方 Windows 图标 (24x24 严格居中扁平)
 export const WindowsIcon: React.FC<IconProps> = ({ className = 'w-3.5 h-3.5', title = '支持 Windows' }) => (
   <svg viewBox="0 0 24 24" className={className} fill="currentColor" xmlns="http://www.w3.org/2000/svg">
     <title>{title}</title>
@@ -51,7 +51,7 @@ export const WindowsIcon: React.FC<IconProps> = ({ className = 'w-3.5 h-3.5', ti
   </svg>
 );
 
-// 6. 真实官方 Apple 图标 (24x24 严格居中)
+// 6. 真实官方 Apple 图标 (24x24 严格居中扁平)
 export const AppleIcon: React.FC<IconProps> = ({ className = 'w-3.5 h-3.5', title = '支持 macOS / iOS' }) => (
   <svg viewBox="0 0 24 24" className={className} fill="currentColor" xmlns="http://www.w3.org/2000/svg">
     <title>{title}</title>
@@ -59,7 +59,7 @@ export const AppleIcon: React.FC<IconProps> = ({ className = 'w-3.5 h-3.5', titl
   </svg>
 );
 
-// 7. 真实官方 Android 图标 (24x24 严格居中)
+// 7. 真实官方 Android 图标 (24x24 严格居中扁平)
 export const AndroidIcon: React.FC<IconProps> = ({ className = 'w-3.5 h-3.5', title = '支持 Android' }) => (
   <svg viewBox="0 0 24 24" className={className} fill="currentColor" xmlns="http://www.w3.org/2000/svg">
     <title>{title}</title>
@@ -67,7 +67,7 @@ export const AndroidIcon: React.FC<IconProps> = ({ className = 'w-3.5 h-3.5', ti
   </svg>
 );
 
-// 8. 真实官方 Docker 完整鲸鱼与集装箱图标 (Simple Icons 官方完整矢量，无截断)
+// 8. 真实官方 Docker 图标 (Simple Icons 24x24 严格居中扁平)
 export const DockerIcon: React.FC<IconProps> = ({ className = 'w-3.5 h-3.5', title = '支持 Docker / 自建容器' }) => (
   <svg viewBox="0 0 24 24" className={className} fill="currentColor" xmlns="http://www.w3.org/2000/svg">
     <title>{title}</title>
@@ -75,7 +75,7 @@ export const DockerIcon: React.FC<IconProps> = ({ className = 'w-3.5 h-3.5', tit
   </svg>
 );
 
-// 9. 真实 Web/Chrome 浏览器矢量图标 (24x24 严格居中)
+// 9. 真实 Web/Chrome 浏览器矢量图标 (24x24 严格居中扁平)
 export const WebIcon: React.FC<IconProps> = ({ className = 'w-3.5 h-3.5', title = '网页端 / 浏览器扩展' }) => (
   <svg viewBox="0 0 24 24" className={className} fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" xmlns="http://www.w3.org/2000/svg">
     <title>{title}</title>

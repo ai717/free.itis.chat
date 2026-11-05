@@ -123,9 +123,9 @@ export const ResourceListItem: React.FC<ResourceListItemProps> = ({ item }) => {
                 <FmhyInfoIcon className="w-3.5 h-3.5 shrink-0" />
               </button>
 
-              {/* Floating Tooltip */}
+              {/* Flat Floating Tooltip */}
               {showInfo && (
-                <div className="absolute left-0 bottom-full mb-2 z-50 w-72 p-2.5 rounded-xl bg-white dark:bg-[#0d1527] border border-slate-200 dark:border-cyan-500/30 shadow-xl text-xs text-slate-700 dark:text-slate-200 pointer-events-none animate-in fade-in zoom-in-95">
+                <div className="absolute left-0 bottom-full mb-2 z-50 w-72 p-2.5 rounded-xl bg-white dark:bg-[#0d1527] border border-slate-300 dark:border-cyan-500/40 text-xs text-slate-700 dark:text-slate-200 pointer-events-none animate-in fade-in zoom-in-95">
                   <div className="font-semibold mb-1 flex items-center gap-1 text-[11px] text-cyan-700 dark:text-cyan-300">
                     <FmhyInfoIcon className="w-3 h-3" />
                     <span>{lang === 'en' ? 'Heads-up & Usage Caveats' : '避坑与说明指引'}</span>

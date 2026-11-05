@@ -120,9 +120,9 @@ export const NavCategories: React.FC<NavCategoriesProps> = ({
             )}
           </button>
 
-          {/* Dropdown Menu Panel */}
+          {/* Flat Dropdown Menu Panel */}
           {isOpen && (
-            <div className="absolute left-0 mt-1.5 w-80 min-w-[300px] rounded-2xl bg-white dark:bg-[#0B111E] border border-slate-200 dark:border-white/10 shadow-xl shadow-slate-950/10 dark:shadow-cyan-950/30 p-2 z-50 backdrop-blur-xl animate-in fade-in zoom-in-95 duration-100 space-y-1">
+            <div className="absolute left-0 mt-1.5 w-80 min-w-[300px] rounded-2xl bg-white dark:bg-[#0B111E] border border-slate-300 dark:border-white/15 p-2 z-50 animate-in fade-in zoom-in-95 duration-100 space-y-1">
               <div className="px-3 py-1.5 text-[10px] font-bold text-slate-400 dark:text-slate-500 uppercase tracking-wider flex items-center justify-between">
                 <span>{lang === 'en' ? 'More Categories' : '更多分类'}</span>
                 <span className="font-mono">{overflowCategories.length} {lang === 'en' ? 'items' : '个分类'}</span>

@@ -19,14 +19,14 @@ const currentPath = Astro.url.pathname;
           <img
             src="/favicon.svg"
             alt="ITIS Free"
-            class="w-9 h-9 shrink-0 rounded-xl shadow-md shadow-cyan-500/20 group-hover:scale-105 transition-transform"
+            class="w-9 h-9 shrink-0 rounded-xl transition-opacity hover:opacity-90"
           />
           <div class="flex items-center gap-2 whitespace-nowrap">
             <span class="font-extrabold text-base sm:text-lg text-slate-900 dark:text-white tracking-tight group-hover:text-cyan-600 dark:group-hover:text-cyan-400 transition-colors">
               ITIS Free
             </span>
             <span
-              class="hidden sm:inline-block text-[10px] font-semibold px-2 py-0.5 rounded-full bg-cyan-50 dark:bg-cyan-500/10 text-cyan-700 dark:text-cyan-400 border border-cyan-200 dark:border-cyan-500/20 whitespace-nowrap"
+              class="hidden sm:inline-block text-[10px] font-semibold px-2 py-0.5 rounded-full bg-cyan-50 dark:bg-cyan-500/10 text-cyan-700 dark:text-cyan-400 border border-cyan-200 dark:border-cyan-500/20 whitespace-nowrap shrink-0"
               data-i18n-zh="开源 白嫖 避坑"
               data-i18n-en="Open Source · Free · Trap-free"
             >
@@ -59,12 +59,12 @@ const currentPath = Astro.url.pathname;
           <ThemeToggle client:load />
         </div>
 
-        {/* Submit Resource Button */}
+        {/* Flat Submit Resource Button */}
         <a
           href="https://github.com/ai717/free.itis.chat/issues/new?template=resource_submit.md"
           target="_blank"
           rel="noopener noreferrer"
-          class="shrink-0 inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-semibold bg-gradient-to-r from-cyan-600 to-blue-600 dark:from-cyan-500 dark:to-blue-600 hover:opacity-95 text-white shadow-xs transition-all cursor-pointer whitespace-nowrap active:scale-95"
+          class="shrink-0 inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-semibold bg-cyan-600 hover:bg-cyan-700 text-white transition-colors cursor-pointer whitespace-nowrap"
         >
           <svg viewBox="0 0 24 24" class="w-3.5 h-3.5" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
             <line x1="12" y1="5" x2="12" y2="19" />

@@ -1,23 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
-  <defs>
-    <linearGradient id="bgFavicon" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0EA5E9" />
-      <stop offset="50%" stop-color="#0284C7" />
-      <stop offset="100%" stop-color="#2563EB" />
-    </linearGradient>
-    <linearGradient id="strokeFavicon" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#FFFFFF" />
-      <stop offset="100%" stop-color="#F0F9FF" />
-    </linearGradient>
-  </defs>
-  <!-- Background -->
-  <rect width="120" height="120" rx="32" fill="url(#bgFavicon)" />
-  <!-- Letter I: Clean vertical pillar with modern rounded terminals -->
-  <rect x="30" y="32" width="14" height="56" rx="7" fill="url(#strokeFavicon)" />
-  <!-- Letter F: Interlocking vertical & two horizontal cantilever arms -->
-  <rect x="54" y="32" width="14" height="56" rx="7" fill="url(#strokeFavicon)" />
-  <rect x="54" y="32" width="38" height="14" rx="7" fill="url(#strokeFavicon)" />
-  <rect x="54" y="53" width="28" height="14" rx="7" fill="url(#strokeFavicon)" />
-  <!-- Spark node at top right -->
-  <circle cx="94" cy="39" r="4.5" fill="#38BDF8" />
+  <!-- Flat Solid Background -->
+  <rect width="120" height="120" rx="28" fill="#0284C7" />
+  <!-- Flat Solid Monogram: Letter I -->
+  <rect x="28" y="32" width="14" height="56" rx="7" fill="#FFFFFF" />
+  <!-- Flat Solid Monogram: Letter F -->
+  <rect x="52" y="32" width="14" height="56" rx="7" fill="#FFFFFF" />
+  <rect x="52" y="32" width="40" height="14" rx="7" fill="#FFFFFF" />
+  <rect x="52" y="53" width="28" height="14" rx="7" fill="#FFFFFF" />
 </svg>

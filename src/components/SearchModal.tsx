@@ -114,8 +114,8 @@ export const SearchModal: React.FC<SearchModalProps> = ({ resources }) => {
             onClick={() => setIsOpen(false)}
           />
 
-          {/* Modal Card */}
-          <div className="relative w-full max-w-2xl rounded-2xl bg-white dark:bg-[#0B111E] border border-slate-200 dark:border-white/10 shadow-2xl overflow-hidden z-10 animate-in fade-in zoom-in-95 duration-150">
+          {/* Flat Modal Card */}
+          <div className="relative w-full max-w-2xl rounded-2xl bg-white dark:bg-[#0B111E] border border-slate-300 dark:border-white/15 overflow-hidden z-10 animate-in fade-in zoom-in-95 duration-150">
             {/* Input Header */}
             <div className="flex items-center gap-3 px-4 py-3.5 border-b border-slate-200 dark:border-white/10 bg-slate-50/50 dark:bg-white/[0.02]">
               <Search className="w-5 h-5 text-cyan-600 dark:text-cyan-400 shrink-0" />
