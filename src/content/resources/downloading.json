@@ -1,0 +1,3720 @@
+[
+  {
+    "id": "downloading-adobe-alternatives",
+    "name": "Adobe Alternatives",
+    "url": "https://github.com/KenneyNL/Adobe-Alternatives",
+    "description": "Adobe Software Alternative Index",
+    "descriptionEn": "Adobe Software Alternative Index",
+    "category": "downloading",
+    "tags": [
+      "开源",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": true,
+    "githubUrl": "https://github.com/KenneyNL/Adobe-Alternatives",
+    "platforms": []
+  },
+  {
+    "id": "downloading-editing-software",
+    "name": "Editing Software",
+    "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25BA_torrent_sites",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "descriptionEn": "Editing Software",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": true,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-virgil-software-search",
+    "name": "Virgil Software Search",
+    "url": "https://virgil.samidy.com/?engine=software",
+    "description": "Multi-Site Software Search",
+    "descriptionEn": "Multi-Site Software Search",
+    "category": "downloading",
+    "tags": [
+      "社区精选",
+      "开源",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Open Source",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": "https://github.com/SamidyFR/Virgil",
+    "platforms": []
+  },
+  {
+    "id": "downloading-cracksurl",
+    "name": "CracksURL",
+    "url": "https://cracksurl.com/",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "descriptionEn": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "category": "downloading",
+    "tags": [
+      "社区精选",
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-soft98",
+    "name": "Soft98",
+    "url": "https://soft98.ir/",
+    "description": "Use Translator",
+    "descriptionEn": "Use Translator",
+    "category": "downloading",
+    "tags": [
+      "社区精选",
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-nsane-forums",
+    "name": "Nsane Forums",
+    "url": "https://www.nsaneforums.com/",
+    "description": "需注册账号使用",
+    "descriptionEn": "Requires Sign-Up",
+    "category": "downloading",
+    "tags": [
+      "社区精选",
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-mobilism",
+    "name": "Mobilism",
+    "url": "https://forum.mobilism.org/",
+    "description": "需注册账号使用 · User Ranks",
+    "descriptionEn": "Requires Sign-Up / User Ranks",
+    "category": "downloading",
+    "tags": [
+      "社区精选",
+      "开源",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Open Source",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": "https://github.com/fmhy/edit",
+    "platforms": []
+  },
+  {
+    "id": "downloading-lrepacks",
+    "name": "LRepacks",
+    "url": "https://lrepacks.net/",
+    "description": "Avoid Redirects · Use Adblock + Translator",
+    "descriptionEn": "Avoid Redirects / Use Adblock + Translator",
+    "category": "downloading",
+    "tags": [
+      "社区精选",
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-alternativeto",
+    "name": "AlternativeTo",
+    "url": "https://alternativeto.net/",
+    "description": "Crowdsourced Recommendations",
+    "descriptionEn": "Crowdsourced Recommendations",
+    "category": "downloading",
+    "tags": [
+      "社区精选",
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-downloadha",
+    "name": "DownloadHa",
+    "url": "https://www.downloadha.com/",
+    "description": "Use Translator",
+    "descriptionEn": "Use Translator",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-moum",
+    "name": "Moum",
+    "url": "https://moum.top/en/",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "descriptionEn": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-retrosystemrevival",
+    "name": "RetroSystemRevival",
+    "url": "https://retrosystemsrevival.blogspot.com/",
+    "description": "Oldschool Software",
+    "descriptionEn": "Oldschool Software",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-libreware",
+    "name": "Libreware",
+    "url": "https://t.me/Libreware",
+    "description": "Telegram Channels",
+    "descriptionEn": "Telegram Channels",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-zxpinstaller",
+    "name": "ZXPInstaller",
+    "url": "https://zxpinstaller.com/",
+    "description": "Adobe 浏览器扩展 Installer",
+    "descriptionEn": "Adobe Extension Installer",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "downloading-awesome-open-source",
+    "name": "Awesome Open Source",
+    "url": "https://awesomeopensource.com/",
+    "description": "FOSS Indexes",
+    "descriptionEn": "FOSS Indexes",
+    "category": "downloading",
+    "tags": [
+      "开源",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": true,
+    "githubUrl": "https://github.com/mustbeperfect/definitive-opensource",
+    "platforms": []
+  },
+  {
+    "id": "downloading-git-project-indexes",
+    "name": "Git Project Indexes",
+    "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_git_project_indexes",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "descriptionEn": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": true,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-new-releases",
+    "name": "new(releases)",
+    "url": "https://newreleases.io/",
+    "description": "Software Release Notifications · GitHub",
+    "descriptionEn": "Software Release Notifications / GitHub",
+    "category": "downloading",
+    "tags": [
+      "社区精选",
+      "开源",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Open Source",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": "https://github.com/newreleasesio",
+    "platforms": []
+  },
+  {
+    "id": "downloading-is-it-really-foss",
+    "name": "Is It Really FOSS",
+    "url": "https://isitreallyfoss.com",
+    "description": "Determine if Software is FOSS · Source Code",
+    "descriptionEn": "Determine if Software is FOSS / Source Code",
+    "category": "downloading",
+    "tags": [
+      "社区精选",
+      "开源",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Open Source",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-sourceforge",
+    "name": "SourceForge",
+    "url": "https://sourceforge.net/",
+    "description": "FOSS Repositories",
+    "descriptionEn": "FOSS Repositories",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-osssoftware",
+    "name": "OSSSoftware",
+    "url": "https://osssoftware.org/",
+    "description": "FOSS Directory",
+    "descriptionEn": "FOSS Directory",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-fossies",
+    "name": "Fossies",
+    "url": "https://fossies.org/",
+    "description": "FOSS Directory",
+    "descriptionEn": "FOSS Directory",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-gadgeteer",
+    "name": "Gadgeteer",
+    "url": "https://gadgeteer.co.za/opensourcesoftware/",
+    "description": "FOSS Directory",
+    "descriptionEn": "FOSS Directory",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-fosshub",
+    "name": "FossHub",
+    "url": "https://www.fosshub.com/",
+    "description": "FOSS Directory",
+    "descriptionEn": "FOSS Directory",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-oss-gallery",
+    "name": "OSS Gallery",
+    "url": "https://oss.gallery/",
+    "description": "FOSS Directory · GitHub",
+    "descriptionEn": "FOSS Directory / GitHub",
+    "category": "downloading",
+    "tags": [
+      "开源",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/dubinc/oss-gallery",
+    "platforms": []
+  },
+  {
+    "id": "downloading-opensource-builders",
+    "name": "Opensource Builders",
+    "url": "https://opensource.builders/",
+    "description": "FOSS Alt Directory · GitHub",
+    "descriptionEn": "FOSS Alt Directory / GitHub",
+    "category": "downloading",
+    "tags": [
+      "开源",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/junaid33/opensource.builders",
+    "platforms": []
+  },
+  {
+    "id": "downloading-openalternative",
+    "name": "OpenAlternative",
+    "url": "https://openalternative.co/",
+    "description": "FOSS Alt Directory",
+    "descriptionEn": "FOSS Alt Directory",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-opensourcealternative-to",
+    "name": "opensourcealternative.to",
+    "url": "https://www.opensourcealternative.to/",
+    "description": "FOSS Alt Directory",
+    "descriptionEn": "FOSS Alt Directory",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-awesome-cli-apps",
+    "name": "Awesome CLI Apps",
+    "url": "https://github.com/toolleeo/awesome-cli-apps-in-a-csv",
+    "description": "FOSS CLI Apps · Tools",
+    "descriptionEn": "FOSS CLI Apps / Tools",
+    "category": "downloading",
+    "tags": [
+      "开源",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/toolleeo/awesome-cli-apps-in-a-csv",
+    "platforms": []
+  },
+  {
+    "id": "downloading-foss-wiki",
+    "name": "FOSS Wiki",
+    "url": "https://wikipedia.org/wiki/Portal:Free_and_open-source_software/Categories",
+    "description": "FOSS Wikis",
+    "descriptionEn": "FOSS Wikis",
+    "category": "downloading",
+    "tags": [
+      "开源",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-awesome-free-software",
+    "name": "Awesome Free Software",
+    "url": "https://github.com/Axorax/awesome-free-apps",
+    "description": "Freeware Indexes",
+    "descriptionEn": "Freeware Indexes",
+    "category": "downloading",
+    "tags": [
+      "开源",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": true,
+    "githubUrl": "https://github.com/Axorax/awesome-free-apps",
+    "platforms": [
+      "win"
+    ]
+  },
+  {
+    "id": "downloading-awesome-python-applicati",
+    "name": "Awesome Python Applications",
+    "url": "https://github.com/mahmoud/awesome-python-applications",
+    "description": "Python App Index",
+    "descriptionEn": "Python App Index",
+    "category": "downloading",
+    "tags": [
+      "开源",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": true,
+    "githubUrl": "https://github.com/mahmoud/awesome-python-applications",
+    "platforms": []
+  },
+  {
+    "id": "downloading-software-package-manager",
+    "name": "Software Package Managers",
+    "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_package_managers",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "descriptionEn": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": true,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-fluentstore",
+    "name": "FluentStore",
+    "url": "https://github.com/yoshiask/FluentStore",
+    "description": "Alt Microsoft Store App · Windows",
+    "descriptionEn": "Alt Microsoft Store App / Windows",
+    "category": "downloading",
+    "tags": [
+      "社区精选",
+      "开源",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Open Source",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": "https://github.com/yoshiask/FluentStore",
+    "platforms": [
+      "win"
+    ]
+  },
+  {
+    "id": "downloading-danstore",
+    "name": "DanStore",
+    "url": "https://danstore-ms.vercel.app/",
+    "description": "Microsoft Store WebUIs · Guide",
+    "descriptionEn": "Microsoft Store WebUIs / Guide",
+    "category": "downloading",
+    "tags": [
+      "社区精选",
+      "开源",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Open Source",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": "https://github.com/StoreDev",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "downloading-majorgeeks",
+    "name": "MajorGeeks",
+    "url": "https://www.majorgeeks.com/",
+    "description": "Freeware Downloads",
+    "descriptionEn": "Freeware Downloads",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-softpedia",
+    "name": "Softpedia",
+    "url": "https://www.softpedia.com/",
+    "description": "Freeware Directory",
+    "descriptionEn": "Freeware Directory",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-realityripple",
+    "name": "Realityripple",
+    "url": "https://realityripple.com/",
+    "description": "Freeware Directory",
+    "descriptionEn": "Freeware Directory",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-oldergeeks",
+    "name": "OlderGeeks",
+    "url": "https://oldergeeks.com/",
+    "description": "Freeware Directory",
+    "descriptionEn": "Freeware Directory",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-filepuma",
+    "name": "FilePuma",
+    "url": "https://www.filepuma.com/",
+    "description": "Freeware Directory",
+    "descriptionEn": "Freeware Directory",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-fileeagle",
+    "name": "FileEagle",
+    "url": "https://www.fileeagle.com/",
+    "description": "Freeware Directory",
+    "descriptionEn": "Freeware Directory",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-lo4d",
+    "name": "LO4D",
+    "url": "https://www.lo4d.com/",
+    "description": "Freeware Directory",
+    "descriptionEn": "Freeware Directory",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-softwareok",
+    "name": "SoftwareOK",
+    "url": "https://www.softwareok.com/",
+    "description": "Freeware Directory",
+    "descriptionEn": "Freeware Directory",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-grc",
+    "name": "GRC",
+    "url": "https://www.grc.com/freepopular.htm",
+    "description": "Freeware Directory",
+    "descriptionEn": "Freeware Directory",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-uwe-sieber",
+    "name": "Uwe Sieber",
+    "url": "https://www.uwe-sieber.de/english.html",
+    "description": "Freeware Directory",
+    "descriptionEn": "Freeware Directory",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-software-informer",
+    "name": "Software Informer",
+    "url": "https://software.informer.com/",
+    "description": "Freeware Directory",
+    "descriptionEn": "Freeware Directory",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-portableapps-com",
+    "name": "PortableApps.com",
+    "url": "https://portableapps.com/",
+    "description": "Portable Apps",
+    "descriptionEn": "Portable Apps",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-nirsoft",
+    "name": "Nirsoft",
+    "url": "https://www.nirsoft.net/",
+    "description": "Windows Software",
+    "descriptionEn": "Windows Software",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": [
+      "win"
+    ]
+  },
+  {
+    "id": "downloading-suckless",
+    "name": "Suckless",
+    "url": "https://suckless.org/",
+    "description": "Minimalist Software Ecosystem",
+    "descriptionEn": "Minimalist Software Ecosystem",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-vetusware",
+    "name": "VETUSWARE",
+    "url": "https://vetusware.com/",
+    "description": "Abandonware · Operating Systems · Games",
+    "descriptionEn": "Abandonware / Operating Systems / Games",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-oldversion",
+    "name": "OldVersion",
+    "url": "https://www.oldversion.com/",
+    "description": "Old Versions of Software",
+    "descriptionEn": "Old Versions of Software",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-vintage-software-collect",
+    "name": "Vintage Software Collection",
+    "url": "https://rentry.co/FMHYB64#the-vintage-software-collection",
+    "description": "Retro Software",
+    "descriptionEn": "Retro Software",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-commodore-software",
+    "name": "⁠Commodore Software",
+    "url": "https://commodore.software/search/",
+    "description": "Commodore 64 · Commodore 128 · VIC-20 Software",
+    "descriptionEn": "Commodore 64 / Commodore 128 / VIC-20 Software",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-r-opendirectories",
+    "name": "r/opendirectories",
+    "url": "https://www.reddit.com/r/opendirectories/",
+    "description": "Open Directories Subreddit · Telegram ·  · u · ODScanner",
+    "descriptionEn": "Open Directories Subreddit / Telegram /  / u / ODScanner",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": true,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-eyedex",
+    "name": "EyeDex",
+    "url": "https://www.eyedex.org/",
+    "description": "Open Directory 专用搜索引擎s",
+    "descriptionEn": "Open Directory Search Engines",
+    "category": "downloading",
+    "tags": [
+      "社区精选",
+      "开源",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Open Source",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": "https://github.com/MCOfficer/odcrawler-discovery",
+    "platforms": []
+  },
+  {
+    "id": "downloading-nicotine",
+    "name": "Nicotine+",
+    "url": "https://nicotine-plus.org/",
+    "description": "局域网 · 点对点高速文件秒传工具 App · Windows, macOS, Linux · Stats · Server App · Batch DDL",
+    "descriptionEn": "File Sharing App / Windows, macOS, Linux / Stats / Server App / Batch DDL",
+    "category": "downloading",
+    "tags": [
+      "社区精选",
+      "开源",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Open Source",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": "https://github.com/nicotine-plus/nicotine-plus",
+    "platforms": [
+      "win",
+      "mac"
+    ]
+  },
+  {
+    "id": "downloading-emule",
+    "name": "eMule",
+    "url": "https://www.emule-project.com/",
+    "description": "局域网 · 点对点高速文件秒传工具 App · Windows · GitHub",
+    "descriptionEn": "File Sharing App / Windows / GitHub",
+    "category": "downloading",
+    "tags": [
+      "开源",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/irwir/eMule",
+    "platforms": [
+      "win"
+    ]
+  },
+  {
+    "id": "downloading-retroshare",
+    "name": "⁠RetroShare",
+    "url": "https://github.com/RetroShare/RetroShare/",
+    "description": "局域网 · 点对点高速文件秒传工具 App",
+    "descriptionEn": "File Sharing App",
+    "category": "downloading",
+    "tags": [
+      "开源",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/RetroShare/RetroShare",
+    "platforms": []
+  },
+  {
+    "id": "downloading-mega-archive--discord",
+    "name": "mega.archive (Discord)",
+    "url": "https://discord.gg/R3zEZUPp3Q",
+    "description": "Megadrive Archive",
+    "descriptionEn": "Megadrive Archive",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-mamont",
+    "name": "Mamont",
+    "url": "https://www.mmnt.ru/int/",
+    "description": "FTP Search",
+    "descriptionEn": "FTP Search",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-sala-de-espera",
+    "name": "Sala De Espera",
+    "url": "https://matrix.to/#/!qbOtnJEDGsPuWZBHLX:matrix.org?via=matrix.org",
+    "description": "Drive Sharing Community",
+    "descriptionEn": "Drive Sharing Community",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-open-directory-downloade",
+    "name": "Open Directory Downloader",
+    "url": "https://github.com/KoalaBear84/OpenDirectoryDownloader",
+    "description": "Open Directory Indexer",
+    "descriptionEn": "Open Directory Indexer",
+    "category": "downloading",
+    "tags": [
+      "开源",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/KoalaBear84/OpenDirectoryDownloader",
+    "platforms": []
+  },
+  {
+    "id": "downloading-demozoo",
+    "name": "DemoZoo",
+    "url": "https://demozoo.org/",
+    "description": "Demoscene Archives",
+    "descriptionEn": "Demoscene Archives",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-cd-textfiles",
+    "name": "CD.TextFiles",
+    "url": "http://cd.textfiles.com/",
+    "description": "CD Text File Archive",
+    "descriptionEn": "CD Text File Archive",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-defacto2",
+    "name": "Defacto2",
+    "url": "https://defacto2.net/",
+    "description": "Scene · Sub-Scene Database",
+    "descriptionEn": "Scene / Sub-Scene Database",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-internet-archive",
+    "name": "Internet Archive",
+    "url": "https://archive.org/",
+    "description": "影视、音乐与电子书综合资源平台 · Magazines · Newspapers · ROMs · Tools",
+    "descriptionEn": "Video / Audio / Books / Magazines / Newspapers / ROMs / Tools",
+    "category": "downloading",
+    "tags": [
+      "社区精选",
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-r-datahoarder",
+    "name": "r/DataHoarder",
+    "url": "https://reddit.com/r/DataHoarder",
+    "description": "Data Hoarding Communities",
+    "descriptionEn": "Data Hoarding Communities",
+    "category": "downloading",
+    "tags": [
+      "社区精选",
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-maxrelease",
+    "name": "MaxRelease",
+    "url": "https://max-rls.com/",
+    "description": "高清影视与音乐流媒体资源 · Magazines",
+    "descriptionEn": "Video / Audio / Magazines",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-scnlog",
+    "name": "SCNLOG",
+    "url": "https://scnlog.me/",
+    "description": "高清影视与音乐流媒体资源 · ROMs · Books",
+    "descriptionEn": "Video / Audio / ROMs / Books",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-scenesource",
+    "name": "SceneSource",
+    "url": "https://www.scnsrc.me/",
+    "description": "高清影视与音乐流媒体资源 · ROMs · Books",
+    "descriptionEn": "Video / Audio / ROMs / Books",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-worldsrc",
+    "name": "WorldSRC",
+    "url": "https://www.worldsrc.net/",
+    "description": "高清影视与音乐流媒体资源",
+    "descriptionEn": "Video / Audio",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-adithd",
+    "name": "AditHD",
+    "url": "https://www.adit-hd.com/",
+    "description": "影视、音乐与电子书综合资源平台",
+    "descriptionEn": "Video / Audio / Books",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-wjungle",
+    "name": "wJungle",
+    "url": "https://wjungle.net/",
+    "description": "Audio · Books · NSFW · 需注册账号使用",
+    "descriptionEn": "Audio / Books / NSFW / Requires Sign-Up",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-novanon",
+    "name": "Novanon",
+    "url": "https://novanon.net/",
+    "description": "Audio · Magazines · Comics · Books · Courses",
+    "descriptionEn": "Audio / Magazines / Comics / Books / Courses",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-releasebb",
+    "name": "ReleaseBB",
+    "url": "https://rlsbb.ru/",
+    "description": "Audio · Books · Magazines · Track Shows · PreDB",
+    "descriptionEn": "Audio / Books / Magazines / Track Shows / PreDB",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-psycho-downloads",
+    "name": "Psycho downloads",
+    "url": "https://psychodownloads.com/",
+    "description": "Audio · Books · Magazines",
+    "descriptionEn": "Audio / Books / Magazines",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-merlin-warez",
+    "name": "Merlin Warez",
+    "url": "https://merlinwz.com/",
+    "description": "Audio · Books · Audiobooks · Comics · Magazines",
+    "descriptionEn": "Audio / Books / Audiobooks / Comics / Magazines",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-1ddl",
+    "name": "1DDL",
+    "url": "https://1ddl.org/",
+    "description": "Audio · Books · Comics · Magazines",
+    "descriptionEn": "Audio / Books / Comics / Magazines",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-warezload",
+    "name": "WarezLoad",
+    "url": "https://warezload.net/index.php",
+    "description": "Audio · Books",
+    "descriptionEn": "Audio / Books",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-katz-ddl",
+    "name": "Katz DDL",
+    "url": "https://katzddl.net/",
+    "description": "Audio · Books · NSFW",
+    "descriptionEn": "Audio / Books / NSFW",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-tehparadox",
+    "name": "TehParadox",
+    "url": "https://www.tehparadox.net/",
+    "description": "Audio · Books · Magazines · ROMs",
+    "descriptionEn": "Audio / Books / Magazines / ROMs",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-downturk",
+    "name": "downTURK",
+    "url": "https://www.downturk.net/",
+    "description": "Audio · Books",
+    "descriptionEn": "Audio / Books",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-softarchive",
+    "name": "SoftArchive",
+    "url": "https://softarchive.download/",
+    "description": "Audio · Books · Comics · Newspapers · Magazines · Status · Note",
+    "descriptionEn": "Audio / Books / Comics / Newspapers / Magazines / Status / Note",
+    "category": "downloading",
+    "tags": [
+      "开源",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "warning",
+    "warningText": "存在特定注意事项或使用限制，请参考说明。",
+    "warningTextEn": "Contains specific caveats or usage restrictions.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/fmhy/edit",
+    "platforms": []
+  },
+  {
+    "id": "downloading-releasehive",
+    "name": "⁠ReleaseHive",
+    "url": "https://releasehive.com/",
+    "description": "影视、音乐与电子书综合资源平台 · Requires 高速中继网盘解析中转服务",
+    "descriptionEn": "Video / Audio / Books / Requires Debrid",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-download-cse",
+    "name": "Download CSE",
+    "url": "https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z",
+    "description": "Multi-Site Search",
+    "descriptionEn": "Multi-Site Search",
+    "category": "downloading",
+    "tags": [
+      "社区精选",
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-4shared",
+    "name": "4Shared",
+    "url": "https://www.4shared.com/",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "descriptionEn": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "category": "downloading",
+    "tags": [
+      "社区精选",
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-file-host-search",
+    "name": "File Host Search",
+    "url": "https://cse.google.com/cse?cx=90a35b59cee2a42e1",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "descriptionEn": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-linktury",
+    "name": "Linktury",
+    "url": "https://www.ddlspot.com/",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "descriptionEn": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-mediafiretrend",
+    "name": "MediafireTrend",
+    "url": "https://mediafiretrend.com/",
+    "description": "Mediafire Search",
+    "descriptionEn": "Mediafire Search",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-warezomen",
+    "name": "WarezOmen",
+    "url": "https://warezomen.com/",
+    "description": "Indexer · 专用搜索引擎",
+    "descriptionEn": "Indexer / Search Engine",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-xdcc-eu",
+    "name": "XDCC.EU",
+    "url": "https://www.xdcc.eu/",
+    "description": "XDCC · 专用搜索引擎",
+    "descriptionEn": "XDCC / Search Engine",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-usenet-uploaders",
+    "name": "Usenet-Uploaders",
+    "url": "https://github.com/animetosho/Nyuu/wiki/Usenet-Uploaders",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "descriptionEn": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "category": "downloading",
+    "tags": [
+      "开源",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": true,
+    "githubUrl": "https://github.com/animetosho/Nyuu",
+    "platforms": []
+  },
+  {
+    "id": "downloading-usenet-guide---automatio",
+    "name": "Usenet Guide / Automation Setup",
+    "url": "https://docs.google.com/document/d/1TwUrRj982WlWUhrxvMadq6gdH0mPW0CGtHsTOFWprCo/mobilebasic",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "descriptionEn": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "category": "downloading",
+    "tags": [
+      "社区精选",
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": [
+      "mac"
+    ]
+  },
+  {
+    "id": "downloading-r-usenet",
+    "name": "r/usenet",
+    "url": "https://reddit.com/r/usenet",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "descriptionEn": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-indexer-list",
+    "name": "Indexer List",
+    "url": "https://www.reddit.com/r/usenet/wiki/indexers/",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "descriptionEn": "Indexer List",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": true,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-r-usenetinvites",
+    "name": "r/UsenetInvites",
+    "url": "https://reddit.com/r/UsenetInvites",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "descriptionEn": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-nzbhydra2",
+    "name": "NZBHydra2",
+    "url": "https://github.com/theotherp/nzbhydra2",
+    "description": "NZB Meta search",
+    "descriptionEn": "NZB Meta search",
+    "category": "downloading",
+    "tags": [
+      "开源",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/theotherp/nzbhydra2",
+    "platforms": []
+  },
+  {
+    "id": "downloading-treasure-maps",
+    "name": "Treasure Maps",
+    "url": "https://treasure-maps.com/",
+    "description": "Multinational Indexer",
+    "descriptionEn": "Multinational Indexer",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-nzbplanet",
+    "name": "NzbPlanet",
+    "url": "https://nzbplanet.net/",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "descriptionEn": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-orion",
+    "name": "Orion",
+    "url": "https://orionoid.com/",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "descriptionEn": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-binsearch",
+    "name": "binsearch",
+    "url": "https://binsearch.info/",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "descriptionEn": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-nzb-king",
+    "name": "NZB King",
+    "url": "https://nzbking.com/",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "descriptionEn": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-nzb-index",
+    "name": "NZB Index",
+    "url": "https://www.nzbindex.com/",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "descriptionEn": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-newznab",
+    "name": "Newznab",
+    "url": "https://www.newznab.com/",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "descriptionEn": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-nzbstars",
+    "name": "NZBStars",
+    "url": "https://nzbstars.com/",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "descriptionEn": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-usenet-crawler",
+    "name": "usenet-crawler",
+    "url": "https://www.usenet-crawler.com/",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "descriptionEn": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-gingadaddy",
+    "name": "GingaDaddy",
+    "url": "https://www.gingadaddy.com/",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "descriptionEn": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-nzbfinder",
+    "name": "NZBFinder",
+    "url": "https://nzbfinder.ws/",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "descriptionEn": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-aninzb",
+    "name": "⁠aninzb",
+    "url": "https://aninzb.moe/",
+    "description": "Anime NZB Indexer",
+    "descriptionEn": "Anime NZB Indexer",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-olduse",
+    "name": "OldUSe",
+    "url": "https://article.olduse.net/",
+    "description": "Search Usenet Articles",
+    "descriptionEn": "Search Usenet Articles",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-althub",
+    "name": "altHUB",
+    "url": "https://althub.co.za",
+    "description": "无限制使用 Free Trials",
+    "descriptionEn": "Unlimited Free Trials",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-spotweb",
+    "name": "Spotweb",
+    "url": "https://github.com/spotweb/spotweb",
+    "description": "Spotnet 客户端",
+    "descriptionEn": "Spotnet Client",
+    "category": "downloading",
+    "tags": [
+      "开源",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/spotweb/spotweb",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "downloading-r-usenet-providers",
+    "name": "r/usenet Providers",
+    "url": "https://www.reddit.com/r/usenet/wiki/providers",
+    "description": "Provider Lists",
+    "descriptionEn": "Provider Lists",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": true,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-r-usenet-deals",
+    "name": "r/usenet Deals",
+    "url": "https://www.reddit.com/r/usenet/wiki/providerdeals",
+    "description": "Provider Deals",
+    "descriptionEn": "Provider Deals",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": true,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-usenet-provider-deals",
+    "name": "Usenet Provider Deals",
+    "url": "https://usenet.rexum.space/deals",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "descriptionEn": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": true,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-usenet-providers-map",
+    "name": "Usenet Providers Map",
+    "url": "https://usenet.rexum.space/tree",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "descriptionEn": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-sabnzbd",
+    "name": "sabnzbd",
+    "url": "https://sabnzbd.org/",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "descriptionEn": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "category": "downloading",
+    "tags": [
+      "社区精选",
+      "开源",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Open Source",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": "https://github.com/lem6ns/sabgrab",
+    "platforms": [
+      "win",
+      "mac"
+    ]
+  },
+  {
+    "id": "downloading-nzbunity",
+    "name": "NZBUnity",
+    "url": "https://github.com/tumblfeed/nzbunity",
+    "description": "Send NZBs to 客户端 · Firefox · Chrome",
+    "descriptionEn": "Send NZBs to Client / Firefox / Chrome",
+    "category": "downloading",
+    "tags": [
+      "社区精选",
+      "开源",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Open Source",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": "https://github.com/tumblfeed/nzbunity",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "downloading-nzbget",
+    "name": "NZBGet",
+    "url": "https://nzbget.com/",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "descriptionEn": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "category": "downloading",
+    "tags": [
+      "开源",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/nzbgetcom/nzbget",
+    "platforms": []
+  },
+  {
+    "id": "downloading-usenet-file-hashes",
+    "name": "Usenet File Hashes",
+    "url": "https://gist.github.com/4chenz/de3a3490aff19fd72e4fdd9b7dafc8f4",
+    "description": "Link File Hashes",
+    "descriptionEn": "Link File Hashes",
+    "category": "downloading",
+    "tags": [
+      "开源",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-debrid-services-comparis",
+    "name": "Debrid Services Comparison",
+    "url": "https://debridcompare.pages.dev/",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "descriptionEn": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "category": "downloading",
+    "tags": [
+      "开源",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": true,
+    "githubUrl": "https://github.com/fynks/debrid-services-comparison",
+    "platforms": []
+  },
+  {
+    "id": "downloading-debrid-compatible-apps",
+    "name": "Debrid Compatible Apps",
+    "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "descriptionEn": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": true,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-torbox",
+    "name": "TorBox",
+    "url": "https://torbox.app/",
+    "description": "免费基础额度可用 · 10GB + 10 Monthly DDL Free · 需注册账号使用 · Hosters · Unofficial Mobile 客户端, 2 · Subreddit · Discord · GitHub",
+    "descriptionEn": "Freemium / 10GB + 10 Monthly DDL Free / Requires Sign-Up / Hosters / Unofficial Mobile Client, 2 / Subreddit / Discord / GitHub",
+    "category": "downloading",
+    "tags": [
+      "社区精选",
+      "开源",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Open Source",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": "https://github.com/93Pd9s8Jt/atba",
+    "platforms": []
+  },
+  {
+    "id": "downloading-real-debrid",
+    "name": "Real-Debrid",
+    "url": "https://real-debrid.com/",
+    "description": "Paid · Android 客户端 · 开源 BitTorrent · 磁力下载客户端 · DDL 客户端",
+    "descriptionEn": "Paid / Android Client / Torrent Client / DDL Client",
+    "category": "downloading",
+    "tags": [
+      "开源",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/LivingWithHippos/unchained-android",
+    "platforms": [
+      "android"
+    ]
+  },
+  {
+    "id": "downloading-nullbeat",
+    "name": "⁠NullBeat",
+    "url": "https://nullbeat.thevolecitor.qzz.io/",
+    "description": "TorBox-Based Hi-Res Audio & CD FLAC Ripper",
+    "descriptionEn": "TorBox-Based Hi-Res Audio & CD FLAC Ripper",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-get4all",
+    "name": "⁠Get4All",
+    "url": "https://get4all.org/",
+    "description": "Premium Link Bypass · Use UBO + Filter & Redirect Bypassers",
+    "descriptionEn": "Premium Link Bypass / Use UBO + Filter & Redirect Bypassers",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-rip-anything-from-anywhe",
+    "name": "⁠Rip Anything From Anywhere",
+    "url": "https://anything.rip/",
+    "description": "Multi-Site Bypass",
+    "descriptionEn": "Multi-Site Bypass",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-iteraplay",
+    "name": "iTeraPlay",
+    "url": "https://iteraplay.com/",
+    "description": "⁠TeraBox Video Downloaders",
+    "descriptionEn": "⁠TeraBox Video Downloaders",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-multi-och-helper",
+    "name": "Multi-OCH Helper",
+    "url": "https://greasyfork.org/en/scripts/13884-multi-och-helper",
+    "description": "Quickly Send DDL Links to Premiumize & NoPremium",
+    "descriptionEn": "Quickly Send DDL Links to Premiumize & NoPremium",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-debrid-media-manager",
+    "name": "Debrid Media Manager",
+    "url": "https://debridmediamanager.com/",
+    "description": "⁠高速中继网盘解析中转服务 Managers · Cloud Managers",
+    "descriptionEn": "⁠Debrid Managers / Cloud Managers",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-pixeldrain-limit-bypass",
+    "name": "Pixeldrain Limit Bypass",
+    "url": "https://pixeldrain-bypass.gamedrive.to/",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "descriptionEn": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "category": "downloading",
+    "tags": [
+      "开源",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/fmhy/edit",
+    "platforms": []
+  },
+  {
+    "id": "downloading-awesome-irc",
+    "name": "Awesome IRC",
+    "url": "https://github.com/davisonio/awesome-irc",
+    "description": "IRC Resources",
+    "descriptionEn": "IRC Resources",
+    "category": "downloading",
+    "tags": [
+      "开源",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": true,
+    "githubUrl": "https://github.com/davisonio/awesome-irc",
+    "platforms": []
+  },
+  {
+    "id": "downloading-netsplit",
+    "name": "NetSplit",
+    "url": "https://netsplit.de/",
+    "description": "IRC Channel Index",
+    "descriptionEn": "IRC Channel Index",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": true,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-irc-client-comparisons",
+    "name": "IRC Client Comparisons",
+    "url": "https://wikipedia.org/wiki/Comparison_of_IRC_clients",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "descriptionEn": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": true,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-android-irc-clients",
+    "name": "Android IRC Clients",
+    "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_internet",
+    "description": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "descriptionEn": "高速多线程下载、网盘中继与网页视频抓取利器",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": true,
+    "githubUrl": null,
+    "platforms": [
+      "android"
+    ]
+  },
+  {
+    "id": "downloading-irc-guide",
+    "name": "IRC Guide",
+    "url": "https://rentry.org/ircfmhyguide",
+    "description": "IRC Guides",
+    "descriptionEn": "IRC Guides",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: More Complete Lists",
+    "warningTextEn": "Caveat: More Complete Lists",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-adiirc",
+    "name": "AdiIRC",
+    "url": "https://adiirc.com/",
+    "description": "IRC 客户端s · Windows, macOS, Linux",
+    "descriptionEn": "IRC Clients / Windows, macOS, Linux",
+    "category": "downloading",
+    "tags": [
+      "开源",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/kvirc/KVIrc",
+    "platforms": [
+      "win",
+      "mac"
+    ]
+  },
+  {
+    "id": "downloading-konversation",
+    "name": "Konversation",
+    "url": "https://konversation.kde.org/",
+    "description": "IRC 客户端 · Windows, Linux · GitHub",
+    "descriptionEn": "IRC Client / Windows, Linux / GitHub",
+    "category": "downloading",
+    "tags": [
+      "开源",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/KDE/konversation",
+    "platforms": [
+      "win"
+    ]
+  },
+  {
+    "id": "downloading-convos",
+    "name": "Convos",
+    "url": "https://convos.chat/",
+    "description": "支持私有化自建部署 IRC 客户端 · Web",
+    "descriptionEn": "Self-hosted IRC Client / Web",
+    "category": "downloading",
+    "tags": [
+      "开源",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/convos-chat/convos",
+    "platforms": [
+      "web",
+      "docker"
+    ]
+  },
+  {
+    "id": "downloading-libera",
+    "name": "Libera",
+    "url": "https://libera.chat/",
+    "description": "IRC Networks",
+    "descriptionEn": "IRC Networks",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "downloading-unrealircd",
+    "name": "⁠UnrealIRCd",
+    "url": "https://www.unrealircd.org/",
+    "description": "IRC Server",
+    "descriptionEn": "IRC Server",
+    "category": "downloading",
+    "tags": [
+      "免费",
+      "多线程下载",
+      "网盘解析"
+    ],
+    "tagsEn": [
+      "Free",
+      "Downloader",
+      "Debrid"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  }
+]

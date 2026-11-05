@@ -10,21 +10,55 @@ interface NavCategoriesProps {
 }
 
 const SHORT_NAMES_ZH: Record<string, string> = {
+  privacy: '去广告与隐私',
   ai: 'AI 神器',
-  adblock: '去广告',
-  media: '影音媒体',
-  software: '系统工具',
-  books: '电子书',
-  dev: '开发者',
+  video: '影视动漫',
+  audio: '音乐广播',
+  gaming: '游戏模拟',
+  reading: '电子书',
+  downloading: '高速下载',
+  torrenting: '种子磁力',
+  educational: '教育课程',
+  mobile: '移动端',
+  'linux-macos': 'Linux/Mac',
+  'developer-tools': '开发者',
+  'system-tools': '系统工具',
+  'file-tools': '文件工具',
+  'image-tools': '图像工具',
+  'video-tools': '视频工具',
+  'text-tools': '文本工具',
+  'internet-tools': '网络工具',
+  'social-media-tools': '社媒抓取',
+  'gaming-tools': '游戏辅助',
+  storage: '云存储',
+  'non-english': '多语言',
+  misc: '综合探索',
 };
 
 const SHORT_NAMES_EN: Record<string, string> = {
+  privacy: 'Privacy',
   ai: 'AI Tools',
-  adblock: 'Adblock',
-  media: 'Media',
-  software: 'Software',
-  books: 'Books',
-  dev: 'Dev',
+  video: 'Movies & TV',
+  audio: 'Audio',
+  gaming: 'Gaming',
+  reading: 'Books',
+  downloading: 'Downloads',
+  torrenting: 'Torrents',
+  educational: 'Education',
+  mobile: 'Mobile',
+  'linux-macos': 'Linux/Mac',
+  'developer-tools': 'Dev Tools',
+  'system-tools': 'System',
+  'file-tools': 'File Tools',
+  'image-tools': 'Image Tools',
+  'video-tools': 'Video Tools',
+  'text-tools': 'Text Tools',
+  'internet-tools': 'Web Tools',
+  'social-media-tools': 'Social Media',
+  'gaming-tools': 'Game Mods',
+  storage: 'Storage',
+  'non-english': 'Multilingual',
+  misc: 'Misc',
 };
 
 export const NavCategories: React.FC<NavCategoriesProps> = ({
@@ -120,38 +154,40 @@ export const NavCategories: React.FC<NavCategoriesProps> = ({
             )}
           </button>
 
-          {/* Flat Dropdown Menu Panel */}
+          {/* Flat Dropdown Menu Panel with Max-Height Scrolling */}
           {isOpen && (
-            <div className="absolute left-0 mt-1.5 w-80 min-w-[300px] rounded-2xl bg-white dark:bg-[#0B111E] border border-slate-300 dark:border-white/15 p-2 z-50 animate-in fade-in zoom-in-95 duration-100 space-y-1">
-              <div className="px-3 py-1.5 text-[10px] font-bold text-slate-400 dark:text-slate-500 uppercase tracking-wider flex items-center justify-between">
-                <span>{lang === 'en' ? 'More Categories' : '更多分类'}</span>
-                <span className="font-mono">{overflowCategories.length} {lang === 'en' ? 'items' : '个分类'}</span>
+            <div className="absolute left-0 mt-1.5 w-84 min-w-[320px] max-h-[75vh] overflow-y-auto rounded-2xl bg-white dark:bg-[#0B111E] border border-slate-300 dark:border-white/15 p-2 z-50 animate-in fade-in zoom-in-95 duration-100 space-y-1 shadow-lg">
+              <div className="sticky top-0 bg-white/95 dark:bg-[#0B111E]/95 backdrop-blur-xs px-3 py-1.5 text-[10px] font-bold text-slate-400 dark:text-slate-500 uppercase tracking-wider flex items-center justify-between border-b border-slate-100 dark:border-white/5 mb-1">
+                <span>{lang === 'en' ? 'All FMHY Categories' : '全部 FMHY 分类'}</span>
+                <span className="font-mono text-cyan-600 dark:text-cyan-400">{overflowCategories.length} {lang === 'en' ? 'categories' : '个分类'}</span>
               </div>
-              {overflowCategories.map((cat) => {
-                const isActive = currentPath === `/${cat.id}` || currentPath === `/${cat.id}/`;
-                return (
-                  <a
-                    key={cat.id}
-                    href={`/${cat.id}`}
-                    onClick={() => setIsOpen(false)}
-                    className={`flex items-center justify-between px-3 py-2 rounded-xl text-xs transition-colors ${
-                      isActive
-                        ? 'bg-cyan-50 dark:bg-cyan-500/10 text-cyan-700 dark:text-cyan-400 font-semibold'
-                        : 'text-slate-700 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-white/[0.04]'
-                    }`}
-                  >
-                    <div className="flex items-center gap-2 shrink-0">
-                      <span className="w-1.5 h-1.5 rounded-full bg-slate-400 dark:bg-slate-500 shrink-0" />
-                      <span className="whitespace-nowrap font-medium">
-                        {lang === 'en' ? cat.enName : cat.name}
+              <div className="grid grid-cols-1 gap-0.5">
+                {overflowCategories.map((cat) => {
+                  const isActive = currentPath === `/${cat.id}` || currentPath === `/${cat.id}/`;
+                  return (
+                    <a
+                      key={cat.id}
+                      href={`/${cat.id}`}
+                      onClick={() => setIsOpen(false)}
+                      className={`flex items-center justify-between px-3 py-1.5 rounded-xl text-xs transition-colors ${
+                        isActive
+                          ? 'bg-cyan-50 dark:bg-cyan-500/10 text-cyan-700 dark:text-cyan-400 font-semibold'
+                          : 'text-slate-700 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-white/[0.04]'
+                      }`}
+                    >
+                      <div className="flex items-center gap-2 shrink-0 min-w-0">
+                        <span className="w-1.5 h-1.5 rounded-full bg-slate-400 dark:bg-slate-500 shrink-0" />
+                        <span className="whitespace-nowrap font-medium">
+                          {lang === 'en' ? cat.enName : cat.name}
+                        </span>
+                      </div>
+                      <span className="text-[10px] font-mono text-slate-400 dark:text-slate-500 whitespace-nowrap ml-2 shrink-0">
+                        {lang === 'en' ? cat.id : cat.enName}
                       </span>
-                    </div>
-                    <span className="text-[11px] font-mono text-slate-400 dark:text-slate-500 whitespace-nowrap ml-3 shrink-0">
-                      {lang === 'en' ? cat.id : cat.enName}
-                    </span>
-                  </a>
-                );
-              })}
+                    </a>
+                  );
+                })}
+              </div>
             </div>
           )}
         </div>

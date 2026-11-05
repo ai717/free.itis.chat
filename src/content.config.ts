@@ -34,7 +34,7 @@ const resources = defineCollection({
     featured: z.boolean().optional(),
     isStarred: z.boolean().optional(),
     isCollection: z.boolean().optional(),
-    githubUrl: z.string().optional(),
+    githubUrl: z.string().nullable().optional(),
     platforms: z.array(z.string()).optional(),
     bentoSize: z.enum(['normal', 'wide', 'tall', 'large']).optional(),
   }),

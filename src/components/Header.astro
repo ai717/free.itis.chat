@@ -3,10 +3,10 @@ import { SearchModal } from './SearchModal';
 import { ThemeToggle } from './ThemeToggle';
 import { LanguageToggle } from './LanguageToggle';
 import { NavCategories } from './NavCategories';
-import { getAllResources } from '../utils/resources';
+import { getSearchableResources } from '../utils/resources';
 import { CATEGORIES } from '../data/categories';
 
-const allResources = getAllResources();
+const searchableResources = getSearchableResources();
 const currentPath = Astro.url.pathname;
 ---
 
@@ -47,7 +47,7 @@ const currentPath = Astro.url.pathname;
       {/* Right Controls: Search, Language Toggle, Theme Toggle & Submit Button */}
       <div class="flex items-center gap-2 sm:gap-2.5 shrink-0">
         {/* Full-text search modal */}
-        <SearchModal client:load resources={allResources} />
+        <SearchModal client:load resources={searchableResources} />
 
         {/* Language Switcher (CH / EN) */}
         <div class="shrink-0">

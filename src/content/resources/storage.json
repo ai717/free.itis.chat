@@ -1,0 +1,4243 @@
+[
+  {
+    "id": "storage-shots-so",
+    "name": "shots.so",
+    "url": "https://shots.so/",
+    "description": "Mockup Creator · Editor",
+    "descriptionEn": "Mockup Creator / Editor",
+    "category": "storage",
+    "tags": [
+      "社区精选",
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-mockoops",
+    "name": "Mockoops",
+    "url": "https://mockoops.mohitya.dev/",
+    "description": "Animated Mockups",
+    "descriptionEn": "Animated Mockups",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-really-good-emails",
+    "name": "Really Good Emails",
+    "url": "https://reallygoodemails.com/",
+    "description": "Product Email Mobile Designs and Templates",
+    "descriptionEn": "Product Email Mobile Designs and Templates",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-screenshot-rocks",
+    "name": "Screenshot Rocks",
+    "url": "https://screenshot.rocks/",
+    "description": "Create Screenshot Mockups of Websites · GitHub",
+    "descriptionEn": "Create Screenshot Mockups of Websites / GitHub",
+    "category": "storage",
+    "tags": [
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/daveearley/screenshot.rocks",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "storage-rawgraphs",
+    "name": "RAWGraphs",
+    "url": "https://app.rawgraphs.io/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "社区精选",
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": "https://github.com/rawgraphs/rawgraphs-app",
+    "platforms": []
+  },
+  {
+    "id": "storage-draw-io",
+    "name": "draw.io",
+    "url": "https://www.drawio.com/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "社区精选",
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": "https://github.com/jgraph/drawio",
+    "platforms": []
+  },
+  {
+    "id": "storage-kroki",
+    "name": "Kroki",
+    "url": "https://kroki.io/#try",
+    "description": "Text to Diagrams · CLI",
+    "descriptionEn": "Text to Diagrams / CLI",
+    "category": "storage",
+    "tags": [
+      "社区精选",
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": "https://github.com/yuzutech/kroki-cli",
+    "platforms": []
+  },
+  {
+    "id": "storage-datavizcatalogue",
+    "name": "DataVizCatalogue",
+    "url": "https://datavizcatalogue.com/",
+    "description": "Data Visualization Wiki",
+    "descriptionEn": "Data Visualization Wiki",
+    "category": "storage",
+    "tags": [
+      "社区精选",
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-flowchart-fun",
+    "name": "Flowchart Fun",
+    "url": "https://flowchart.fun/",
+    "description": "Generate Flowchart from Text · GitHub",
+    "descriptionEn": "Generate Flowchart from Text / GitHub",
+    "category": "storage",
+    "tags": [
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/tone-row/flowchart-fun",
+    "platforms": []
+  },
+  {
+    "id": "storage-vinnslu",
+    "name": "Vinnslu",
+    "url": "https://maltsev.github.io/vinnslu/",
+    "description": "Tabular Data Parser",
+    "descriptionEn": "Tabular Data Parser",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-cascii",
+    "name": "Cascii",
+    "url": "https://cascii.app/",
+    "description": "Create ASCII Diagrams",
+    "descriptionEn": "Create ASCII Diagrams",
+    "category": "storage",
+    "tags": [
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/casparwylie/cascii-core",
+    "platforms": []
+  },
+  {
+    "id": "storage-svgbob-editor",
+    "name": "SVGBob Editor",
+    "url": "https://ivanceras.github.io/svgbob-editor/",
+    "description": "Convert ASCII Diagrams to SVG Images · GitHub",
+    "descriptionEn": "Convert ASCII Diagrams to SVG Images / GitHub",
+    "category": "storage",
+    "tags": [
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/ivanceras/svgbob",
+    "platforms": []
+  },
+  {
+    "id": "storage-umlet",
+    "name": "UMLet",
+    "url": "https://www.umlet.com/",
+    "description": "UML Diagrams Generators · Creators",
+    "descriptionEn": "UML Diagrams Generators / Creators",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-planttext",
+    "name": "PlantText",
+    "url": "https://www.planttext.com/",
+    "description": "UML Editor",
+    "descriptionEn": "UML Editor",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-evernote-design",
+    "name": "Evernote.Design",
+    "url": "https://www.evernote.design/",
+    "description": "Design Resources",
+    "descriptionEn": "Design Resources",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Sites that don't necessarily meet the criteria to be called unsafe but still aren't recommended for different reasons.",
+    "warningTextEn": "Caveat: Sites that don't necessarily meet the criteria to be called unsafe but still aren't recommended for different reasons.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": true,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-the-people-s-design-libr",
+    "name": "The People's Design Library",
+    "url": "https://rentry.co/FMHYB64#design-resources",
+    "description": "Design Resources",
+    "descriptionEn": "Design Resources",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": true,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-rentryresource",
+    "name": "⁠rentryresource",
+    "url": "https://rentryresource.neocities.org/",
+    "description": "Free Site Design · Neocities Resources",
+    "descriptionEn": "Free Site Design / Neocities Resources",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-cloudflare-dns",
+    "name": "Cloudflare DNS",
+    "url": "https://www.cloudflare.com/products/dns/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "社区精选",
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-desec",
+    "name": "deSEC",
+    "url": "https://desec.io/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "社区精选",
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-retrogames-cc",
+    "name": "RetroGames.cc",
+    "url": "https://www.retrogames.cc/",
+    "description": "Retro Consoles · 经典主机复古游戏模拟器JS",
+    "descriptionEn": "Retro Consoles / EmulatorJS",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-oldgameshelf",
+    "name": "OldGameShelf",
+    "url": "https://oldgames.app/",
+    "description": "Retro Consoles · 经典主机复古游戏模拟器JS",
+    "descriptionEn": "Retro Consoles / EmulatorJS",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-retrogamesnexus",
+    "name": "RetroGamesNexus",
+    "url": "https://retrogamesnexus.com/",
+    "description": "Retro Consoles · 经典主机复古游戏模拟器JS",
+    "descriptionEn": "Retro Consoles / EmulatorJS",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-classicgamezone",
+    "name": "ClassicGameZone",
+    "url": "https://classicgamezone.com/",
+    "description": "Retro Consoles · 经典主机复古游戏模拟器JS",
+    "descriptionEn": "Retro Consoles / EmulatorJS",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-retroplayonline",
+    "name": "retroplayonline",
+    "url": "https://www.retroplayonline.com/",
+    "description": "Retro Consoles · 经典主机复古游戏模拟器JS",
+    "descriptionEn": "Retro Consoles / EmulatorJS",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-pegasus-online",
+    "name": "Pegasus Online",
+    "url": "https://pegasus-online.pl/en/",
+    "description": "Retro Consoles · 经典主机复古游戏模拟器JS",
+    "descriptionEn": "Retro Consoles / EmulatorJS",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-emulatorgameszone",
+    "name": "EmulatorGamesZone",
+    "url": "https://emulatorgameszone.com/",
+    "description": "Retro Consoles · 经典主机复古游戏模拟器JS",
+    "descriptionEn": "Retro Consoles / EmulatorJS",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-letsplaygb",
+    "name": "LetsPlayGB",
+    "url": "https://www.letsplaygb.com/",
+    "description": "Game Boy · 经典主机复古游戏模拟器JS",
+    "descriptionEn": "Game Boy / EmulatorJS",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-play-nes",
+    "name": "Play NES",
+    "url": "https://www.playnesonline.com/",
+    "description": "NES Browser 经典主机复古游戏模拟器 · 经典主机复古游戏模拟器JS",
+    "descriptionEn": "NES Browser Emulator / EmulatorJS",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "storage-let-s-play-sega",
+    "name": "Let's Play Sega",
+    "url": "https://www.letsplaysega.com/",
+    "description": "Sega Genesis Browser 经典主机复古游戏模拟器 · 经典主机复古游戏模拟器JS",
+    "descriptionEn": "Sega Genesis Browser Emulator / EmulatorJS",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "storage-mega-drive-emulator",
+    "name": "Mega Drive Emulator",
+    "url": "https://megadrive-emulator.com/",
+    "description": "Sega Megadrive Browser 经典主机复古游戏模拟器 · 经典主机复古游戏模拟器JS",
+    "descriptionEn": "Sega Megadrive Browser Emulator / EmulatorJS",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "storage-playretrogames",
+    "name": "PlayRetroGames",
+    "url": "https://www.playretrogames.com/",
+    "description": "Retro Consoles · NeptunJS",
+    "descriptionEn": "Retro Consoles / NeptunJS",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-playemulator",
+    "name": "PlayEmulator",
+    "url": "https://playemulator.online/",
+    "description": "Retro Consoles · NeptunJS",
+    "descriptionEn": "Retro Consoles / NeptunJS",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-8bbit",
+    "name": "8bbit",
+    "url": "https://www.8bbit.com/",
+    "description": "NES Browser 经典主机复古游戏模拟器 · NeptunJS",
+    "descriptionEn": "NES Browser Emulator / NeptunJS",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "storage-neogeofun",
+    "name": "NeoGeoFun",
+    "url": "https://www.neogeofun.com/",
+    "description": "Neo Geo Browser 经典主机复古游戏模拟器 · NeptunJS",
+    "descriptionEn": "Neo Geo Browser Emulator / NeptunJS",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "storage-public-dns-indexes",
+    "name": "Public DNS indexes",
+    "url": "https://www.publicdns.xyz/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": true,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-cloudflare-1-1-1-1",
+    "name": "Cloudflare 1.1.1.1",
+    "url": "https://developers.cloudflare.com/1.1.1.1/ip-addresses/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "社区精选",
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-quad9",
+    "name": "Quad9",
+    "url": "https://quad9.net/",
+    "description": "Malware, Phishing, Spyware & Botnet DNS Protection · GitHub",
+    "descriptionEn": "Malware, Phishing, Spyware & Botnet DNS Protection / GitHub",
+    "category": "storage",
+    "tags": [
+      "社区精选",
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": "https://github.com/Quad9DNS",
+    "platforms": []
+  },
+  {
+    "id": "storage-artemis",
+    "name": "Artemis",
+    "url": "https://dns.fuzzing.uk/",
+    "description": "Piracy Site DNS Resolver · GitHub",
+    "descriptionEn": "Piracy Site DNS Resolver / GitHub",
+    "category": "storage",
+    "tags": [
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/PUT-Request/Artemis",
+    "platforms": []
+  },
+  {
+    "id": "storage-unbound",
+    "name": "Unbound",
+    "url": "https://www.nlnetlabs.nl/projects/unbound/",
+    "description": "支持私有化自建部署, Validating, Recursive, Caching Resolver · GitHub",
+    "descriptionEn": "Self-Hosted, Validating, Recursive, Caching Resolver / GitHub",
+    "category": "storage",
+    "tags": [
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/NLnetLabs/unbound",
+    "platforms": [
+      "docker"
+    ]
+  },
+  {
+    "id": "storage-control-d",
+    "name": "Control D",
+    "url": "https://controld.com/free-dns",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-nextdns",
+    "name": "NextDNS",
+    "url": "https://nextdns.io",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/yokoffing/NextDNS-Config",
+    "platforms": []
+  },
+  {
+    "id": "storage-tiarap",
+    "name": "Tiarap",
+    "url": "https://tiar.app/",
+    "description": "Privacy-Friendly DNS Resolver",
+    "descriptionEn": "Privacy-Friendly DNS Resolver",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-rethink-dns",
+    "name": "Rethink DNS",
+    "url": "https://rethinkdns.com/configure",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-dnsbunker",
+    "name": "DNSBunker",
+    "url": "https://dnsbunker.org/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-hagezi-dns",
+    "name": "HaGeZi DNS",
+    "url": "https://github.com/hagezi/dns-servers",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/hagezi/dns-servers",
+    "platforms": []
+  },
+  {
+    "id": "storage-bancuh",
+    "name": "Bancuh",
+    "url": "https://bancuh.com/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/ragibkl/adblock-dns-server",
+    "platforms": []
+  },
+  {
+    "id": "storage-adguard",
+    "name": "AdGuard",
+    "url": "https://adguard-dns.io/en/public-dns.html",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/AdguardTeam/AdguardSDNSFilter",
+    "platforms": []
+  },
+  {
+    "id": "storage-dns-for-family",
+    "name": "DNS for Family",
+    "url": "https://dnsforfamily.com/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-dns-forge",
+    "name": "DNS Forge",
+    "url": "https://dnsforge.de/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-hurricane-electric",
+    "name": "Hurricane Electric",
+    "url": "https://dns.he.net/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-uncensoreddns",
+    "name": "UncensoredDNS",
+    "url": "https://blog.uncensoreddns.org/dns-servers/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-dns-sb",
+    "name": "dns.sb",
+    "url": "https://dns.sb/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-f0rc3run",
+    "name": "F0rc3Run",
+    "url": "https://forcerun.page.gd/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/F0rc3Run/F0rc3Run",
+    "platforms": []
+  },
+  {
+    "id": "storage-v2nodes",
+    "name": "V2Nodes",
+    "url": "https://v2nodes.com/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-v2ray-servers",
+    "name": "v2ray servers",
+    "url": "https://github.com/ebrasha/free-v2ray-public-list",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/ebrasha/free-v2ray-public-list",
+    "platforms": []
+  },
+  {
+    "id": "storage-racevpn",
+    "name": "RaceVPN",
+    "url": "https://www.racevpn.com/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-greenssh",
+    "name": "GreenSSH",
+    "url": "https://www.greenssh.com/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-vpn-fail",
+    "name": "vpn.fail",
+    "url": "https://vpn.fail/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-vpn-jantit",
+    "name": "VPN Jantit",
+    "url": "https://www.vpnjantit.com/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-shadowmere",
+    "name": "Shadowmere",
+    "url": "https://shadowmere.xyz",
+    "description": "Shadowsocks",
+    "descriptionEn": "Shadowsocks",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-freesocks",
+    "name": "FreeSocks",
+    "url": "https://freesocks.org/",
+    "description": "Shadowsocks · GitHub",
+    "descriptionEn": "Shadowsocks / GitHub",
+    "category": "storage",
+    "tags": [
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/unredacted/freesocks-control-plane",
+    "platforms": []
+  },
+  {
+    "id": "storage-hi-load-vpn",
+    "name": "Hi!Load VPN",
+    "url": "https://t.me/hlvpnbot",
+    "description": "30GB per month · No Torrenting · Support",
+    "descriptionEn": "30GB per month / No Torrenting / Support",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-sshocean",
+    "name": "sshOcean",
+    "url": "https://sshocean.com/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-freevpn",
+    "name": "FreeVPN",
+    "url": "https://www.freevpn.us/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-sshkit",
+    "name": "SSHKit",
+    "url": "https://sshkit.com/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-jagoanssh",
+    "name": "JagoanSSH",
+    "url": "https://www.jagoanssh.com/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-fastssh",
+    "name": "fastssh",
+    "url": "https://www.fastssh.com/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-opentunnel",
+    "name": "OpenTunnel",
+    "url": "https://opentunnel.net/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-howdy",
+    "name": "Howdy",
+    "url": "https://howdy.id/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-proxybot",
+    "name": "ProxyBot",
+    "url": "https://t.me/vamproxy_bot",
+    "description": "Telegram Proxy Bot",
+    "descriptionEn": "Telegram Proxy Bot",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-proxy-socks5-bot",
+    "name": "proxy_socks5_bot",
+    "url": "https://t.me/BestMTProxyBot",
+    "description": "Telegram Shadowsocks Bots",
+    "descriptionEn": "Telegram Shadowsocks Bots",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-gd-demon---challenge-lis",
+    "name": "⁠GD Demon / Challenge Lists",
+    "url": "https://docs.google.com/document/d/1tYM7XWS18B7s2g4lplzF6qU2T8LHi3-kQkybGIhXlqE",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": true,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-pointercrate",
+    "name": "Pointercrate",
+    "url": "https://pointercrate.com/demonlist/",
+    "description": "Original Demon List · Stats Viewer · GitHub",
+    "descriptionEn": "Original Demon List / Stats Viewer / GitHub",
+    "category": "storage",
+    "tags": [
+      "社区精选",
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": "https://github.com/stadust/pointercrate",
+    "platforms": []
+  },
+  {
+    "id": "storage-aredl",
+    "name": "AREDL",
+    "url": "https://aredl.net/",
+    "description": "All Rated Extreme Demons List · Discord · GitHub",
+    "descriptionEn": "All Rated Extreme Demons List / Discord / GitHub",
+    "category": "storage",
+    "tags": [
+      "社区精选",
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": "https://github.com/All-Rated-Extreme-Demon-List",
+    "platforms": []
+  },
+  {
+    "id": "storage-edel",
+    "name": "⁠EDEL",
+    "url": "https://docs.google.com/spreadsheets/d/1-2-n2aU__rQya_IESevHjEU0f1xbegKUZEslk7fV38Q/",
+    "description": "Extreme Demon Enjoyment List · Discord",
+    "descriptionEn": "Extreme Demon Enjoyment List / Discord",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-pemonlist",
+    "name": "Pemonlist",
+    "url": "https://pemonlist.com/",
+    "description": "Platformer Demon Lists · Leaderboards",
+    "descriptionEn": "Platformer Demon Lists / Leaderboards",
+    "category": "storage",
+    "tags": [
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/TheGElCOgecko/pemonlist",
+    "platforms": []
+  },
+  {
+    "id": "storage-demonlist",
+    "name": "Demonlist",
+    "url": "https://demonlist.org/",
+    "description": "Unrated Demons Lists",
+    "descriptionEn": "Unrated Demons Lists",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-idl",
+    "name": "IDL",
+    "url": "https://insanedemonlist.com/",
+    "description": "Insane Demon List · Discord",
+    "descriptionEn": "Insane Demon List / Discord",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-hdl",
+    "name": "⁠HDL",
+    "url": "https://hdl.pages.dev/",
+    "description": "Hard Demon List · Discord",
+    "descriptionEn": "Hard Demon List / Discord",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-mdl",
+    "name": "MDL",
+    "url": "https://mediumdemonslist.pages.dev/",
+    "description": "Medium Demon List · Discord",
+    "descriptionEn": "Medium Demon List / Discord",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-edl",
+    "name": "EDL",
+    "url": "https://easydemonlist.pages.dev/",
+    "description": "Easy Demon List · Discord",
+    "descriptionEn": "Easy Demon List / Discord",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-nwl",
+    "name": "NWL",
+    "url": "https://docs.google.com/spreadsheets/d/1YxUE2kkvhT2E6AjnkvTf-o8iu_shSLbuFkEFcZOvieA",
+    "description": "Non-Listworthy Extreme Demon List · Discord",
+    "descriptionEn": "Non-Listworthy Extreme Demon List / Discord",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-hppl",
+    "name": "HPPL",
+    "url": "https://docs.google.com/document/d/1RZ524Gsou0w4djb3I13vvYV6Q9pp77UjlJkS_Et8b28/",
+    "description": "Hardest Physically Possible Levels List · Discord",
+    "descriptionEn": "Hardest Physically Possible Levels List / Discord",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-htpl",
+    "name": "HTPL",
+    "url": "https://docs.google.com/document/d/1GvNWez3Vh3Q6AQXLshYOmA3sXG-9JbV6Zf7ZzRpba0o/",
+    "description": "Hardest Theoretically Possible Levels List · Discord",
+    "descriptionEn": "Hardest Theoretically Possible Levels List / Discord",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-edi",
+    "name": "⁠EDI",
+    "url": "https://edi-d6y.pages.dev/",
+    "description": "Hardest Completed Achievements · Discord",
+    "descriptionEn": "Hardest Completed Achievements / Discord",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-hrr-mobile-list",
+    "name": "HRR Mobile List",
+    "url": "https://mobilepointercrate.com/",
+    "description": "High Refresh Rate Mobile List",
+    "descriptionEn": "High Refresh Rate Mobile List",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-lrr-demonlist",
+    "name": "LRR Demonlist",
+    "url": "https://gdlrrlist.com/",
+    "description": "Low Refresh Rate Demon List · Discord",
+    "descriptionEn": "Low Refresh Rate Demon List / Discord",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-impossible-levels-list",
+    "name": "Impossible Levels List",
+    "url": "https://impossiblelevels.com/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-nine-circles-demonlist",
+    "name": "Nine Circles Demonlist",
+    "url": "https://ninecirclesdemonlist.com/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-2p-list",
+    "name": "⁠2P List",
+    "url": "https://2plist.github.io/2plist",
+    "description": "2 Player GD List · Discord",
+    "descriptionEn": "2 Player GD List / Discord",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-internet-archival-bot",
+    "name": "⁠Internet Archival Bot",
+    "url": "https://internet-archival.xyz/",
+    "description": "Discord Internet Archival Bot · Discord · GitHub",
+    "descriptionEn": "Discord Internet Archival Bot / Discord / GitHub",
+    "category": "storage",
+    "tags": [
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/Pendonym/Internet-Archival-Bot",
+    "platforms": []
+  },
+  {
+    "id": "storage-archive-org-downloader",
+    "name": "Archive.org-Downloader",
+    "url": "https://github.com/MiniGlome/Archive.org-Downloader",
+    "description": "Download Books in PDF Format",
+    "descriptionEn": "Download Books in PDF Format",
+    "category": "storage",
+    "tags": [
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/MiniGlome/Archive.org-Downloader",
+    "platforms": []
+  },
+  {
+    "id": "storage-ia-book-ripper",
+    "name": "IA Book Ripper",
+    "url": "https://bookripper.neocities.org/",
+    "description": "Download Borrowed Books",
+    "descriptionEn": "Download Borrowed Books",
+    "category": "storage",
+    "tags": [
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/elementdavv/internet_archive_downloader",
+    "platforms": []
+  },
+  {
+    "id": "storage-internetarchive",
+    "name": "internetarchive",
+    "url": "https://github.com/jjjake/internetarchive",
+    "description": "CLI Tool",
+    "descriptionEn": "CLI Tool",
+    "category": "storage",
+    "tags": [
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/jjjake/internetarchive",
+    "platforms": []
+  },
+  {
+    "id": "storage-themoeway",
+    "name": "TheMoeWay",
+    "url": "https://learnjapanese.moe/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "社区精选",
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-japreader",
+    "name": "japReader",
+    "url": "https://github.com/marisukukise/japReader",
+    "description": "Japanese Text Translator",
+    "descriptionEn": "Japanese Text Translator",
+    "category": "storage",
+    "tags": [
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/marisukukise/japReader",
+    "platforms": []
+  },
+  {
+    "id": "storage-ichi-moe",
+    "name": "ichi.moe",
+    "url": "https://ichi.moe/",
+    "description": "Japanese to English Phrase Translation",
+    "descriptionEn": "Japanese to English Phrase Translation",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-nippon-colors",
+    "name": "Nippon Colors",
+    "url": "https://nipponcolors.com/",
+    "description": "Traditional Japanese Color Meanings",
+    "descriptionEn": "Traditional Japanese Color Meanings",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-poricom",
+    "name": "Poricom",
+    "url": "https://github.com/blueaxis/Poricom",
+    "description": "Kanji Character Identifier",
+    "descriptionEn": "Kanji Character Identifier",
+    "category": "storage",
+    "tags": [
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/blueaxis/Poricom",
+    "platforms": []
+  },
+  {
+    "id": "storage-android-readers",
+    "name": "Android Readers",
+    "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_manga",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": true,
+    "githubUrl": null,
+    "platforms": [
+      "mac",
+      "android"
+    ]
+  },
+  {
+    "id": "storage-suwayomi",
+    "name": "Suwayomi",
+    "url": "https://github.com/Suwayomi",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "社区精选",
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": "https://github.com/Suwayomi",
+    "platforms": []
+  },
+  {
+    "id": "storage-extensions",
+    "name": "Extensions",
+    "url": "https://keiyoushi.github.io/",
+    "description": "浏览器扩展s, 2 · Desktop 客户端",
+    "descriptionEn": "Extensions, 2 / Desktop Client",
+    "category": "storage",
+    "tags": [
+      "社区精选",
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": "https://github.com/Suwayomi/Suwayomi-Server",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "storage-imslp",
+    "name": "IMSLP",
+    "url": "https://imslp.org/wiki/Main_Page",
+    "description": "Public Domain Scores",
+    "descriptionEn": "Public Domain Scores",
+    "category": "storage",
+    "tags": [
+      "社区精选",
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-musescore-com",
+    "name": "Musescore.com",
+    "url": "https://musescore.com/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "社区精选",
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": "https://github.com/LibreScore/dl-librescore",
+    "platforms": []
+  },
+  {
+    "id": "storage-8notes",
+    "name": "8notes",
+    "url": "https://www.8notes.com/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Sites that don't necessarily meet the criteria to be called unsafe but still aren't recommended for different reasons.",
+    "warningTextEn": "Caveat: Sites that don't necessarily meet the criteria to be called unsafe but still aren't recommended for different reasons.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-notes-box",
+    "name": "Notes Box",
+    "url": "https://notes-box.com/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Sites that don't necessarily meet the criteria to be called unsafe but still aren't recommended for different reasons.",
+    "warningTextEn": "Caveat: Sites that don't necessarily meet the criteria to be called unsafe but still aren't recommended for different reasons.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-musopen",
+    "name": "Musopen",
+    "url": "https://musopen.org/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-free-scores",
+    "name": "Free Scores",
+    "url": "https://www.free-scores.com/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-free-scores",
+    "name": "free-scores",
+    "url": "https://www.free-scores.com/free-sheet-music.php",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-bateristaspt",
+    "name": "bateristaspt",
+    "url": "https://www.bateristaspt.com/membros/drumscores/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-tchunes",
+    "name": "tchunes",
+    "url": "https://www.daev.ca/tchunes/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-flutetunes",
+    "name": "flutetunes",
+    "url": "https://www.flutetunes.com/",
+    "description": "Flute Sheet Music",
+    "descriptionEn": "Flute Sheet Music",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-ichigo-s-sheet-music",
+    "name": "Ichigo's Sheet Music",
+    "url": "https://ichigos.com/",
+    "description": "Video Game & Anime Sheet Music",
+    "descriptionEn": "Video Game & Anime Sheet Music",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-ninsheetmusic",
+    "name": "NinSheetMusic",
+    "url": "https://www.ninsheetmusic.org/",
+    "description": "Video Game Sheet Music",
+    "descriptionEn": "Video Game Sheet Music",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-choralwiki",
+    "name": "ChoralWiki",
+    "url": "https://www.cpdl.org/wiki/index.php/Main_Page",
+    "description": "Choral Music Sheets",
+    "descriptionEn": "Choral Music Sheets",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-bandmusic-pdf-library",
+    "name": "BandMusic PDF Library",
+    "url": "https://bandmusicpdf.org/",
+    "description": "Golden Age Band Music Sheets",
+    "descriptionEn": "Golden Age Band Music Sheets",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-a-collection-of-christma",
+    "name": "A Collection of Christmas Carols",
+    "url": "https://acollectionofchristmascarols.com/",
+    "description": "Christmas Carol Sheet Music",
+    "descriptionEn": "Christmas Carol Sheet Music",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-music-manuscripts-online",
+    "name": "Music Manuscripts Online",
+    "url": "https://www.themorgan.org/music",
+    "description": "Music Manuscripts",
+    "descriptionEn": "Music Manuscripts",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-diamm",
+    "name": "DIAMM",
+    "url": "https://www.diamm.ac.uk/",
+    "description": "Medieval Manuscripts",
+    "descriptionEn": "Medieval Manuscripts",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-unt-digital-library",
+    "name": "UNT Digital Library",
+    "url": "https://digital.library.unt.edu/explore/collections/VRBR/browse/",
+    "description": "Rare Manuscripts",
+    "descriptionEn": "Rare Manuscripts",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-mozarteum",
+    "name": "Mozarteum",
+    "url": "https://dme.mozarteum.at/DME/nma/nmapub_srch.php?l=2",
+    "description": "Digital Mozart Edition",
+    "descriptionEn": "Digital Mozart Edition",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-the-session",
+    "name": "The Session",
+    "url": "https://thesession.org/",
+    "description": "Traditional Irish Sheet Music",
+    "descriptionEn": "Traditional Irish Sheet Music",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-brown-university",
+    "name": "Brown University",
+    "url": "https://library.brown.edu/cds/sheetmusic/afam/about.html",
+    "description": "African American Sheet Music",
+    "descriptionEn": "African American Sheet Music",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-contemporary-music-score",
+    "name": "Contemporary Music Score",
+    "url": "https://escholarship.org/uc/uclamusicscores",
+    "description": "University Collections",
+    "descriptionEn": "University Collections",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-sheet-music-consortium",
+    "name": "Sheet Music Consortium",
+    "url": "https://www.library.ucla.edu/about/programs/sheet-music-consortium/",
+    "description": "Search Universities",
+    "descriptionEn": "Search Universities",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-public-domain-sherpa",
+    "name": "Public Domain Sherpa",
+    "url": "https://www.publicdomainsherpa.com/free-sheet-music.html",
+    "description": "Sheet Music Resources",
+    "descriptionEn": "Sheet Music Resources",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-touying",
+    "name": "⁠Touying",
+    "url": "https://touying-typ.github.io/",
+    "description": "Typst-Based Presentation Tool",
+    "descriptionEn": "Typst-Based Presentation Tool",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-slidev",
+    "name": "Slidev",
+    "url": "https://sli.dev/",
+    "description": "Markdown Presentation Slides · GitHub",
+    "descriptionEn": "Markdown Presentation Slides / GitHub",
+    "category": "storage",
+    "tags": [
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/slidevjs/slidev",
+    "platforms": []
+  },
+  {
+    "id": "storage-slides",
+    "name": "Slides",
+    "url": "https://maaslalani.com/slides/",
+    "description": "Terminal-Based Presentation Tool · GitHub",
+    "descriptionEn": "Terminal-Based Presentation Tool / GitHub",
+    "category": "storage",
+    "tags": [
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/maaslalani/slides",
+    "platforms": []
+  },
+  {
+    "id": "storage-z-ai",
+    "name": "⁠Z.ai",
+    "url": "https://chat.z.ai/",
+    "description": "AI Presentation Generators",
+    "descriptionEn": "AI Presentation Generators",
+    "category": "storage",
+    "tags": [
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/presenton/presenton",
+    "platforms": []
+  },
+  {
+    "id": "storage-proxy-list",
+    "name": "PROXY List",
+    "url": "https://github.com/TheSpeedX/PROXY-List",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "社区精选",
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": "https://github.com/TheSpeedX/PROXY-List",
+    "platforms": []
+  },
+  {
+    "id": "storage-instance-scores",
+    "name": "Instance Scores",
+    "url": "https://searx.neocities.org/instancescores",
+    "description": "Searx Instance Indexes",
+    "descriptionEn": "Searx Instance Indexes",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": true,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-opnxng",
+    "name": "OpnXNG",
+    "url": "https://opnxng.com/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "社区精选",
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-gettempnumber",
+    "name": "gettempnumber",
+    "url": "https://gettempnumber.com/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "社区精选",
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-us-phone-number",
+    "name": "us-phone-number",
+    "url": "https://us-phone-number.com/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "社区精选",
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-sms24",
+    "name": "sms24",
+    "url": "https://www.sms24.me/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "社区精选",
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-receive-sms",
+    "name": "receive-sms",
+    "url": "https://receive-sms.cc/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "社区精选",
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-smsonline",
+    "name": "⁠SMSOnline",
+    "url": "https://www.smsonline.cloud/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "社区精选",
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-awesome-icons",
+    "name": "Awesome Icons",
+    "url": "https://github.com/notlmn/awesome-icons",
+    "description": "Icon Site Indexes",
+    "descriptionEn": "Icon Site Indexes",
+    "category": "storage",
+    "tags": [
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": true,
+    "githubUrl": "https://github.com/notlmn/awesome-icons",
+    "platforms": []
+  },
+  {
+    "id": "storage-iconify",
+    "name": "Iconify",
+    "url": "https://iconify.design/",
+    "description": "Icon Collections",
+    "descriptionEn": "Icon Collections",
+    "category": "storage",
+    "tags": [
+      "社区精选",
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-icons8",
+    "name": "Icons8",
+    "url": "https://icons8.com/icons",
+    "description": "Icon Collections",
+    "descriptionEn": "Icon Collections",
+    "category": "storage",
+    "tags": [
+      "社区精选",
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-svg-repo",
+    "name": "SVG Repo",
+    "url": "https://www.svgrepo.com/",
+    "description": "Icon Collections",
+    "descriptionEn": "Icon Collections",
+    "category": "storage",
+    "tags": [
+      "社区精选",
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-noun-project",
+    "name": "Noun Project",
+    "url": "https://thenounproject.com/",
+    "description": "Monochrome Icons",
+    "descriptionEn": "Monochrome Icons",
+    "category": "storage",
+    "tags": [
+      "社区精选",
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-svgl",
+    "name": "SVGL",
+    "url": "https://svgl.app/",
+    "description": "Company · Brand · Program Icons",
+    "descriptionEn": "Company / Brand / Program Icons",
+    "category": "storage",
+    "tags": [
+      "社区精选",
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": "https://github.com/selfhst/icons",
+    "platforms": []
+  },
+  {
+    "id": "storage-3dicons",
+    "name": "⁠3DIcons",
+    "url": "https://3dicons.co/",
+    "description": "3D SVG Icons",
+    "descriptionEn": "3D SVG Icons",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-heroicons-animated",
+    "name": "heroicons-animated",
+    "url": "https://www.heroicons-animated.com/",
+    "description": "Animated Icons",
+    "descriptionEn": "Animated Icons",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-healthicons",
+    "name": "HealthIcons",
+    "url": "https://healthicons.org/",
+    "description": "Medical Icons",
+    "descriptionEn": "Medical Icons",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-sidebery",
+    "name": "Sidebery",
+    "url": "https://github.com/mbnuqw/sidebery",
+    "description": "Firefox",
+    "descriptionEn": "Firefox",
+    "category": "storage",
+    "tags": [
+      "社区精选",
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": "https://github.com/mbnuqw/sidebery",
+    "platforms": []
+  },
+  {
+    "id": "storage-react-typescript-cheatsh",
+    "name": "React TypeScript Cheatsheets",
+    "url": "https://react-typescript-cheatsheet.netlify.app",
+    "description": "TypeScript Cheatsheet for React Devs",
+    "descriptionEn": "TypeScript Cheatsheet for React Devs",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-clean-code-typescript",
+    "name": "Clean Code TypeScript",
+    "url": "https://labs42io.github.io/clean-code-typescript",
+    "description": "Clean Code for TypeScript",
+    "descriptionEn": "Clean Code for TypeScript",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-typescript-deep-dive",
+    "name": "TypeScript Deep Dive",
+    "url": "https://basarat.gitbook.io/typescript/getting-started",
+    "description": "TypeScript Guides",
+    "descriptionEn": "TypeScript Guides",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-typehero",
+    "name": "TypeHero",
+    "url": "https://typehero.dev/",
+    "description": "TypeScript Exercises · Challenges",
+    "descriptionEn": "TypeScript Exercises / Challenges",
+    "category": "storage",
+    "tags": [
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/type-challenges/type-challenges",
+    "platforms": []
+  },
+  {
+    "id": "storage-trpc",
+    "name": "tRPC",
+    "url": "https://trpc.io/",
+    "description": "Build Type-Safe TypeScript APIs",
+    "descriptionEn": "Build Type-Safe TypeScript APIs",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-coursevania",
+    "name": "Coursevania",
+    "url": "https://coursevania.com/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "社区精选",
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-couponscorpion",
+    "name": "CouponScorpion",
+    "url": "https://couponscorpion.com/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "社区精选",
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-udemy-free",
+    "name": "Udemy FREE",
+    "url": "https://t.me/udemyforu",
+    "description": "Udemy TG Channels",
+    "descriptionEn": "Udemy TG Channels",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "storage-udemy-course-enroller",
+    "name": "Udemy-Course-Enroller",
+    "url": "https://github.com/techtanic/Discounted-Udemy-Course-Enroller",
+    "description": "Auto Course Enrollment",
+    "descriptionEn": "Auto Course Enrollment",
+    "category": "storage",
+    "tags": [
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/techtanic/Discounted-Udemy-Course-Enroller",
+    "platforms": []
+  },
+  {
+    "id": "storage-udemypy",
+    "name": "UdemyPy",
+    "url": "https://github.com/dylannalex/UdemyPy",
+    "description": "Udemy Course Bots",
+    "descriptionEn": "Udemy Course Bots",
+    "category": "storage",
+    "tags": [
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/dylannalex/UdemyPy",
+    "platforms": []
+  },
+  {
+    "id": "storage-udemy-downloader",
+    "name": "udemy-downloader",
+    "url": "https://github.com/Puyodead1/udemy-downloader",
+    "description": "Udemy Downloader",
+    "descriptionEn": "Udemy Downloader",
+    "category": "storage",
+    "tags": [
+      "开源",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/Puyodead1/udemy-downloader",
+    "platforms": []
+  },
+  {
+    "id": "storage-udemy-download-guide",
+    "name": "Udemy Download Guide",
+    "url": "https://docs.google.com/document/d/1W91OS9rj7h9DBp5UwR68lA2zMEtqNmxdGaNVmBktIaw/",
+    "description": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "descriptionEn": "免费对象存储、多网盘统一挂载与加密备份工具",
+    "category": "storage",
+    "tags": [
+      "免费",
+      "云存储",
+      "数据备份"
+    ],
+    "tagsEn": [
+      "Free",
+      "Cloud Storage",
+      "Backup"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  }
+]

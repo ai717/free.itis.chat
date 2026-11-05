@@ -1,0 +1,2689 @@
+[
+  {
+    "id": "torrenting-rutracker",
+    "name": "RuTracker",
+    "url": "https://rutracker.org/",
+    "description": "影视、音乐、漫画与电子书聚合，需注册账号",
+    "descriptionEn": "Video / Audio / Comics / Magazines / Requires Sign-Up",
+    "category": "torrenting",
+    "tags": [
+      "社区精选",
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-quick-translator",
+    "name": "Quick Translator",
+    "url": "https://github.com/L-at-nnes/rutracker-traduction",
+    "description": "Quick Translator · Wiki · Rules · Bypass 浏览器扩展, 2",
+    "descriptionEn": "Quick Translator / Wiki / Rules / Bypass Extension, 2",
+    "category": "torrenting",
+    "tags": [
+      "社区精选",
+      "开源",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Open Source",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": "https://github.com/L-at-nnes/rutracker-traduction",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "torrenting-m0nkrus",
+    "name": "m0nkrus",
+    "url": "https://rentry.co/FMHYB64#m0nkrus",
+    "description": "专业影音剪辑与视觉设计工具",
+    "descriptionEn": "Editing Software",
+    "category": "torrenting",
+    "tags": [
+      "社区精选",
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-block-telemetry",
+    "name": "Block Telemetry",
+    "url": "https://rentry.co/FMHYB64#a-dove-is-dumb",
+    "description": "Block Telemetry · Quick Guide",
+    "descriptionEn": "Block Telemetry / Quick Guide",
+    "category": "torrenting",
+    "tags": [
+      "社区精选",
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-1337x",
+    "name": "1337x",
+    "url": "https://1337x.to/home/",
+    "description": "高清影视与音乐流媒体资源 · Mirrors · User Ranks",
+    "descriptionEn": "Video / Audio / Mirrors / User Ranks",
+    "category": "torrenting",
+    "tags": [
+      "开源",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/fmhy/edit",
+    "platforms": []
+  },
+  {
+    "id": "torrenting-telegram-bot",
+    "name": "Telegram Bot",
+    "url": "https://t.me/search_content_bot",
+    "description": "Telegram Bot · IMDb Ratings · Steam Store Hover · Display Magnets · Timestamp Fix",
+    "descriptionEn": "Telegram Bot / IMDb Ratings / Steam Store Hover / Display Magnets / Timestamp Fix",
+    "category": "torrenting",
+    "tags": [
+      "开源",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/kotylo/1337imdb",
+    "platforms": []
+  },
+  {
+    "id": "torrenting-rarbg-dump",
+    "name": "RARBG Dump",
+    "url": "https://rarbgdump.com/",
+    "description": "高清影视与音乐流媒体资源 · Games · Books · Continuation Project",
+    "descriptionEn": "Video / Audio / Games / Books / Continuation Project",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-limetorrents",
+    "name": "LimeTorrents",
+    "url": "https://www.limetorrents.fun/",
+    "description": "影视、音乐与电子书综合资源平台",
+    "descriptionEn": "Video / Audio / Books",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-rutor-info",
+    "name": "rutor.info",
+    "url": "https://rutor.is/",
+    "description": "影视、音乐与电子书综合资源平台 · ROMs · Magazines · Use Translator",
+    "descriptionEn": "Video / Audio / Books / ROMs / Magazines / Use Translator",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-tr4ker",
+    "name": "TR4KER",
+    "url": "https://tr4ker.net/",
+    "description": "影视、音乐与电子书综合资源平台 · Signup Required",
+    "descriptionEn": "Video / Audio / Books / Signup Required",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-uztracker",
+    "name": "UZTracker",
+    "url": "https://uztracker.me",
+    "description": "影视、音乐与电子书综合资源平台 · Use Translator",
+    "descriptionEn": "Video / Audio / Books / Use Translator",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-nnm-club",
+    "name": "NNM-Club",
+    "url": "https://nnmclub.to/",
+    "description": "高清影视与音乐流媒体资源",
+    "descriptionEn": "Video / Audio",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-torrenting",
+    "name": "Torrenting",
+    "url": "https://www.torrenting.com/",
+    "description": "影视、音乐与电子书综合资源平台 · 需注册账号使用",
+    "descriptionEn": "Video / Audio / Books / Requires Sign-Up",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-knaben-info",
+    "name": "Knaben.info",
+    "url": "https://knaben.info/",
+    "description": "Torrent Site Proxies",
+    "descriptionEn": "Torrent Site Proxies",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-ext",
+    "name": "ExT",
+    "url": "https://ext.to/",
+    "description": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "descriptionEn": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "category": "torrenting",
+    "tags": [
+      "社区精选",
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-knaben",
+    "name": "Knaben",
+    "url": "https://knaben.org/",
+    "description": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "descriptionEn": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "category": "torrenting",
+    "tags": [
+      "社区精选",
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-damagnet",
+    "name": "DaMagNet",
+    "url": "https://damag.net/",
+    "description": "基于 DHT 分布式哈希表网络",
+    "descriptionEn": "DHT-Based",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-bt4g",
+    "name": "BT4G",
+    "url": "https://bt4gprx.com/",
+    "description": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "descriptionEn": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-filemood",
+    "name": "FileMood",
+    "url": "https://filemood.com/",
+    "description": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "descriptionEn": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-torrentproject",
+    "name": "TorrentProject",
+    "url": "https://torrentproject.cc/",
+    "description": "基于 DHT 分布式哈希表网络",
+    "descriptionEn": "DHT-Based",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-torrentquest",
+    "name": "TorrentQuest",
+    "url": "https://torrentquest.com/",
+    "description": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "descriptionEn": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-extratorrent",
+    "name": "ExtraTorrent",
+    "url": "https://extratorrent.st/",
+    "description": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "descriptionEn": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-cleanbay",
+    "name": "Cleanbay",
+    "url": "https://cleanbay.netlify.app/",
+    "description": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "descriptionEn": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "category": "torrenting",
+    "tags": [
+      "开源",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/Gr3atWh173/cleanbay",
+    "platforms": []
+  },
+  {
+    "id": "torrenting-torrents-csv",
+    "name": "Torrents-CSV",
+    "url": "https://torrents-csv.com/",
+    "description": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "descriptionEn": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "category": "torrenting",
+    "tags": [
+      "开源",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-the-black-hole-bay",
+    "name": "⁠The Black Hole Bay",
+    "url": "https://theblackholebay.lol/",
+    "description": "基于 DHT 分布式哈希表网络 · Discord",
+    "descriptionEn": "DHT-Based / Discord",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-snowfl",
+    "name": "snowfl",
+    "url": "https://snowfl.com/",
+    "description": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "descriptionEn": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-torlock",
+    "name": "Torlock",
+    "url": "https://www.torlock.com/",
+    "description": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "descriptionEn": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-uindex",
+    "name": "uIndex",
+    "url": "https://uindex.org/",
+    "description": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "descriptionEn": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-torrent-cse",
+    "name": "Torrent CSE",
+    "url": "https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj",
+    "description": "Multi Site Search",
+    "descriptionEn": "Multi Site Search",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-0mag",
+    "name": "0Mag",
+    "url": "https://www.0mag.net/",
+    "description": "磁力链接去中心化搜索与分享平台",
+    "descriptionEn": "Magnet Link Sharing Platform",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-magnetissimo",
+    "name": "Magnetissimo",
+    "url": "https://github.com/sergiotapia/magnetissimo",
+    "description": "Magnet Search Web App",
+    "descriptionEn": "Magnet Search Web App",
+    "category": "torrenting",
+    "tags": [
+      "开源",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/sergiotapia/magnetissimo",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "torrenting-torrentsearchrobot",
+    "name": "TorrentSearchRobot",
+    "url": "https://t.me/TorrentSearchRoBot",
+    "description": "Telegram Torrent Search Bots",
+    "descriptionEn": "Telegram Torrent Search Bots",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-torrentinim",
+    "name": "Torrentinim",
+    "url": "https://github.com/sergiotapia/torrentinim",
+    "description": "支持私有化自建部署 Torrent 专用搜索引擎s",
+    "descriptionEn": "Self-Hosted Torrent Search Engines",
+    "category": "torrenting",
+    "tags": [
+      "开源",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/sergiotapia/torrentinim",
+    "platforms": [
+      "docker"
+    ]
+  },
+  {
+    "id": "torrenting-qbittorrent",
+    "name": "qBittorrent",
+    "url": "https://www.qbittorrent.org/",
+    "description": "开源 BitTorrent · 磁力下载客户端 · Windows, macOS, Linux · Tools · GitHub",
+    "descriptionEn": "Torrent Client / Windows, macOS, Linux / Tools / GitHub",
+    "category": "torrenting",
+    "tags": [
+      "社区精选",
+      "开源",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Open Source",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": "https://github.com/c0re100/qBittorrent-Enhanced-Edition",
+    "platforms": [
+      "win",
+      "web",
+      "mac"
+    ]
+  },
+  {
+    "id": "torrenting-deluge",
+    "name": "Deluge",
+    "url": "https://www.deluge-torrent.org/",
+    "description": "开源 BitTorrent · 磁力下载客户端 · Plugins · Telegram Plugin · Windows, macOS, Linux",
+    "descriptionEn": "Torrent Client / Plugins / Telegram Plugin / Windows, macOS, Linux",
+    "category": "torrenting",
+    "tags": [
+      "社区精选",
+      "开源",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Open Source",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": "https://github.com/noam09/deluge-telegramer",
+    "platforms": [
+      "win",
+      "mac"
+    ]
+  },
+  {
+    "id": "torrenting-transmission",
+    "name": "Transmission",
+    "url": "https://transmissionbt.com/",
+    "description": "开源 BitTorrent · 磁力下载客户端 · Windows, macOS, Linux",
+    "descriptionEn": "Torrent Client / Windows, macOS, Linux",
+    "category": "torrenting",
+    "tags": [
+      "社区精选",
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": [
+      "win",
+      "mac"
+    ]
+  },
+  {
+    "id": "torrenting-rtorrent",
+    "name": "rTorrent",
+    "url": "https://rtorrent.net/",
+    "description": "开源 BitTorrent · 磁力下载客户端 · Extended · Tools, 2 · Mods · Linux · GitHub",
+    "descriptionEn": "Torrent Client / Extended / Tools, 2 / Mods / Linux / GitHub",
+    "category": "torrenting",
+    "tags": [
+      "社区精选",
+      "开源",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Open Source",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": "https://github.com/pyroscope/pyrocore",
+    "platforms": []
+  },
+  {
+    "id": "torrenting-rutorrent",
+    "name": "RuTorrent",
+    "url": "https://github.com/Novik/ruTorrent",
+    "description": "RTorrent Web Frontend",
+    "descriptionEn": "RTorrent Web Frontend",
+    "category": "torrenting",
+    "tags": [
+      "开源",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "warning",
+    "warningText": "避坑警告: Considered [adware](https://www.virustotal.com/gui/file/26ffe686650ea56b23834f805f2a449b1ce745702f606a765887a6c3fc2aab09/), pre-adware versions exist, but it's best to use [open source](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients) clients",
+    "warningTextEn": "Caveat: Considered [adware](https://www.virustotal.com/gui/file/26ffe686650ea56b23834f805f2a449b1ce745702f606a765887a6c3fc2aab09/), pre-adware versions exist, but it's best to use [open source](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients) clients",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/Novik/ruTorrent",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "torrenting-flood",
+    "name": "flood",
+    "url": "https://flood.js.org/",
+    "description": "rTorrent, Transmission & qBittorrent WebUI · GitHub",
+    "descriptionEn": "rTorrent, Transmission & qBittorrent WebUI / GitHub",
+    "category": "torrenting",
+    "tags": [
+      "开源",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/jesec/flood",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "torrenting-torrent-control",
+    "name": "torrent-control",
+    "url": "https://github.com/Mika-/torrent-control",
+    "description": "Easily Send Torrents to 客户端",
+    "descriptionEn": "Easily Send Torrents to Client",
+    "category": "torrenting",
+    "tags": [
+      "开源",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/Mika-/torrent-control",
+    "platforms": []
+  },
+  {
+    "id": "torrenting-tixati",
+    "name": "Tixati",
+    "url": "https://tixati.com/",
+    "description": "开源 BitTorrent · 磁力下载客户端 · Windows, Linux, Android",
+    "descriptionEn": "Torrent Client / Windows, Linux, Android",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": [
+      "win",
+      "android"
+    ]
+  },
+  {
+    "id": "torrenting-biglybt",
+    "name": "BiglyBT",
+    "url": "https://www.biglybt.com/",
+    "description": "开源 BitTorrent · 磁力下载客户端 · Windows, macOS, Linux, Android",
+    "descriptionEn": "Torrent Client / Windows, macOS, Linux, Android",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": [
+      "win",
+      "mac",
+      "android"
+    ]
+  },
+  {
+    "id": "torrenting-liii",
+    "name": "LIII",
+    "url": "https://codecpack.co/download/LIII-BitTorrent-Client.html",
+    "description": "开源 BitTorrent · 磁力下载客户端 · Windows",
+    "descriptionEn": "Torrent Client / Windows",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": [
+      "win"
+    ]
+  },
+  {
+    "id": "torrenting-wiztorrent",
+    "name": "WizTorrent",
+    "url": "https://wiztorrent.com/",
+    "description": "开源 BitTorrent · 磁力下载客户端 · Streaming · WebShare · Windows, macOS, Linux",
+    "descriptionEn": "Torrent Client / Streaming / WebShare / Windows, macOS, Linux",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": [
+      "win",
+      "web",
+      "mac"
+    ]
+  },
+  {
+    "id": "torrenting-rqbit",
+    "name": "rqbit",
+    "url": "https://github.com/ikatson/rqbit/",
+    "description": "Lightweight 开源 BitTorrent · 磁力下载客户端 · Streaming · UPnP Integration · Windows, macOS, Linux",
+    "descriptionEn": "Lightweight Torrent Client / Streaming / UPnP Integration / Windows, macOS, Linux",
+    "category": "torrenting",
+    "tags": [
+      "开源",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/ikatson/rqbit",
+    "platforms": [
+      "win",
+      "mac"
+    ]
+  },
+  {
+    "id": "torrenting-pikatorrent",
+    "name": "PikaTorrent",
+    "url": "https://www.pikatorrent.com/",
+    "description": "开源 BitTorrent · 磁力下载客户端 · Windows, macOS, Linux, Android, iOS · GitHub",
+    "descriptionEn": "Torrent Client / Windows, macOS, Linux, Android, iOS / GitHub",
+    "category": "torrenting",
+    "tags": [
+      "开源",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/G-Ray/pikatorrent",
+    "platforms": [
+      "win",
+      "mac",
+      "android"
+    ]
+  },
+  {
+    "id": "torrenting-distribyted",
+    "name": "Distribyted",
+    "url": "https://distribyted.com/",
+    "description": "开源 BitTorrent · 磁力下载客户端 · Windows, Linux · GitHub",
+    "descriptionEn": "Torrent Client / Windows, Linux / GitHub",
+    "category": "torrenting",
+    "tags": [
+      "开源",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/distribyted/distribyted",
+    "platforms": [
+      "win"
+    ]
+  },
+  {
+    "id": "torrenting-fragments",
+    "name": "Fragments",
+    "url": "https://apps.gnome.org/Fragments/",
+    "description": "开源 BitTorrent · 磁力下载客户端 · Linux",
+    "descriptionEn": "Torrent Client / Linux",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-bitflu",
+    "name": "BitFlu",
+    "url": "https://bitflu.workaround.ch/",
+    "description": "开源 BitTorrent · 磁力下载客户端 · Linux",
+    "descriptionEn": "Torrent Client / Linux",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-ktorrent",
+    "name": "kTorrent",
+    "url": "https://apps.kde.org/ktorrent/",
+    "description": "开源 BitTorrent · 磁力下载客户端 · Linux",
+    "descriptionEn": "Torrent Client / Linux",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-rats-search",
+    "name": "Rats Search",
+    "url": "https://github.com/DEgITx/rats-search",
+    "description": "Torrent Search 客户端",
+    "descriptionEn": "Torrent Search Client",
+    "category": "torrenting",
+    "tags": [
+      "开源",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/DEgITx/rats-search",
+    "platforms": []
+  },
+  {
+    "id": "torrenting-download-torrents-throug",
+    "name": "Download Torrents Through I2P",
+    "url": "https://decentnet.github.io/blog/20200329-download-torrents-through-i2p.html",
+    "description": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "descriptionEn": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-r-seedboxes",
+    "name": "r/Seedboxes",
+    "url": "https://www.reddit.com/r/seedboxes/",
+    "description": "Seedbox Subreddit",
+    "descriptionEn": "Seedbox Subreddit",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-seedbox-guide",
+    "name": "Seedbox Guide",
+    "url": "https://seedboxgui.de/seedbox/",
+    "description": "Seedbox Comparisons",
+    "descriptionEn": "Seedbox Comparisons",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-qbit-plugins",
+    "name": "qBit Plugins",
+    "url": "https://github.com/qbittorrent/search-plugins",
+    "description": "Plugins Index",
+    "descriptionEn": "Plugins Index",
+    "category": "torrenting",
+    "tags": [
+      "开源",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": true,
+    "githubUrl": "https://github.com/qbittorrent/search-plugins",
+    "platforms": []
+  },
+  {
+    "id": "torrenting-qbit-themes",
+    "name": "qBit Themes",
+    "url": "https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-qBittorrent-themes",
+    "description": "Themes Index",
+    "descriptionEn": "Themes Index",
+    "category": "torrenting",
+    "tags": [
+      "开源",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": true,
+    "githubUrl": "https://github.com/qbittorrent/qBittorrent",
+    "platforms": []
+  },
+  {
+    "id": "torrenting-qbit-webuis",
+    "name": "qBit WebUIs",
+    "url": "https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-alternate-WebUIs",
+    "description": "Alt WebUI Index",
+    "descriptionEn": "Alt WebUI Index",
+    "category": "torrenting",
+    "tags": [
+      "开源",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": true,
+    "githubUrl": "https://github.com/qbittorrent/qBittorrent",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "torrenting-qbitmf",
+    "name": "qBitMF",
+    "url": "https://github.com/qBitMF/qBitMF",
+    "description": "Multi-Connection Tool",
+    "descriptionEn": "Multi-Connection Tool",
+    "category": "torrenting",
+    "tags": [
+      "开源",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/qBitMF/qBitMF",
+    "platforms": []
+  },
+  {
+    "id": "torrenting-qui",
+    "name": "⁠qui",
+    "url": "https://getqui.com/",
+    "description": "Alt WebUIs",
+    "descriptionEn": "Alt WebUIs",
+    "category": "torrenting",
+    "tags": [
+      "开源",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/autobrr/qui",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "torrenting-qbit-manage",
+    "name": "qBit Manage",
+    "url": "https://github.com/StuffAnThings/qbit_manage",
+    "description": "Manager · Automation Tool",
+    "descriptionEn": "Manager / Automation Tool",
+    "category": "torrenting",
+    "tags": [
+      "开源",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/StuffAnThings/qbit_manage",
+    "platforms": []
+  },
+  {
+    "id": "torrenting-qbitcontroller",
+    "name": "qBitController",
+    "url": "https://github.com/Bartuzen/qBitController",
+    "description": "Mobile Controllers",
+    "descriptionEn": "Mobile Controllers",
+    "category": "torrenting",
+    "tags": [
+      "开源",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/Bartuzen/qBitController",
+    "platforms": []
+  },
+  {
+    "id": "torrenting-docker-qbit",
+    "name": "Docker qBit",
+    "url": "https://github.com/linuxserver/docker-qbittorrent",
+    "description": "Docker Builds",
+    "descriptionEn": "Docker Builds",
+    "category": "torrenting",
+    "tags": [
+      "开源",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/linuxserver/docker-qbittorrent",
+    "platforms": [
+      "docker"
+    ]
+  },
+  {
+    "id": "torrenting-qbit-color-themes",
+    "name": "qBit Color Themes",
+    "url": "https://github.com/MahdiMirzadeh/qbittorrent",
+    "description": "客户端 Themes",
+    "descriptionEn": "Client Themes",
+    "category": "torrenting",
+    "tags": [
+      "开源",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/MahdiMirzadeh/qbittorrent",
+    "platforms": []
+  },
+  {
+    "id": "torrenting-quantum",
+    "name": "Quantum",
+    "url": "https://github.com/UHAXM1/Quantum",
+    "description": "Auto Port Updater for Proton · Windows",
+    "descriptionEn": "Auto Port Updater for Proton / Windows",
+    "category": "torrenting",
+    "tags": [
+      "开源",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/UHAXM1/Quantum",
+    "platforms": [
+      "win"
+    ]
+  },
+  {
+    "id": "torrenting-debrid---leeches",
+    "name": "Debrid / Leeches",
+    "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_debrid_.2F_leeches",
+    "description": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "descriptionEn": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": true,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-torbox",
+    "name": "TorBox",
+    "url": "https://torbox.app/",
+    "description": "免费基础额度可用 · 10GB · 10 Monthly Downloads · Hosters · Unofficial Mobile 客户端, 2 · Subreddit · Discord · GitHub",
+    "descriptionEn": "Freemium / 10GB / 10 Monthly Downloads / Hosters / Unofficial Mobile Client, 2 / Subreddit / Discord / GitHub",
+    "category": "torrenting",
+    "tags": [
+      "社区精选",
+      "开源",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Open Source",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": "https://github.com/93Pd9s8Jt/atba",
+    "platforms": []
+  },
+  {
+    "id": "torrenting-seedr",
+    "name": "Seedr",
+    "url": "https://www.seedr.cc/",
+    "description": "2GB · Telegram Bot · API Wrapper",
+    "descriptionEn": "2GB / Telegram Bot / API Wrapper",
+    "category": "torrenting",
+    "tags": [
+      "社区精选",
+      "开源",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Open Source",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": "https://github.com/AnjanaMadu/SeedrAPI",
+    "platforms": []
+  },
+  {
+    "id": "torrenting-torrent-to-google-drive-",
+    "name": "Torrent_To_Google_Drive_Downloader",
+    "url": "https://colab.research.google.com/github/FKLC/Torrent-To-Google-Drive-Downloader/blob/master/Torrent_To_Google_Drive_Downloader.ipynb",
+    "description": "Google Colab · 15GB",
+    "descriptionEn": "Google Colab / 15GB",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-webtor",
+    "name": "webtor",
+    "url": "https://webtor.io/",
+    "description": "无限制使用 · Download Speed Limited · 免注册登录，开箱即用 · SDK · Self-Host",
+    "descriptionEn": "Unlimited / Download Speed Limited / No Sign-Up / SDK / Self-Host",
+    "category": "torrenting",
+    "tags": [
+      "开源",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/webtor-io/embed-sdk-js",
+    "platforms": [
+      "web",
+      "docker"
+    ]
+  },
+  {
+    "id": "torrenting-magnet-diy",
+    "name": "⁠Magnet.diy",
+    "url": "https://magnet.diy/",
+    "description": "2.5GB",
+    "descriptionEn": "2.5GB",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-sonicbit",
+    "name": "⁠SonicBit",
+    "url": "https://sonicbit.net/",
+    "description": "4GB",
+    "descriptionEn": "4GB",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-private-trackers-general",
+    "name": "Private Trackers General",
+    "url": "https://clarasguide.valeena.workers.dev/Guides/private-trackers/",
+    "description": "Private Tracker Guides",
+    "descriptionEn": "Private Tracker Guides",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": true,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-opensignup",
+    "name": "OpenSignup",
+    "url": "https://trackersignup.org/",
+    "description": "Tracker Status Updates",
+    "descriptionEn": "Tracker Status Updates",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-tracker-pathways",
+    "name": "⁠Tracker Pathways",
+    "url": "https://trackerpathways.org/",
+    "description": "Private Tracker Pathways, Requirements, Invite Tiers",
+    "descriptionEn": "Private Tracker Pathways, Requirements, Invite Tiers",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-r-trackers",
+    "name": "r/trackers",
+    "url": "https://reddit.com/r/trackers",
+    "description": "Tracker Discussion",
+    "descriptionEn": "Tracker Discussion",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-r-opensignups",
+    "name": "r/OpenSignups",
+    "url": "https://www.reddit.com/r/OpenSignups/",
+    "description": "Open Tracker Signup Subs",
+    "descriptionEn": "Open Tracker Signup Subs",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-private-tracker-spreadsh",
+    "name": "Private Tracker Spreadsheet",
+    "url": "https://hdvinnie.github.io/Private-Trackers-Spreadsheet/",
+    "description": "Private Tracker Lists",
+    "descriptionEn": "Private Tracker Lists",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-opensignups",
+    "name": "OpenSignups",
+    "url": "https://t.me/trackersignup",
+    "description": "Open Signups Private Trackers · Telegram",
+    "descriptionEn": "Open Signups Private Trackers / Telegram",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-cross-seed",
+    "name": "⁠cross-seed",
+    "url": "https://www.cross-seed.org/",
+    "description": "Cross-Seeding Tool · Seed Same Torrent Across Multiple Sites · GitHub",
+    "descriptionEn": "Cross-Seeding Tool / Seed Same Torrent Across Multiple Sites / GitHub",
+    "category": "torrenting",
+    "tags": [
+      "开源",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/cross-seed/cross-seed",
+    "platforms": []
+  },
+  {
+    "id": "torrenting-upload-assistant",
+    "name": "Upload-Assistant",
+    "url": "https://github.com/wastaken7/Upload-Assistant",
+    "description": "Private Tracker Auto-Upload",
+    "descriptionEn": "Private Tracker Auto-Upload",
+    "category": "torrenting",
+    "tags": [
+      "开源",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/wastaken7/Upload-Assistant",
+    "platforms": []
+  },
+  {
+    "id": "torrenting-ngosang",
+    "name": "ngosang",
+    "url": "https://ngosang.github.io/trackerslist/",
+    "description": "Tracker Lists",
+    "descriptionEn": "Tracker Lists",
+    "category": "torrenting",
+    "tags": [
+      "开源",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": true,
+    "githubUrl": "https://github.com/ngosang/trackerslist",
+    "platforms": []
+  },
+  {
+    "id": "torrenting-scene-related",
+    "name": "Scene Related",
+    "url": "https://opentrackers.org/links/warez-scene/#scenerelated",
+    "description": "Warez · Scene Site Index",
+    "descriptionEn": "Warez / Scene Site Index",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": true,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-milkie",
+    "name": "Milkie",
+    "url": "https://milkie.cc",
+    "description": "Scene Release Download",
+    "descriptionEn": "Scene Release Download",
+    "category": "torrenting",
+    "tags": [
+      "社区精选",
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-predb-net",
+    "name": "PreDB.net",
+    "url": "https://predb.net/",
+    "description": "Scene Release Info",
+    "descriptionEn": "Scene Release Info",
+    "category": "torrenting",
+    "tags": [
+      "社区精选",
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-t2m",
+    "name": "T2M",
+    "url": "https://nutbread.github.io/t2m/",
+    "description": "Torrent to Magnet Converters",
+    "descriptionEn": "Torrent to Magnet Converters",
+    "category": "torrenting",
+    "tags": [
+      "社区精选",
+      "开源",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Open Source",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": "https://github.com/nutbread/t2m",
+    "platforms": []
+  },
+  {
+    "id": "torrenting-magnet2torrent",
+    "name": "Magnet2Torrent",
+    "url": "https://magnet2torrent.com/",
+    "description": "Magnet to Torrent Converter",
+    "descriptionEn": "Magnet to Torrent Converter",
+    "category": "torrenting",
+    "tags": [
+      "社区精选",
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Featured",
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-port-forwarding-guide",
+    "name": "Port Forwarding Guide",
+    "url": "https://wispydocs.pages.dev/torrenting/#port-forwarding",
+    "description": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "descriptionEn": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-peerbanhelper",
+    "name": "PeerBanHelper",
+    "url": "https://github.com/PBH-BTN/PeerBanHelper/blob/master/README.EN.md",
+    "description": "Block Unwanted Leeches · Peers",
+    "descriptionEn": "Block Unwanted Leeches / Peers",
+    "category": "torrenting",
+    "tags": [
+      "开源",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/PBH-BTN/PeerBanHelper",
+    "platforms": []
+  },
+  {
+    "id": "torrenting-btcache",
+    "name": "btcache",
+    "url": "https://btcache.me/",
+    "description": "Torrent Storage Cache",
+    "descriptionEn": "Torrent Storage Cache",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-infotorrent",
+    "name": "InfoTorrent",
+    "url": "https://infotorrent.tnl.one/",
+    "description": "Check Torrent File Health",
+    "descriptionEn": "Check Torrent File Health",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-torrenttags",
+    "name": "TorrentTags",
+    "url": "https://torrenttags.com/",
+    "description": "Check Torrents for Copyright Claims",
+    "descriptionEn": "Check Torrents for Copyright Claims",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-magnet-link-generator",
+    "name": "Magnet Link Generator",
+    "url": "https://magnetlinkgenerator.com/",
+    "description": "去中心化种子搜索、纯净 BT 客户端与 Tracker 维护",
+    "descriptionEn": "Magnet Link Generator",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-magnet2list",
+    "name": "magnet2list",
+    "url": "https://hutstep.github.io/magnet2list/",
+    "description": "Convert Magnets to Tracker Lists",
+    "descriptionEn": "Convert Magnets to Tracker Lists",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-openwebtorrent",
+    "name": "OpenWebTorrent",
+    "url": "https://openwebtorrent.com/",
+    "description": "Free Webtorrent Tracker",
+    "descriptionEn": "Free Webtorrent Tracker",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "torrenting-autodl-irssi",
+    "name": "AutoDL-Irssi",
+    "url": "https://autodl-community.github.io/autodl-irssi/",
+    "description": "IRC Channel Monitor · Autodownload · Slack Notifications",
+    "descriptionEn": "IRC Channel Monitor / Autodownload / Slack Notifications",
+    "category": "torrenting",
+    "tags": [
+      "开源",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-privtracker",
+    "name": "PrivTracker",
+    "url": "https://privtracker.com/",
+    "description": "Private BitTorrent Tracker Generator · GitHub",
+    "descriptionEn": "Private BitTorrent Tracker Generator / GitHub",
+    "category": "torrenting",
+    "tags": [
+      "开源",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/meehow/privtracker",
+    "platforms": []
+  },
+  {
+    "id": "torrenting-mkbrr",
+    "name": "⁠mkbrr",
+    "url": "https://mkbrr.com/",
+    "description": "Torrent Creators",
+    "descriptionEn": "Torrent Creators",
+    "category": "torrenting",
+    "tags": [
+      "开源",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/autobrr/mkbrr",
+    "platforms": []
+  },
+  {
+    "id": "torrenting-torrent-parts",
+    "name": "Torrent Parts",
+    "url": "https://torrent.parts/",
+    "description": "Edit Torrents Files",
+    "descriptionEn": "Edit Torrents Files",
+    "category": "torrenting",
+    "tags": [
+      "开源",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": "https://github.com/leoherzog/TorrentParts",
+    "platforms": []
+  },
+  {
+    "id": "torrenting-r-torrents",
+    "name": "r/torrents",
+    "url": "https://reddit.com/r/torrents",
+    "description": "Torrenting Discussion",
+    "descriptionEn": "Torrenting Discussion",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  },
+  {
+    "id": "torrenting-iknowwhatyoudownload",
+    "name": "IKnowWhatYouDownload",
+    "url": "https://iknowwhatyoudownload.com/",
+    "description": "View Torrents Downloaded by your IP (can be inaccurate)",
+    "descriptionEn": "View Torrents Downloaded by your IP (can be inaccurate)",
+    "category": "torrenting",
+    "tags": [
+      "免费",
+      "BT种子",
+      "磁力搜索"
+    ],
+    "tagsEn": [
+      "Free",
+      "Torrent",
+      "P2P"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
+    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "githubUrl": null,
+    "platforms": []
+  }
+]
