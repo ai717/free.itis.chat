@@ -3,6 +3,7 @@ import { motion } from 'framer-motion';
 import { ExternalLink, Copy, Check, GitPullRequest, Tag } from 'lucide-react';
 import type { ResourceItem } from '../types';
 import { SafeguardBadge } from './SafeguardBadge';
+import { useCurrentLang } from '../utils/i18n';
 
 interface ResourceCardProps {
   item: ResourceItem;
@@ -10,6 +11,7 @@ interface ResourceCardProps {
 }
 
 export const ResourceCard: React.FC<ResourceCardProps> = ({ item, className = '' }) => {
+  const [lang] = useCurrentLang();
   const [copied, setCopied] = useState(false);
 
   const handleCopy = (e: React.MouseEvent) => {
@@ -68,7 +70,7 @@ export const ResourceCard: React.FC<ResourceCardProps> = ({ item, className = ''
 
         {/* Description */}
         <p className="text-slate-300 text-sm leading-relaxed line-clamp-3 mb-4 font-normal">
-          {item.description}
+          {lang === 'en' && item.descriptionEn ? item.descriptionEn : item.description}
         </p>
       </div>
 
@@ -76,7 +78,7 @@ export const ResourceCard: React.FC<ResourceCardProps> = ({ item, className = ''
       <div className="pt-3 border-t border-white/5 flex flex-col gap-2.5">
         {/* Tags */}
         <div className="flex items-center gap-1.5 flex-wrap">
-          {item.tags.map((tag) => (
+          {(lang === 'en' && item.tagsEn ? item.tagsEn : item.tags).map((tag) => (
             <span
               key={tag}
               className="inline-flex items-center gap-1 px-2 py-0.5 rounded-md text-[11px] font-medium bg-slate-800/60 text-slate-300 border border-slate-700/50 hover:border-cyan-500/30 transition-colors"
@@ -95,7 +97,7 @@ export const ResourceCard: React.FC<ResourceCardProps> = ({ item, className = ''
             rel="noopener noreferrer"
             className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-cyan-500/10 hover:bg-cyan-500/20 text-cyan-400 font-medium border border-cyan-500/20 transition-all text-xs"
           >
-            <span>立即直达</span>
+            <span>{lang === 'en' ? 'Visit' : '立即直达'}</span>
             <ExternalLink className="w-3 h-3" />
           </a>
 

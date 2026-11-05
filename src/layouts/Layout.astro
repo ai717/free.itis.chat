@@ -87,17 +87,19 @@ const {
     {/* Footer */}
     <footer class="w-full border-t border-slate-200 dark:border-white/5 bg-white/80 dark:bg-[#070A12]/80 backdrop-blur-xl py-10">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col lg:flex-row items-center justify-between gap-6">
-        {/* Left Brand & Single Line Slogan */}
-        <div class="flex flex-col sm:flex-row sm:items-center gap-3 text-center sm:text-left">
-          <div class="flex items-center justify-center sm:justify-start gap-2">
-            <span class="font-bold text-base text-slate-900 dark:text-white">ITIS Free</span>
-            <span class="text-xs px-2 py-0.5 rounded-full bg-cyan-50 dark:bg-cyan-500/10 text-cyan-600 dark:text-cyan-400 border border-cyan-200 dark:border-cyan-500/20">
+        {/* Left Brand & Slogan (Strictly preserve brand inline, prevent squeezing) */}
+        <div class="flex flex-col md:flex-row items-center gap-3 text-center md:text-left min-w-0">
+          <div class="flex items-center justify-center sm:justify-start gap-2 shrink-0 whitespace-nowrap">
+            <span class="font-bold text-base text-slate-900 dark:text-white shrink-0 whitespace-nowrap">
+              ITIS Free
+            </span>
+            <span class="text-xs px-2.5 py-0.5 rounded-full bg-cyan-50 dark:bg-cyan-500/10 text-cyan-600 dark:text-cyan-400 border border-cyan-200 dark:border-cyan-500/20 shrink-0 whitespace-nowrap">
               Community Driven
             </span>
           </div>
-          <span class="hidden sm:inline text-slate-300 dark:text-slate-700">|</span>
+          <span class="hidden md:inline text-slate-300 dark:text-slate-700 shrink-0">|</span>
           <p
-            class="text-xs text-slate-500 dark:text-slate-400 whitespace-nowrap"
+            class="text-xs text-slate-500 dark:text-slate-400 font-normal leading-relaxed text-center md:text-left"
             data-i18n-zh="互联网上最大的干净、无广告、社区驱动的中文数字免费资源导航，开源！白嫖！避坑！"
             data-i18n-en="The cleanest, ad-free, community-driven digital free resource navigation wiki. 100% Free · Open Source · Trap-free."
           >

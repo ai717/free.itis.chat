@@ -1,4 +1,4 @@
-import React, { useState, useMemo } from 'react';
+import React, { useState, useMemo, useEffect } from 'react';
 import type { ResourceItem, CategoryMeta } from '../types';
 import { ResourceListItem } from './ResourceListItem';
 import { Search, Tag, ShieldCheck, AlertTriangle } from 'lucide-react';
@@ -22,33 +22,46 @@ export const ResourceList: React.FC<ResourceListProps> = ({
   const [selectedTag, setSelectedTag] = useState<string | null>(null);
   const [statusFilter, setStatusFilter] = useState<'all' | 'verified' | 'warning'>('all');
 
-  // Popular tags
+  // Reset selected tag when language switches so obsolete tags don't stick
+  useEffect(() => {
+    setSelectedTag(null);
+  }, [lang]);
+
+  // Popular tags (reactively localized)
   const popularTags = useMemo(() => {
     const counts = new Map<string, number>();
     resources.forEach((r) => {
-      r.tags.forEach((t) => counts.set(t, (counts.get(t) || 0) + 1));
+      const tagsList = lang === 'en' && r.tagsEn ? r.tagsEn : r.tags;
+      tagsList.forEach((t) => counts.set(t, (counts.get(t) || 0) + 1));
     });
     return Array.from(counts.entries())
       .sort((a, b) => b[1] - a[1])
       .slice(0, 16)
       .map(([tag]) => tag);
-  }, [resources]);
+  }, [resources, lang]);
 
   // Filter items
   const filteredItems = useMemo(() => {
     const q = filterQuery.toLowerCase().trim();
     return resources.filter((item) => {
-      if (selectedTag && !item.tags.includes(selectedTag)) return false;
+      const itemTags = lang === 'en' && item.tagsEn ? item.tagsEn : item.tags;
+      if (selectedTag && !itemTags.includes(selectedTag) && !item.tags.includes(selectedTag)) {
+        return false;
+      }
       if (statusFilter !== 'all' && item.safeguardStatus !== statusFilter) return false;
       if (!q) return true;
+
+      const desc = (lang === 'en' && item.descriptionEn ? item.descriptionEn : item.description).toLowerCase();
+      const allTagsStr = [...item.tags, ...(item.tagsEn || [])].join(' ').toLowerCase();
+
       return (
         item.name.toLowerCase().includes(q) ||
-        item.description.toLowerCase().includes(q) ||
+        desc.includes(q) ||
         item.url.toLowerCase().includes(q) ||
-        item.tags.some((t) => t.toLowerCase().includes(q))
+        allTagsStr.includes(q)
       );
     });
-  }, [resources, filterQuery, selectedTag, statusFilter]);
+  }, [resources, filterQuery, selectedTag, statusFilter, lang]);
 
   // Group by category if requested
   const groupedData = useMemo(() => {
@@ -126,23 +139,24 @@ export const ResourceList: React.FC<ResourceListProps> = ({
         {/* Popular Tags Pills */}
         <div className="flex items-center gap-1.5 flex-wrap text-xs pt-2 border-t border-slate-100 dark:border-white/[0.03]">
           <span className="text-slate-500 dark:text-slate-400 flex items-center gap-1 mr-1">
-            <Tag className="w-3 h-3 text-cyan-600 dark:text-cyan-400" /> 快速过滤:
+            <Tag className="w-3 h-3 text-cyan-600 dark:text-cyan-400" />
+            {lang === 'en' ? 'Quick Filter:' : '快速过滤:'}
           </span>
           <button
             onClick={() => setSelectedTag(null)}
-            className={`px-2 py-0.5 rounded transition-colors text-[11px] ${
+            className={`px-2 py-0.5 rounded transition-colors text-[11px] cursor-pointer ${
               selectedTag === null
                 ? 'bg-cyan-50 dark:bg-cyan-500/20 text-cyan-700 dark:text-cyan-300 font-semibold border border-cyan-200 dark:border-cyan-500/30'
                 : 'text-slate-500 dark:text-slate-400 hover:text-slate-800 dark:hover:text-slate-200'
             }`}
           >
-            全部
+            {lang === 'en' ? 'All' : '全部'}
           </button>
           {popularTags.map((tag) => (
             <button
               key={tag}
               onClick={() => setSelectedTag(selectedTag === tag ? null : tag)}
-              className={`px-2 py-0.5 rounded transition-colors text-[11px] ${
+              className={`px-2 py-0.5 rounded transition-colors text-[11px] cursor-pointer ${
                 selectedTag === tag
                   ? 'bg-cyan-50 dark:bg-cyan-500/20 text-cyan-700 dark:text-cyan-300 font-semibold border border-cyan-200 dark:border-cyan-500/30'
                   : 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-slate-200 bg-slate-100 dark:bg-white/[0.02]'
@@ -157,16 +171,18 @@ export const ResourceList: React.FC<ResourceListProps> = ({
       {/* Content Rendering: Grouped or Single Flat List */}
       {filteredItems.length === 0 ? (
         <div className="text-center py-16 px-4 rounded-2xl bg-white dark:bg-white/[0.01] border border-slate-200 dark:border-white/5 shadow-xs">
-          <p className="text-slate-500 dark:text-slate-400 text-sm">没有匹配到任何符合条件的资源</p>
+          <p className="text-slate-500 dark:text-slate-400 text-sm">
+            {lang === 'en' ? 'No matching resources found' : '没有匹配到任何符合条件的资源'}
+          </p>
           <button
             onClick={() => {
               setFilterQuery('');
               setSelectedTag(null);
               setStatusFilter('all');
             }}
-            className="mt-3 px-4 py-1.5 rounded-lg text-xs font-medium text-cyan-700 dark:text-cyan-400 bg-cyan-50 dark:bg-cyan-500/10 hover:bg-cyan-100 dark:hover:bg-cyan-500/20 border border-cyan-200 dark:border-cyan-500/20"
+            className="mt-3 px-4 py-1.5 rounded-lg text-xs font-medium text-cyan-700 dark:text-cyan-400 bg-cyan-50 dark:bg-cyan-500/10 hover:bg-cyan-100 dark:hover:bg-cyan-500/20 border border-cyan-200 dark:border-cyan-500/20 cursor-pointer"
           >
-            清空所有筛选条件
+            {lang === 'en' ? 'Reset all filters' : '清空所有筛选条件'}
           </button>
         </div>
       ) : groupByCategory && groupedData ? (
