@@ -1,6 +1,7 @@
 ---
 import Header from '../components/Header.astro';
 import { BookmarkNewUserPrompt } from '../components/BookmarkControl';
+import { PlanetFloatingAd } from '../components/PlanetFloatingAd';
 import '../styles/global.css';
 
 interface Props {
@@ -214,5 +215,8 @@ const defaultKeywords =
 
     {/* New User Bookmark Prompt Notification */}
     <BookmarkNewUserPrompt client:idle />
+
+    {/* itis.chat AI Planet Floating Side Ad */}
+    <PlanetFloatingAd client:idle />
   </body>
 </html>
