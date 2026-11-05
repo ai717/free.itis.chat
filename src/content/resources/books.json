@@ -38,7 +38,7 @@
   {
     "id": "koodo-reader",
     "name": "Koodo Reader",
-    "url": "https://koodo.lumito.net",
+    "url": "https://github.com/koodo-reader/koodo-reader",
     "description": "跨平台高颜值开源电子书阅读器，支持 epub, pdf, mobi, azw3, txt 等 15+ 种格式，内置划线笔记、AI 翻译、多端 WebDAV 进度同步。",
     "category": "books",
     "tags": ["开源", "跨平台", "高颜值", "WebDAV同步", "多格式"],

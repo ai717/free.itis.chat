@@ -4,37 +4,26 @@ import path from 'node:path';
 const RESOURCES_DIR = path.resolve('src/content/resources');
 
 async function checkUrl(url) {
+  const browserHeaders = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
+  };
+
   try {
     const controller = new AbortController();
-    const timeout = setTimeout(() => controller.abort(), 10000);
+    const timeout = setTimeout(() => controller.abort(), 12000);
     const res = await fetch(url, {
-      method: 'HEAD',
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) ITIS-Free-Bot/1.0',
-      },
+      method: 'GET',
+      headers: browserHeaders,
       signal: controller.signal,
       redirect: 'follow',
     });
     clearTimeout(timeout);
-    return res.status < 400;
+    // 2xx, 3xx are healthy. 403/429 usually means anti-bot / Cloudflare challenge, which means site is alive.
+    return res.status < 400 || res.status === 403 || res.status === 429;
   } catch (err) {
-    // Retry with GET if HEAD fails
-    try {
-      const controller = new AbortController();
-      const timeout = setTimeout(() => controller.abort(), 10000);
-      const res = await fetch(url, {
-        method: 'GET',
-        headers: {
-          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) ITIS-Free-Bot/1.0',
-        },
-        signal: controller.signal,
-        redirect: 'follow',
-      });
-      clearTimeout(timeout);
-      return res.status < 400;
-    } catch {
-      return false;
-    }
+    return false;
   }
 }
 

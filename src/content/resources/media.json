@@ -26,7 +26,7 @@
   {
     "id": "spotube",
     "name": "Spotube",
-    "url": "https://spotube.krtirtho.dev",
+    "url": "https://spotube.app",
     "description": "开源无广告跨平台 Spotify 客户端，利用 Spotify 数据接口 + YouTube/Piped 音频源，免开会员享受高品质音乐与歌词滚动。",
     "category": "media",
     "tags": ["开源", "免会员", "全平台", "音乐播放器", "无广告"],
@@ -74,7 +74,7 @@
   {
     "id": "potplayer",
     "name": "PotPlayer (纯净设置版)",
-    "url": "https://potplayer.daum.net",
+    "url": "https://potplayer.tv",
     "description": "Windows 平台最强万能硬件加速媒体播放器，支持 HDR 映射、插帧补帧与外挂字幕实时翻译。",
     "category": "media",
     "tags": ["万能解码", "硬件加速", "HDR", "Windows必备"],
