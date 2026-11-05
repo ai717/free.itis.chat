@@ -82,25 +82,32 @@ export const BookmarkModal: React.FC<BookmarkModalProps> = ({ isOpen, onClose, s
         </div>
 
         {/* Method 2: Drag Link to Bar */}
-        <div className="p-4 rounded-xl bg-slate-50 dark:bg-white/[0.02] border border-slate-200/80 dark:border-white/5 space-y-2">
-          <div className="text-xs font-semibold text-slate-700 dark:text-slate-200 flex items-center gap-1.5">
-            <CornerDownRight className="w-3.5 h-3.5 text-cyan-600 dark:text-cyan-400" />
-            <span>{lang === 'en' ? 'Method 2: Drag & Drop to Bar' : '方式二：拖拽直达书签栏'}</span>
+        <div className="p-4 rounded-xl bg-slate-50 dark:bg-white/[0.02] border border-slate-200/80 dark:border-white/5 space-y-2.5">
+          <div className="text-xs font-semibold text-slate-700 dark:text-slate-200 flex items-center justify-between">
+            <div className="flex items-center gap-1.5">
+              <CornerDownRight className="w-3.5 h-3.5 text-cyan-600 dark:text-cyan-400" />
+              <span>{lang === 'en' ? 'Method 2: Drag & Drop to Bar' : '方式二：拖拽直达书签栏'}</span>
+            </div>
+            <span className="text-[10px] text-slate-400 dark:text-slate-500">
+              {lang === 'en' ? 'Drag into bar' : '按住拖动'}
+            </span>
           </div>
-          <div className="flex items-center justify-center pt-1">
+          <div className="flex items-center justify-center pt-0.5">
             <a
               href="https://free.itis.chat/"
-              title="ITIS Free - 免费开源数字资源导航"
+              title={lang === 'en' ? 'ITIS Free · Digital Free Resources' : 'ITIS Free · 免费开源数字导航'}
               draggable="true"
               onClick={(e) => e.preventDefault()}
-              className="inline-flex items-center gap-2 px-4 py-2 rounded-xl text-xs font-bold text-white bg-linear-to-r from-cyan-600 to-blue-600 hover:from-cyan-500 hover:to-blue-500 shadow-sm border border-cyan-400/30 cursor-grab active:cursor-grabbing transition-transform hover:scale-[1.02]"
+              className="inline-flex items-center gap-2 px-4 py-2.5 rounded-xl text-xs font-bold text-white bg-linear-to-r from-cyan-600 via-blue-600 to-indigo-600 hover:from-cyan-500 hover:to-indigo-500 shadow-md border border-cyan-400/30 cursor-grab active:cursor-grabbing transition-transform hover:scale-[1.02]"
             >
-              <Star className="w-3.5 h-3.5 fill-white" />
-              <span>{lang === 'en' ? '★ Drag me to Bookmarks Bar' : '★ 拖拽此按钮到书签栏'}</span>
+              <Star className="w-3.5 h-3.5 fill-amber-300 text-amber-300 shrink-0" />
+              <span>{lang === 'en' ? 'ITIS Free · Digital Free Resources' : 'ITIS Free · 免费开源数字导航'}</span>
             </a>
           </div>
-          <p className="text-[11px] text-center text-slate-400 dark:text-slate-500">
-            {lang === 'en' ? 'Tip: Click & drag the badge directly into your browser tab/bookmark bar' : '按住上方按钮，直接拖动到浏览器顶部的书签栏中即可完成收藏'}
+          <p className="text-[11px] text-center text-slate-500 dark:text-slate-400 leading-relaxed">
+            {lang === 'en'
+              ? 'Click & drag the button above directly into your browser bookmark bar (saves automatically with site name)'
+              : '按住上方按钮直接拖拽到浏览器书签栏（松手即完成收藏，自动预置网站名称）'}
           </p>
         </div>
 
