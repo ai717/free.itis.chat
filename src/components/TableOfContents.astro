@@ -14,9 +14,14 @@ const categoryCounts = CATEGORIES.map((cat) => ({
   ...cat,
   count: all.filter((item) => item.category === cat.id).length,
 }));
+
+const activeCatObj = CATEGORIES.find((c) => c.id === activeCategory);
+const activeNameZh = activeCategory === 'home' || activeCategory === '' ? '首页精选' : (activeCatObj?.name || '分类索引');
+const activeNameEn = activeCategory === 'home' || activeCategory === '' ? 'Featured' : (activeCatObj?.enName || 'Categories');
 ---
 
-<aside class="w-full lg:w-64 shrink-0">
+{/* Desktop Sidebar (lg and above: fixed left sidebar) */}
+<aside class="hidden lg:block w-64 shrink-0">
   <div class="sticky top-20 p-4 rounded-2xl bg-white dark:bg-white/[0.02] border border-slate-200 dark:border-white/10 space-y-4">
     <div class="flex items-center justify-between pb-2 border-b border-slate-200/80 dark:border-white/5">
       <span class="text-xs font-bold text-slate-700 dark:text-slate-300 tracking-wider uppercase flex items-center gap-1.5">
@@ -61,7 +66,6 @@ const categoryCounts = CATEGORIES.map((cat) => ({
         </span>
       </a>
 
-      {/* Category links to independent pages */}
       {categoryCounts.map((cat) => {
         const isActive = activeCategory === cat.id;
         return (
@@ -99,3 +103,118 @@ const categoryCounts = CATEGORIES.map((cat) => ({
     </div>
   </div>
 </aside>
+
+{/* Mobile Category Nav (below lg screens: sleek horizontal scroll pills + expandable drawer) */}
+<div class="lg:hidden w-full mb-3">
+  <div class="rounded-2xl bg-white dark:bg-white/[0.02] border border-slate-200 dark:border-white/10 p-2.5 shadow-2xs">
+    {/* Mobile Header Row: Active Category + Expand Button */}
+    <div class="flex items-center justify-between pb-2 mb-2 border-b border-slate-100 dark:border-white/5 px-1">
+      <div class="flex items-center gap-2 min-w-0">
+        <span class="w-2 h-2 rounded-full bg-cyan-500 shrink-0"></span>
+        <span class="text-xs font-bold text-slate-800 dark:text-slate-200 truncate" data-i18n-zh={activeNameZh} data-i18n-en={activeNameEn}>
+          {activeNameZh}
+        </span>
+      </div>
+      <button
+        id="mobile-cat-expand-btn"
+        type="button"
+        class="inline-flex items-center gap-1 px-2.5 py-1 rounded-lg text-[11px] font-medium text-cyan-700 dark:text-cyan-300 bg-cyan-50 dark:bg-cyan-500/10 border border-cyan-200/80 dark:border-cyan-500/20 transition-all cursor-pointer"
+        aria-expanded="false"
+      >
+        <span id="mobile-cat-btn-text" data-i18n-zh="全部 23 分类 ▾" data-i18n-en="All Categories ▾">全部 23 分类 ▾</span>
+      </button>
+    </div>
+
+    {/* Horizontal Scrollable Pills */}
+    <nav class="flex items-center gap-1.5 overflow-x-auto no-scrollbar py-1 scroll-smooth touch-pan-x -mx-1 px-1">
+      <a
+        href="/"
+        class={`shrink-0 inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-medium whitespace-nowrap transition-colors ${
+          activeCategory === '' || activeCategory === 'home'
+            ? 'bg-cyan-600 text-white font-semibold shadow-xs'
+            : 'bg-slate-100 dark:bg-white/[0.04] text-slate-700 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-white/[0.08]'
+        }`}
+      >
+        <span>⭐</span>
+        <span data-i18n-zh="首页精选" data-i18n-en="Featured">首页精选</span>
+      </a>
+
+      {categoryCounts.map((cat) => {
+        const isActive = activeCategory === cat.id;
+        return (
+          <a
+            href={`/${cat.id}`}
+            class={`shrink-0 inline-flex items-center gap-1.5 px-2.5 py-1.5 rounded-xl text-xs font-medium whitespace-nowrap transition-colors ${
+              isActive
+                ? 'bg-cyan-600 text-white font-semibold shadow-xs'
+                : 'bg-slate-100 dark:bg-white/[0.04] text-slate-700 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-white/[0.08]'
+            }`}
+          >
+            <CategoryIcon id={cat.id} class={`w-3.5 h-3.5 ${isActive ? 'text-white' : 'text-slate-500'}`} />
+            <span data-i18n-zh={cat.name} data-i18n-en={cat.enName}>{cat.name}</span>
+          </a>
+        );
+      })}
+    </nav>
+
+    {/* Expandable 2-Column Grid on Mobile */}
+    <div id="mobile-cat-grid" class="hidden pt-3 border-t border-slate-100 dark:border-white/5 grid grid-cols-2 gap-1.5 mt-2 animate-in fade-in duration-200">
+      <a
+        href="/"
+        class={`flex items-center justify-between p-2 rounded-xl text-xs font-medium ${
+          activeCategory === '' || activeCategory === 'home'
+            ? 'bg-cyan-50 dark:bg-cyan-500/10 text-cyan-700 dark:text-cyan-400 font-bold border border-cyan-200 dark:border-cyan-500/20'
+            : 'bg-slate-50 dark:bg-white/[0.02] text-slate-700 dark:text-slate-300'
+        }`}
+      >
+        <span class="flex items-center gap-1.5 truncate">
+          <span>⭐</span>
+          <span data-i18n-zh="首页精选" data-i18n-en="Featured">首页精选</span>
+        </span>
+        <span class="text-[10px] font-mono text-cyan-600 shrink-0">100</span>
+      </a>
+
+      {categoryCounts.map((cat) => {
+        const isActive = activeCategory === cat.id;
+        return (
+          <a
+            href={`/${cat.id}`}
+            class={`flex items-center justify-between p-2 rounded-xl text-xs font-medium ${
+              isActive
+                ? 'bg-cyan-50 dark:bg-cyan-500/10 text-cyan-700 dark:text-cyan-400 font-bold border border-cyan-200 dark:border-cyan-500/20'
+                : 'bg-slate-50 dark:bg-white/[0.02] text-slate-700 dark:text-slate-300'
+            }`}
+          >
+            <span class="flex items-center gap-1.5 truncate">
+              <CategoryIcon id={cat.id} class={`w-3.5 h-3.5 shrink-0 ${isActive ? 'text-cyan-600 dark:text-cyan-400' : 'text-slate-400'}`} />
+              <span class="truncate" data-i18n-zh={cat.name} data-i18n-en={cat.enName}>{cat.name}</span>
+            </span>
+            <span class="text-[10px] font-mono text-slate-400 shrink-0 ml-1">{cat.count}</span>
+          </a>
+        );
+      })}
+    </div>
+  </div>
+</div>
+
+<script is:inline>
+  (() => {
+    const btn = document.getElementById('mobile-cat-expand-btn');
+    const grid = document.getElementById('mobile-cat-grid');
+    const text = document.getElementById('mobile-cat-btn-text');
+    if (!btn || !grid || !text) return;
+
+    btn.addEventListener('click', () => {
+      const isHidden = grid.classList.contains('hidden');
+      if (isHidden) {
+        grid.classList.remove('hidden');
+        btn.setAttribute('aria-expanded', 'true');
+        text.textContent = '收起分类 ▴';
+      } else {
+        grid.classList.add('hidden');
+        btn.setAttribute('aria-expanded', 'false');
+        text.textContent = '全部 23 分类 ▾';
+      }
+    });
+  })();
+</script>

@@ -11,38 +11,47 @@ interface BookmarkModalProps {
 export const BookmarkModal: React.FC<BookmarkModalProps> = ({ isOpen, onClose, shortcut }) => {
   const [lang] = useCurrentLang();
   const [copied, setCopied] = useState(false);
+  const [isMobileDevice, setIsMobileDevice] = useState(false);
 
   useEffect(() => {
-    if (isOpen) {
-      // Auto copy site URL for convenience
-      if (typeof navigator !== 'undefined' && navigator.clipboard) {
-        navigator.clipboard.writeText('https://free.itis.chat/').then(() => {
-          setCopied(true);
-        }).catch(() => {});
-      }
-    } else {
-      setCopied(false);
+    if (typeof navigator !== 'undefined') {
+      const mobile = /Android|iPhone|iPad|iPod|Mobile/i.test(navigator.userAgent || '');
+      setIsMobileDevice(mobile);
     }
-  }, [isOpen]);
+  }, []);
+
+  const handleCopyUrl = (e: React.MouseEvent) => {
+    e.preventDefault();
+    if (typeof navigator !== 'undefined' && navigator.clipboard) {
+      navigator.clipboard.writeText('https://free.itis.chat/').then(() => {
+        setCopied(true);
+        setTimeout(() => setCopied(false), 2500);
+      }).catch(() => {});
+    }
+  };
 
   if (!isOpen) return null;
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/60 backdrop-blur-xs animate-in fade-in duration-150">
+    <div
+      className="fixed inset-0 z-50 flex items-end sm:items-center justify-center p-3 sm:p-4 bg-black/60 backdrop-blur-xs animate-in fade-in duration-150"
+      onClick={onClose}
+    >
       <div
-        className="relative w-full max-w-md rounded-2xl bg-white dark:bg-[#0C121E] border border-slate-200 dark:border-white/10 shadow-2xl p-6 space-y-5 animate-in zoom-in-95 duration-150"
+        className="relative w-full max-w-md rounded-2xl bg-white dark:bg-[#0C121E] border border-slate-200 dark:border-white/10 shadow-2xl p-5 sm:p-6 space-y-4 max-h-[90vh] overflow-y-auto animate-in zoom-in-95 duration-150"
         onClick={(e) => e.stopPropagation()}
       >
         {/* Close Button */}
         <button
           onClick={onClose}
-          className="absolute right-4 top-4 p-1.5 rounded-lg text-slate-400 hover:text-slate-700 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-white/5 transition-colors"
+          className="absolute right-3.5 top-3.5 sm:right-4 sm:top-4 p-2 rounded-xl text-slate-400 hover:text-slate-700 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-white/5 transition-colors cursor-pointer"
+          aria-label="Close"
         >
           <X className="w-4 h-4" />
         </button>
 
         {/* Modal Header */}
-        <div className="flex items-center gap-3">
+        <div className="flex items-center gap-3 pr-8">
           <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 flex items-center justify-center text-amber-500 shrink-0">
             <Star className="w-5 h-5 fill-amber-500 text-amber-500" />
           </div>
@@ -56,66 +65,117 @@ export const BookmarkModal: React.FC<BookmarkModalProps> = ({ isOpen, onClose, s
           </div>
         </div>
 
-        {/* Method 1: Shortcut */}
-        <div className="p-4 rounded-xl bg-slate-50 dark:bg-white/[0.02] border border-slate-200/80 dark:border-white/5 space-y-2">
-          <div className="flex items-center justify-between text-xs font-semibold text-slate-700 dark:text-slate-200">
-            <span>{lang === 'en' ? 'Method 1: Keyboard Shortcut' : '方式一：键盘快捷键 (最推荐)'}</span>
-            <span className="text-[11px] text-emerald-600 dark:text-emerald-400 flex items-center gap-1 font-normal">
-              {copied ? (
-                <>
-                  <Check className="w-3 h-3" />
-                  {lang === 'en' ? 'URL copied' : '网址已复制'}
-                </>
-              ) : null}
-            </span>
-          </div>
-          <div className="flex items-center justify-center py-2.5">
-            <kbd className="px-4 py-2 text-sm font-mono font-extrabold text-cyan-700 dark:text-cyan-300 bg-white dark:bg-[#131B2A] border-2 border-cyan-400/40 rounded-xl shadow-xs tracking-wider">
-              {shortcut}
-            </kbd>
-          </div>
-          <p className="text-[11px] text-center text-slate-500 dark:text-slate-400 leading-relaxed">
-            {lang === 'en'
-              ? `Press ${shortcut} on your keyboard now to save ITIS Free into your bookmarks bar.`
-              : `在当前网页直接按下 ${shortcut}，即可快速加入书签并常驻标签栏。`}
-          </p>
-        </div>
-
-        {/* Method 2: Drag Link to Bar */}
-        <div className="p-4 rounded-xl bg-slate-50 dark:bg-white/[0.02] border border-slate-200/80 dark:border-white/5 space-y-2.5">
-          <div className="text-xs font-semibold text-slate-700 dark:text-slate-200 flex items-center justify-between">
-            <div className="flex items-center gap-1.5">
-              <CornerDownRight className="w-3.5 h-3.5 text-cyan-600 dark:text-cyan-400" />
-              <span>{lang === 'en' ? 'Method 2: Drag & Drop to Bar' : '方式二：拖拽直达书签栏'}</span>
+        {/* Mobile Device View */}
+        {isMobileDevice ? (
+          <div className="space-y-3">
+            {/* Mobile Instructions */}
+            <div className="p-4 rounded-xl bg-slate-50 dark:bg-white/[0.02] border border-slate-200/80 dark:border-white/5 space-y-2.5">
+              <div className="text-xs font-semibold text-slate-700 dark:text-slate-200 flex items-center gap-1.5">
+                <Sparkles className="w-3.5 h-3.5 text-cyan-600 dark:text-cyan-400" />
+                <span>{lang === 'en' ? 'Mobile Browser Bookmark Guide' : '手机端快速收藏方式'}</span>
+              </div>
+              <ul className="text-xs text-slate-600 dark:text-slate-300 space-y-2 leading-relaxed pl-1">
+                <li className="flex items-start gap-2">
+                  <span className="w-4 h-4 rounded-full bg-cyan-100 dark:bg-cyan-500/20 text-cyan-700 dark:text-cyan-400 text-[10px] font-bold flex items-center justify-center shrink-0 mt-0.5">1</span>
+                  <span>{lang === 'en' ? 'Tap browser bottom/top menu (Share or ⋯ icon)' : '点击浏览器底部或顶部的【分享】或【⋯】菜单'}</span>
+                </li>
+                <li className="flex items-start gap-2">
+                  <span className="w-4 h-4 rounded-full bg-cyan-100 dark:bg-cyan-500/20 text-cyan-700 dark:text-cyan-400 text-[10px] font-bold flex items-center justify-center shrink-0 mt-0.5">2</span>
+                  <span>{lang === 'en' ? 'Select "Add to Bookmarks" or "Add to Home Screen"' : '选择【添加书签】或【添加到主屏幕】'}</span>
+                </li>
+              </ul>
             </div>
-            <span className="text-[10px] text-slate-400 dark:text-slate-500">
-              {lang === 'en' ? 'Drag into bar' : '按住拖动'}
-            </span>
+
+            {/* Quick Copy Site URL */}
+            <div className="p-4 rounded-xl bg-cyan-50/60 dark:bg-cyan-950/20 border border-cyan-200/80 dark:border-cyan-500/20 space-y-2">
+              <div className="flex items-center justify-between text-xs font-semibold text-cyan-900 dark:text-cyan-200">
+                <span>{lang === 'en' ? 'Copy Site URL' : '复制网址随身存'}</span>
+                {copied && (
+                  <span className="text-[11px] text-emerald-600 dark:text-emerald-400 flex items-center gap-1 font-normal">
+                    <Check className="w-3 h-3" />
+                    {lang === 'en' ? 'Copied to clipboard!' : '已成功复制！'}
+                  </span>
+                )}
+              </div>
+              <div className="flex items-center gap-2">
+                <div className="flex-1 px-3 py-2 text-xs font-mono bg-white dark:bg-[#131B2A] border border-cyan-300/40 rounded-xl truncate text-slate-700 dark:text-slate-300">
+                  https://free.itis.chat/
+                </div>
+                <button
+                  type="button"
+                  onClick={handleCopyUrl}
+                  className="px-3.5 py-2 rounded-xl text-xs font-bold text-white bg-cyan-600 hover:bg-cyan-500 transition-colors shrink-0 cursor-pointer shadow-xs"
+                >
+                  {copied ? (lang === 'en' ? 'Copied' : '已复制') : (lang === 'en' ? 'Copy' : '复制')}
+                </button>
+              </div>
+            </div>
           </div>
-          <div className="flex items-center justify-center pt-0.5">
-            <a
-              href="https://free.itis.chat/"
-              title={lang === 'en' ? 'ITIS Free · Digital Free Resources' : 'ITIS Free · 免费开源数字导航'}
-              draggable="true"
-              onClick={(e) => e.preventDefault()}
-              className="inline-flex items-center gap-2 px-4 py-2.5 rounded-xl text-xs font-bold text-white bg-linear-to-r from-cyan-600 via-blue-600 to-indigo-600 hover:from-cyan-500 hover:to-indigo-500 shadow-md border border-cyan-400/30 cursor-grab active:cursor-grabbing transition-transform hover:scale-[1.02]"
-            >
-              <Star className="w-3.5 h-3.5 fill-amber-300 text-amber-300 shrink-0" />
-              <span>{lang === 'en' ? 'ITIS Free · Digital Free Resources' : 'ITIS Free · 免费开源数字导航'}</span>
-            </a>
-          </div>
-          <p className="text-[11px] text-center text-slate-500 dark:text-slate-400 leading-relaxed">
-            {lang === 'en'
-              ? 'Click & drag the button above directly into your browser bookmark bar (saves automatically with site name)'
-              : '按住上方按钮直接拖拽到浏览器书签栏（松手即完成收藏，自动预置网站名称）'}
-          </p>
-        </div>
+        ) : (
+          /* Desktop Device View */
+          <>
+            {/* Method 1: Shortcut */}
+            <div className="p-4 rounded-xl bg-slate-50 dark:bg-white/[0.02] border border-slate-200/80 dark:border-white/5 space-y-2">
+              <div className="flex items-center justify-between text-xs font-semibold text-slate-700 dark:text-slate-200">
+                <span>{lang === 'en' ? 'Method 1: Keyboard Shortcut (Recommended)' : '方式一：键盘快捷键 (最推荐)'}</span>
+                <span className="text-[11px] text-emerald-600 dark:text-emerald-400 flex items-center gap-1 font-normal">
+                  {copied ? (
+                    <>
+                      <Check className="w-3 h-3" />
+                      {lang === 'en' ? 'URL copied' : '网址已复制'}
+                    </>
+                  ) : null}
+                </span>
+              </div>
+              <div className="flex items-center justify-center py-2.5">
+                <kbd className="px-4 py-2 text-sm font-mono font-extrabold text-cyan-700 dark:text-cyan-300 bg-white dark:bg-[#131B2A] border-2 border-cyan-400/40 rounded-xl shadow-xs tracking-wider">
+                  {shortcut}
+                </kbd>
+              </div>
+              <p className="text-[11px] text-center text-slate-500 dark:text-slate-400 leading-relaxed">
+                {lang === 'en'
+                  ? `Press ${shortcut} on your keyboard now to save ITIS Free into your bookmarks bar.`
+                  : `在当前网页直接按下 ${shortcut}，即可快速加入书签并常驻标签栏。`}
+              </p>
+            </div>
+
+            {/* Method 2: Drag Link to Bar */}
+            <div className="p-4 rounded-xl bg-slate-50 dark:bg-white/[0.02] border border-slate-200/80 dark:border-white/5 space-y-2.5">
+              <div className="text-xs font-semibold text-slate-700 dark:text-slate-200 flex items-center justify-between">
+                <div className="flex items-center gap-1.5">
+                  <CornerDownRight className="w-3.5 h-3.5 text-cyan-600 dark:text-cyan-400" />
+                  <span>{lang === 'en' ? 'Method 2: Drag & Drop to Bar' : '方式二：拖拽直达书签栏'}</span>
+                </div>
+                <span className="text-[10px] text-slate-400 dark:text-slate-500">
+                  {lang === 'en' ? 'Drag into bar' : '按住拖动'}
+                </span>
+              </div>
+              <div className="flex items-center justify-center pt-0.5">
+                <a
+                  href="https://free.itis.chat/"
+                  title={lang === 'en' ? 'ITIS Free · Digital Free Resources' : 'ITIS Free · 免费开源数字导航'}
+                  draggable="true"
+                  onClick={(e) => e.preventDefault()}
+                  className="inline-flex items-center gap-2 px-4 py-2.5 rounded-xl text-xs font-bold text-white bg-linear-to-r from-cyan-600 via-blue-600 to-indigo-600 hover:from-cyan-500 hover:to-indigo-500 shadow-md border border-cyan-400/30 cursor-grab active:cursor-grabbing transition-transform hover:scale-[1.02]"
+                >
+                  <Star className="w-3.5 h-3.5 fill-amber-300 text-amber-300 shrink-0" />
+                  <span>{lang === 'en' ? 'ITIS Free · Digital Free Resources' : 'ITIS Free · 免费开源数字导航'}</span>
+                </a>
+              </div>
+              <p className="text-[11px] text-center text-slate-500 dark:text-slate-400 leading-relaxed">
+                {lang === 'en'
+                  ? 'Click & drag the button above directly into your browser bookmark bar (saves automatically with site name)'
+                  : '按住上方按钮直接拖拽到浏览器书签栏（松手即完成收藏，自动预置网站名称）'}
+              </p>
+            </div>
+          </>
+        )}
 
         {/* Bottom Done Action */}
         <div className="pt-2 flex justify-end">
           <button
             onClick={onClose}
-            className="w-full sm:w-auto px-5 py-2 rounded-xl text-xs font-semibold bg-slate-900 hover:bg-slate-800 text-white dark:bg-white dark:text-slate-900 dark:hover:bg-slate-100 transition-colors"
+            className="w-full sm:w-auto px-5 py-2.5 rounded-xl text-xs font-semibold bg-slate-900 hover:bg-slate-800 text-white dark:bg-white dark:text-slate-900 dark:hover:bg-slate-100 transition-colors cursor-pointer"
           >
             {lang === 'en' ? 'Got it!' : '我知道了'}
           </button>
@@ -227,7 +287,7 @@ export const BookmarkNewUserPrompt: React.FC = () => {
   return (
     <>
       {isVisible && (
-        <div className="fixed bottom-5 right-5 z-40 max-w-sm w-[calc(100vw-2.5rem)] sm:w-96 rounded-2xl bg-white dark:bg-[#0C121E] border border-amber-400/40 dark:border-amber-500/30 p-4 shadow-xl backdrop-blur-md animate-in slide-in-from-bottom-5 fade-in duration-300">
+        <div className="fixed bottom-3 right-3 left-3 sm:left-auto sm:right-5 sm:bottom-5 z-40 max-w-sm w-auto sm:w-96 rounded-2xl bg-white dark:bg-[#0C121E] border border-amber-400/40 dark:border-amber-500/30 p-3.5 sm:p-4 shadow-xl backdrop-blur-md animate-in slide-in-from-bottom-5 fade-in duration-300">
           <div className="flex items-start justify-between gap-3">
             <div className="flex items-center gap-2.5">
               <div className="w-8 h-8 rounded-xl bg-amber-500/10 border border-amber-500/20 flex items-center justify-center text-amber-500 shrink-0">

@@ -70,13 +70,14 @@ const currentPath = Astro.url.pathname;
           href="https://github.com/ai717/free.itis.chat/issues/new?template=resource_submit.md"
           target="_blank"
           rel="noopener noreferrer"
-          class="shrink-0 inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-semibold bg-cyan-600 hover:bg-cyan-700 text-white transition-colors cursor-pointer whitespace-nowrap"
+          class="shrink-0 inline-flex items-center gap-1 px-2 sm:px-3 py-1.5 rounded-xl text-xs font-semibold bg-cyan-600 hover:bg-cyan-700 text-white transition-colors cursor-pointer whitespace-nowrap"
+          title="提交新资源 / Submit Resource"
         >
-          <svg viewBox="0 0 24 24" class="w-3.5 h-3.5" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+          <svg viewBox="0 0 24 24" class="w-3.5 h-3.5 shrink-0" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
             <line x1="12" y1="5" x2="12" y2="19" />
             <line x1="5" y1="12" x2="19" y2="12" />
           </svg>
-          <span data-i18n-zh="提交资源" data-i18n-en="Submit">提交资源</span>
+          <span class="hidden sm:inline" data-i18n-zh="提交资源" data-i18n-en="Submit">提交资源</span>
         </a>
 
         {/* External Link to Main itis.chat */}

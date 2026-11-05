@@ -47,9 +47,35 @@ export const PlanetFloatingAd: React.FC = () => {
   return (
     <aside
       aria-label="itis.chat AI星球旅行指南"
-      className="fixed right-3.5 sm:right-5 top-1/2 -translate-y-1/2 z-40 w-52 sm:w-60 group animate-in slide-in-from-right-8 fade-in duration-300"
+      className="fixed bottom-3.5 right-3.5 sm:bottom-auto sm:right-5 sm:top-1/2 sm:-translate-y-1/2 z-30 group animate-in slide-in-from-right-8 fade-in duration-300"
     >
-      <div className="relative overflow-hidden rounded-2xl bg-white/95 dark:bg-[#0B101D]/90 backdrop-blur-md border border-indigo-200/80 dark:border-indigo-500/30 p-3.5 shadow-xl shadow-indigo-500/10 dark:shadow-indigo-500/20 hover:border-indigo-400 dark:hover:border-indigo-400/60 transition-all duration-300">
+      {/* Mobile Mini Floating Pill (< sm screens) */}
+      <div className="flex sm:hidden items-center gap-1.5 px-3 py-1.5 rounded-full bg-white/95 dark:bg-[#0B101D]/95 text-slate-900 dark:text-white backdrop-blur-md border border-indigo-300/60 dark:border-indigo-500/40 shadow-lg shadow-indigo-500/10">
+        <a
+          href="https://itis.chat/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="flex items-center gap-1.5 text-xs font-semibold text-slate-800 dark:text-slate-200 hover:text-indigo-600 dark:hover:text-indigo-400"
+        >
+          <span className="relative flex h-2 w-2">
+            <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-indigo-400 opacity-75"></span>
+            <span className="relative inline-flex rounded-full h-2 w-2 bg-indigo-500"></span>
+          </span>
+          <span>{lang === 'en' ? 'AI Planet Guide' : '🪐 AI星球指南'}</span>
+          <ExternalLink className="w-3 h-3 text-indigo-500 shrink-0" />
+        </a>
+        <button
+          onClick={handleClose}
+          className="ml-1 p-0.5 rounded-full text-slate-400 hover:text-slate-700 dark:hover:text-white cursor-pointer"
+          title={lang === 'en' ? 'Close (hidden for 24h)' : '关闭 (24小时内不再显示)'}
+          aria-label="Close Ad"
+        >
+          <X className="w-3 h-3" />
+        </button>
+      </div>
+
+      {/* Desktop Full Floating Card (>= sm screens) */}
+      <div className="hidden sm:block w-60 relative overflow-hidden rounded-2xl bg-white/95 dark:bg-[#0B101D]/90 backdrop-blur-md border border-indigo-200/80 dark:border-indigo-500/30 p-3.5 shadow-xl shadow-indigo-500/10 dark:shadow-indigo-500/20 hover:border-indigo-400 dark:hover:border-indigo-400/60 transition-all duration-300">
         {/* Ambient Cosmic Background Glow */}
         <div className="absolute -right-6 -top-6 w-24 h-24 rounded-full bg-linear-to-br from-indigo-500/20 via-purple-500/20 to-transparent blur-xl pointer-events-none" />
         <div className="absolute -left-6 -bottom-6 w-20 h-20 rounded-full bg-linear-to-tr from-cyan-500/15 to-transparent blur-lg pointer-events-none" />
