@@ -2,21 +2,9 @@
 import Layout from '../layouts/Layout.astro';
 import { ResourceList } from '../components/ResourceList';
 import TableOfContents from '../components/TableOfContents.astro';
-import { getAllResources, getFeaturedResources } from '../utils/resources';
-import { CATEGORIES } from '../data/categories';
+import { getFeaturedResources } from '../utils/resources';
 
-const allResources = getAllResources();
 const featuredResources = getFeaturedResources();
-
-// Category with counts and preview items
-const categoriesWithData = CATEGORIES.map((cat) => {
-  const items = allResources.filter((r) => r.category === cat.id);
-  return {
-    ...cat,
-    count: items.length,
-    topItems: items.slice(0, 3),
-  };
-});
 ---
 
 <Layout
@@ -55,84 +43,30 @@ const categoriesWithData = CATEGORIES.map((cat) => {
     </div>
   </section>
 
-  {/* Main Layout: Left TOC Sidebar + Right Category Hub & Featured Showcase */}
+  {/* Main Layout: Left TOC Sidebar + Right Featured Showcase */}
   <div class="flex flex-col lg:flex-row items-start gap-8">
     {/* Left Category Index Sidebar */}
     <TableOfContents activeCategory="home" />
 
-    {/* Right Main Content */}
-    <div class="flex-1 min-w-0 w-full space-y-10">
-      {/* 1. Category Hub - 6 Modular Doors to Independent Category Pages */}
-      <section>
-        <div class="flex items-center justify-between mb-4">
-          <h2 class="text-base font-bold text-slate-900 dark:text-white flex items-center gap-2">
-            <span class="w-2 h-4 rounded-full bg-cyan-500"></span>
-            <span>按分类探索全部资源</span>
+    {/* Right Main Content: Directly Show Featured Gems */}
+    <div class="flex-1 min-w-0 w-full space-y-4">
+      <div class="flex items-center justify-between pb-2 border-b border-slate-200 dark:border-white/10">
+        <div class="flex items-center gap-2">
+          <span class="w-2.5 h-2.5 rounded-full bg-cyan-500"></span>
+          <h2 class="text-lg font-bold text-slate-900 dark:text-white tracking-tight">
+            全站重磅精选 (Featured Top)
           </h2>
-          <span class="text-xs text-slate-500 dark:text-slate-400">
-            共 {allResources.length} 款神器 · 点击进入独立专属页面
-          </span>
         </div>
+        <span class="text-xs text-slate-500 dark:text-slate-400">
+          高星必装 · 零广告纯开源 · 点击左侧探索更多分类
+        </span>
+      </div>
 
-        <div class="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-3.5">
-          {categoriesWithData.map((cat) => (
-            <a
-              href={`/${cat.id}`}
-              class="group p-4 rounded-2xl bg-white dark:bg-white/[0.02] border border-slate-200/90 dark:border-white/5 hover:border-cyan-500/40 dark:hover:border-cyan-500/30 hover:shadow-md transition-all duration-150 flex flex-col justify-between"
-            >
-              <div>
-                <div class="flex items-center justify-between mb-2.5">
-                  <span class="font-bold text-sm text-slate-900 dark:text-white group-hover:text-cyan-600 dark:group-hover:text-cyan-400 transition-colors flex items-center gap-1.5">
-                    <span>{cat.name}</span>
-                  </span>
-                  <span class="text-[10px] font-mono px-2 py-0.5 rounded-full bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300">
-                    {cat.count} 条收录
-                  </span>
-                </div>
-
-                <p class="text-xs text-slate-500 dark:text-slate-400 line-clamp-2 leading-relaxed mb-3">
-                  {cat.description}
-                </p>
-
-                {/* Popular tools preview pills */}
-                <div class="flex items-center gap-1 flex-wrap mb-1">
-                  {cat.topItems.map((item) => (
-                    <span class="text-[10px] px-1.5 py-0.5 rounded bg-slate-50 dark:bg-slate-800/80 text-slate-600 dark:text-slate-400 border border-slate-200/60 dark:border-slate-700/40 truncate max-w-[120px]">
-                      {item.name}
-                    </span>
-                  ))}
-                </div>
-              </div>
-
-              <div class="mt-3 pt-2.5 border-t border-slate-100 dark:border-white/[0.03] flex items-center justify-between text-xs text-cyan-700 dark:text-cyan-400 font-medium">
-                <span>浏览完整清单</span>
-                <span class="group-hover:translate-x-1 transition-transform">→</span>
-              </div>
-            </a>
-          ))}
-        </div>
-      </section>
-
-      {/* 2. Featured Showcase - Top Hand-picked Gems (Keeps home page compact!) */}
-      <section class="space-y-4">
-        <div class="flex items-center justify-between pb-2 border-b border-slate-200 dark:border-white/10">
-          <div class="flex items-center gap-2">
-            <span class="w-2.5 h-2.5 rounded-full bg-amber-400"></span>
-            <h2 class="text-lg font-bold text-slate-900 dark:text-white tracking-tight">
-              社区重磅精选 (Featured Top)
-            </h2>
-          </div>
-          <span class="text-xs text-slate-500 dark:text-slate-400">
-            高星必装 · 零广告纯开源
-          </span>
-        </div>
-
-        <ResourceList
-          client:load
-          resources={featuredResources}
-          groupByCategory={false}
-        />
-      </section>
+      <ResourceList
+        client:load
+        resources={featuredResources}
+        groupByCategory={false}
+      />
     </div>
   </div>
 </Layout>
