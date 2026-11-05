@@ -156,7 +156,7 @@ export const NavCategories: React.FC<NavCategoriesProps> = ({
 
           {/* Flat Dropdown Menu Panel with Max-Height Scrolling */}
           {isOpen && (
-            <div className="absolute left-0 mt-1.5 w-84 min-w-[320px] max-h-[75vh] overflow-y-auto rounded-2xl bg-white dark:bg-[#0B111E] border border-slate-300 dark:border-white/15 p-2 z-50 animate-in fade-in zoom-in-95 duration-100 space-y-1 shadow-lg">
+            <div className="absolute left-0 mt-1.5 w-84 min-w-[320px] max-h-[75vh] overflow-y-auto no-scrollbar rounded-2xl bg-white dark:bg-[#0B111E] border border-slate-300 dark:border-white/15 p-2 z-50 animate-in fade-in zoom-in-95 duration-100 space-y-1 shadow-lg">
               <div className="sticky top-0 bg-white/95 dark:bg-[#0B111E]/95 backdrop-blur-xs px-3 py-1.5 text-[10px] font-bold text-slate-400 dark:text-slate-500 uppercase tracking-wider flex items-center justify-between border-b border-slate-100 dark:border-white/5 mb-1">
                 <span>{lang === 'en' ? 'All FMHY Categories' : '全部 FMHY 分类'}</span>
                 <span className="font-mono text-cyan-600 dark:text-cyan-400">{overflowCategories.length} {lang === 'en' ? 'categories' : '个分类'}</span>
