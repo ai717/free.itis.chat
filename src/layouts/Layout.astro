@@ -1,5 +1,6 @@
 ---
 import Header from '../components/Header.astro';
+import { BookmarkNewUserPrompt } from '../components/BookmarkControl';
 import '../styles/global.css';
 
 interface Props {
@@ -210,5 +211,8 @@ const defaultKeywords =
         © 2026 ITIS Free. 互联网上最大的干净、无广告、社区驱动的中文数字免费资源导航，开源！白嫖！避坑！
       </div>
     </footer>
+
+    {/* New User Bookmark Prompt Notification */}
+    <BookmarkNewUserPrompt client:idle />
   </body>
 </html>

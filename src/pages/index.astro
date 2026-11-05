@@ -2,6 +2,7 @@
 import Layout from '../layouts/Layout.astro';
 import { ResourceList } from '../components/ResourceList';
 import TableOfContents from '../components/TableOfContents.astro';
+import { BookmarkButton } from '../components/BookmarkControl';
 import { getFeaturedResources } from '../utils/resources';
 import { getWebsiteSchema, getOrganizationSchema, getItemListSchema } from '../utils/seo';
 
@@ -70,6 +71,7 @@ const homeSchema = [
         >
           ✓ 避坑提示
         </span>
+        <BookmarkButton client:load variant="hero" />
         <a
           href="https://github.com/ai717/free.itis.chat/issues/new?template=resource_submit.md"
           target="_blank"

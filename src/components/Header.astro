@@ -3,6 +3,7 @@ import { SearchModal } from './SearchModal';
 import { ThemeToggle } from './ThemeToggle';
 import { LanguageToggle } from './LanguageToggle';
 import { NavCategories } from './NavCategories';
+import { BookmarkButton } from './BookmarkControl';
 import { getSearchableResources } from '../utils/resources';
 import { CATEGORIES } from '../data/categories';
 
@@ -48,6 +49,11 @@ const currentPath = Astro.url.pathname;
       <div class="flex items-center gap-2 sm:gap-2.5 shrink-0">
         {/* Full-text search modal */}
         <SearchModal client:load resources={searchableResources} />
+
+        {/* Add to Bookmark Button */}
+        <div class="shrink-0">
+          <BookmarkButton client:load variant="header" />
+        </div>
 
         {/* Language Switcher (CH / EN) */}
         <div class="shrink-0">
