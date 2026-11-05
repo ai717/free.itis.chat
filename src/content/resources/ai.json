@@ -1,0 +1,98 @@
+[
+  {
+    "id": "ollama",
+    "name": "Ollama",
+    "url": "https://ollama.com",
+    "description": "极简命令行与后台服务，本地一键下载并运行 DeepSeek、Llama 3、Qwen 等开源顶尖大模型，零门槛白嫖本地算力。",
+    "category": "ai",
+    "tags": ["开源", "本地大模型", "跨平台", "DeepSeek", "免费"],
+    "safeguardStatus": "verified",
+    "warningText": "纯开源无套路。需根据本机显存/内存大小合理选择量化版本（如 8B 建议 16G 内存，70B 需多卡或高配）。",
+    "featured": true,
+    "bentoSize": "wide"
+  },
+  {
+    "id": "lm-studio",
+    "name": "LM Studio",
+    "url": "https://lmstudio.ai",
+    "description": "颜值极高的桌面本地模型工作台，内置 HuggingFace 模型检索、一键下载、图形化硬件加速配置与本地 API Server。",
+    "category": "ai",
+    "tags": ["本地GUI", "HuggingFace", "免命令行", "Windows/Mac"],
+    "safeguardStatus": "verified",
+    "warningText": "个人完全免费。初次下载大模型时建议配置代理或镜像站以加速下载。",
+    "featured": false,
+    "bentoSize": "normal"
+  },
+  {
+    "id": "comfyui",
+    "name": "ComfyUI",
+    "url": "https://github.com/comfyanonymous/ComfyUI",
+    "description": "目前最强、显存利用率最高的节点式开源 AI 绘图工作流，支持 FLUX.1、SDXL、ControlNet、AnimateDiff 等一切前沿模型。",
+    "category": "ai",
+    "tags": ["开源", "生图神器", "FLUX", "SDXL", "节点流"],
+    "safeguardStatus": "verified",
+    "warningText": "完全开源免费。注意：第三方整合包往往暗藏挖矿或诱导付费，强烈建议从官方 GitHub 或官方桌面客户端安装。",
+    "featured": true,
+    "bentoSize": "large"
+  },
+  {
+    "id": "cherry-studio",
+    "name": "Cherry Studio",
+    "url": "https://cherry-studio.net",
+    "description": "为专业极客打造的多模型聚合桌面客户端，支持 30+ 厂商 API 及本地 Ollama、LM Studio，无缝管理知识库与 Prompt。",
+    "category": "ai",
+    "tags": ["开源", "客户端", "多模型聚合", "知识库", "全平台"],
+    "safeguardStatus": "verified",
+    "warningText": "完全开源免费无广告。自身不带免费大模型 API Key，需接入自购 Key 或本地 Ollama 免费模型。",
+    "featured": false,
+    "bentoSize": "normal"
+  },
+  {
+    "id": "librechat",
+    "name": "LibreChat",
+    "url": "https://www.librechat.ai",
+    "description": "功能最完善的开源自托管 AI 对话前端，完美复刻 ChatGPT Plus/Team 界面，支持代码执行、图像生成、多用户鉴权与插件系统。",
+    "category": "ai",
+    "tags": ["开源", "自托管", "ChatGPT克隆", "多用户", "Docker"],
+    "safeguardStatus": "verified",
+    "warningText": "纯开源无广告。支持 Docker 一键自建，杜绝第三方套壳站数据泄露风险。",
+    "featured": false,
+    "bentoSize": "normal"
+  },
+  {
+    "id": "sillytavern",
+    "name": "SillyTavern (酒馆)",
+    "url": "https://github.com/SillyTavern/SillyTavern",
+    "description": "终极本地 AI 角色扮演与复杂提示词交互前端，拥有最庞大的社区角色卡生态与高级上下文记忆插件。",
+    "category": "ai",
+    "tags": ["开源", "角色扮演", "高级提示词", "本地部署"],
+    "safeguardStatus": "warning",
+    "warningText": "工具本身完全开源安全。注意：社区部分第三方角色卡或扩展插件来源混杂，请勿运行未经审计的执行脚本。",
+    "featured": false,
+    "bentoSize": "normal"
+  },
+  {
+    "id": "whisper-cpp",
+    "name": "whisper.cpp",
+    "url": "https://github.com/ggerganov/whisper.cpp",
+    "description": "高性能轻量级 C/C++ 实现的 OpenAI Whisper 离线语音识别转写引擎，可在普通 CPU 或轻薄本上极速离线听写音频。",
+    "category": "ai",
+    "tags": ["开源", "离线语音识别", "极速转写", "C++", "极客白嫖"],
+    "safeguardStatus": "verified",
+    "warningText": "完全开源无内购。离线运行保护隐私，无需担心会议或私密录音上传云端泄密。",
+    "featured": false,
+    "bentoSize": "normal"
+  },
+  {
+    "id": "huggingface",
+    "name": "Hugging Face",
+    "url": "https://huggingface.co",
+    "description": "全球最大的开源 AI 模型、数据集与演示应用开源社区，AI 时代的 GitHub，无数顶尖权重与 Spaces 在线免费白嫖玩耍。",
+    "category": "ai",
+    "tags": ["模型社区", "在线试玩", "免费算力", "开源核心"],
+    "safeguardStatus": "verified",
+    "warningText": "官方平台。免费账户即可体验社区大量 Spaces 免费托管的生图与对话模型。",
+    "featured": false,
+    "bentoSize": "tall"
+  }
+]

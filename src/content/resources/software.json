@@ -1,0 +1,74 @@
+[
+  {
+    "id": "localsend",
+    "name": "LocalSend",
+    "url": "https://localsend.org",
+    "description": "终极跨平台局域网隔空投送神器，iOS、Android、Windows、macOS、Linux 通用，无需注册登录，端到端加密极速传输文件与文字。",
+    "category": "software",
+    "tags": ["开源", "局域网快传", "全平台", "AirDrop替代", "无广告"],
+    "safeguardStatus": "verified",
+    "warningText": "完全开源免费！两台设备处于同一 Wi-Fi 或热点下即可秒连互传，不需要消耗外网流量，零隐私泄露风险。",
+    "featured": true,
+    "bentoSize": "wide"
+  },
+  {
+    "id": "rustdesk",
+    "name": "RustDesk",
+    "url": "https://rustdesk.com",
+    "description": "开箱即用的开源远程桌面控制软件，完全替代 TeamViewer 和商业限制软件，支持官方公共服务器或单机器自建专属中继服务。",
+    "category": "software",
+    "tags": ["开源", "远程控制", "自建服务器", "Rust", "无限制"],
+    "safeguardStatus": "verified",
+    "warningText": "官方免费版体验极佳无时长限制。若跨国/跨网段连接偶遇网络波动，推荐用百元 VPS 一键自建 RustDesk Server。",
+    "featured": true,
+    "bentoSize": "normal"
+  },
+  {
+    "id": "everything",
+    "name": "Everything (Voidtools)",
+    "url": "https://www.voidtools.com",
+    "description": "Windows 平台不可或缺的秒级文件名实时搜索引擎，几百万个文件键入即现，内存占用极小。",
+    "category": "software",
+    "tags": ["极速检索", "神器", "Windows", "体积轻巧"],
+    "safeguardStatus": "verified",
+    "warningText": "官网完全免费下载无广告。警惕搜索引擎前置的推广仿冒站点，一定要认准 voidtools.com 官方域名。",
+    "featured": false,
+    "bentoSize": "normal"
+  },
+  {
+    "id": "geek-uninstaller",
+    "name": "Geek Uninstaller",
+    "url": "https://geekuninstaller.com",
+    "description": "单文件免安装的 Windows 深度卸载神器，强制清理流氓软件卸载后残留的文件、空目录与注册表垃圾项。",
+    "category": "software",
+    "tags": ["软件卸载", "单文件", "注册表深度清理", "系统维护"],
+    "safeguardStatus": "verified",
+    "warningText": "免费版（Free 版本）已满足日常所有深度卸载需求，无需购买 PRO 版，纯净无弹窗推广。",
+    "featured": false,
+    "bentoSize": "normal"
+  },
+  {
+    "id": "flow-launcher",
+    "name": "Flow Launcher",
+    "url": "https://www.flowlauncher.com",
+    "description": "Windows 下颜值与生态最强的开源快速启动器与全局搜索利器，数百款社区插件支持文件检索、计算器、网页直达与剪贴板历史。",
+    "category": "software",
+    "tags": ["开源", "效率神器", "启动器", "Raycast替代", "插件生态"],
+    "safeguardStatus": "verified",
+    "warningText": "完全开源免费。配合 Everything 插件联动，可体验 Windows 上的终极生产力加速。",
+    "featured": false,
+    "bentoSize": "tall"
+  },
+  {
+    "id": "ventoy",
+    "name": "Ventoy",
+    "url": "https://www.ventoy.net",
+    "description": "装机神器，只需将 U 盘格式化一次 Ventoy，之后将各类 Windows/Linux/PE 的 ISO 镜像直接拷贝进 U 盘即可开机启动引导。",
+    "category": "software",
+    "tags": ["开源", "系统启动盘", "多系统合一", "装机必备"],
+    "safeguardStatus": "verified",
+    "warningText": "纯开源装机神器。首次制作会格式化 U 盘，请务必提前备份好 U 盘内的个人数据！",
+    "featured": false,
+    "bentoSize": "normal"
+  }
+]

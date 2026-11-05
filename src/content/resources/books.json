@@ -1,0 +1,62 @@
+[
+  {
+    "id": "annas-archive",
+    "name": "Anna's Archive (安娜的档案)",
+    "url": "https://annas-archive.org",
+    "description": "FMHY 与全球学术界公认最大的开放知识与影子图书馆元搜索引擎，汇集并镜像了 Z-Library、Library Genesis、Sci-Hub 等数千万本图书与论文。",
+    "category": "books",
+    "tags": ["电子书", "开源学术", "论文检索", "全能镜像", "永久免翻"],
+    "safeguardStatus": "verified",
+    "warningText": "完全公益非营利。下载时选择【Slow & Partner Downloads】无需任何充值捐助即可免费下载全本。警惕非官方仿冒打赏钓鱼站！",
+    "featured": true,
+    "bentoSize": "wide"
+  },
+  {
+    "id": "z-library",
+    "name": "Z-Library (官方维基与机器人)",
+    "url": "https://singlelogin.re",
+    "description": "全球规模最大的数字图书馆之一，收藏超过千万本出版图书与文献，支持多语言、格式转换并能通过官方 Telegram Bot 秒发到手机。",
+    "category": "books",
+    "tags": ["电子书库", "多语言", "Telegram机器人", "畅销书"],
+    "safeguardStatus": "warning",
+    "warningText": "严重避坑警告：国内搜索引擎上 90% 的 Z-Library 都是钓鱼套壳诈骗站，以充值 VIP 为名骗取费用！正版免费用户每天都有免费下载额度，请务必认准官方域名 singlelogin.re 或其官方 Telegram Bot。",
+    "featured": true,
+    "bentoSize": "large"
+  },
+  {
+    "id": "legado",
+    "name": "开源阅读 (Legado)",
+    "url": "https://github.com/gedoor/legado",
+    "description": "Android 端公认最纯粹、体验最好的开源网络小说与出版物阅读器。无任何广告与推广，通过导入社区书源即可畅读全网。",
+    "category": "books",
+    "tags": ["开源", "安卓神器", "无广告", "书源生态", "离线缓存"],
+    "safeguardStatus": "verified",
+    "warningText": "本体纯净开源且绝无内置广告。需在酷安或 GitHub Release 下载官方正版，并在网络上搜索导入‘开源阅读优质网络书源合集’。",
+    "featured": false,
+    "bentoSize": "normal"
+  },
+  {
+    "id": "koodo-reader",
+    "name": "Koodo Reader",
+    "url": "https://koodo.lumito.net",
+    "description": "跨平台高颜值开源电子书阅读器，支持 epub, pdf, mobi, azw3, txt 等 15+ 种格式，内置划线笔记、AI 翻译、多端 WebDAV 进度同步。",
+    "category": "books",
+    "tags": ["开源", "跨平台", "高颜值", "WebDAV同步", "多格式"],
+    "safeguardStatus": "verified",
+    "warningText": "完全开源免费。支持网页版直接在浏览器打开阅读，或下载全平台桌面客户端使用。",
+    "featured": false,
+    "bentoSize": "normal"
+  },
+  {
+    "id": "calibre",
+    "name": "Calibre",
+    "url": "https://calibre-ebook.com",
+    "description": "全球电子书爱好者与极客首选的藏书管理中心，一键搞定格式转换、封面刮削、排版重构与无线推送到 Kindle/各类墨水屏阅读器。",
+    "category": "books",
+    "tags": ["开源", "格式转换", "电子书管理", "刮削封面", "经典必备"],
+    "safeguardStatus": "verified",
+    "warningText": "纯粹的自由开源软件，持续维护数十年。遇到格式排版问题还可安装强大的 DeDRM 社区插件使用。",
+    "featured": false,
+    "bentoSize": "tall"
+  }
+]

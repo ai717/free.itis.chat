@@ -1,0 +1,52 @@
+name: Periodic Link Health & Dead Link Checker
+
+on:
+  schedule:
+    # Runs every Sunday at 00:00 UTC
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Run Dead Link Detection Script
+        id: checker
+        run: |
+          node scripts/check-links.mjs
+
+      - name: Create Issue on Broken Links
+        if: failure() || env.DEAD_LINKS_DETECTED == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            let report = "### 🚨 发现失效链接检测报告\n\n检测到部分收录资源链接可能无法访问或返回了 4xx/5xx 状态码：\n\n";
+            try {
+              if (fs.existsSync('dead_links_report.md')) {
+                report += fs.readFileSync('dead_links_report.md', 'utf8');
+              } else {
+                report += "请查看运行日志获取详细错误信息。";
+              }
+            } catch (e) {
+              report += "读取报告失败：" + e.message;
+            }
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `[死链预警] 自动化健康检查报告 - ${new Date().toISOString().slice(0, 10)}`,
+              body: report,
+              labels: ['broken-link', 'automated']
+            });

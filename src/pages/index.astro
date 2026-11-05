@@ -1,0 +1,157 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { BentoGrid } from '../components/BentoGrid';
+import { getAllResources } from '../utils/resources';
+import { CATEGORIES } from '../data/categories';
+
+const allResources = getAllResources();
+---
+
+<Layout>
+  {/* Hero Section */}
+  <section class="relative text-center pt-6 pb-12 sm:pt-10 sm:pb-16 max-w-4xl mx-auto">
+    {/* Status Pill */}
+    <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-cyan-500/10 border border-cyan-500/20 text-cyan-400 text-xs font-semibold mb-6 animate-pulse">
+      <span class="w-2 h-2 rounded-full bg-cyan-400"></span>
+      <span>复刻 FMHY 精华 · 本地化避坑防雷指南</span>
+    </div>
+
+    {/* Main Headline */}
+    <h1 class="text-4xl sm:text-6xl font-black tracking-tight text-white leading-[1.15] mb-6">
+      开源！白嫖！
+      <span class="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 via-teal-300 to-blue-500">
+        安全避坑
+      </span>
+    </h1>
+
+    <p class="text-slate-300 text-base sm:text-xl font-normal leading-relaxed max-w-2xl mx-auto mb-8">
+      互联网上干净、无广告、社区驱动的中文数字免费资源导航。告别套路诱导与李鬼仿冒站，专为极客与数字游民甄选。
+    </p>
+
+    {/* Philosophy Pillars */}
+    <div class="flex items-center justify-center gap-3 sm:gap-6 flex-wrap text-xs sm:text-sm text-slate-300 font-medium">
+      <div class="flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-white/[0.04] border border-white/5">
+        <span class="text-emerald-400">✓</span> 零商业广告
+      </div>
+      <div class="flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-white/[0.04] border border-white/5">
+        <span class="text-cyan-400">✓</span> 纯粹开源优先
+      </div>
+      <div class="flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-white/[0.04] border border-white/5">
+        <span class="text-blue-400">✓</span> 真实防坑提示
+      </div>
+      <div class="flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-white/[0.04] border border-white/5">
+        <span class="text-purple-400">✓</span> GitHub PR共建
+      </div>
+    </div>
+  </section>
+
+  {/* Category Bento Quick Bar */}
+  <section class="mb-12">
+    <div class="flex items-center justify-between mb-4">
+      <h2 class="text-lg font-bold text-white flex items-center gap-2">
+        <span class="w-2 h-5 rounded-full bg-cyan-500"></span>
+        核心资源分类
+      </h2>
+      <span class="text-xs text-slate-400 font-mono">共收录 6 大分类</span>
+    </div>
+
+    <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-3">
+      {CATEGORIES.map((cat) => (
+        <a
+          href={`/${cat.id}`}
+          class="group p-4 rounded-2xl bg-white/[0.02] border border-white/5 hover:border-cyan-500/40 hover:bg-white/[0.05] transition-all duration-300 text-left flex flex-col justify-between"
+        >
+          <div>
+            <div class={`w-8 h-8 rounded-xl bg-gradient-to-br ${cat.gradient} flex items-center justify-center text-white font-bold text-sm mb-3 shadow-md group-hover:scale-110 transition-transform`}>
+              {cat.name.slice(0, 1)}
+            </div>
+            <h3 class="font-bold text-sm text-slate-200 group-hover:text-cyan-300 transition-colors">
+              {cat.name}
+            </h3>
+            <p class="text-[11px] text-slate-400 mt-1 line-clamp-2 leading-relaxed">
+              {cat.description}
+            </p>
+          </div>
+          <div class="mt-4 flex items-center text-[11px] text-cyan-400/80 group-hover:text-cyan-300 font-medium">
+            <span>浏览资源</span>
+            <span class="ml-1 group-hover:translate-x-1 transition-transform">→</span>
+          </div>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  {/* All Curated Resources Bento Grid */}
+  <section class="mb-16">
+    <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-2 mb-6">
+      <div>
+        <h2 class="text-2xl font-bold text-white flex items-center gap-2">
+          <span class="w-2.5 h-6 rounded-full bg-gradient-to-b from-cyan-400 to-blue-600"></span>
+          精选资源大盘
+        </h2>
+        <p class="text-xs text-slate-400 mt-1">每个资源均经过人工实测，带安全避坑提示与一键复制直达功能</p>
+      </div>
+      <div class="text-xs text-slate-400">
+        已加载 <span class="text-cyan-400 font-mono font-bold">{allResources.length}</span> 款精选神器
+      </div>
+    </div>
+
+    <BentoGrid client:load resources={allResources} />
+  </section>
+
+  {/* Community Submission & Bot Automation Intro */}
+  <section class="rounded-3xl p-6 sm:p-10 bg-gradient-to-br from-white/[0.03] to-white/[0.01] border border-white/10 backdrop-blur-2xl">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
+      <div>
+        <div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-blue-500/10 text-blue-400 text-xs font-semibold mb-4 border border-blue-500/20">
+          <span>🤝 社区共建 & 自动化守护</span>
+        </div>
+        <h3 class="text-2xl font-bold text-white mb-3 leading-snug">
+          零广告、零后端，全部依托 GitHub 保持永久透明
+        </h3>
+        <p class="text-sm text-slate-300 leading-relaxed mb-6 font-normal">
+          为了保持绝对的干净无广告与安全性，ITIS Free 不设立任何易受攻击的后台数据库表单。普通用户通过 GitHub Issue 即可一键推荐，开发者可通过 Fork 仓库直接提交 PR！
+        </p>
+
+        <div class="flex items-center gap-4 flex-wrap">
+          <a
+            href="https://github.com/itis-chat/free.itis.chat/issues/new?template=resource_submit.md"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="px-5 py-2.5 rounded-xl font-semibold text-xs bg-gradient-to-r from-cyan-500 to-blue-600 hover:from-cyan-400 hover:to-blue-500 text-white shadow-lg shadow-cyan-500/20 transition-all hover:scale-105"
+          >
+            轻量提交：新建 Issue ↗
+          </a>
+          <a
+            href="https://github.com/itis-chat/free.itis.chat"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="px-5 py-2.5 rounded-xl font-semibold text-xs bg-white/5 hover:bg-white/10 text-slate-200 border border-white/10 transition-all hover:border-cyan-500/30"
+          >
+            极客提交：Fork 仓库发 PR ↗
+          </a>
+        </div>
+      </div>
+
+      <div class="space-y-4 text-xs">
+        <div class="p-4 rounded-2xl bg-white/[0.02] border border-white/5">
+          <div class="flex items-center gap-2 font-bold text-slate-200 mb-1">
+            <span class="text-cyan-400">🤖</span> 方案 A：每周自动化死链巡检机器人
+          </div>
+          <p class="text-slate-400 leading-relaxed">
+            GitHub Actions 定时在每周日执行链接健康检测脚本。一旦检测到 404 或失效服务，自动提交 Issue 提醒社区维护。
+          </p>
+        </div>
+
+        <div class="p-4 rounded-2xl bg-white/[0.02] border border-white/5">
+          <div class="flex items-center gap-2 font-bold text-slate-200 mb-1">
+            <span class="text-blue-400">⚡</span> 方案 B：Auto-Scout 定期前沿扫描
+          </div>
+          <p class="text-slate-400 leading-relaxed">
+            结合 GitHub Trending、X (Twitter) 与 FMHY 社区动态，由 AI 自动解析并过滤出优质开源软件，全自动提 PR 等待合并。
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+</Layout>
