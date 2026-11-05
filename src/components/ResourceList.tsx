@@ -1,4 +1,4 @@
-import React, { useState, useMemo, useEffect } from 'react';
+import React, { useState, useMemo, useEffect, useRef } from 'react';
 import type { ResourceItem, CategoryMeta } from '../types';
 import { ResourceListItem } from './ResourceListItem';
 import { Search, Tag, ShieldCheck, AlertTriangle } from 'lucide-react';
@@ -75,6 +75,58 @@ export const ResourceList: React.FC<ResourceListProps> = ({
     });
     return map;
   }, [filteredItems, groupByCategory, categories]);
+
+  // Progressive infinite scroll pagination
+  const INITIAL_PAGE_SIZE = 40;
+  const [visibleLimit, setVisibleLimit] = useState(INITIAL_PAGE_SIZE);
+  const sentinelRef = useRef<HTMLDivElement | null>(null);
+
+  // Reset pagination limit when filter conditions change
+  useEffect(() => {
+    setVisibleLimit(INITIAL_PAGE_SIZE);
+  }, [filterQuery, selectedTag, statusFilter, lang]);
+
+  const displayedItems = useMemo(() => {
+    return filteredItems.slice(0, visibleLimit);
+  }, [filteredItems, visibleLimit]);
+
+  const hasMore = visibleLimit < filteredItems.length;
+
+  // Continuous scroll observer (IntersectionObserver)
+  useEffect(() => {
+    if (!hasMore) return;
+    const observer = new IntersectionObserver(
+      (entries) => {
+        const first = entries[0];
+        if (first && first.isIntersecting) {
+          setVisibleLimit((prev) => Math.min(prev + INITIAL_PAGE_SIZE, filteredItems.length));
+        }
+      },
+      { rootMargin: '400px 0px' }
+    );
+
+    const el = sentinelRef.current;
+    if (el) observer.observe(el);
+
+    return () => {
+      if (el) observer.unobserve(el);
+    };
+  }, [hasMore, filteredItems.length]);
+
+  // Fallback scroll listener
+  useEffect(() => {
+    if (!hasMore) return;
+    const handleScroll = () => {
+      const scrollHeight = document.documentElement.scrollHeight;
+      const scrollTop = window.scrollY || document.documentElement.scrollTop;
+      const clientHeight = window.innerHeight;
+      if (scrollTop + clientHeight >= scrollHeight - 400) {
+        setVisibleLimit((prev) => Math.min(prev + INITIAL_PAGE_SIZE, filteredItems.length));
+      }
+    };
+    window.addEventListener('scroll', handleScroll, { passive: true });
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, [hasMore, filteredItems.length]);
 
   return (
     <div className="w-full space-y-6">
@@ -225,11 +277,40 @@ export const ResourceList: React.FC<ResourceListProps> = ({
           })}
         </div>
       ) : (
-        /* Flat Dense List for Category Pages or direct lists */
+        /* Flat Dense List with Progressive Continuous Scroll */
         <div className="space-y-2">
-          {filteredItems.map((item) => (
+          {displayedItems.map((item) => (
             <ResourceListItem key={item.id} item={item} />
           ))}
+
+          {/* Continuous Scroll Sentinel & Loading Indicator */}
+          {hasMore && (
+            <div ref={sentinelRef} className="pt-6 pb-4 flex flex-col items-center justify-center gap-2">
+              <div className="flex items-center gap-2 text-xs text-slate-500 dark:text-slate-400">
+                <span className="w-2 h-2 rounded-full bg-cyan-500 animate-ping" />
+                <span>
+                  {lang === 'en'
+                    ? `Loading more... (Showing ${displayedItems.length} of ${filteredItems.length})`
+                    : `向下滚动自动加载... (已展示 ${displayedItems.length} / ${filteredItems.length} 条)`}
+                </span>
+              </div>
+              <button
+                type="button"
+                onClick={() => setVisibleLimit((prev) => Math.min(prev + INITIAL_PAGE_SIZE, filteredItems.length))}
+                className="text-[11px] text-cyan-600 dark:text-cyan-400 hover:underline cursor-pointer"
+              >
+                {lang === 'en' ? 'Click to load next 40' : '点击手动加载下一批 40 条'}
+              </button>
+            </div>
+          )}
+
+          {!hasMore && filteredItems.length > INITIAL_PAGE_SIZE && (
+            <div className="py-8 text-center text-xs text-slate-400 dark:text-slate-500 border-t border-slate-200/50 dark:border-white/5">
+              {lang === 'en'
+                ? `✓ All ${filteredItems.length} items loaded`
+                : `✓ 已全部加载完毕（共 ${filteredItems.length} 条精选资源）`}
+            </div>
+          )}
         </div>
       )}
     </div>
