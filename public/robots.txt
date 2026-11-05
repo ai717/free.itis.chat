@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /icons/
+
+# Host
+Host: https://free.itis.chat
+
+# Sitemaps
+Sitemap: https://free.itis.chat/sitemap-index.xml

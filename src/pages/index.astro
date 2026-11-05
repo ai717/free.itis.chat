@@ -3,8 +3,15 @@ import Layout from '../layouts/Layout.astro';
 import { ResourceList } from '../components/ResourceList';
 import TableOfContents from '../components/TableOfContents.astro';
 import { getFeaturedResources } from '../utils/resources';
+import { getWebsiteSchema, getOrganizationSchema, getItemListSchema } from '../utils/seo';
 
 const featuredResources = getFeaturedResources();
+
+const homeSchema = [
+  getWebsiteSchema(),
+  getOrganizationSchema(),
+  getItemListSchema('ITIS Free 全站重磅精选 (Featured Top)', featuredResources),
+];
 ---
 
 <Layout
@@ -12,6 +19,7 @@ const featuredResources = getFeaturedResources();
   titleEn="ITIS Free - Digital Free Resources Navigation Hub"
   description="互联网上最大的干净、无广告、社区驱动的中文数字免费资源导航，开源！白嫖！避坑！"
   descriptionEn="The cleanest, ad-free, community-driven digital free resource navigation wiki. 100% Free · Open Source · Trap-free."
+  schema={homeSchema}
 >
   {/* FMHY Style Top Minimal Header Banner */}
   <section class="py-6 border-b border-slate-200/90 dark:border-white/5 mb-8">

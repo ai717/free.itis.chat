@@ -7,6 +7,8 @@ interface Props {
   titleEn?: string;
   description?: string;
   descriptionEn?: string;
+  keywords?: string;
+  schema?: any;
 }
 
 const {
@@ -14,7 +16,16 @@ const {
   titleEn = 'ITIS Free - Digital Free Resources Navigation Hub',
   description = '互联网上最大的干净、无广告、社区驱动的中文数字免费资源导航，开源！白嫖！避坑！',
   descriptionEn = 'The cleanest, ad-free, community-driven digital free resource navigation wiki. 100% Free · Open Source · Trap-free.',
+  keywords,
+  schema,
 } = Astro.props;
+
+const siteUrl = 'https://free.itis.chat';
+const cleanPath = Astro.url.pathname.replace(/\/+$/, '') || '';
+const canonicalUrl = cleanPath ? `${siteUrl}${cleanPath}/` : `${siteUrl}/`;
+
+const defaultKeywords =
+  'FMHY中文版, 免费开源软件, 数字资源导航, 开源AI工具, 去广告插件, 免费影视, 免费电子书, 开发者神器, 避坑指南, 白嫖网站, GitHub开源项目, free media heck yeah, open source software, adblock, privacy tools, local llm, free ebooks, self-hosted apps';
 ---
 
 <!doctype html>
@@ -28,14 +39,44 @@ const {
     <title id="site-title" data-title-zh={title} data-title-en={titleEn}>{title}</title>
     <meta id="site-meta-desc" name="description" data-desc-zh={description} data-desc-en={descriptionEn} content={description} />
 
-    {/* Open Graph / Social Media */}
+    {/* Canonical URL */}
+    <link rel="canonical" href={canonicalUrl} />
+
+    {/* Search Engine Robots & Crawling Directives */}
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+    <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+    <meta name="keywords" content={keywords || defaultKeywords} />
+    <meta name="author" content="ITIS Free Community" />
+    <meta name="publisher" content="https://free.itis.chat" />
+
+    {/* Open Graph / Facebook */}
+    <meta property="og:site_name" content="ITIS Free" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
-    <meta property="og:url" content="https://free.itis.chat" />
+    <meta property="og:url" content={canonicalUrl} />
+    <meta property="og:locale" content="zh_CN" />
+    <meta property="og:locale:alternate" content="en_US" />
+    <meta property="og:image" content={`${siteUrl}/og-image.png`} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="ITIS Free - 免费开源数字资源导航" />
+
+    {/* Twitter Card */}
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={`${siteUrl}/og-image.png`} />
+    <meta name="twitter:image:alt" content="ITIS Free - 免费开源数字资源导航" />
+
+    {/* Performance: DNS prefetch & Preconnect */}
+    <link rel="dns-prefetch" href="https://github.com" />
+    <link rel="preconnect" href="https://github.com" crossorigin />
+
+    {/* Structured Data: JSON-LD Schema.org for Google Search */}
+    {schema && (
+      <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+    )}
 
     {/* Pre-theme & Pre-language initialization to prevent flash */}
     <script is:inline>

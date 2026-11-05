@@ -4,6 +4,7 @@ import { ResourceList } from '../components/ResourceList';
 import TableOfContents from '../components/TableOfContents.astro';
 import { getResourcesByCategory } from '../utils/resources';
 import { CATEGORIES } from '../data/categories';
+import { getCategoryPageSchema } from '../utils/seo';
 
 export function getStaticPaths() {
   return CATEGORIES.map((cat) => ({
@@ -14,6 +15,8 @@ export function getStaticPaths() {
 
 const { categoryMeta } = Astro.props;
 const resources = getResourcesByCategory(categoryMeta.id);
+const categorySchema = getCategoryPageSchema(categoryMeta, resources);
+const categoryKeywords = `${categoryMeta.name}, ${categoryMeta.enName}, ${resources.map((r) => r.name).slice(0, 10).join(', ')}, 开源软件, 免费工具, 避坑指南, ITIS Free`;
 ---
 
 <Layout
@@ -21,6 +24,8 @@ const resources = getResourcesByCategory(categoryMeta.id);
   titleEn={`${categoryMeta.enName} - ITIS Free`}
   description={categoryMeta.description}
   descriptionEn={categoryMeta.descriptionEn || categoryMeta.description}
+  keywords={categoryKeywords}
+  schema={categorySchema}
 >
   {/* Category Top Banner */}
   <section class="py-6 border-b border-slate-200/90 dark:border-white/5 mb-8">
