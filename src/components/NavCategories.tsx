@@ -109,9 +109,10 @@ export const NavCategories: React.FC<NavCategoriesProps> = ({
 
           {/* Dropdown Menu Panel */}
           {isOpen && (
-            <div className="absolute left-0 mt-1.5 w-56 rounded-2xl bg-white dark:bg-[#0B111E] border border-slate-200 dark:border-white/10 shadow-xl shadow-slate-950/10 dark:shadow-cyan-950/30 p-2 z-50 backdrop-blur-xl animate-in fade-in zoom-in-95 duration-100 space-y-1">
-              <div className="px-2.5 py-1 text-[10px] font-bold text-slate-400 uppercase tracking-wider">
-                全部分类 ({categories.length})
+            <div className="absolute left-0 mt-1.5 w-80 min-w-[300px] rounded-2xl bg-white dark:bg-[#0B111E] border border-slate-200 dark:border-white/10 shadow-xl shadow-slate-950/10 dark:shadow-cyan-950/30 p-2 z-50 backdrop-blur-xl animate-in fade-in zoom-in-95 duration-100 space-y-1">
+              <div className="px-3 py-1.5 text-[10px] font-bold text-slate-400 dark:text-slate-500 uppercase tracking-wider flex items-center justify-between">
+                <span>更多分类</span>
+                <span className="font-mono">{overflowCategories.length} 个分类</span>
               </div>
               {overflowCategories.map((cat) => {
                 const isActive = currentPath === `/${cat.id}` || currentPath === `/${cat.id}/`;
@@ -126,11 +127,11 @@ export const NavCategories: React.FC<NavCategoriesProps> = ({
                         : 'text-slate-700 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-white/[0.04]'
                     }`}
                   >
-                    <div className="flex items-center gap-2">
-                      <span className="w-1.5 h-1.5 rounded-full bg-slate-400 dark:bg-slate-500" />
-                      <span>{cat.name}</span>
+                    <div className="flex items-center gap-2 shrink-0">
+                      <span className="w-1.5 h-1.5 rounded-full bg-slate-400 dark:bg-slate-500 shrink-0" />
+                      <span className="whitespace-nowrap font-medium">{cat.name}</span>
                     </div>
-                    <span className="text-[10px] font-mono text-slate-400">
+                    <span className="text-[11px] font-mono text-slate-400 dark:text-slate-500 whitespace-nowrap ml-3 shrink-0">
                       {cat.enName}
                     </span>
                   </a>

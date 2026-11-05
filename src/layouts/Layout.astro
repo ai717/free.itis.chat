@@ -63,21 +63,24 @@ const {
     </main>
 
     {/* Footer */}
-    <footer class="w-full border-t border-slate-200 dark:border-white/5 bg-white/80 dark:bg-[#070A12]/80 backdrop-blur-xl py-12">
-      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row items-center justify-between gap-6">
-        <div>
-          <div class="flex items-center gap-2 mb-2">
+    <footer class="w-full border-t border-slate-200 dark:border-white/5 bg-white/80 dark:bg-[#070A12]/80 backdrop-blur-xl py-10">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col lg:flex-row items-center justify-between gap-6">
+        {/* Left Brand & Single Line Slogan */}
+        <div class="flex flex-col sm:flex-row sm:items-center gap-3 text-center sm:text-left">
+          <div class="flex items-center justify-center sm:justify-start gap-2">
             <span class="font-bold text-base text-slate-900 dark:text-white">ITIS Free</span>
-            <span class="text-xs px-2 py-0.5 rounded-full bg-cyan-500/10 text-cyan-600 dark:text-cyan-400 border border-cyan-500/20">
+            <span class="text-xs px-2 py-0.5 rounded-full bg-cyan-50 dark:bg-cyan-500/10 text-cyan-600 dark:text-cyan-400 border border-cyan-200 dark:border-cyan-500/20">
               Community Driven
             </span>
           </div>
-          <p class="text-xs text-slate-500 dark:text-slate-400 max-w-md leading-relaxed">
+          <span class="hidden sm:inline text-slate-300 dark:text-slate-700">|</span>
+          <p class="text-xs text-slate-500 dark:text-slate-400 whitespace-nowrap">
             互联网上最大的干净、无广告、社区驱动的中文数字免费资源导航，开源！白嫖！避坑！
           </p>
         </div>
 
-        <div class="flex flex-col sm:flex-row items-center gap-6 text-xs text-slate-500 dark:text-slate-400">
+        {/* Right Links (FMHY removed per request) */}
+        <div class="flex items-center gap-6 text-xs text-slate-500 dark:text-slate-400 shrink-0">
           <a
             href="https://github.com/ai717/free.itis.chat"
             target="_blank"
@@ -95,14 +98,6 @@ const {
             提交新资源 (Issue) ↗
           </a>
           <a
-            href="https://fmhy.net"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="hover:text-cyan-600 dark:hover:text-cyan-400 transition-colors"
-          >
-            致敬 FMHY (FreeMediaHeckYeah) ↗
-          </a>
-          <a
             href="https://itis.chat"
             target="_blank"
             rel="noopener noreferrer"
@@ -112,8 +107,10 @@ const {
           </a>
         </div>
       </div>
-      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-6 pt-6 border-t border-slate-200/60 dark:border-white/[0.03] text-center text-[11px] text-slate-400">
-        © {new Date().getFullYear()} ITIS Free. All rights reserved. 保护隐私，向一切虚假套路与诱导广告说不。
+
+      {/* Official Bottom Line */}
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-6 pt-6 border-t border-slate-200/60 dark:border-white/[0.03] text-center text-xs text-slate-500 dark:text-slate-400">
+        © {new Date().getFullYear()} ITIS Free. 互联网上最大的干净、无广告、社区驱动的中文数字免费资源导航，开源！白嫖！避坑！
       </div>
     </footer>
   </body>
