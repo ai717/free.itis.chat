@@ -29,6 +29,10 @@ const resources = defineCollection({
     safeguardStatus: z.enum(['verified', 'warning', 'danger']),
     warningText: z.string(),
     featured: z.boolean().optional(),
+    isStarred: z.boolean().optional(),
+    isCollection: z.boolean().optional(),
+    githubUrl: z.string().optional(),
+    platforms: z.array(z.string()).optional(),
     bentoSize: z.enum(['normal', 'wide', 'tall', 'large']).optional(),
   }),
 });
