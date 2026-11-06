@@ -96,8 +96,101 @@ def load_all_existing_resources(resources_dir: str):
 
     return category_data, url_index, github_index, name_index
 
+TAG_TRANSLATIONS = {
+    '开源': 'Open Source',
+    '自建': 'Self-Hosted',
+    '社区精选': 'Featured',
+    '隐私': 'Privacy',
+    '去广告': 'Adblock',
+    '跨平台': 'Cross-Platform',
+    '本地大模型': 'Local LLM',
+    'AI模型': 'AI Models',
+    '大语言模型': 'LLM',
+    '密码管理': 'Password Manager',
+    '端到端加密': 'E2EE',
+    '下载工具': 'Downloader',
+    '网盘解析': 'Debrid & Cloud',
+    '种子磁力': 'Torrent & P2P',
+    '流媒体': 'Streaming',
+    '影视播放': 'Video Player',
+    '无损音乐': 'Lossless Audio',
+    '电台播客': 'Radio & Podcast',
+    '电子书': 'Ebooks',
+    '文献学术': 'Scholarly',
+    '游戏模拟器': 'Emulators',
+    '开发者神器': 'Dev Tools',
+    '系统优化': 'System Utilities',
+    '文件管理': 'File Manager',
+    '图像编辑': 'Image Tools',
+    '视频剪辑': 'Video Editor',
+    '笔记工具': 'Note-Taking',
+    '浏览器插件': 'Browser Extension',
+    '对象存储': 'Cloud Storage',
+    '自学教程': 'Self-Taught & Courses',
+    '多语言': 'Multilingual',
+    '数字百宝箱': 'Web Utilities',
+    '免费工具': 'Free Tools',
+    '免费API': 'Free API',
+    '免费算力': 'Free Compute'
+}
+
+CATEGORY_DEFAULTS_ZH = {
+    'ai': '开源/免费 AI 大模型工具、推理界面与应用套件',
+    'privacy': '开源隐私保护、去广告与网络安全工具',
+    'video': '高品质免广告影视、动漫与流媒体聚合平台',
+    'audio': '无损音乐流媒体、播客收听与电台抓取工具',
+    'gaming': '经典游戏资源、复古模拟器与游戏汉化数据库',
+    'reading': '影子图书馆、开源电子书阅读与文献管理神器',
+    'downloading': '高速多线程下载、网盘中继与网页视频抓取利器',
+    'torrenting': '去中心化种子搜索、纯净 BT 客户端与 Tracker 维护',
+    'educational': '计算机科学、外语自学与名校公开课自学宝库',
+    'mobile': 'Android / iOS 开源应用、去广告修改版与侧载工具',
+    'linux-macos': 'Linux 与 macOS 极客必备神器与开源平替',
+    'developer-tools': '单机 DevOps、轻量 PaaS、离线 API 调试与开发利器',
+    'system-tools': '深度卸载、启动盘制作与系统性能维护优化套件',
+    'file-tools': '磁盘毫秒搜索、文件重命名与跨格式无损转换器',
+    'image-tools': '在线免安装修图、矢量插画编辑与图片无损压缩工具',
+    'video-tools': '无损视频切片、FFmpeg 图形界面与格式转码工具',
+    'text-tools': '双链笔记、Markdown 编辑与离线写作排版利器',
+    'internet-tools': '网页去付费墙、重定向分析与浏览器高级工具',
+    'social-media-tools': '社媒视频高清下载、无追踪前端与隐私镜像',
+    'gaming-tools': '游戏帧率优化、手柄映射与 MOD 管理器',
+    'storage': '免费对象存储、多网盘统一挂载与加密备份工具',
+    'non-english': '全球多语种影视、动漫生肉熟肉与小众文化库',
+    'misc': '趣味网络探索、数字生存与极客百宝箱'
+}
+
+CATEGORY_DEFAULTS_EN = {
+    'ai': 'Open-source and free AI models, inference interfaces, and toolkit.',
+    'privacy': 'Open-source privacy protection, adblocking, and cybersecurity tools.',
+    'video': 'High-quality ad-free movies, anime, and media streaming directory.',
+    'audio': 'Lossless music streaming, podcast players, and web radio indexer.',
+    'gaming': 'Clean game archives, retro emulators, and translation patches.',
+    'reading': 'Shadow libraries, open-source readers, and scholarly research tools.',
+    'downloading': 'Fast multi-threaded downloaders, debrid leeches, and stream rippers.',
+    'torrenting': 'Decentralized torrent indexers, clean P2P clients, and trackers.',
+    'educational': 'Self-taught programming, languages, and open university courseware.',
+    'mobile': 'Android and iOS open-source apps, clean mods, and sideload tools.',
+    'linux-macos': 'Essential developer utilities and open-source alternatives for Unix.',
+    'developer-tools': 'Self-hosted DevOps, lightweight PaaS, and offline API dev tools.',
+    'system-tools': 'Deep uninstallers, bootable media creators, and system optimizers.',
+    'file-tools': 'Instant disk search, batch renamers, and lossless file converters.',
+    'image-tools': 'Web photo editors, vector graphics, and image compression tools.',
+    'video-tools': 'Lossless video splitters, FFmpeg GUIs, and media transcoding tools.',
+    'text-tools': 'Bilingual notes, Markdown editors, and distraction-free writing tools.',
+    'internet-tools': 'Paywall bypassers, redirect analysers, and advanced browser tools.',
+    'social-media-tools': 'Social video extractors, privacy frontends, and clean mirrors.',
+    'gaming-tools': 'Frame rate boosters, controller mappers, and game mod managers.',
+    'storage': 'Free cloud storage, multi-drive mounters, and encrypted backups.',
+    'non-english': 'Multilingual media, international subtitles, and global cultural hubs.',
+    'misc': 'Curated internet utilities, oddities, and digital gems.'
+}
+
+def has_chinese(text: str) -> bool:
+    return bool(re.search(r'[\u4e00-\u9fff]', text or ''))
+
 def validate_item(item: dict, index_in_batch: int) -> tuple[bool, str]:
-    """Validates required fields, category, and formats."""
+    """Validates required fields, category, and formats with robust bilingual guarantees."""
     name = item.get('name', '').strip()
     if not name:
         return False, f"Item #{index_in_batch}: 'name' is required"
@@ -111,29 +204,63 @@ def validate_item(item: dict, index_in_batch: int) -> tuple[bool, str]:
         return False, f"Item '{name}': invalid category '{category}'. Must be one of: {sorted(list(VALID_CATEGORIES))}"
 
     desc = item.get('description', '').strip()
-    if not desc:
-        return False, f"Item '{name}': 'description' (Chinese) is required"
+    desc_en = item.get('descriptionEn', '').strip()
 
-    # Default descriptionEn if missing
-    if not item.get('descriptionEn'):
-        item['descriptionEn'] = desc
+    # Bilingual processing: ensure Chinese description has Chinese, and English has no Chinese
+    if not desc and not desc_en:
+        return False, f"Item '{name}': description is required"
+
+    if desc and not has_chinese(desc):
+        # The agent submitted English into the 'description' field
+        if not desc_en:
+            desc_en = desc
+        desc = f"{name} · {CATEGORY_DEFAULTS_ZH.get(category, '实用免费开源数字工具')}"
+
+    if not desc:
+        desc = f"{name} · {CATEGORY_DEFAULTS_ZH.get(category, '实用免费开源数字工具')}"
+
+    if not desc_en or has_chinese(desc_en):
+        # Ensure English description NEVER contains Chinese characters
+        desc_en = f"{name} - {CATEGORY_DEFAULTS_EN.get(category, 'Curated open-source and free digital tool.')}"
+
+    item['description'] = desc
+    item['descriptionEn'] = desc_en
 
     # Safeguard status validation
     status = item.get('safeguardStatus', 'verified')
     if status not in VALID_SAFEGUARD:
         item['safeguardStatus'] = 'verified'
 
-    # Tags validation
+    # Warning text bilingual validation
+    w_zh = item.get('warningText', '').strip()
+    w_en = item.get('warningTextEn', '').strip()
+    if not w_zh or not has_chinese(w_zh):
+        w_zh = '社区验证纯净，无恶意推广与流氓捆绑。'
+    if not w_en or has_chinese(w_en):
+        w_en = 'Community verified clean, trap-free, and ad-free.'
+    item['warningText'] = w_zh
+    item['warningTextEn'] = w_en
+
+    # Tags validation & bilingual mapping
     tags = item.get('tags', [])
     if not isinstance(tags, list):
         tags = [str(tags)]
     if not tags:
-        tags = ['开源' if item.get('githubUrl') else '免费工具']
+        tags = ['开源' if item.get('githubUrl') else '社区精选']
     item['tags'] = tags
 
     tags_en = item.get('tagsEn', [])
-    if not isinstance(tags_en, list) or not tags_en:
-        item['tagsEn'] = ['Open Source' if item.get('githubUrl') else 'Free Tools']
+    if not isinstance(tags_en, list) or not tags_en or any(has_chinese(t) for t in tags_en):
+        # Auto map Chinese tags to clean English
+        mapped_en = []
+        for t in tags:
+            en_tag = TAG_TRANSLATIONS.get(t.strip())
+            if not en_tag:
+                en_tag = 'Open Source' if t == '开源' else ('Self-Hosted' if t == '自建' else 'Free Tools')
+            mapped_en.append(en_tag)
+        item['tagsEn'] = list(dict.fromkeys(mapped_en))
+    else:
+        item['tagsEn'] = tags_en
 
     # Platforms validation
     raw_plats = item.get('platforms', [])
@@ -154,8 +281,6 @@ def validate_item(item: dict, index_in_batch: int) -> tuple[bool, str]:
     item.setdefault('featured', False)
     item.setdefault('isStarred', False)
     item.setdefault('isCollection', False)
-    item.setdefault('warningText', '社区验证纯净，无恶意推广与流氓捆绑。')
-    item.setdefault('warningTextEn', 'Community verified clean, trap-free, and ad-free.')
 
     return True, ""
 
