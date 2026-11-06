@@ -7,7 +7,8 @@
     "dev:port": "astro dev --port 37891 --host",
     "start": "astro dev",
     "build": "astro build",
-    "preview": "astro preview"
+    "preview": "astro preview",
+    "ingest": "python scripts/ingest.py"
   },
   "dependencies": {
     "@astrojs/react": "^4.2.0",
