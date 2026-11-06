@@ -23,3 +23,5 @@ dead_links_report.md
 
 # Temporary data
 fmhy_raw/
+__pycache__/
+*.pyc

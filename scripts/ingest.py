@@ -17,11 +17,11 @@ import argparse
 from datetime import datetime
 from urllib.parse import urlparse, urlunparse
 
-# Set UTF-8 encoding for standard output on Windows
-if sys.platform.startswith('win'):
-    import io
-    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
-    sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8')
+# Safe UTF-8 configuration for Windows console without closing buffers
+if hasattr(sys.stdout, 'reconfigure'):
+    sys.stdout.reconfigure(encoding='utf-8', errors='replace')
+if hasattr(sys.stderr, 'reconfigure'):
+    sys.stderr.reconfigure(encoding='utf-8', errors='replace')
 
 VALID_CATEGORIES = {
     'privacy', 'ai', 'video', 'audio', 'gaming', 'reading',
