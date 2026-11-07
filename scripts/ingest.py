@@ -188,11 +188,16 @@ CATEGORY_DEFAULTS_EN = {
     'other': 'Uncategorized digital gems, emerging hybrid utilities, and standalone tools.'
 }
 
+LAZY_WARNING_SNIPPETS = {
+    '无', '暂无', '好用', '非常好用', '很好用', '推荐使用', '放心使用',
+    '冲就完了', '必装', '纯开源', '无套路', '测试', '无坑', '很棒', '点赞'
+}
+
 def has_chinese(text: str) -> bool:
     return bool(re.search(r'[\u4e00-\u9fff]', text or ''))
 
 def validate_item(item: dict, index_in_batch: int) -> tuple[bool, str]:
-    """Validates required fields, category, and formats with robust bilingual guarantees."""
+    """Validates required fields, category, and formats with strict quality gates (rejects lazy boilerplate)."""
     name = item.get('name', '').strip()
     if not name:
         return False, f"Item #{index_in_batch}: 'name' is required"
@@ -208,22 +213,18 @@ def validate_item(item: dict, index_in_batch: int) -> tuple[bool, str]:
     desc = item.get('description', '').strip()
     desc_en = item.get('descriptionEn', '').strip()
 
-    # Bilingual processing: ensure Chinese description has Chinese, and English has no Chinese
-    if not desc and not desc_en:
-        return False, f"Item '{name}': description is required"
+    # Strict Description Validation (Anti-Boilerplate)
+    if not desc or len(desc) < 15:
+        return False, f"Item '{name}': 'description' is missing or too short ({len(desc)} chars). Must be at least 15 Chinese characters highlighting utility and free tier points."
 
-    if desc and not has_chinese(desc):
-        # The agent submitted English into the 'description' field
-        if not desc_en:
-            desc_en = desc
-        desc = f"{name} · {CATEGORY_DEFAULTS_ZH.get(category, '实用免费开源数字工具')}"
+    if not has_chinese(desc):
+        return False, f"Item '{name}': 'description' must be in Chinese and contain Chinese characters."
 
-    if not desc:
-        desc = f"{name} · {CATEGORY_DEFAULTS_ZH.get(category, '实用免费开源数字工具')}"
+    if not desc_en or len(desc_en) < 15:
+        return False, f"Item '{name}': 'descriptionEn' is missing or too short ({len(desc_en)} chars). Must be at least 15 English characters."
 
-    if not desc_en or has_chinese(desc_en):
-        # Ensure English description NEVER contains Chinese characters
-        desc_en = f"{name} - {CATEGORY_DEFAULTS_EN.get(category, 'Curated open-source and free digital tool.')}"
+    if has_chinese(desc_en):
+        return False, f"Item '{name}': 'descriptionEn' contains Chinese characters. Must be pure English."
 
     item['description'] = desc
     item['descriptionEn'] = desc_en
@@ -233,13 +234,22 @@ def validate_item(item: dict, index_in_batch: int) -> tuple[bool, str]:
     if status not in VALID_SAFEGUARD:
         item['safeguardStatus'] = 'verified'
 
-    # Warning text bilingual validation
+    # Strict Warning / Caveat Validation (Anti-Boilerplate)
     w_zh = item.get('warningText', '').strip()
     w_en = item.get('warningTextEn', '').strip()
-    if not w_zh or not has_chinese(w_zh):
-        w_zh = '社区验证纯净，无恶意推广与流氓捆绑。'
-    if not w_en or has_chinese(w_en):
-        w_en = 'Community verified clean, trap-free, and ad-free.'
+
+    if not w_zh or len(w_zh) < 10 or w_zh in LAZY_WARNING_SNIPPETS:
+        return False, f"Item '{name}': 'warningText' is missing, lazy boilerplate ('{w_zh}'), or too short. Must describe genuine caveats, limitations, or configurations in at least 10 Chinese characters."
+
+    if not has_chinese(w_zh):
+        return False, f"Item '{name}': 'warningText' must contain Chinese characters."
+
+    if not w_en or len(w_en) < 10:
+        return False, f"Item '{name}': 'warningTextEn' is missing or too short ({len(w_en)} chars). Must be at least 10 English characters."
+
+    if has_chinese(w_en):
+        return False, f"Item '{name}': 'warningTextEn' contains Chinese characters. Must be pure English."
+
     item['warningText'] = w_zh
     item['warningTextEn'] = w_en
 
@@ -247,8 +257,9 @@ def validate_item(item: dict, index_in_batch: int) -> tuple[bool, str]:
     tags = item.get('tags', [])
     if not isinstance(tags, list):
         tags = [str(tags)]
-    if not tags:
-        tags = ['开源' if item.get('githubUrl') else '社区精选']
+    if not tags or len(tags) < 2:
+        return False, f"Item '{name}': 'tags' must be a list containing at least 2 Chinese keyword tags."
+
     item['tags'] = tags
 
     tags_en = item.get('tagsEn', [])
