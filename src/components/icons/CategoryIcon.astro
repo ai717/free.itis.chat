@@ -187,8 +187,16 @@ const { id, class: className = 'w-3.5 h-3.5' } = Astro.props;
   </svg>
 )}
 
+{id === 'other' && (
+  <svg viewBox="0 0 24 24" class={className} fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="1.5" />
+    <circle cx="19" cy="12" r="1.5" />
+    <circle cx="5" cy="12" r="1.5" />
+  </svg>
+)}
+
 {/* Fallback */}
-{!['privacy', 'ai', 'video', 'audio', 'gaming', 'reading', 'downloading', 'torrenting', 'educational', 'mobile', 'linux-macos', 'developer-tools', 'system-tools', 'file-tools', 'image-tools', 'video-tools', 'text-tools', 'internet-tools', 'social-media-tools', 'gaming-tools', 'storage', 'non-english', 'misc'].includes(id) && (
+{!['privacy', 'ai', 'video', 'audio', 'gaming', 'reading', 'downloading', 'torrenting', 'educational', 'mobile', 'linux-macos', 'developer-tools', 'system-tools', 'file-tools', 'image-tools', 'video-tools', 'text-tools', 'internet-tools', 'social-media-tools', 'gaming-tools', 'storage', 'non-english', 'misc', 'other'].includes(id) && (
   <svg viewBox="0 0 24 24" class={className} fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="12" cy="12" r="8" />
   </svg>

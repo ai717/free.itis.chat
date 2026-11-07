@@ -1,0 +1,21 @@
+[
+  {
+    "id": "other-awesome-digital",
+    "name": "Awesome Digital Resources",
+    "url": "https://github.com",
+    "githubUrl": "https://github.com",
+    "category": "other",
+    "subcategory": "综合数字索引",
+    "description": "全球开发者与极客共同维护的开放数字资源目录 · 汇聚多领域开源工具与未分类小众实用宝藏",
+    "descriptionEn": "Curated collection of digital gems, community tools, and uncategorized open source utilities.",
+    "tags": ["开源", "社区精选", "数字宝藏", "综合工具"],
+    "tagsEn": ["Open Source", "Featured", "Digital Gems", "General Tools"],
+    "safeguardStatus": "verified",
+    "warningText": "社区验证纯净；使用前请查阅各独立项目的官方说明与协议声明。",
+    "warningTextEn": "Community verified clean; review license and documentation before use.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": true,
+    "platforms": ["web"]
+  }
+]

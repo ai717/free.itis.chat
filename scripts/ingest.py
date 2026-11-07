@@ -28,7 +28,7 @@ VALID_CATEGORIES = {
     'downloading', 'torrenting', 'educational', 'mobile', 'linux-macos',
     'developer-tools', 'system-tools', 'file-tools', 'image-tools',
     'video-tools', 'text-tools', 'internet-tools', 'social-media-tools',
-    'gaming-tools', 'storage', 'non-english', 'misc'
+    'gaming-tools', 'storage', 'non-english', 'misc', 'other'
 }
 
 VALID_PLATFORMS = {'win', 'mac', 'linux', 'android', 'ios', 'web', 'docker'}
@@ -157,7 +157,8 @@ CATEGORY_DEFAULTS_ZH = {
     'gaming-tools': '游戏帧率优化、手柄映射与 MOD 管理器',
     'storage': '免费对象存储、多网盘统一挂载与加密备份工具',
     'non-english': '全球多语种影视、动漫生肉熟肉与小众文化库',
-    'misc': '趣味网络探索、数字生存与极客百宝箱'
+    'misc': '趣味网络探索、数字生存与极客百宝箱',
+    'other': '未归类数字宝藏、新兴跨界工具与独立实用资源汇总'
 }
 
 CATEGORY_DEFAULTS_EN = {
@@ -183,7 +184,8 @@ CATEGORY_DEFAULTS_EN = {
     'gaming-tools': 'Frame rate boosters, controller mappers, and game mod managers.',
     'storage': 'Free cloud storage, multi-drive mounters, and encrypted backups.',
     'non-english': 'Multilingual media, international subtitles, and global cultural hubs.',
-    'misc': 'Curated internet utilities, oddities, and digital gems.'
+    'misc': 'Curated internet utilities, oddities, and digital gems.',
+    'other': 'Uncategorized digital gems, emerging hybrid utilities, and standalone tools.'
 }
 
 def has_chinese(text: str) -> bool:

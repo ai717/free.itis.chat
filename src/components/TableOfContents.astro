@@ -121,7 +121,14 @@ const activeNameEn = activeCategory === 'home' || activeCategory === '' ? 'Featu
         class="inline-flex items-center gap-1 px-2.5 py-1 rounded-lg text-[11px] font-medium text-cyan-700 dark:text-cyan-300 bg-cyan-50 dark:bg-cyan-500/10 border border-cyan-200/80 dark:border-cyan-500/20 transition-all cursor-pointer"
         aria-expanded="false"
       >
-        <span id="mobile-cat-btn-text" data-i18n-zh="全部 23 分类 ▾" data-i18n-en="All Categories ▾">全部 23 分类 ▾</span>
+        <span
+          id="mobile-cat-btn-text"
+          data-i18n-zh={`全部 ${categoryCounts.length} 分类 ▾`}
+          data-i18n-en={`All ${categoryCounts.length} Categories ▾`}
+          data-total-count={categoryCounts.length}
+        >
+          {`全部 ${categoryCounts.length} 分类 ▾`}
+        </span>
       </button>
     </div>
 
@@ -206,14 +213,16 @@ const activeNameEn = activeCategory === 'home' || activeCategory === '' ? 'Featu
 
     btn.addEventListener('click', () => {
       const isHidden = grid.classList.contains('hidden');
+      const isEn = document.documentElement.getAttribute('data-lang') === 'en';
+      const total = text.getAttribute('data-total-count') || '24';
       if (isHidden) {
         grid.classList.remove('hidden');
         btn.setAttribute('aria-expanded', 'true');
-        text.textContent = '收起分类 ▴';
+        text.textContent = isEn ? 'Collapse ▴' : '收起分类 ▴';
       } else {
         grid.classList.add('hidden');
         btn.setAttribute('aria-expanded', 'false');
-        text.textContent = '全部 23 分类 ▾';
+        text.textContent = isEn ? `All ${total} Categories ▾` : `全部 ${total} 分类 ▾`;
       }
     });
   })();

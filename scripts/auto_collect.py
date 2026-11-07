@@ -48,7 +48,7 @@ CATEGORY_KEYWORDS = {
     'storage': ['s3', 'backup', 'cloud storage', 'sync', 'webdav', 'rclone', 'alist', 'minio']
 }
 
-def detect_category(text: str, default_cat: str = 'developer-tools') -> str:
+def detect_category(text: str, default_cat: str = 'other') -> str:
     text_lower = text.lower()
     for cat, kws in CATEGORY_KEYWORDS.items():
         if any(kw in text_lower for kw in kws):

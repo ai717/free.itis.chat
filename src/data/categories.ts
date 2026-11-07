@@ -208,4 +208,13 @@ export const CATEGORIES: CategoryMeta[] = [
     descriptionEn: 'Web oddities, live webcams, retro preservation, and digital survival curiosities.',
     gradient: 'from-zinc-500 to-slate-700',
   },
+  {
+    id: 'other',
+    name: '其它资源',
+    enName: 'Other Resources',
+    icon: 'MoreHorizontal',
+    description: '未归类数字宝藏、新兴跨界工具与独立实用资源汇总',
+    descriptionEn: 'Uncategorized digital gems, emerging hybrid utilities, and standalone tools.',
+    gradient: 'from-slate-500 to-zinc-600',
+  },
 ];
