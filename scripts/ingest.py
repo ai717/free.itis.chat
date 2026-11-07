@@ -467,8 +467,13 @@ def main():
     elif args.file:
         try:
             with open(args.file, 'r', encoding='utf-8') as f:
-                data = json.load(f)
-                items = data if isinstance(data, list) else [data]
+                raw = f.read().strip()
+            # Extract json markdown code block if present
+            match = re.search(r'```(?:json)?\s*([\s\S]*?)\s*```', raw)
+            if match:
+                raw = match.group(1).strip()
+            data = json.loads(raw)
+            items = data if isinstance(data, list) else [data]
             ingest_items(items, root_dir, dry_run=args.dry_run)
         except Exception as e:
             print(f"[ERR] Failed to load '{args.file}': {e}")
