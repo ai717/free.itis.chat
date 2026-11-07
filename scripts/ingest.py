@@ -329,8 +329,11 @@ def ingest_items(items: list, root_dir: str, dry_run: bool = False):
             existing_match = github_index[item_gh]
             match_reason = f"matched GitHub repo ({item_gh})"
         elif item_name in name_index:
-            existing_match = name_index[item_name]
-            match_reason = f"matched existing name '{item['name']}'"
+            exist_cat, exist_item = name_index[item_name]
+            # Only treat name match as duplicate if in the same category or no github repo distinction
+            if exist_cat == item['category']:
+                existing_match = name_index[item_name]
+                match_reason = f"matched existing name '{item['name']}' in category '{exist_cat}'"
 
         target_cat = item['category']
 

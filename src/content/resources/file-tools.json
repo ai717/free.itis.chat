@@ -1276,13 +1276,14 @@
       "Converter"
     ],
     "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
+    "warningText": "避坑提醒：带标记的格式首次使用要另下载 Ghostscript、LibreOffice、Pandoc 或 FFmpeg 等引擎；macOS 还是预览版未公证，首次启动要在系统设置里点仍要打开；Linux 拖拽手势要 X11。",
+    "warningTextEn": "Marked formats download an extra engine on first use, such as Ghostscript, LibreOffice, Pandoc or FFmpeg. The macOS build is an unsigned preview, and Linux drag gestures require X11.",
+    "featured": true,
+    "isStarred": true,
     "isCollection": false,
     "githubUrl": "https://github.com/KnifeLemon/Filee",
     "platforms": [
+      "linux",
       "win",
       "mac"
     ]

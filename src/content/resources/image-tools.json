@@ -17770,5 +17770,41 @@
     "isCollection": false,
     "githubUrl": null,
     "platforms": []
+  },
+  {
+    "category": "image-tools",
+    "description": "免费开源本地照片编辑器，Lightroom 平替，支持 1000 多种相机 RAW、AI 遮罩、降噪和超分，AI 全在设备上跑，编辑存为标准 XMP。",
+    "descriptionEn": "Free open-source local photo editor and Lightroom alternative with support for over 1,000 camera RAW formats, AI masking, denoising and upscaling, all processed on device and saved as standard XMP.",
+    "featured": false,
+    "githubUrl": "https://github.com/thesnarkitecht/rembrandt",
+    "id": "image-tools-rembrandt",
+    "isCollection": false,
+    "isStarred": false,
+    "name": "Rembrandt",
+    "platforms": [
+      "win",
+      "mac",
+      "linux",
+      "web"
+    ],
+    "safeguardStatus": "warning",
+    "subcategory": "本地照片编辑",
+    "tags": [
+      "开源",
+      "照片编辑",
+      "RAW",
+      "本地 AI",
+      "免费"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Photo Editor",
+      "RAW",
+      "On-Device AI",
+      "Free"
+    ],
+    "url": "https://rembrandteditor.dev",
+    "warningText": "避坑提醒：非常年轻，编辑引擎还在变，同一张图升级后效果可能不一样，重要作品导出前要复查；安装包还没代码签名，macOS 和 Windows 首次打开要手动放行；超分和 AI 降噪要 GPU。",
+    "warningTextEn": "It is very young and its editing engine is still changing, so results may differ after an upgrade and important work should be rechecked before export. Installers are unsigned, and upscaling and AI denoising need a GPU."
   }
 ]

@@ -2028,13 +2028,18 @@
       "LLM"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
-    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
-    "featured": false,
-    "isStarred": false,
+    "warningText": "避坑提醒：门槛是真高，最小模型也要 22GB 空闲磁盘，GLM-5.2 int4 约要 370GB 磁盘、建议 25GB 内存，CPU 下大模型只有约 1 token/秒；模型权重另有各自许可，要自行下载。",
+    "warningTextEn": "Hardware demands are high: even the smallest model needs about 22GB of free disk, GLM-5.2 int4 needs about 370GB of disk and 25GB of RAM, and large models run at about 1 token per second on CPU. Model weights carry their own licenses.",
+    "featured": true,
+    "isStarred": true,
     "isCollection": false,
     "githubUrl": "https://github.com/JustVugg/colibri",
-    "platforms": []
+    "platforms": [
+      "linux",
+      "web",
+      "win",
+      "mac"
+    ]
   },
   {
     "id": "ai-tgpt",
@@ -8136,5 +8141,41 @@
     "isCollection": false,
     "githubUrl": null,
     "platforms": []
+  },
+  {
+    "category": "ai",
+    "description": "开源自建 AI 新闻雷达，从 RSS、Hacker News、Reddit、Telegram、X、GitHub 等信源抓新闻，用大模型打分去重，生成中英双语每日简报。",
+    "descriptionEn": "Open-source self-hosted AI news radar that pulls from RSS, Hacker News, Reddit, Telegram, X and GitHub, scores and deduplicates with a large model, and generates bilingual daily briefings.",
+    "featured": true,
+    "githubUrl": "https://github.com/Thysrael/Horizon",
+    "id": "ai-horizon",
+    "isCollection": false,
+    "isStarred": true,
+    "name": "Horizon",
+    "platforms": [
+      "win",
+      "mac",
+      "linux",
+      "docker"
+    ],
+    "safeguardStatus": "warning",
+    "subcategory": "AI 新闻简报",
+    "tags": [
+      "开源",
+      "自建",
+      "AI新闻",
+      "每日简报",
+      "中英双语"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Self-Hosted",
+      "AI News",
+      "Daily Briefing",
+      "Bilingual"
+    ],
+    "url": "https://www.horizon1123.top",
+    "warningText": "避坑提醒：必须自备大模型 API Key，评分和摘要的调用费自己出；X 信源要 Apify Token；没有 PyPI 包和 GitHub Release，要自己配 config.json 和 .env，不是开箱即用。",
+    "warningTextEn": "You must bring your own large-model API key and pay for scoring and summarisation calls. The X source needs an Apify token, and there is no PyPI package or release, so you must configure config.json and .env yourself."
   }
 ]

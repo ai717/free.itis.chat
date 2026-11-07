@@ -10808,13 +10808,20 @@
       "Self-Hosted"
     ],
     "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
+    "warningText": "避坑提醒：本身不含任何 AI 能力，须先装好并登录一个付费 Agent 才能用，模型费用另付；作者自述非常早期，会有 Bug；T3 Connect 免费只到 3 台机器。",
+    "warningTextEn": "It contains no AI model itself; you must install and log in to a paid coding agent first, and model costs are separate. The author warns it is very early and buggy, and free T3 Connect covers up to 3 machines.",
+    "featured": true,
+    "isStarred": true,
     "isCollection": false,
     "githubUrl": "https://github.com/pingdotgg/t3code",
-    "platforms": []
+    "platforms": [
+      "linux",
+      "android",
+      "mac",
+      "web",
+      "ios",
+      "win"
+    ]
   },
   {
     "id": "developer-tools-code-web-chat",
