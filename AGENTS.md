@@ -88,3 +88,41 @@
   - 标签必须包含：`["auto-ingest"]`；
   - 正文必须包裹在 Markdown 代码块：` ```json [ ...符合契约的数组... ] ``` `；
   - 后台 `.github/workflows/auto-ingest.yml` 会自动校验、去重合并并直接触发生产部署。
+
+---
+
+## 六、Git 多端协同与推送铁律 (Git Sync & Push Protocol)
+
+本项目采用「云端 Agent (Muse / GitHub Actions) + 本地 Agent (Antigravity / Claude Code / Cursor) + 人工开发者」多端协同架构。云端后台随时会有自动化任务入库新条目并推送到 `origin/main`。为彻底杜绝代码/数据相互覆盖或丢失，**任何 Agent 或脚本必须严格遵守以下军规**：
+
+### 1. 先拉后做，先拉后推 (Pull-Before-Work & Pull-Before-Push)
+* **动工/入库前拉取**：在任何本地批量入库、全网爬取或修改资源前，**必须首先执行 `git pull --rebase origin main`**。
+  - **核心意义**：确保本地数据包含 Muse 刚刚在云端入库的最新条目，使 `scripts/ingest.py` 能够基于最新全量库进行全局查重，从源头杜绝重复录入。
+* **推送前拉取**：本地完成修改、验证构建通过后，在执行 `git push` 前，必须再次确认本地已 rebase 至最新的 `origin/main`。
+
+### 2. 严禁强推（Strictly Prohibit Force Push）
+* **绝对红线**：严禁执行 `git push --force` 或 `git push -f`！
+* 如果推送被远端拒绝（`[rejected] non-fast-forward`），说明云端 Muse 刚提交了新数据。**唯一正确解法**是执行 `git pull --rebase origin main`，平滑变基后再推送，绝不能暴力覆盖远端提交。
+
+### 3. Agent 自动化提交与推送标准化流水线
+任何 AI Agent 在接收到“提交、推送、上线、发布”指令时，必须严格执行以下原子流水线：
+```bash
+# 步骤 1：同步远端最新条目与提交（避免冲突，确保数据最新）
+git pull --rebase origin main
+
+# 步骤 2：执行本地入库查重 / 代码变更
+
+# 步骤 3：本地静态页面生产构建验证（防止坏代码或脏数据污染生产站）
+npm run build
+
+# 步骤 4：添加变更并创建标准语义化 Commit
+git add src/content/resources/ staging/
+git commit -m "feat(resources): <说明变更内容>"
+
+# 步骤 5：推送前再次安全 rebase（防止构建期间云端恰好有新入库）
+git pull --rebase origin main
+
+# 步骤 6：安全推送至主分支，触发 GitHub Pages 自动部署
+git push origin main
+```
+

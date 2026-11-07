@@ -272,6 +272,10 @@ def run_pipeline(auto_deploy: bool = False):
 
     print(f"\n📦 Saved {len(all_candidates)} candidates to: {output_path}")
 
+    # Sync latest entries from Muse / Cloud Actions before deduplication
+    print("\n🔄 Syncing latest entries from origin/main before deduplication...")
+    os.system("git pull --rebase origin main")
+
     # Call ingestion engine to deduplicate against 15,700+ resources
     sys.path.insert(0, script_dir)
     import ingest
@@ -284,8 +288,13 @@ def run_pipeline(auto_deploy: bool = False):
             print("🚀 Committing and pushing to GitHub Pages...")
             os.system('git add src/content/resources/ staging/')
             os.system(f'git commit -m "feat(auto-radar): autonomously ingest {added} new digital gems [{timestamp}]"')
-            os.system('git push origin main')
-            print("\n🎉 Deployment completed! Changes are now building on GitHub Pages.")
+            # Rebase again right before push to avoid mid-build race conditions
+            os.system('git pull --rebase origin main')
+            push_res = os.system('git push origin main')
+            if push_res == 0:
+                print("\n🎉 Deployment completed! Changes are now building on GitHub Pages.")
+            else:
+                print("\n⚠️ Git push failed. Please inspect your connection or branch status.")
         else:
             print("❌ Build failed. Git push skipped to protect production.")
     else:

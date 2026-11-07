@@ -11,6 +11,16 @@ echo.
 
 cd /d "%~dp0"
 
+echo [1/2] 正在拉取远程最新仓库状态 (Muse / GitHub Actions 更新)...
+git pull --rebase origin main
+if %errorlevel% neq 0 (
+    echo [警告] 远程仓库同步失败，请检查网络或冲突。
+    pause
+    exit /b %errorlevel%
+)
+echo.
+
+echo [2/2] 启动巡航爬虫与入库部署管线...
 python scripts\auto_collect.py --deploy
 if %errorlevel% neq 0 (
     echo.
