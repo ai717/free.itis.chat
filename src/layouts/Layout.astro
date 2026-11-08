@@ -76,12 +76,13 @@ const defaultKeywords =
     <link rel="preconnect" href="https://github.com" crossorigin />
     <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
 
-    {/* Google Tag Manager */}
-    <script is:inline async src="https://www.googletagmanager.com/gtm.js?id=GTM-54GFNWK6"></script>
+    {/* Google Tag (gtag.js) */}
+    <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=GTM-54GFNWK6"></script>
     <script is:inline>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
+      gtag('config', 'GTM-54GFNWK6');
     </script>
 
     {/* Structured Data: JSON-LD Schema.org for Google Search */}
