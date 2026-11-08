@@ -5,33 +5,64 @@ on:
     types: [opened, labeled]
   workflow_dispatch:
 
+concurrency:
+  group: auto-ingest-pipeline
+  cancel-in-progress: false
+
 permissions:
   contents: write
   issues: write
 
 jobs:
   process-submission:
-    # Only run when labeled with 'auto-ingest' or 'resource-submission'
+    # Only run when labeled with 'auto-ingest' or 'resource-submission' or titled '[New Resource]'
     if: |
       github.event_name == 'workflow_dispatch' ||
       (github.event_name == 'issues' && (
-        contains(github.event.issue.labels.*.name, 'auto-ingest') ||
-        contains(github.event.issue.labels.*.name, 'resource-submission') ||
-        startsWith(github.event.issue.title, '[New Resource]')
+        (github.event.action == 'opened' && (
+          contains(github.event.issue.labels.*.name, 'auto-ingest') ||
+          contains(github.event.issue.labels.*.name, 'resource-submission') ||
+          startsWith(github.event.issue.title, '[New Resource]')
+        )) ||
+        (github.event.action == 'labeled' && (
+          github.event.label.name == 'auto-ingest' ||
+          github.event.label.name == 'resource-submission'
+        ))
       ))
     runs-on: ubuntu-latest
     steps:
+      - name: Check If Issue Already Processed
+        id: check_status
+        if: github.event_name == 'issues'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const issue = await github.rest.issues.get({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number
+            });
+            if (issue.data.state === 'closed') {
+              console.log(`Issue #${context.issue.number} is already closed. Skipping duplicate execution.`);
+              core.setOutput('skip', 'true');
+            } else {
+              core.setOutput('skip', 'false');
+            }
+
       - name: Checkout Repository
+        if: steps.check_status.outputs.skip != 'true'
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Python
+        if: steps.check_status.outputs.skip != 'true'
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
       - name: Ingest Issue Payload
+        if: steps.check_status.outputs.skip != 'true'
         id: ingest
         env:
           ISSUE_BODY: ${{ github.event.issue.body }}
@@ -40,7 +71,7 @@ jobs:
           python scripts/ingest.py --file /tmp/issue_payload.txt
 
       - name: Commit and Push Changes
-        if: steps.ingest.outcome == 'success'
+        if: steps.check_status.outputs.skip != 'true' && steps.ingest.outcome == 'success'
         run: |
           git config --global user.name "itis-free-bot"
           git config --global user.email "bot@itis.chat"
@@ -56,7 +87,7 @@ jobs:
           fi
 
       - name: Comment and Close Issue
-        if: github.event_name == 'issues' && always()
+        if: steps.check_status.outputs.skip != 'true' && github.event_name == 'issues' && always()
         uses: actions/github-script@v7
         with:
           script: |
