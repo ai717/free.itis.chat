@@ -25089,5 +25089,181 @@
     "isCollection": false,
     "githubUrl": null,
     "platforms": []
+  },
+  {
+    "category": "developer-tools",
+    "description": "免费开源的 Rust 命令行浏览器操控工具，给 AI Agent 用：一条命令打开网页、把页面读成无障碍树快照、按元素编号点按操作，浏览器常驻不用反复开关，Apache-2.0 协议。",
+    "descriptionEn": "Free open-source Rust CLI that gives an AI agent a browser to drive from the shell: open pages, read them as accessibility-tree snapshots, and act on elements by reference, with the browser staying open between commands.",
+    "featured": true,
+    "githubUrl": "https://github.com/vercel-labs/agent-browser",
+    "id": "developer-tools-agent-browser",
+    "isCollection": false,
+    "isStarred": true,
+    "name": "agent-browser",
+    "platforms": [
+      "mac",
+      "win",
+      "linux"
+    ],
+    "safeguardStatus": "warning",
+    "subcategory": "AI Agent 浏览器操控",
+    "tags": [
+      "开源",
+      "AI Agent",
+      "浏览器自动化",
+      "命令行",
+      "免费"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "AI Agents",
+      "Browser Automation",
+      "CLI",
+      "Free"
+    ],
+    "url": "https://agent-browser.dev",
+    "warningText": "避坑提醒：这是给 AI Agent 用的命令行工具，不是给人点的浏览器；首次使用要另下载 Chrome for Testing，Linux 下还要补装浏览器系统依赖；它会真实操作页面，跑自动化前先确认目标网站允许。",
+    "warningTextEn": "Built for AI agents, not for clicking around yourself. First use downloads Chrome for Testing, and Linux needs extra browser system libraries. It performs real actions on pages, so confirm the target site allows automation first."
+  },
+  {
+    "category": "developer-tools",
+    "description": "免费开源的 Grok Bot 平替：把 Claude、Codex 装成本地聊天联系人，每个 Bot 有自己的性格、模型和连接应用，像聊天一样派活、看它们干活、关键步骤再点头放行，Apache-2.0 协议。",
+    "descriptionEn": "Free open-source Grok Bot alternative that turns Claude and Codex into chat contacts: each bot has its own personality, model and connected apps, so you assign work like chatting, watch it run, and approve the steps that matter.",
+    "featured": true,
+    "githubUrl": "https://github.com/milind-soni/OpenMausBot",
+    "id": "developer-tools-openmausbot",
+    "isCollection": false,
+    "isStarred": true,
+    "name": "OpenMausBot",
+    "platforms": [
+      "mac",
+      "win",
+      "linux"
+    ],
+    "safeguardStatus": "warning",
+    "subcategory": "AI Agent 聊天客户端",
+    "tags": [
+      "开源",
+      "AI Agent",
+      "聊天客户端",
+      "本地优先",
+      "免费"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "AI Agents",
+      "Chat Client",
+      "Local-First",
+      "Free"
+    ],
+    "url": "https://www.openmausbot.com",
+    "warningText": "避坑提醒：本身不含任何模型，须先在本机装好 Claude、Codex 或 Grok CLI 并登录已有账号，模型费用按你自己的订阅或 API 账单另付；“云端电脑”是宣传说法，实际跑的是本机 CLI；作者同时声明与 xAI、Meta、OpenAI 均无关联。",
+    "warningTextEn": "It ships no model of its own: install the Claude, Codex or Grok CLI on your own machine and log in with your existing account first, and model costs follow your own subscription or API bill. The \"cloud computer\" line is marketing; it actually drives your local CLIs. The author states no affiliation with xAI, Meta or OpenAI."
+  },
+  {
+    "category": "developer-tools",
+    "description": "免费开源的上下文压缩插件，装进 Claude Code、Codex、OpenCode、pi、Gemini CLI 等编程 Agent 里，把长会话压缩后再续跑，号称 100K 小窗口够用、省约 5 倍 Token、单会话能撑上月，MIT 协议。",
+    "descriptionEn": "Free open-source context-compression plugin for Claude Code, Codex, OpenCode, pi, Gemini CLI and more: it compresses long agent sessions so they keep going in a small 100K window, claiming about 5x fewer tokens and month-long single sessions.",
+    "featured": true,
+    "githubUrl": "https://github.com/ranxianglei/billion-context",
+    "id": "developer-tools-billion-context",
+    "isCollection": false,
+    "isStarred": true,
+    "name": "billion-context",
+    "platforms": [
+      "mac",
+      "win",
+      "linux"
+    ],
+    "safeguardStatus": "warning",
+    "subcategory": "Agent 上下文压缩插件",
+    "tags": [
+      "开源",
+      "上下文压缩",
+      "编程 Agent",
+      "省 Token",
+      "免费"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Context Compression",
+      "Coding Agents",
+      "Save Tokens",
+      "Free"
+    ],
+    "url": "https://github.com/ranxianglei/billion-context",
+    "warningText": "避坑提醒：GitHub 元数据栏显示协议为 NOASSERTION，以仓库内 LICENSE 文件（MIT，作者 ranxianglei，2026 年）为准，提交前请留意；压缩会改写上下文，长会话的关键细节可能被压掉，重要结论先自己记一份；只支持所列的几款 Agent。",
+    "warningTextEn": "GitHub metadata shows NOASSERTION, but the LICENSE file in the repo is MIT (ranxianglei, 2026); worth noting before submission. Compression rewrites context, so key details in long sessions may be lost — save important conclusions yourself. It only supports the listed agents."
+  },
+  {
+    "category": "developer-tools",
+    "description": "免费开源的本地安全审计工具，读你最近 30 天的 Claude Code、Codex、Cursor 会话，算清多少命令来自 Agent 读到的文字、哪些密钥离过本机，还能装本地钩子在危险命令运行前拦下来，Apache-2.0 协议。",
+    "descriptionEn": "Free open-source local security auditor for AI coding agents: it reads your last 30 days of Claude Code, Codex and Cursor sessions, shows how many commands came from text your agent read and which keys left your machine, and installs local hooks to stop risky commands before they run.",
+    "featured": false,
+    "githubUrl": "https://github.com/AGGIB/Stroq",
+    "id": "developer-tools-stroq",
+    "isCollection": false,
+    "isStarred": false,
+    "name": "Stroq",
+    "platforms": [
+      "mac",
+      "win",
+      "linux"
+    ],
+    "safeguardStatus": "warning",
+    "subcategory": "Agent 会话安全审计",
+    "tags": [
+      "开源",
+      "安全审计",
+      "编程 Agent",
+      "本地运行",
+      "免费"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Security Audit",
+      "Coding Agents",
+      "Local",
+      "Free"
+    ],
+    "url": "https://stroq.dev",
+    "warningText": "避坑提醒：要读你本机的 Agent 会话记录和密钥文件名，只显示密钥名字、从不显示值，也不上传任何数据；需要 Node.js 22 以上；它只拦已知套路，不能替你兜底所有提示词注入，跑不信任的仓库前还是先自己看一眼。",
+    "warningTextEn": "It reads your local agent session history and key file names, showing key names but never values, and uploads nothing. Requires Node.js 22 or newer. It only blocks known attack patterns, so still eyeball an untrusted repo before letting an agent loose in it."
+  },
+  {
+    "category": "developer-tools",
+    "description": "免费开源的命令行工具，帮做 Agent 技能、CLI、SDK、MCP 或文档的人测“Agent 体验”：放真 Agent 跑你的产品，抓出它卡住的地方，再让你的编程 Agent 先验证修法，MIT 协议。",
+    "descriptionEn": "Free open-source CLI that hillclimbs Agent Experience: it runs real coding agents against your Skills, CLI, SDK, MCP or docs, captures where agents get stuck, and lets your own coding agent validate fixes before you publish.",
+    "featured": false,
+    "githubUrl": "https://github.com/gauge-sh/gauge-cli",
+    "id": "developer-tools-gauge-cli",
+    "isCollection": false,
+    "isStarred": false,
+    "name": "Gauge CLI",
+    "platforms": [
+      "mac",
+      "win",
+      "linux",
+      "docker"
+    ],
+    "safeguardStatus": "warning",
+    "subcategory": "Agent 体验爬坡测试",
+    "tags": [
+      "开源",
+      "Agent 体验",
+      "命令行",
+      "Docker",
+      "免费"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Agent Experience",
+      "CLI",
+      "Docker",
+      "Free"
+    ],
+    "url": "https://www.withgauge.com/agents/",
+    "warningText": "避坑提醒：完整流程要在本地跑 Docker，还要自备 Claude Code、Codex、Pi 或 OpenCode 的登录或 API Key，Agent 用量按你自己的订阅或账单算；它面向做 Agent 产品的人，普通用户基本用不上；另有同名线上托管版，那个可能收费，别混淆。",
+    "warningTextEn": "The full loop runs Docker locally and needs your own Claude Code, Codex, Pi or OpenCode login or API key, with agent usage billed to your own subscription. It is built for people shipping agent products, not everyday users. A hosted version under the same name exists and may charge — don't confuse the two."
   }
 ]

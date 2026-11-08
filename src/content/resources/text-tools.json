@@ -12838,5 +12838,41 @@
     "isCollection": false,
     "githubUrl": null,
     "platforms": []
+  },
+  {
+    "category": "text-tools",
+    "description": "免费开源的离线优先笔记应用，笔记先存本机、离线可编辑，联网后再跨设备同步，也能用 Docker 自建同步服务，富文本编辑、手机和网页都能用，AGPL-3.0 协议。",
+    "descriptionEn": "Free open-source offline-first note-taking app: notes live on your device, edit offline and sync across devices when online, or self-host the sync service with Docker. Rich-text editing on mobile and web.",
+    "featured": false,
+    "githubUrl": "https://github.com/ZhFahim/anchor",
+    "id": "text-tools-anchor",
+    "isCollection": false,
+    "isStarred": false,
+    "name": "Anchor",
+    "platforms": [
+      "android",
+      "ios",
+      "web",
+      "docker"
+    ],
+    "safeguardStatus": "warning",
+    "subcategory": "离线优先自建笔记",
+    "tags": [
+      "开源",
+      "笔记",
+      "离线优先",
+      "自建同步",
+      "免费"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Notes",
+      "Offline-First",
+      "Self-Hosted Sync",
+      "Free"
+    ],
+    "url": "https://github.com/ZhFahim/anchor",
+    "warningText": "避坑提醒：iOS 版还在 TestFlight 内测、安卓见 Google Play，移动端不算正式版；自建同步要自己搭 Docker 服务并配域名；作者挂了 Buy Me a Coffee 赞助链接，是自愿打赏不是付费墙。",
+    "warningTextEn": "iOS is still in TestFlight beta and Android is on Google Play, so the mobile apps are not final releases. Self-hosted sync needs your own Docker service and domain. The author's Buy Me a Coffee link is voluntary tipping, not a paywall."
   }
 ]

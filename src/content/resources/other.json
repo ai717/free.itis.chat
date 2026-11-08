@@ -29,5 +29,39 @@
     "platforms": [
       "web"
     ]
+  },
+  {
+    "category": "other",
+    "description": "免费开源的 Home Assistant 自定义集成，让三星洗衣机、冰箱、空调、洗碗机等家电走局域网直连，不用三星云账号，状态推送快、断网也能控，MIT 协议。",
+    "descriptionEn": "Free open-source Home Assistant custom integration that controls Samsung washers, fridges, air conditioners, dishwashers and more over your local network, with no Samsung cloud account, fast push updates, and control that keeps working offline.",
+    "featured": false,
+    "githubUrl": "https://github.com/mbillow/localthings",
+    "id": "other-localthings",
+    "isCollection": false,
+    "isStarred": false,
+    "name": "LocalThings",
+    "platforms": [
+      "linux",
+      "docker"
+    ],
+    "safeguardStatus": "warning",
+    "subcategory": "Home Assistant 三星家电本地集成",
+    "tags": [
+      "开源",
+      "Home Assistant",
+      "智能家居",
+      "本地控制",
+      "免费"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Home Assistant",
+      "Smart Home",
+      "Local Control",
+      "Free"
+    ],
+    "url": "https://github.com/mbillow/localthings",
+    "warningText": "避坑提醒：只认约 2022 年后、能连 SmartThings 应用的三星家电，部分型号是只读、看不到全部功能；要先装好 Home Assistant 并通过 HACS 安装；家电本身仍会自己连三星服务器，这集成只保证它不替你多传数据。",
+    "warningTextEn": "Only Samsung appliances from about 2022 onward that work with the SmartThings app are supported, and some models are read-only. You need Home Assistant with HACS first. The appliance itself still talks to Samsung's servers; the integration just sends nothing extra."
   }
 ]
