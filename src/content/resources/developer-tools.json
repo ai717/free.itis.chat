@@ -25265,5 +25265,244 @@
     "url": "https://www.withgauge.com/agents/",
     "warningText": "避坑提醒：完整流程要在本地跑 Docker，还要自备 Claude Code、Codex、Pi 或 OpenCode 的登录或 API Key，Agent 用量按你自己的订阅或账单算；它面向做 Agent 产品的人，普通用户基本用不上；另有同名线上托管版，那个可能收费，别混淆。",
     "warningTextEn": "The full loop runs Docker locally and needs your own Claude Code, Codex, Pi or OpenCode login or API key, with agent usage billed to your own subscription. It is built for people shipping agent products, not everyday users. A hosted version under the same name exists and may charge — don't confuse the two."
+  },
+  {
+    "id": "developer-tools-replica",
+    "name": "Replica",
+    "url": "https://github.com/github/replica",
+    "githubUrl": "https://github.com/github/replica",
+    "category": "developer-tools",
+    "subcategory": "AI 原型设计工具",
+    "description": "GitHub Design 官方开源的 AI 原型工具：用自然语言在 Copilot 里按自家设计系统生成可交互原型，本地就能跑，团队可自建 Hub 发布原型收反馈，MIT 协议。",
+    "descriptionEn": "GitHub Design's open-source AI prototyping tool: describe an idea in natural language in the Copilot app and get an interactive prototype built from your own design system, runnable locally, with an optional self-hosted Hub for team feedback.",
+    "tags": [
+      "开源",
+      "AI 原型",
+      "设计系统",
+      "Copilot",
+      "免费"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "AI Prototyping",
+      "Design System",
+      "Copilot",
+      "Free"
+    ],
+    "safeguardStatus": "warning",
+    "warningText": "避坑提醒：原型生成要走 GitHub Copilot 应用并登录 GitHub 账号，模型用量按 Copilot 套餐或自接模型提供商另算，工具本身不含模型；本地原型只支持 macOS 与 Linux；团队共享发布要自己搭 Linux 服务器、配通配符域名与 HTTPS。",
+    "warningTextEn": "Prototype generation runs through the GitHub Copilot app with a GitHub sign-in, and model usage is billed to your Copilot plan or your own provider — no model is included. Local prototyping supports macOS and Linux only. Team publishing needs your own Linux server, wildcard DNS and HTTPS.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "platforms": [
+      "mac",
+      "linux",
+      "web"
+    ]
+  },
+  {
+    "id": "developer-tools-waymark",
+    "name": "Waymark",
+    "url": "https://waymark.sh",
+    "githubUrl": "https://github.com/piercefreeman/waymark",
+    "category": "developer-tools",
+    "subcategory": "持久化后台工作流",
+    "description": "免费开源的 Python 后台任务库：工作流编译后执行，重启与崩溃后可断点续跑，定时与重试都内置，只依赖 Postgres，不用另搭消息队列，MIT 协议。",
+    "descriptionEn": "Free open-source Python library for durable background workflows: jobs are compiled instead of replayed, survive restarts and crashes, with scheduling and retries built in, needing only Postgres — no message queue to run.",
+    "tags": [
+      "开源",
+      "工作流",
+      "后台任务",
+      "Postgres",
+      "免费"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Workflows",
+      "Background Jobs",
+      "Postgres",
+      "Free"
+    ],
+    "safeguardStatus": "warning",
+    "warningText": "避坑提醒：必须自备 Postgres 数据库才能跑，这是唯一必需的基础设施；目前只支持 Python，其他语言还在路上；工作流代码有已知问题清单，上线前先看官方文档的 Control Flow 一节。",
+    "warningTextEn": "You must bring your own Postgres database — it is the one required dependency. Only Python is supported for now, with more languages coming. Check the docs' Control Flow section for known issues before running it in production.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "platforms": [
+      "linux",
+      "mac",
+      "docker"
+    ]
+  },
+  {
+    "id": "developer-tools-nvke",
+    "name": "NVKE",
+    "url": "https://docs.nvidia.com/nvke/",
+    "githubUrl": "https://github.com/dsx-ai-factory/nvke",
+    "category": "developer-tools",
+    "subcategory": "GPU 集群管理",
+    "description": "NVIDIA 官方开源的 GPU 版 Kubernetes 管理面：给裸金属服务器装 GPU 集群，管节点、装驱动与网络插件，覆盖从装机到扩容的全流程，Apache-2.0 协议。",
+    "descriptionEn": "NVIDIA's open-source management plane for GPU Kubernetes on bare metal: it provisions GPU clusters, manages nodes, drivers and networking plugins, and covers the full lifecycle from install to scale-out.",
+    "tags": [
+      "开源",
+      "GPU",
+      "Kubernetes",
+      "英伟达",
+      "免费"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "GPU",
+      "Kubernetes",
+      "NVIDIA",
+      "Free"
+    ],
+    "safeguardStatus": "warning",
+    "warningText": "避坑提醒：这是给有裸金属 GPU 服务器的团队用的基础设施，不是装上就能玩的桌面工具；需要 NVIDIA GPU 硬件与 Kubernetes 运维经验，个人用户和小团队基本用不上。",
+    "warningTextEn": "This is infrastructure for teams with bare-metal GPU servers, not a desktop tool. It needs NVIDIA GPU hardware and Kubernetes operations experience, so it is overkill for individual users and small teams.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "platforms": [
+      "linux"
+    ]
+  },
+  {
+    "id": "developer-tools-astryx",
+    "name": "Astryx",
+    "url": "https://astryx.atmeta.com",
+    "githubUrl": "https://github.com/meta/astryx",
+    "category": "developer-tools",
+    "subcategory": "开源设计系统",
+    "description": "Meta 内部打磨 8 年后开源的设计系统：150 多个无障碍 React 组件、7 套可换主题与脚手架 CLI，人和 AI 助手用同一套工具与文档搭建界面，MIT 协议。",
+    "descriptionEn": "Meta's design system, open-sourced after eight years powering 13,000+ internal apps: 150+ accessible React components, seven swappable themes and a scaffolding CLI, so people and AI assistants build interfaces from the same tooling and docs.",
+    "tags": [
+      "开源",
+      "设计系统",
+      "React 组件",
+      "Meta",
+      "免费"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Design System",
+      "React Components",
+      "Meta",
+      "Free"
+    ],
+    "safeguardStatus": "warning",
+    "warningText": "避坑提醒：目前还是 Beta 版，部分包（如 Vega 图表）只有 canary 版、没有稳定版；强制要求 React 19 以上，老项目升级前先核对依赖；它是给开发团队用的组件库，不是开箱即用的成品应用。",
+    "warningTextEn": "Still in beta: some packages such as the Vega charts ship only under a canary tag with no stable release yet. It requires React 19 or newer, so check your dependencies before upgrading an existing project. It is a component library for dev teams, not a ready-made app.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "developer-tools-firenook",
+    "name": "Firenook",
+    "url": "https://firenook.dev",
+    "githubUrl": "https://github.com/firenook-dev/firenook",
+    "category": "developer-tools",
+    "subcategory": "Firebase 模拟器平替",
+    "description": "免费开源的 Firebase 本地模拟器平替：Rust 写的单引擎，读你现成的 firebase.json 就跑 Firestore、Auth、Storage 与 Functions，不用装 Java，数据重启后还在，Apache-2.0 协议。",
+    "descriptionEn": "Free open-source Rust replacement for the Firebase Local Emulator Suite: it reads your existing firebase.json and runs Firestore, Auth, Storage and Functions with no Java, keeping your data across restarts.",
+    "tags": [
+      "开源",
+      "Firebase",
+      "本地模拟器",
+      "Rust",
+      "免费"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Firebase",
+      "Local Emulators",
+      "Rust",
+      "Free"
+    ],
+    "safeguardStatus": "warning",
+    "warningText": "避坑提醒：还是 0.2.x 早期版本，Realtime Database、Hosting 与 Data Connect 暂不支持，配了也只会警告后跳过；需要 Node.js 22、24 或 26；“40 倍写入、十分之一内存”是官方自己在一份 workload 上测的数，换 CI 前先在自己的数据上验证。",
+    "warningTextEn": "Still an early 0.2.x release: Realtime Database, Hosting and Data Connect are not emulated yet and are skipped with a warning. Requires Node.js 22, 24 or 26. The 40x writes / 10x less RAM figures are the team's own numbers from one workload — verify on your own data before moving CI over.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "platforms": [
+      "mac",
+      "win",
+      "linux"
+    ]
+  },
+  {
+    "id": "developer-tools-flutter-patcher",
+    "name": "flutter_patcher",
+    "url": "https://pub.dev/packages/flutter_patcher",
+    "githubUrl": "https://github.com/xuelinger2333/flutter_patcher",
+    "category": "developer-tools",
+    "subcategory": "Flutter 热修复",
+    "description": "免费开源的 Flutter 热修复插件：把 Dart 修复包放自己的服务器或 CDN，App 下次冷启动就生效，不用等应用商店审核，带签名校验与崩溃自动回滚，MIT 协议。",
+    "descriptionEn": "Free open-source Flutter hotfix plugin: host Dart fix bundles on your own server or CDN and installed apps pick them up on the next cold start, with no store review, signed patches and automatic rollback on crash.",
+    "tags": [
+      "开源",
+      "Flutter",
+      "热更新",
+      "自建",
+      "免费"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Flutter",
+      "Hotfix",
+      "Self-Hosted",
+      "Free"
+    ],
+    "safeguardStatus": "warning",
+    "warningText": "避坑提醒：1.0 版新增的 iOS 热更新走 Dart 虚拟机解释执行，可能触碰 App Store 关于动态下发可执行代码的规定，上架应用用之前务必自己评估合规风险；只能改 Dart 层代码，原生代码、资源与权限改动仍要发版；自带后端要自己搭，官方只给参考协议。",
+    "warningTextEn": "The new iOS hotfix path in 1.0 runs through the Dart VM interpreter and may conflict with App Store rules on dynamically delivered executable code — assess the compliance risk yourself before using it in a store app. Only Dart-layer code can change; native code, assets and permissions still need a store release. You run the backend yourself; only a reference protocol is provided.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  {
+    "id": "developer-tools-tmux-restore",
+    "name": "tmux-restore",
+    "url": "https://github.com/andrewboldi/tmux-restore",
+    "githubUrl": "https://github.com/andrewboldi/tmux-restore",
+    "category": "developer-tools",
+    "subcategory": "tmux 会话恢复",
+    "description": "免费开源的 tmux 插件：每分钟与关机前各存一次，重启后会话、窗口布局与滚动记录全回来，Claude Code、Codex、Gemini CLI 等 Agent 会话也能接着聊，MIT 协议。",
+    "descriptionEn": "Free open-source tmux plugin: it saves every minute and once more at shutdown, then restores sessions, layouts and scrollback after a reboot, with Claude Code, Codex, Gemini CLI and other agent sessions reopening mid-conversation.",
+    "tags": [
+      "开源",
+      "tmux",
+      "终端",
+      "AI Agent",
+      "免费"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "tmux",
+      "Terminal",
+      "AI Agents",
+      "Free"
+    ],
+    "safeguardStatus": "warning",
+    "warningText": "避坑提醒：项目 2026 年 10 月 31 日才建、至今 0 个正式 Release，非常新；官方安装是一条 curl 下脚本直接跑，介意的话先打开 install.sh 看一眼或按文档手动装；危险命令（如部署、起服务）恢复后只会打在提示符上等你按回车，不会自动重跑。",
+    "warningTextEn": "Very new: created October 31, 2026 with no formal release yet. The official install pipes a script from curl straight into bash — read install.sh first or install by hand if that bothers you. Risky commands such as deploys come back typed at the prompt waiting for Enter instead of re-running on their own.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "platforms": [
+      "mac",
+      "linux"
+    ]
   }
 ]
