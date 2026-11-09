@@ -119,7 +119,7 @@ export const NavCategories: React.FC<NavCategoriesProps> = ({
         return (
           <a
             key={cat.id}
-            href={`/${cat.id}`}
+            href={`/${cat.id}/`}
             className={`px-2.5 py-1.5 rounded-lg text-xs font-medium whitespace-nowrap transition-colors ${
               isActive
                 ? 'text-cyan-700 dark:text-cyan-400 bg-slate-100 dark:bg-white/[0.05]'
@@ -167,7 +167,7 @@ export const NavCategories: React.FC<NavCategoriesProps> = ({
                   return (
                     <a
                       key={cat.id}
-                      href={`/${cat.id}`}
+                      href={`/${cat.id}/`}
                       onClick={() => setIsOpen(false)}
                       className={`flex items-center justify-between px-3 py-1.5 rounded-xl text-xs transition-colors ${
                         isActive
