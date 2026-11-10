@@ -9671,5 +9671,40 @@
     "isCollection": false,
     "githubUrl": "https://github.com/Achno/gowall",
     "platforms": []
+  },
+  {
+    "id": "system-tools-gputaskman",
+    "name": "gputaskman",
+    "url": "https://github.com/shanselman/gputaskman",
+    "githubUrl": "https://github.com/shanselman/gputaskman",
+    "category": "system-tools",
+    "subcategory": "GPU 任务管理器",
+    "description": "免费开源的 GPU 版 htop：终端里一眼看清每块显存被谁占了——模型权重、KV 缓存、浏览器还是桌面合成器，支持 Windows、Linux、WSL 与苹果芯片 Mac，Python 装一个命令就跑，MIT 协议。",
+    "descriptionEn": "Free open-source htop for your GPU: a terminal UI showing exactly what holds your VRAM — model weights, KV cache, the browser or the desktop compositor — on Windows, Linux, WSL and Apple Silicon Macs, installed with one Python command.",
+    "tags": [
+      "开源",
+      "GPU",
+      "显存监控",
+      "终端",
+      "免费"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "GPU",
+      "VRAM Monitor",
+      "Terminal",
+      "Free"
+    ],
+    "safeguardStatus": "warning",
+    "warningText": "避坑提醒：2026 年 11 月 3 日才发布，作者自己标注是早期实验软件，部分模型识别与显存拆分只是估算值，别当成精确账本；Windows 便携版目前未签名，下载后先核对 SHA256；只能看本地 GPU，云端与纯 CPU 任务不在管辖范围。",
+    "warningTextEn": "Released November 3, 2026 and labeled early experimental software by its author: some model identification and VRAM breakdowns are estimates, not exact figures. The Windows portable build is currently unsigned — verify its SHA256 first. It only covers local GPUs, not cloud or CPU-only workloads.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "platforms": [
+      "win",
+      "linux",
+      "mac"
+    ]
   }
 ]

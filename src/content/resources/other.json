@@ -63,5 +63,42 @@
     "url": "https://github.com/mbillow/localthings",
     "warningText": "避坑提醒：只认约 2022 年后、能连 SmartThings 应用的三星家电，部分型号是只读、看不到全部功能；要先装好 Home Assistant 并通过 HACS 安装；家电本身仍会自己连三星服务器，这集成只保证它不替你多传数据。",
     "warningTextEn": "Only Samsung appliances from about 2022 onward that work with the SmartThings app are supported, and some models are read-only. You need Home Assistant with HACS first. The appliance itself still talks to Samsung's servers; the integration just sends nothing extra."
+  },
+  {
+    "id": "other-ruview",
+    "name": "RuView",
+    "url": "https://ruv.io",
+    "githubUrl": "https://github.com/ruvnet/RuView",
+    "category": "other",
+    "subcategory": "WiFi 信号感知",
+    "description": "开源的 WiFi 空间感知系统：不用摄像头、不用穿戴设备，只靠普通 WiFi 信号就能实时测房间里有没有人、人体姿态、呼吸与心率，还能接 Home Assistant、苹果 Home 与谷歌 Home，MIT 协议。",
+    "descriptionEn": "Open-source WiFi spatial intelligence: turns ordinary WiFi signals into real-time presence detection, human pose estimation, breathing and heart-rate sensing — no cameras or wearables — with Home Assistant, Apple Home and Google Home integrations.",
+    "tags": [
+      "开源",
+      "WiFi 感知",
+      "智能家居",
+      "隐私",
+      "免费"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "WiFi Sensing",
+      "Smart Home",
+      "Privacy",
+      "Free"
+    ],
+    "safeguardStatus": "warning",
+    "warningText": "避坑提醒：完整 CSI 感知要另买 ESP32-S3 硬件节点，只用普通 WiFi 或 Windows 只能拿到 RSSI 粗粒度信号，演示模式则是模拟数据；呼吸心率是感应估算值，不是医疗设备，精度随环境变化；部分高级功能要接 Cognitum Spaces 激活。",
+    "warningTextEn": "Full CSI sensing needs separate ESP32-S3 hardware nodes; plain WiFi or Windows only gives coarse RSSI signals, and demo mode uses simulated data. Breathing and heart-rate readings are estimates, not medical measurements, and accuracy varies with the environment. Some advanced features require Cognitum Spaces activation.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "platforms": [
+      "linux",
+      "mac",
+      "win",
+      "docker",
+      "web"
+    ]
   }
 ]

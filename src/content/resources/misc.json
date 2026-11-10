@@ -7852,13 +7852,17 @@
       "Utilities"
     ],
     "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
+    "warningText": "避坑提醒：免费的是自建版，要自己准备服务器跑 Docker，官方另有付费的 Dawarich Cloud 托管版，别搞混；手机端要装 App 持续上报位置，耗电与定位权限自己权衡；位置数据是敏感隐私，公网部署务必配好登录与 HTTPS。",
+    "warningTextEn": "The free edition is the self-hosted one — you need your own server and Docker; the hosted Dawarich Cloud is a separate paid service. The mobile app reports your location continuously, so weigh battery use and location permissions. Location data is sensitive: set up login and HTTPS before exposing it to the internet.",
+    "featured": true,
+    "isStarred": true,
     "isCollection": false,
     "githubUrl": null,
     "platforms": [
+      "android",
+      "web",
+      "ios",
+      "linux",
       "docker"
     ]
   },

@@ -3553,5 +3553,40 @@
     "isCollection": false,
     "githubUrl": null,
     "platforms": []
+  },
+  {
+    "id": "downloading-misterdownloadmanager",
+    "name": "Mister Download Manager",
+    "url": "https://misterdownloadmanager.com",
+    "githubUrl": "https://github.com/anefzaoui/misterdownloadmanager",
+    "category": "downloading",
+    "subcategory": "多线程下载器",
+    "description": "免费开源的多线程下载器：纯 Rust 从零写的干净实现，号称比 IDM 还快，支持断点续传与视频下载，有 Chrome 与 Firefox 浏览器扩展，覆盖 Windows、macOS 与 Linux，GPL-3.0 协议。",
+    "descriptionEn": "Free open-source multi-threaded download manager written from scratch in pure Rust: faster than IDM by its own claim, with resume support and video downloads, Chrome and Firefox extensions, and Windows, macOS and Linux builds.",
+    "tags": [
+      "开源",
+      "下载器",
+      "多线程",
+      "浏览器扩展",
+      "免费"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Downloader",
+      "Multi-Threaded",
+      "Browser Extension",
+      "Free"
+    ],
+    "safeguardStatus": "warning",
+    "warningText": "避坑提醒：项目 2026 年 10 月 29 日才建，非常新，长期稳定性还没经过时间检验；“比 IDM 快 5 倍”是官方自己在一份测试里的说法，实际速度看你的网络与服务器；macOS 版目前还是实验性质。",
+    "warningTextEn": "Very new — created October 29, 2026 — so long-term stability is unproven. The '5x faster than IDM' claim is the team's own number from one test; real speed depends on your network and the server. The macOS build is still experimental.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "platforms": [
+      "win",
+      "mac",
+      "linux"
+    ]
   }
 ]

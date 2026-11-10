@@ -8177,5 +8177,114 @@
     "url": "https://www.horizon1123.top",
     "warningText": "避坑提醒：必须自备大模型 API Key，评分和摘要的调用费自己出；X 信源要 Apify Token；没有 PyPI 包和 GitHub Release，要自己配 config.json 和 .env，不是开箱即用。",
     "warningTextEn": "You must bring your own large-model API key and pay for scoring and summarisation calls. The X source needs an Apify token, and there is no PyPI package or release, so you must configure config.json and .env yourself."
+  },
+  {
+    "id": "ai-agent-skills",
+    "name": "Agent Skills",
+    "url": "https://github.com/anthropics/skills",
+    "githubUrl": "https://github.com/anthropics/skills",
+    "category": "ai",
+    "subcategory": "Claude Agent Skills 官方合集",
+    "description": "Anthropic 官方开源的 Agent Skills 合集：创意、开发、企业办公与文档处理等场景的现成技能，每个技能都是独立文件夹，Claude Code 里一条命令就能装成插件市场，照着写自己的技能也有样板，README 声明多数技能 Apache 2.0 开源。",
+    "descriptionEn": "Anthropic's official collection of Agent Skills for Claude: ready-made skills for creative work, development, enterprise workflows and document handling, each a self-contained folder; installable as a Claude Code plugin marketplace with one command, and a reference for writing your own skills.",
+    "tags": [
+      "开源",
+      "Agent Skills",
+      "Claude",
+      "插件",
+      "免费"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Agent Skills",
+      "Claude",
+      "Plugins",
+      "Free"
+    ],
+    "safeguardStatus": "warning",
+    "warningText": "避坑提醒：仓库根目录没有 LICENSE 文件，README 只说多数技能按 Apache 2.0 开源，商用前自己再核对一次；技能只是指令与脚本合集，要装 Claude Code 或在 Claude 里用才跑得起来，部分技能还要另外配 API 或装依赖，不是开箱即用的独立应用；Claude.ai 上用技能要付费套餐。",
+    "warningTextEn": "The repo root has no LICENSE file — the README says most skills are Apache 2.0, so double-check before commercial use. Skills are instruction and script bundles that need Claude Code or Claude to run; some need extra API keys or dependencies, and using skills on Claude.ai requires a paid plan.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "ai-daily-stock-analysis",
+    "name": "Daily Stock Analysis",
+    "url": "https://dsa.zhulinsen.tech",
+    "githubUrl": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "category": "ai",
+    "subcategory": "AI 股票分析",
+    "description": "免费开源的 LLM 股票智能分析系统：覆盖 A 股、港股、美股、日股、韩股与台股，每天自动拉行情与实时新闻出决策仪表盘，推到企业微信、飞书、Telegram 或邮箱，GitHub Actions 定时跑零成本，MIT 协议。",
+    "descriptionEn": "Free open-source LLM stock analysis system for A-shares, Hong Kong, US, Japanese, Korean and Taiwanese markets: it pulls market data and live news daily, builds a decision dashboard and pushes it to WeChat Work, Feishu, Telegram or email, running on GitHub Actions at zero cost.",
+    "tags": [
+      "开源",
+      "股票分析",
+      "大模型",
+      "自动推送",
+      "免费"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Stock Analysis",
+      "LLM",
+      "Auto Reports",
+      "Free"
+    ],
+    "safeguardStatus": "warning",
+    "warningText": "避坑提醒：分析结论是大模型生成的参考意见，不是投资建议，盈亏自负；要自己配大模型 API Key，免费额度用完要自己掏钱；行情与新闻源来自第三方接口，延迟或断线时报告会缺数据；项目首页挂了模型中转服务的赞助广告，别当成官方推荐。",
+    "warningTextEn": "Its conclusions are LLM-generated reference opinions, not investment advice — you bear your own gains and losses. You must bring your own LLM API key, and pay once free quotas run out. Market and news data come from third-party APIs, so reports can go thin when a source lags or drops. The project homepage carries a sponsored ad for a model API reseller; treat it as an ad, not an official recommendation.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "platforms": [
+      "linux",
+      "mac",
+      "win",
+      "docker",
+      "web"
+    ]
+  },
+  {
+    "id": "ai-rakazo",
+    "name": "Rakazo",
+    "url": "https://rakazo.com",
+    "githubUrl": "https://github.com/elie222/rakazo",
+    "category": "ai",
+    "subcategory": "自建 AI 队友",
+    "description": "免费开源的 Grok Bot 平替：给每个 AI 队友配专属记忆、定时任务、浏览器与电脑，自带沙箱跑在自己的机器或服务器上，模型随便换、密钥自己管，支持群聊分工与语音通话，Apache-2.0 协议。",
+    "descriptionEn": "Free open-source Grok Bot alternative: persistent AI teammates with their own memory, routines, browser and computer, running in sandboxes on your own machine or server with any model and your own keys, plus group chats, delegation and voice calls.",
+    "tags": [
+      "开源",
+      "AI 队友",
+      "自建",
+      "沙箱",
+      "免费"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "AI Teammates",
+      "Self-Hosted",
+      "Sandbox",
+      "Free"
+    ],
+    "safeguardStatus": "warning",
+    "warningText": "避坑提醒：工具本身免费开源，但跑模型要自己掏 API 费用，密钥自己管好；自建要准备服务器或 Docker 环境，还要给每个 Bot 配沙箱电脑，资源开销不小；App Store 与 Google Play 上的客户端免费下载，功能以自建服务端为准。",
+    "warningTextEn": "The tool itself is free and open source, but model usage is billed to your own API keys — keep them safe. Self-hosting needs a server or Docker and a sandbox computer per bot, so budget the resources. The App Store and Google Play clients are free downloads, but features depend on your own server.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "platforms": [
+      "web",
+      "mac",
+      "win",
+      "linux",
+      "ios",
+      "android",
+      "docker"
+    ]
   }
 ]

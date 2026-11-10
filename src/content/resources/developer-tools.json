@@ -25504,5 +25504,40 @@
       "mac",
       "linux"
     ]
+  },
+  {
+    "id": "developer-tools-claude-mem",
+    "name": "claude-mem",
+    "url": "https://claude-mem.ai",
+    "githubUrl": "https://github.com/thedotmack/claude-mem",
+    "category": "developer-tools",
+    "subcategory": "Agent 跨会话记忆",
+    "description": "给 Claude Code 等编程 Agent 用的开源跨会话记忆插件：自动记下每次会话里 Agent 做了什么、改了哪些文件，下次开新会话直接接着上下文聊，不用每次从头交代，支持 SQLite 本地存储，Apache-2.0 协议。",
+    "descriptionEn": "Open-source persistent memory plugin for coding agents like Claude Code: it records what your agent did and changed in every session, so the next session picks up the context instead of starting from scratch, with local SQLite storage.",
+    "tags": [
+      "开源",
+      "Claude Code",
+      "Agent 记忆",
+      "插件",
+      "免费"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Claude Code",
+      "Agent Memory",
+      "Plugin",
+      "Free"
+    ],
+    "safeguardStatus": "warning",
+    "warningText": "避坑提醒：核心是免费开源的，但官方有付费的云端托管功能，不用也行；记忆存在本地 SQLite 里，换电脑要自己迁移；它只记录，不替你判断哪些上下文该删，敏感项目路径进记忆前先检查配置。",
+    "warningTextEn": "The core is free and open source, but the project also offers optional paid hosted features you can skip. Memories live in a local SQLite file, so moving machines means migrating it yourself. It records everything — check the config before letting sensitive project paths into memory.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "platforms": [
+      "mac",
+      "linux",
+      "win"
+    ]
   }
 ]
