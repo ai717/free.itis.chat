@@ -8286,5 +8286,111 @@
       "android",
       "docker"
     ]
+  },
+  {
+    "category": "ai",
+    "description": "纯 Rust 写的开源软件重建引擎：先实测研究任意网站、App 或游戏是怎么做的，再让编程 Agent 按你指定的技术栈重做一个自己的版本，做完还对照原作逐项打磨，带 320 个工具、命令行与 MCP，MIT 或 Apache-2.0 双协议。",
+    "descriptionEn": "An open-source software-rebuilding engine written in pure Rust: it studies how any website, app or game actually works, then has a coding agent rebuild your own version in the stack you choose, refining it against the original, with 320 tools, a CLI and MCP support, under MIT or Apache-2.0.",
+    "featured": true,
+    "githubUrl": "https://github.com/storytold/craft-anything",
+    "id": "ai-craft-anything",
+    "isCollection": false,
+    "isStarred": true,
+    "name": "Craft Anything",
+    "platforms": [
+      "mac",
+      "linux",
+      "win"
+    ],
+    "safeguardStatus": "warning",
+    "subcategory": "AI 软件重建引擎",
+    "tags": [
+      "开源",
+      "AI Agent",
+      "软件重建",
+      "Rust",
+      "免费"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "AI Agents",
+      "Software Rebuilding",
+      "Rust",
+      "Free"
+    ],
+    "url": "https://getartcraft.com",
+    "warningText": "避坑提醒：项目明确标注还是早期 alpha 版，功能与接口都可能大改；重建要接自己已登录的编码 Agent，生成图片与 3D 模型还要自备 fal.ai 的 Key，那部分要另外花钱；照着别人的产品重做时别原样抄人家的界面与素材，小心版权问题。",
+    "warningTextEn": "The project is explicitly early alpha, so features and interfaces may change a lot. Rebuilding needs your own logged-in coding agent, and generating images or 3D models needs your own fal.ai key, which costs extra. When recreating someone else's product, do not copy its interface and assets verbatim — mind copyright."
+  },
+  {
+    "category": "ai",
+    "description": "YC 总裁 Garry Tan 自用的开源 AI Agent 记忆层：Markdown 打底、Postgres 向量库存记忆，自动把对话与资料织成带出处的知识图谱，多个 Agent 共用同一份记忆，换 Agent 也不丢上下文，MIT 协议，自托管完全免费。",
+    "descriptionEn": "The open-source persistent memory layer YC president Garry Tan uses himself: Markdown files backed by a Postgres vector store, automatically woven into a cited knowledge graph that multiple agents share, so context survives switching agents, under the MIT license and free to self-host.",
+    "featured": true,
+    "githubUrl": "https://github.com/garrytan/gbrain",
+    "id": "ai-gbrain",
+    "isCollection": false,
+    "isStarred": true,
+    "name": "gbrain",
+    "platforms": [
+      "mac",
+      "linux",
+      "win",
+      "docker"
+    ],
+    "safeguardStatus": "warning",
+    "subcategory": "AI Agent 持久记忆层",
+    "tags": [
+      "开源",
+      "AI Agent",
+      "记忆",
+      "知识图谱",
+      "自建"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "AI Agents",
+      "Memory",
+      "Knowledge Graph",
+      "Self-Hosted"
+    ],
+    "url": "https://gbrain.io",
+    "warningText": "避坑提醒：免费的是自托管版，官网 gbrain.io 的托管版要付费订阅（个人版 49 美元/月起），别直接在官网开付费套餐；语义检索等进阶功能要自备大模型 API，模型费用自己掏；npm 上有个同名的无关包，装的时候认准 github.com/garrytan/gbrain 这个仓库。",
+    "warningTextEn": "Only the self-hosted edition is free — the hosted service on gbrain.io is a paid subscription starting at $49/month, so do not sign up there expecting it free. Advanced features like semantic search need your own model API, and you pay that bill. There is an unrelated package with the same name on npm, so install from the github.com/garrytan/gbrain repo only."
+  },
+  {
+    "category": "ai",
+    "description": "免费开源的 Home Assistant MCP 服务器：让 Claude、ChatGPT、Cursor 等 AI 助手用自然语言配置与操控你的智能家居，87 个工具覆盖自动化、仪表盘、备份与摄像头，MIT 协议，今日仍在 GitHub Trending 日榜上。",
+    "descriptionEn": "Free open-source MCP server for Home Assistant: it lets Claude, ChatGPT, Cursor and other AI assistants configure and control your smart home in plain language, with 87 tools covering automations, dashboards, backups and cameras, under the MIT license.",
+    "featured": true,
+    "githubUrl": "https://github.com/homeassistant-ai/ha-mcp",
+    "id": "ai-ha-mcp",
+    "isCollection": false,
+    "isStarred": true,
+    "name": "ha-mcp",
+    "platforms": [
+      "linux",
+      "docker",
+      "web"
+    ],
+    "safeguardStatus": "warning",
+    "subcategory": "Home Assistant MCP 服务器",
+    "tags": [
+      "开源",
+      "MCP",
+      "智能家居",
+      "AI 助手",
+      "免费"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "MCP",
+      "Smart Home",
+      "AI Assistants",
+      "Free"
+    ],
+    "url": "https://homeassistant-ai.github.io/ha-mcp/",
+    "warningText": "避坑提醒：使用前提是自己已经有一台跑起来的 Home Assistant，它本身不带智能家居硬件；让 AI 助手直接操作家里的灯、锁与摄像头之前，先在 Home Assistant 里把权限收紧，别把全屋控制权裸着交给模型；更新到 v9 大版本时先看一遍迁移说明。",
+    "warningTextEn": "You need your own running Home Assistant first — this ships no smart-home hardware itself. Before letting an AI assistant operate your lights, locks and cameras, tighten permissions in Home Assistant; do not hand whole-home control to a model unchecked. Read the migration notes before upgrading to the v9 major release."
   }
 ]

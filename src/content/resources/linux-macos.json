@@ -6892,13 +6892,17 @@
       "Cross-Platform"
     ],
     "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "warningText": "避坑提醒：Linux 上原生好用，macOS 还是 Beta，Windows 要用另外的 cppcryptfs，不能直接装；主密钥务必备份好，丢了文件就再也打不开，没有找回办法；加密只防网盘与偷看的人，电脑本身中了木马照样能读到解密后的文件。",
+    "warningTextEn": "It works natively on Linux, is still beta on macOS, and needs the separate cppcryptfs tool on Windows. Back up your master key — lose it and your files can never be opened again, with no recovery. Encryption protects against cloud providers and snoops, not against malware already on your machine, which can read the decrypted files.",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
     "githubUrl": "https://github.com/rfjakob/gocryptfs",
-    "platforms": []
+    "platforms": [
+      "win",
+      "linux",
+      "mac"
+    ]
   },
   {
     "id": "linux-macos-securely-wipe-disk",

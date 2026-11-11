@@ -11505,13 +11505,18 @@
       "Self-Hosted"
     ],
     "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
+    "warningText": "避坑提醒：它是一份 skill 与规则集，不是能双击打开的独立应用，要装进支持技能的编程 Agent 里才能用；规则是给 Agent 读的，人直接照抄效果有限；设计审美见仁见智，62 条检测规则是参考不是金科玉律，别全盘照搬不看实际效果。",
+    "warningTextEn": "This is a skill and ruleset, not a standalone app — it only works inside a coding agent that supports skills. The rules are written for agents to read, so copying them by hand has limited effect. Design taste varies; treat the 62 detection rules as guidance, not gospel, and check the actual result instead of applying them blindly.",
+    "featured": true,
+    "isStarred": true,
     "isCollection": false,
     "githubUrl": "https://github.com/pbakaus/impeccable",
-    "platforms": []
+    "platforms": [
+      "win",
+      "linux",
+      "web",
+      "mac"
+    ]
   },
   {
     "id": "developer-tools-which-ai-made-this",
@@ -15897,13 +15902,15 @@
       "Self-Hosted"
     ],
     "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
+    "warningText": "避坑提醒：它只支持 Passkey 登录，不支持传统密码，家里人没录过指纹或面容的设备登录不了；不兼容的应用要另外配反向代理，别硬套；Passkey 丢了恢复很麻烦，部署前先给管理员账号备好第二个 Passkey，免得把自己锁在门外。",
+    "warningTextEn": "It supports passkey login only — no traditional passwords — so devices without an enrolled fingerprint or face cannot sign in. Apps that do not support it need a separate reverse proxy; do not force it. Losing a passkey is painful to recover from, so enroll a second passkey for the admin account before deploying, or you may lock yourself out.",
+    "featured": true,
+    "isStarred": true,
     "isCollection": false,
     "githubUrl": "https://github.com/pocket-id/pocket-id",
     "platforms": [
+      "linux",
+      "web",
       "docker"
     ]
   },
@@ -24792,13 +24799,17 @@
       "Self-Hosted"
     ],
     "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
+    "warningText": "避坑提醒：它本身不是独立应用，要接自己已登录的编程 Agent（如 Claude Code）才能干活；想做原生二进制深度分析可选装 Hopper 或 Ghidra，其中 Hopper 是商业软件要另外付费；逆向别人的闭源软件要遵守当地法律与授权，别拿去扒别人家的商业代码。",
+    "warningTextEn": "It is not a standalone app — you must connect your own logged-in coding agent such as Claude Code. Deep native-binary analysis can optionally use Hopper or Ghidra, and Hopper is commercial software that costs extra. Only reverse-engineer software you are legally allowed to inspect; do not use it to lift someone else's proprietary code.",
+    "featured": true,
+    "isStarred": true,
     "isCollection": false,
     "githubUrl": "https://github.com/morluto/rea",
-    "platforms": []
+    "platforms": [
+      "win",
+      "linux",
+      "mac"
+    ]
   },
   {
     "id": "developer-tools-radare",
@@ -25539,5 +25550,40 @@
       "linux",
       "win"
     ]
+  },
+  {
+    "category": "developer-tools",
+    "description": "免费开源的浏览器里的“互联网电脑”：自带文件、记事本、表格、相机等应用的完整桌面环境，打开浏览器就能用，还能给开发者提供云存储、数据库与 Serverless，AGPL-3.0 协议，自托管完全免费。",
+    "descriptionEn": "Free open-source internet computer that runs in the browser: a full desktop environment with files, notes, spreadsheets, camera and more, usable by just opening a browser, plus cloud storage, databases and serverless hosting for developers, under AGPL-3.0 and free to self-host.",
+    "featured": true,
+    "githubUrl": "https://github.com/HeyPuter/puter",
+    "id": "developer-tools-puter",
+    "isCollection": false,
+    "isStarred": true,
+    "name": "Puter",
+    "platforms": [
+      "web",
+      "docker",
+      "linux"
+    ],
+    "safeguardStatus": "warning",
+    "subcategory": "自建互联网电脑",
+    "tags": [
+      "开源",
+      "云桌面",
+      "自建",
+      "免费",
+      "开发者神器"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Cloud Desktop",
+      "Self-Hosted",
+      "Free",
+      "Dev Tools"
+    ],
+    "url": "https://puter.com",
+    "warningText": "避坑提醒：免费的是自托管版，官网托管版免费只有 25MB 存储，Basic 套餐 10 美元/月起，扩容与更多 AI 额度都要付费；自托管要自己准备服务器跑 Docker；它是个完整桌面环境不是单个小工具，部署前先看一遍文档里的资源要求。",
+    "warningTextEn": "Only the self-hosted edition is fully free — the hosted plan on puter.com gives just 25MB free, with Basic starting at $10/month for more storage and AI credits. Self-hosting needs your own server running Docker. This is a full desktop environment, not a single small tool, so check the documented resource requirements before deploying."
   }
 ]

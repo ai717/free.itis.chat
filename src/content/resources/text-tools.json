@@ -12874,5 +12874,40 @@
     "url": "https://github.com/ZhFahim/anchor",
     "warningText": "避坑提醒：iOS 版还在 TestFlight 内测、安卓见 Google Play，移动端不算正式版；自建同步要自己搭 Docker 服务并配域名；作者挂了 Buy Me a Coffee 赞助链接，是自愿打赏不是付费墙。",
     "warningTextEn": "iOS is still in TestFlight beta and Android is on Google Play, so the mobile apps are not final releases. Self-hosted sync needs your own Docker service and domain. The author's Buy Me a Coffee link is voluntary tipping, not a paywall."
+  },
+  {
+    "category": "text-tools",
+    "description": "免费开源的人机协作科研工作台：PDF 阅读批注、图表公式提取成结构化 Markdown、双向链接笔记都在本地跑，内置 MCP 与 ACP 接口接本地 Agent，兼容 Zotero 导入，MIT 协议。",
+    "descriptionEn": "Free open-source research workspace for humans and agents: PDF reading and annotation, chart and formula extraction into structured Markdown, and bidirectional-linked notes, all running locally, with built-in MCP and ACP interfaces for local agents and Zotero import support, under the MIT license.",
+    "featured": true,
+    "githubUrl": "https://github.com/poco-ai/Agentero",
+    "id": "text-tools-agentero",
+    "isCollection": false,
+    "isStarred": true,
+    "name": "Agentero",
+    "platforms": [
+      "mac",
+      "linux",
+      "win"
+    ],
+    "safeguardStatus": "warning",
+    "subcategory": "人机协作科研工作台",
+    "tags": [
+      "开源",
+      "科研",
+      "PDF 阅读",
+      "笔记",
+      "本地运行"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Research",
+      "PDF Reading",
+      "Note-Taking",
+      "Local-First"
+    ],
+    "url": "https://agentero.app",
+    "warningText": "避坑提醒：翻译与 AI 伴读功能要自带大模型 API Key 或接本地模型，那部分模型费用自己掏；它主打科研读写，不是通用笔记软件，别拿它当 Notion 平替；从 Zotero 导入之前先备份自己的文献库，免得导入过程出岔子。",
+    "warningTextEn": "Translation and the AI reading companion need your own model API key or a local model, and you pay that model bill. It is built for research reading and writing, not as a general Notion replacement. Back up your Zotero library before importing, in case the import goes wrong."
   }
 ]

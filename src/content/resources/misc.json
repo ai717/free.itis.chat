@@ -25577,13 +25577,16 @@
       "Utilities"
     ],
     "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
+    "warningText": "避坑提醒：在线版文件只在浏览器本地处理，换台设备就不同步，想随处用就自己部署一份；自托管要自己准备服务器跑 Docker；个别重型工具（如视频处理）吃浏览器内存，老电脑一次别开太多标签页。",
+    "warningTextEn": "The hosted version processes files locally in your browser, so nothing syncs across devices — deploy your own copy if you want it everywhere. Self-hosting needs your own Docker server. A few heavy tools such as video processing use a lot of browser memory, so do not open many tabs at once on an old machine.",
+    "featured": true,
+    "isStarred": true,
     "isCollection": false,
     "githubUrl": null,
-    "platforms": []
+    "platforms": [
+      "web",
+      "docker"
+    ]
   },
   {
     "id": "misc-toolknit",
