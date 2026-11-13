@@ -25585,5 +25585,104 @@
     "url": "https://puter.com",
     "warningText": "避坑提醒：免费的是自托管版，官网托管版免费只有 25MB 存储，Basic 套餐 10 美元/月起，扩容与更多 AI 额度都要付费；自托管要自己准备服务器跑 Docker；它是个完整桌面环境不是单个小工具，部署前先看一遍文档里的资源要求。",
     "warningTextEn": "Only the self-hosted edition is fully free — the hosted plan on puter.com gives just 25MB free, with Basic starting at $10/month for more storage and AI credits. Self-hosting needs your own server running Docker. This is a full desktop environment, not a single small tool, so check the documented resource requirements before deploying."
+  },
+  {
+    "id": "developer-tools-lightpanda",
+    "name": "Lightpanda",
+    "url": "https://lightpanda.io",
+    "githubUrl": "https://github.com/lightpanda-io/browser",
+    "category": "developer-tools",
+    "subcategory": "无头浏览器",
+    "description": "用 Zig 从零写的无头浏览器，专给 AI 智能体与自动化用，比无头 Chrome 省约 16 倍内存、快约 9 倍，兼容 CDP、Puppeteer、Playwright 与 MCP，AGPL-3.0 开源免费。",
+    "descriptionEn": "A headless browser written from scratch in Zig for AI agents and automation. It uses roughly 16x less memory and runs about 9x faster than headless Chrome, and works with CDP, Puppeteer, Playwright and MCP. AGPL-3.0 and free.",
+    "tags": [
+      "开源",
+      "自建",
+      "开发者神器",
+      "AI模型",
+      "免费工具"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Self-Hosted",
+      "Dev Tools",
+      "AI Models",
+      "Free Tools"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "没有图形渲染引擎，不能截图、看不到页面长相；无原生 Windows 版，只能跑在 WSL2 或 Docker 里；遥测默认开启，需设环境变量关闭；官方托管云每月仅 10 小时免费，超出要付费。",
+    "warningTextEn": "No rendering engine, so it cannot take screenshots or show what a page looks like. No native Windows build; use WSL2 or Docker instead. Telemetry is on by default and needs an env var to disable. The hosted cloud only includes 10 free hours per month.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "platforms": [
+      "linux",
+      "mac",
+      "docker"
+    ]
+  },
+  {
+    "id": "developer-tools-hallmark",
+    "name": "Hallmark",
+    "url": "https://www.usehallmark.com",
+    "githubUrl": "https://github.com/Nutlope/hallmark",
+    "category": "developer-tools",
+    "subcategory": "设计 Skill",
+    "description": "给 Claude Code、Codex、Cursor 与 OpenCode 用的反 AI 味设计 skill，50 套材质主题加浏览器实测门禁，专治一眼 AI 模板感的页面，MIT 开源免费。",
+    "descriptionEn": "An anti-AI-slop design skill for Claude Code, Codex, Cursor and OpenCode. Fifty material themes plus a browser-verification gate fix pages that scream AI template. MIT licensed and free.",
+    "tags": [
+      "开源",
+      "开发者神器",
+      "AI模型",
+      "免费工具"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Dev Tools",
+      "AI Models",
+      "Free Tools"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "它只是一个 skill，不是独立软件，必须先装 Claude Code、Codex、Cursor 或 OpenCode 之一才能用；浏览器实测检查需另装 puppeteer-core 与 Chrome；没有正式 release，全靠跟踪 main 分支更新。",
+    "warningTextEn": "This is a skill, not a standalone app: you need Claude Code, Codex, Cursor or OpenCode installed first. Browser verification needs puppeteer-core and Chrome installed separately. There are no formal releases; updates come from tracking the main branch.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "developer-tools-casvisor",
+    "name": "Casvisor",
+    "url": "https://casvisor.org",
+    "githubUrl": "https://github.com/casvisor/casvisor",
+    "category": "developer-tools",
+    "subcategory": "堡垒机",
+    "description": "开源堡垒机/跳板机，在浏览器里开 SSH、RDP、VNC、Telnet 会话，全程录像审计，支持 Casdoor 单点登录，Apache-2.0 开源免费。",
+    "descriptionEn": "An open-source bastion host (jump server): open SSH, RDP, VNC and Telnet sessions from the browser with full session recording and audit, plus Casdoor SSO support. Apache-2.0 and free.",
+    "tags": [
+      "开源",
+      "自建",
+      "开发者神器",
+      "免费工具"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Self-Hosted",
+      "Dev Tools",
+      "Free Tools"
+    ],
+    "safeguardStatus": "safe",
+    "warningText": "单点登录与多因素认证要另配 Casdoor 才能用，也可只用自带账号；首次登录须改默认 admin 密码，公网部署须配 HTTPS；面向运维人员，有上手门槛。",
+    "warningTextEn": "SSO and MFA need a separate Casdoor setup, though the built-in accounts work alone. Change the default admin password on first login and use HTTPS for public deployments. It targets ops staff, so there is a learning curve.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "platforms": [
+      "web",
+      "linux",
+      "docker"
+    ]
   }
 ]

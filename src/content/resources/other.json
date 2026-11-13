@@ -100,5 +100,35 @@
       "docker",
       "web"
     ]
+  },
+  {
+    "id": "other-sure",
+    "name": "sure",
+    "url": "https://sure.am",
+    "githubUrl": "https://github.com/we-promise/sure",
+    "category": "other",
+    "subcategory": "个人理财",
+    "description": "社区接手已停运的 Maybe Finance 的自托管个人理财应用，记账、预算、净资产、投资一站式管理，Docker 一键部署，AGPL-3.0 开源免费。",
+    "descriptionEn": "A self-hosted personal finance app kept alive by the community after Maybe Finance shut down. Budgeting, accounts, net worth and investments in one place, deployed with Docker. AGPL-3.0 and free.",
+    "tags": [
+      "开源",
+      "自建",
+      "免费工具"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Self-Hosted",
+      "Free Tools"
+    ],
+    "safeguardStatus": "safe",
+    "warningText": "自建需 Docker、Postgres 与 Redis 一整套服务，对新手门槛不低；AI 功能需自备 OpenAI Key，费用另计；财务数据备份责任自负，丢了找不回来；官方另有付费托管版，别和自托管免费版搞混。",
+    "warningTextEn": "Self-hosting needs a full Docker, Postgres and Redis stack, which is heavy for beginners. AI features need your own OpenAI key, billed separately. You are responsible for backing up your financial data. The vendor also sells a paid hosted plan, separate from the free self-hosted version.",
+    "featured": false,
+    "isStarred": true,
+    "isCollection": false,
+    "platforms": [
+      "web",
+      "docker"
+    ]
   }
 ]

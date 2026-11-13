@@ -8392,5 +8392,109 @@
     "url": "https://homeassistant-ai.github.io/ha-mcp/",
     "warningText": "避坑提醒：使用前提是自己已经有一台跑起来的 Home Assistant，它本身不带智能家居硬件；让 AI 助手直接操作家里的灯、锁与摄像头之前，先在 Home Assistant 里把权限收紧，别把全屋控制权裸着交给模型；更新到 v9 大版本时先看一遍迁移说明。",
     "warningTextEn": "You need your own running Home Assistant first — this ships no smart-home hardware itself. Before letting an AI assistant operate your lights, locks and cameras, tighten permissions in Home Assistant; do not hand whole-home control to a model unchecked. Read the migration notes before upgrading to the v9 major release."
+  },
+  {
+    "id": "ai-magpie",
+    "name": "magpie",
+    "url": "https://usemagpie.ai",
+    "githubUrl": "https://github.com/yetone/magpie",
+    "category": "ai",
+    "subcategory": "模型网关",
+    "description": "菜单栏一键切换各编程 Agent 所用模型的本地网关，Claude Code 能跑 DeepSeek、Codex 能跑 Kimi，额度耗尽自动故障转移到下一个账号，MIT 开源免费。",
+    "descriptionEn": "A menu-bar local gateway that switches models across coding agents: run Claude Code on DeepSeek or Codex on Kimi, with automatic failover to the next account when quota runs out. MIT licensed and free.",
+    "tags": [
+      "开源",
+      "AI模型",
+      "本地大模型",
+      "开发者神器",
+      "免费工具"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "AI Models",
+      "Local LLM",
+      "Dev Tools",
+      "Free Tools"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "工具本身免费，但模型调用仍需自备各家 API Key 或订阅，模型费用另计；版本仍在 0.1.x，隐私遮罩默认关闭，需在设置里手动开启；Windows 与 Linux 构建未签名，首次运行会弹安全提示。",
+    "warningTextEn": "The tool itself is free, but model calls still need your own API keys or subscriptions, billed separately. Still on 0.1.x; privacy masking is off by default and must be enabled in settings. Windows and Linux builds are unsigned, so the first launch shows a security prompt.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "platforms": [
+      "mac",
+      "win",
+      "linux"
+    ]
+  },
+  {
+    "id": "ai-yogurt",
+    "name": "Yogurt",
+    "url": "https://yogurt.so",
+    "githubUrl": "https://github.com/FrigadeHQ/yogurt",
+    "category": "ai",
+    "subcategory": "会议笔记",
+    "description": "免费开源的本地 AI 会议笔记应用，不加机器人进会，录音、转录、总结全在本机跑，隐私不经过云端，MIT 开源。",
+    "descriptionEn": "A free and open-source local AI meeting-notes app. No bot joins your calls; recording, transcription and summaries all run on your own machine, so nothing goes through the cloud. MIT licensed.",
+    "tags": [
+      "开源",
+      "AI模型",
+      "本地大模型",
+      "隐私",
+      "免费工具"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "AI Models",
+      "Local LLM",
+      "Privacy",
+      "Free Tools"
+    ],
+    "safeguardStatus": "safe",
+    "warningText": "至少 8GB 内存，首次要下载约 5GB 笔记模型，性能好的机器还会再下 14GB 以上的大模型；日历与发言人识别目前仅 Mac 可用；Windows 安装包未做微软签名，会弹 SmartScreen 警告。",
+    "warningTextEn": "Needs at least 8GB of RAM; the first run downloads about 5GB of note-taking models, and faster machines may pull 14GB+ more. Calendar and speaker identification are Mac-only for now. The Windows installer is not Microsoft-signed, so SmartScreen will warn on first install.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "platforms": [
+      "mac",
+      "win"
+    ]
+  },
+  {
+    "id": "ai-magnitude",
+    "name": "Magnitude",
+    "url": "https://magnitude.dev",
+    "githubUrl": "https://github.com/magnitudedev/magnitude",
+    "category": "ai",
+    "subcategory": "推理引擎",
+    "description": "开源推理引擎，在本机硬件上自动调优内核来跑开源大模型，一键接入 Pi、OpenCode、Codex 等智能体，Apache-2.0 开源免费。",
+    "descriptionEn": "An open-source inference engine that auto-tunes kernels on your own hardware to run open models, with one-click access from Pi, OpenCode, Codex and other agents. Apache-2.0 and free.",
+    "tags": [
+      "开源",
+      "本地大模型",
+      "AI模型",
+      "开发者神器",
+      "免费工具"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Local LLM",
+      "AI Models",
+      "Dev Tools",
+      "Free Tools"
+    ],
+    "safeguardStatus": "safe",
+    "warningText": "“比 Ollama 快 2 倍”是官方自测宣称，有用户在 M5 Max、RTX 5070 Ti 上实测反而更慢；只对热门开源权重模型家族做了针对性优化；首次下载模型时要花最多约 1 分钟做硬件调优。",
+    "warningTextEn": "The 2x faster than Ollama claim is the vendor's own benchmark; some users measured slower results on M5 Max and RTX 5070 Ti. Only popular open-weight model families get targeted optimization. The first model download spends up to about a minute on hardware tuning.",
+    "featured": false,
+    "isStarred": true,
+    "isCollection": false,
+    "platforms": [
+      "mac",
+      "linux",
+      "win"
+    ]
   }
 ]

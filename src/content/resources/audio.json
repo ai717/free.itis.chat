@@ -22070,5 +22070,38 @@
     "isCollection": false,
     "githubUrl": null,
     "platforms": []
+  },
+  {
+    "id": "audio-audionaut",
+    "name": "Audionaut",
+    "url": "https://audionaut.app",
+    "githubUrl": "https://github.com/kvoltmer/Audionaut",
+    "category": "audio",
+    "subcategory": "音频编辑",
+    "description": "免费开源的多轨音频编辑录音应用，剪辑、播客、多轨录音都能做，还能让 Claude 等 AI 智能体通过 MCP 直接操作工程，GPL-3.0 开源。",
+    "descriptionEn": "A free and open-source multi-track audio editing and recording app for editing, podcasts and multi-track recording. AI agents like Claude can operate projects directly through MCP. GPL-3.0 open source.",
+    "tags": [
+      "开源",
+      "AI模型",
+      "免费工具",
+      "跨平台"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "AI Models",
+      "Free Tools",
+      "Cross-Platform"
+    ],
+    "safeguardStatus": "safe",
+    "warningText": "音轨分离模型首次使用时要另外下载；macOS 沙盒版只能读写 ~/Music 等授权目录；贡献代码要先签 CLA；功能比完整 DAW 轻，重度混音用户可能不够用。",
+    "warningTextEn": "The stem-separation model downloads separately on first use. The sandboxed macOS build can only read and write authorized folders such as ~/Music. Contributors must sign a CLA first. It is lighter than a full DAW, so heavy mixing users may find it limited.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "platforms": [
+      "mac",
+      "win",
+      "linux"
+    ]
   }
 ]

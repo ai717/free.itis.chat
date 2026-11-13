@@ -13335,5 +13335,39 @@
     "isCollection": false,
     "githubUrl": null,
     "platforms": []
+  },
+  {
+    "id": "social-media-tools-sherlock",
+    "name": "sherlock",
+    "url": "https://sherlockproject.xyz",
+    "githubUrl": "https://github.com/sherlock-project/sherlock",
+    "category": "social-media-tools",
+    "subcategory": "账号检索",
+    "description": "按用户名在 400 多个社交网络上搜账号归属的命令行工具，找人、核查身份一键出结果，MIT 开源免费，2026 年 11 月 8 日刚发 0.16.0 版。",
+    "descriptionEn": "A command-line tool that hunts down social media accounts by username across 400+ social networks. One command checks identity and finds profiles. MIT licensed and free; version 0.16.0 shipped on 2026-11-08.",
+    "tags": [
+      "开源",
+      "免费工具",
+      "跨平台",
+      "开发者神器"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Free Tools",
+      "Cross-Platform",
+      "Dev Tools"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "只能查公开信息，查不到未公开账号；部分站点改版后规则会暂时失效，需等更新；第三方系统软件包目前有损坏报告，建议用 pipx 或 Docker 安装。",
+    "warningTextEn": "It can only find public information, not private accounts. Some site rules break temporarily after redesigns until an update lands. Third-party system packages currently have breakage reports, so installing via pipx or Docker is recommended.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "platforms": [
+      "linux",
+      "mac",
+      "win",
+      "docker"
+    ]
   }
 ]

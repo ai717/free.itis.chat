@@ -18448,5 +18448,38 @@
     "isCollection": false,
     "githubUrl": "https://github.com/The-Osint-Toolbox/Telegram-OSINT",
     "platforms": []
+  },
+  {
+    "id": "internet-tools-miniserve",
+    "name": "miniserve",
+    "url": "https://github.com/svenstaro/miniserve",
+    "githubUrl": "https://github.com/svenstaro/miniserve",
+    "category": "internet-tools",
+    "subcategory": "文件分享",
+    "description": "一条命令就把文件或目录通过 HTTP 分享出去的极简工具，支持上传、账号密码、TLS 与 WebDAV，MIT 开源免费。",
+    "descriptionEn": "A minimal tool that serves files or directories over HTTP with a single command. Supports uploads, username and password auth, TLS and WebDAV. MIT licensed and free.",
+    "tags": [
+      "开源",
+      "文件管理",
+      "跨平台",
+      "免费工具"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "File Manager",
+      "Cross-Platform",
+      "Free Tools"
+    ],
+    "safeguardStatus": "safe",
+    "warningText": "默认不设密码就等于公开分享，公网使用务必加 --auth 参数；它只是临时分享工具，不适合当长期文件服务器用。",
+    "warningTextEn": "Without a password it serves files publicly, so always add --auth for internet use. It is a temporary sharing tool, not a long-term file server.",
+    "featured": false,
+    "isStarred": true,
+    "isCollection": false,
+    "platforms": [
+      "linux",
+      "mac",
+      "win"
+    ]
   }
 ]
