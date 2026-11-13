@@ -25684,5 +25684,104 @@
       "linux",
       "docker"
     ]
+  },
+  {
+    "name": "Spec Kit",
+    "description": "GitHub 官方 Spec-Driven Development 工具包，先写规格再由编程助手按宪法、规格、计划、任务、实现推进，含 specify CLI，MIT 协议。",
+    "descriptionEn": "GitHub's official Spec-Driven Development toolkit: write specs first, then let coding assistants follow constitution, spec, plan, tasks, and implementation; includes the specify CLI, MIT licensed.",
+    "warningText": "本身不带大模型，需配合 Claude Code 等编程助手使用。",
+    "warningTextEn": "No built‑in LLM; must be used with a coding assistant such as Claude Code.",
+    "tags": [
+      "开源",
+      "规格驱动",
+      "AI编程",
+      "开发工具"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Spec-Driven",
+      "AI Coding",
+      "Dev Tools"
+    ],
+    "id": "developer-tools-spec-kit",
+    "url": "https://github.github.com/spec-kit/",
+    "githubUrl": "https://github.com/github/spec-kit",
+    "category": "developer-tools",
+    "subcategory": "规格驱动开发",
+    "safeguardStatus": "verified",
+    "featured": true,
+    "isStarred": true,
+    "platforms": [
+      "win",
+      "mac",
+      "linux"
+    ],
+    "isCollection": false
+  },
+  {
+    "name": "AWS Emulator",
+    "description": "本地模拟 AWS 服务 API，无需账号与费用，CLI/SDK 只需改 endpoint 即可测试，CC0-1.0 协议。",
+    "descriptionEn": "Local AWS service API emulator, no account or charges; just change CLI/SDK endpoint to test, CC0‑1.0 licensed.",
+    "warningText": "不评估 IAM 策略，资源仅驻内存停即清空，仅适合测试不适合生产或长压测，各服务保真度不一。",
+    "warningTextEn": "Does not evaluate IAM policies; resources live only in memory and vanish on stop; suitable only for testing, not production or long‑run load tests; fidelity varies per service.",
+    "tags": [
+      "开源",
+      "AWS模拟",
+      "本地测试",
+      "开发工具"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "AWS Emulator",
+      "Local Testing",
+      "Dev Tools"
+    ],
+    "id": "developer-tools-aws-emulator",
+    "url": "https://docs.aws.amazon.com/emulator/latest/userguide/what-is-service.html",
+    "githubUrl": "https://github.com/aws/aws-emulator",
+    "category": "developer-tools",
+    "subcategory": "云服务模拟",
+    "safeguardStatus": "verified",
+    "featured": true,
+    "isStarred": true,
+    "platforms": [
+      "win",
+      "mac",
+      "linux"
+    ],
+    "isCollection": false
+  },
+  {
+    "name": "DBDelve",
+    "description": "Rust 与 GPUI 编写的轻量快速数据库客户端，支持 Postgres、MySQL、MariaDB、SQLite、Snowflake、SQL Server、MongoDB、Redis、ClickHouse，GPL-3.0。",
+    "descriptionEn": "Lightweight fast DB client in Rust + GPUI, supports Postgres, MySQL, MariaDB, SQLite, Snowflake, SQL Server, MongoDB, Redis and ClickHouse, GPL-3.0.",
+    "warningText": "桌面客户端需下载安装；GPL-3.0 商用再分发需遵守协议；2026 新项目版本尚早。",
+    "warningTextEn": "Desktop client requires download/install; GPL‑3.0 imposes obligations on commercial redistribution; 2026 project still early.",
+    "tags": [
+      "开源",
+      "数据库客户端",
+      "跨平台",
+      "开发者工具"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Database Client",
+      "Cross-Platform",
+      "Dev Tools"
+    ],
+    "id": "developer-tools-dbdelve",
+    "url": "https://dbdelve.github.io/",
+    "githubUrl": "https://github.com/ShayanAbbas1/dbdelve",
+    "category": "developer-tools",
+    "subcategory": "数据库客户端",
+    "safeguardStatus": "safe",
+    "featured": false,
+    "isStarred": false,
+    "platforms": [
+      "win",
+      "mac",
+      "linux"
+    ],
+    "isCollection": false
   }
 ]

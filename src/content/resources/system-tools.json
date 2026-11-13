@@ -9706,5 +9706,37 @@
       "linux",
       "mac"
     ]
+  },
+  {
+    "name": "FreeITSM",
+    "description": "完全免费自托管 IT 服务管理平台，24 模块含工单、变更、CMDB、知识库与自助门户，无按人头收费，PHP+MySQL 亦支持 Docker，MIT 协议。",
+    "descriptionEn": "Fully free self‑hosted ITSM platform with 24 modules: tickets, change, CMDB, knowledge base, self‑service portal; no per‑seat fees, runs on PHP+MySQL or Docker, MIT licensed.",
+    "warningText": "需自行部署维护 PHP 与 MySQL 环境；星数刚过百，社区尚小。",
+    "warningTextEn": "Requires own PHP/MySQL deployment and maintenance; just over 100 stars, community still small.",
+    "tags": [
+      "开源",
+      "ITSM",
+      "自托管",
+      "免费"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "ITSM",
+      "Self-Hosted",
+      "Free"
+    ],
+    "id": "system-tools-freeitsm",
+    "url": "https://freeitsm.co.uk",
+    "githubUrl": "https://github.com/edmozley/freeitsm",
+    "category": "system-tools",
+    "subcategory": "IT服务管理",
+    "safeguardStatus": "safe",
+    "featured": false,
+    "isStarred": false,
+    "platforms": [
+      "web",
+      "docker"
+    ],
+    "isCollection": false
   }
 ]

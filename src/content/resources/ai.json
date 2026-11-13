@@ -8496,5 +8496,105 @@
       "linux",
       "win"
     ]
+  },
+  {
+    "name": "Qwen Code",
+    "description": "终端 AI 编程助手，支持 IDE 插件、桌面端、Web UI 与 MCP，内置自动记忆与子代理，兼容 OpenAI、Anthropic、Gemini、Qwen API 及本地 Ollama/vLLM，Apache-2.0。",
+    "descriptionEn": "Terminal AI coding assistant with IDE plugins, desktop, Web UI and MCP; features auto‑memory and sub‑agents, works with OpenAI, Anthropic, Gemini, Qwen APIs and local Ollama/vLLM, Apache‑2.0.",
+    "warningText": "用 Qwen 账号登录需 Plus 或 Pro 订阅，免费仅能走本地模型或自带 API Key。",
+    "warningTextEn": "Qwen account login requires Plus/Pro subscription; free tier only works with local models or your own API keys.",
+    "tags": [
+      "开源",
+      "AI编程助手",
+      "终端工具",
+      "本地模型"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "AI Coding Assistant",
+      "Terminal",
+      "Local Models"
+    ],
+    "id": "ai-qwen-code",
+    "url": "https://qwenlm.github.io/qwen-code-docs/en/users/overview",
+    "githubUrl": "https://github.com/QwenLM/qwen-code",
+    "category": "ai",
+    "subcategory": "终端编程助手",
+    "safeguardStatus": "verified",
+    "featured": true,
+    "isStarred": true,
+    "platforms": [
+      "win",
+      "mac",
+      "linux",
+      "web"
+    ],
+    "isCollection": false
+  },
+  {
+    "name": "TensorFold",
+    "description": "Zig 编写的单二进制本地大模型推理引擎，支持 Apple Silicon Metal、NVIDIA CUDA 与 Vulkan，兼容 OpenAI 接口，Apache-2.0。",
+    "descriptionEn": "Single‑binary local LLM inference engine written in Zig, supports Apple Silicon Metal, NVIDIA CUDA and Vulkan, OpenAI‑compatible API, Apache‑2.0.",
+    "warningText": "需自备显卡或 Apple 芯片硬件与模型权重；企业版 Starlight 另仓维护。",
+    "warningTextEn": "Requires own GPU or Apple silicon hardware and model weights; enterprise Starlight version is a separate repo.",
+    "tags": [
+      "开源",
+      "本地推理",
+      "大模型",
+      "跨平台"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Local Inference",
+      "LLM",
+      "Cross-Platform"
+    ],
+    "id": "ai-tensorfold",
+    "url": "https://tensorfold.dev",
+    "githubUrl": "https://github.com/ashhart/tensorfold",
+    "category": "ai",
+    "subcategory": "本地推理引擎",
+    "safeguardStatus": "safe",
+    "featured": false,
+    "isStarred": false,
+    "platforms": [
+      "win",
+      "mac",
+      "linux"
+    ],
+    "isCollection": false
+  },
+  {
+    "name": "Modern Web Guidance",
+    "description": "Chrome、Edge、Firefox、MDN 联合维护的现代 Web 最佳实践指南库，供编程助手检索指南、扫描过时代码，Apache-2.0。",
+    "descriptionEn": "Modern web best‑practice guide library maintained by Chrome, Edge, Firefox and MDN; lets coding assistants fetch guides and scan outdated code, Apache‑2.0.",
+    "warningText": "本身是给 AI 编程助手看的指南库，非直接面向人类的工具，需配合编程助手使用。",
+    "warningTextEn": "It's a guide library for AI coding assistants, not a direct human tool; must be used with a coding assistant.",
+    "tags": [
+      "开源",
+      "Web最佳实践",
+      "AI指南",
+      "前端开发"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Web Best Practices",
+      "AI Guides",
+      "Frontend"
+    ],
+    "id": "ai-modern-web-guidance",
+    "url": "https://goo.gle/modern-web-guidance",
+    "githubUrl": "https://github.com/GoogleChrome/modern-web-guidance-src",
+    "category": "ai",
+    "subcategory": "Web最佳实践",
+    "safeguardStatus": "verified",
+    "featured": true,
+    "isStarred": true,
+    "platforms": [
+      "win",
+      "mac",
+      "linux"
+    ],
+    "isCollection": false
   }
 ]

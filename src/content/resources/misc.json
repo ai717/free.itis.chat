@@ -37241,5 +37241,39 @@
     "isCollection": false,
     "githubUrl": null,
     "platforms": []
+  },
+  {
+    "name": "BenchUp",
+    "description": "免费开源 3D 木工与家具建模软件，SketchUp 替代品，Rust、WebAssembly 与 WebGPU 编写，浏览器及 Windows/macOS/Linux 桌面均可运行，精确规划板材、榫卯与整套家具，MIT 协议。",
+    "descriptionEn": "Free open‑source 3D woodworking & furniture modeling app, SketchUp alternative, built with Rust, WebAssembly and WebGPU; runs in browser and on Windows/macOS/Linux desktop; precise board, joinery and full‑furniture planning, MIT licensed.",
+    "warningText": "专注木工家具建模，通用建模与插件生态不如 SketchUp 丰富；曾用名 KetchUp。",
+    "warningTextEn": "Focused on woodworking/furniture modeling; general modeling and plugin ecosystem less rich than SketchUp; formerly named KetchUp.",
+    "tags": [
+      "开源",
+      "3D建模",
+      "木工家具",
+      "跨平台"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "3D Modeling",
+      "Woodworking",
+      "Cross-Platform"
+    ],
+    "id": "misc-benchup",
+    "url": "https://benchup3d.github.io/benchup/",
+    "githubUrl": "https://github.com/BenchUp3D/benchup",
+    "category": "misc",
+    "subcategory": "木工建模",
+    "safeguardStatus": "safe",
+    "featured": false,
+    "isStarred": false,
+    "platforms": [
+      "win",
+      "mac",
+      "linux",
+      "web"
+    ],
+    "isCollection": false
   }
 ]

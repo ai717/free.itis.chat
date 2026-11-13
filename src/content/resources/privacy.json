@@ -8782,5 +8782,36 @@
     "isCollection": false,
     "githubUrl": null,
     "platforms": []
+  },
+  {
+    "name": "ALTCHA",
+    "description": "自托管 CAPTCHA 替代品，采用工作量证明防机器人与垃圾表单，无 Cookie 指纹，不泄露访客数据，符合 GDPR 与 WCAG，MIT 协议。",
+    "descriptionEn": "Self‑hosted CAPTCHA alternative using proof‑of‑work to stop bots and spam, no cookies or fingerprinting, no visitor data leakage, GDPR & WCAG compliant, MIT licensed.",
+    "warningText": "需自行部署到网站，非开箱即用在线服务；工作量证明会在访客设备做少量计算。",
+    "warningTextEn": "Must be deployed on your site, not a ready‑to‑use SaaS; proof‑of‑work runs light computation on visitor devices.",
+    "tags": [
+      "开源",
+      "验证码替代",
+      "隐私保护",
+      "自托管"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "CAPTCHA Alternative",
+      "Privacy",
+      "Self-Hosted"
+    ],
+    "id": "privacy-altcha",
+    "url": "https://altcha.org",
+    "githubUrl": "https://github.com/altcha-org/altcha",
+    "category": "privacy",
+    "subcategory": "验证码替代",
+    "safeguardStatus": "safe",
+    "featured": true,
+    "isStarred": true,
+    "platforms": [
+      "web"
+    ],
+    "isCollection": false
   }
 ]

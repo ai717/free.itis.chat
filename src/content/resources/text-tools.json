@@ -12909,5 +12909,42 @@
     "url": "https://agentero.app",
     "warningText": "避坑提醒：翻译与 AI 伴读功能要自带大模型 API Key 或接本地模型，那部分模型费用自己掏；它主打科研读写，不是通用笔记软件，别拿它当 Notion 平替；从 Zotero 导入之前先备份自己的文献库，免得导入过程出岔子。",
     "warningTextEn": "Translation and the AI reading companion need your own model API key or a local model, and you pay that model bill. It is built for research reading and writing, not as a general Notion replacement. Back up your Zotero library before importing, in case the import goes wrong."
+  },
+  {
+    "name": "EdgeEver",
+    "description": "AI 原生笔记与知识库，Evernote/Obsidian 替代品，全平台同步，支持表格、思维导图、图表、网页剪藏与 MCP，Cloudflare 免费额度或 Docker 自托管 100% 免费，AGPL-3.0。",
+    "descriptionEn": "AI‑native notes & knowledge base, Evernote/Obsidian alternative, cross‑platform sync, tables, mind‑maps, charts, web clipping and MCP; free via Cloudflare tier or self‑hosted Docker, AGPL‑3.0.",
+    "warningText": "免费靠 Cloudflare 免费额度或自搭 Docker；AI 功能需自带模型；新项目快速迭代中。",
+    "warningTextEn": "Free tier relies on Cloudflare free quota or self‑hosted Docker; AI features need your own model; project still rapidly evolving.",
+    "tags": [
+      "开源",
+      "笔记知识库",
+      "AI原生",
+      "自托管"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Notes & Knowledge Base",
+      "AI-Native",
+      "Self-Hosted"
+    ],
+    "id": "text-tools-edgeever",
+    "url": "https://edgeever.org",
+    "githubUrl": "https://github.com/tianma-if/edgeever",
+    "category": "text-tools",
+    "subcategory": "AI笔记知识库",
+    "safeguardStatus": "safe",
+    "featured": true,
+    "isStarred": true,
+    "platforms": [
+      "win",
+      "mac",
+      "linux",
+      "android",
+      "ios",
+      "web",
+      "docker"
+    ],
+    "isCollection": false
   }
 ]
