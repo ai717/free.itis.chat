@@ -37275,5 +37275,37 @@
       "web"
     ],
     "isCollection": false
+  },
+  {
+    "category": "misc",
+    "description": "免费开源刺绣编辑器，把 SVG 转机绣针迹，可视化调针法，导出 PES/DST/EXP/JEF/VP3，蓝牙直连 Brother Skitch PP1，内置 MCP 供 AI 协作，跨平台 Mac/Windows，Apache-2.0。",
+    "descriptionEn": "Free open-source embroidery editor that converts SVG to machine stitch patterns with visual stitch editing, exports PES/DST/EXP/JEF/VP3, Bluetooth direct to Brother Skitch PP1, built-in MCP for AI collaboration, runs on Mac and Windows, Apache-2.0.",
+    "featured": false,
+    "githubUrl": "https://github.com/simpsoka/zigzag",
+    "id": "misc-zigzag",
+    "isCollection": false,
+    "isStarred": false,
+    "name": "ZigZag",
+    "platforms": [
+      "win",
+      "mac"
+    ],
+    "safeguardStatus": "safe",
+    "subcategory": "刺绣工具",
+    "tags": [
+      "开源",
+      "刺绣编辑器",
+      "SVG 转针迹",
+      "MCP"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "embroidery editor",
+      "SVG to stitch",
+      "MCP"
+    ],
+    "url": "https://zigzag.diy/",
+    "warningText": "蓝牙直连仅支持 Brother Skitch PP1 一款机型；需有绣花机才能实物绣制；MCP 功能需另配 AI 助手。",
+    "warningTextEn": "Bluetooth direct connection only works with Brother Skitch PP1; a physical embroidery machine is required to stitch; MCP feature needs a separate AI assistant."
   }
 ]

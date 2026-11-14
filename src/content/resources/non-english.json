@@ -34179,5 +34179,36 @@
     "isCollection": false,
     "githubUrl": null,
     "platforms": []
+  },
+  {
+    "category": "non-english",
+    "description": "基于倪海厦《天纪》体系的紫微斗数开源排盘引擎，含完整算法、四化系统、格局知识库、古籍原文，附 67.5 万命盘 13 维数据集，代码 MIT、数据 CC BY 4.0，非商用条款另行。",
+    "descriptionEn": "Open-source Zi Wei Dou Shu charting engine based on Ni Haixia's Tianji system, with full algorithms, four-transformation system, pattern knowledge base, classical texts, plus a 675k chart x13-dim dataset; code MIT, data CC BY 4.0, non-commercial clauses separate.",
+    "featured": true,
+    "githubUrl": "https://github.com/Renhuai123/ziwei-doushu",
+    "id": "non-english-ziwei-doushu",
+    "isCollection": false,
+    "isStarred": true,
+    "name": "ziwei-doushu",
+    "platforms": [
+      "web"
+    ],
+    "safeguardStatus": "verified",
+    "subcategory": "传统文化工具",
+    "tags": [
+      "开源",
+      "紫微斗数",
+      "排盘引擎",
+      "开源数据集"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Zi Wei Dou Shu",
+      "charting engine",
+      "open dataset"
+    ],
+    "url": "https://ouranic.cn",
+    "warningText": "断语库不开源；六亲判断仅供参考；完整数据集解压后 56.6 GB；命理内容仅供娱乐参考，不作决策依据。",
+    "warningTextEn": "Interpretation library not open-sourced; six-kinship judgments for reference only; full dataset decompresses to 56.6 GB; astrological content for entertainment only, not for decision-making."
   }
 ]

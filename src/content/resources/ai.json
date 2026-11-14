@@ -8596,5 +8596,104 @@
       "linux"
     ],
     "isCollection": false
+  },
+  {
+    "category": "ai",
+    "description": "阿里开源的 AI 代码评审 CLI，采用确定性流水线加 LLM Agent 混合架构，给出逐行评审意见，内置多语言规则集，Apache-2.0 协议完全免费。",
+    "descriptionEn": "Alibaba's open-source AI code review CLI uses a deterministic pipeline plus LLM agents to deliver line-level feedback with built-in multi-language rule sets, licensed under Apache-2.0 and free to use.",
+    "featured": true,
+    "githubUrl": "https://github.com/alibaba/open-code-review",
+    "id": "ai-open-code-review",
+    "isCollection": false,
+    "isStarred": true,
+    "name": "OpenCodeReview",
+    "platforms": [
+      "win",
+      "mac",
+      "linux"
+    ],
+    "safeguardStatus": "verified",
+    "subcategory": "AI 代码评审",
+    "tags": [
+      "开源",
+      "AI 代码评审",
+      "CLI",
+      "Apache-2.0"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "AI code review",
+      "CLI",
+      "Apache-2.0"
+    ],
+    "url": "https://open-codereview.ai",
+    "warningText": "需自备大模型 API Key，模型调用费用由提供方计费；开源版需自行配置规则集。",
+    "warningTextEn": "Requires your own LLM API key; model calls are billed by the provider. The open-source version needs manual rule configuration."
+  },
+  {
+    "category": "ai",
+    "description": "Google 推出的开源插件，“大象”根据项目上下文生成设计文档，“金鱼”以全新视角评审挑毛病，兼容 Claude Code、Codex、Gemini 等，Apache-2.0 免费。",
+    "descriptionEn": "Google's open-source plugin: the Elephant drafts design docs from project context, while the Goldfish reviews them from a fresh perspective, compatible with Claude Code, Codex, Gemini, etc., Apache-2.0 free.",
+    "featured": true,
+    "githubUrl": "https://github.com/google/elephant-goldfish-model",
+    "id": "ai-elephant-goldfish-model",
+    "isCollection": false,
+    "isStarred": true,
+    "name": "Elephant-Goldfish Model",
+    "platforms": [
+      "win",
+      "mac",
+      "linux"
+    ],
+    "safeguardStatus": "verified",
+    "subcategory": "设计文档插件",
+    "tags": [
+      "开源",
+      "设计文档生成",
+      "代码评审",
+      "插件"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "design doc generation",
+      "code review",
+      "plugin"
+    ],
+    "url": "https://egm.dev",
+    "warningText": "需要支持创建全新子代理会话的编程助手，模型调用按提供方计费；Google 声明非官方支持产品；评审不能替代测试与人工判断。",
+    "warningTextEn": "Requires a coding assistant that can spawn new sub-agent sessions; model calls billed by provider. Google states it is not an officially supported product; reviews do not replace testing or human judgment."
+  },
+  {
+    "category": "ai",
+    "description": "UC 伯克利出品的边缘 MoE 推理引擎，让 290B 以上参数大模型在消费级游戏电脑本地运行，Apache-2.0 完全免费开源。",
+    "descriptionEn": "UC Berkeley's edge MoE inference engine that runs 290B+ parameter models locally on consumer-grade gaming PCs, Apache-2.0 fully free and open-source.",
+    "featured": true,
+    "githubUrl": "https://github.com/FlashML-org/FreeToken",
+    "id": "ai-freetoken",
+    "isCollection": false,
+    "isStarred": true,
+    "name": "FreeToken",
+    "platforms": [
+      "win",
+      "mac",
+      "linux"
+    ],
+    "safeguardStatus": "verified",
+    "subcategory": "本地推理引擎",
+    "tags": [
+      "开源",
+      "MoE 推理引擎",
+      "大模型本地运行",
+      "Apache-2.0"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "MoE inference engine",
+      "local large model",
+      "Apache-2.0"
+    ],
+    "url": "https://flashml.ai",
+    "warningText": "需要较强消费级 GPU；模型权重需自行下载且体积巨大；本地跑大模型对显存与内存要求高；面向有动手能力的用户。",
+    "warningTextEn": "Requires a strong consumer GPU; model weights must be downloaded separately and are huge; local large-model inference demands high VRAM and RAM; aimed at users comfortable with hands-on setup."
   }
 ]

@@ -18481,5 +18481,38 @@
       "mac",
       "win"
     ]
+  },
+  {
+    "category": "internet-tools",
+    "description": "类 netcat 的点对点加密隧道工具，走 Tailscale 数据平面但无需账号与控制平面，可传文件、转发端口、开 SSH，BSD-3-Clause 免费开源。",
+    "descriptionEn": "A netcat-like peer-to-peer encrypted tunneling tool that runs over the Tailscale data plane without needing an account or control plane, supporting file transfer, port forwarding, and SSH, BSD-3-Clause free and open-source.",
+    "featured": true,
+    "githubUrl": "https://github.com/tailscale/tailcat",
+    "id": "internet-tools-tailcat",
+    "isCollection": false,
+    "isStarred": true,
+    "name": "Tailcat",
+    "platforms": [
+      "win",
+      "mac",
+      "linux"
+    ],
+    "safeguardStatus": "verified",
+    "subcategory": "加密隧道",
+    "tags": [
+      "开源",
+      "加密隧道",
+      "点对点",
+      "BSD-3-Clause"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "encrypted tunnel",
+      "peer-to-peer",
+      "BSD-3-Clause"
+    ],
+    "url": "https://tailscale.com/tailcat",
+    "warningText": "纯命令行、无图形界面，双方都需安装并按文档交换连接信息；需熟悉终端操作。",
+    "warningTextEn": "Command-line only, no GUI; both parties must install and exchange connection info per docs; requires terminal familiarity."
   }
 ]

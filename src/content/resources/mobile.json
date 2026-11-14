@@ -26479,5 +26479,36 @@
     "isCollection": false,
     "githubUrl": null,
     "platforms": []
+  },
+  {
+    "category": "mobile",
+    "description": "DeepSeek Harness 的安卓客户端，免 Root 在手机跑 DSH 并可远程遥控电脑端 DSH，支持中途打断对话，AGPL-3.0（SDK/Examples 为 MIT），免费开源。",
+    "descriptionEn": "Android client for DeepSeek Harness that runs DSH on phone without root and can remote-control a desktop DSH instance, supports interrupting conversations mid-stream; AGPL-3.0 (SDK/Examples MIT), free and open-source.",
+    "featured": true,
+    "githubUrl": "https://github.com/ccch1mneyyy/dsh-Go",
+    "id": "mobile-dsh-go",
+    "isCollection": false,
+    "isStarred": true,
+    "name": "dsh-Go",
+    "platforms": [
+      "android"
+    ],
+    "safeguardStatus": "safe",
+    "subcategory": "AI 助手客户端",
+    "tags": [
+      "开源",
+      "安卓客户端",
+      "DeepSeek Harness",
+      "AGPL-3.0"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Android client",
+      "DeepSeek Harness",
+      "AGPL-3.0"
+    ],
+    "url": "https://go.dshtui.com/download",
+    "warningText": "非 DeepSeek 官方第三方客户端；模型调用走自行配置的服务商并按量计费；仅安卓需侧载 APK，无 iOS 版；匿名统计默认开启可在设置关闭；需开启无障碍等权限，敏感操作有风险。",
+    "warningTextEn": "Not an official DeepSeek client; model calls go through your chosen provider and are billed per use; Android only, sideload APK, no iOS; anonymous analytics enabled by default, can be disabled in settings; requires accessibility permissions, sensitive operations carry risk."
   }
 ]

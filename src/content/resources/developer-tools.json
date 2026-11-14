@@ -25783,5 +25783,75 @@
       "linux"
     ],
     "isCollection": false
+  },
+  {
+    "category": "developer-tools",
+    "description": "Chrome 官方 MCP 服务器与 CLI，让编程助手控制真实 Chrome 进行自动化、调试与性能分析，附带调试技能包，Apache-2.0 免费开源。",
+    "descriptionEn": "Official Chrome MCP server and CLI that lets coding assistants drive a real Chrome browser for automation, debugging, and performance analysis, bundled with debugging skill packs, Apache-2.0 free and open-source.",
+    "featured": true,
+    "githubUrl": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "id": "developer-tools-chrome-devtools-mcp",
+    "isCollection": false,
+    "isStarred": true,
+    "name": "chrome-devtools-mcp",
+    "platforms": [
+      "win",
+      "mac",
+      "linux"
+    ],
+    "safeguardStatus": "verified",
+    "subcategory": "浏览器自动化",
+    "tags": [
+      "开源",
+      "Chrome DevTools",
+      "MCP",
+      "自动化"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Chrome DevTools",
+      "MCP",
+      "automation"
+    ],
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "warningText": "默认开启用量统计，需加 --no-usage-statistics 关闭；仅支持 Google Chrome 与 Chrome for Testing；性能工具可能把 trace 发送给 Google CrUX API，可用 --no-performance-crux 关闭。",
+    "warningTextEn": "Usage statistics are enabled by default; disable with --no-usage-statistics. Only Google Chrome and Chrome for Testing are supported. Performance tools may send traces to Google CrUX API; disable with --no-performance-crux."
+  },
+  {
+    "category": "developer-tools",
+    "description": "开源自托管 Slack 替代品，团队与 AI 智能体共用频道，智能体可接入 Claude、ChatGPT、Codex、Gemini、Grok，自带电脑与浏览器，Docker 一键部署，AGPL-3.0 承诺永久免费。",
+    "descriptionEn": "Open-source self-hosted Slack alternative where teams and AI agents share channels; agents can use Claude, ChatGPT, Codex, Gemini, Grok; includes built-in computer and browser; one-click Docker deploy; AGPL-3.0 with permanent free self-hosting promise.",
+    "featured": false,
+    "githubUrl": "https://github.com/agentes-chat/agentes-chat",
+    "id": "developer-tools-agentes-chat",
+    "isCollection": false,
+    "isStarred": false,
+    "name": "agentes-chat",
+    "platforms": [
+      "win",
+      "mac",
+      "linux",
+      "android",
+      "ios",
+      "web",
+      "docker"
+    ],
+    "safeguardStatus": "safe",
+    "subcategory": "团队协作",
+    "tags": [
+      "开源",
+      "自托管聊天",
+      "AI 智能体",
+      "AGPL-3.0"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "self-hosted chat",
+      "AI agents",
+      "AGPL-3.0"
+    ],
+    "url": "https://agentes.chat",
+    "warningText": "智能体运行需自备各模型 Key 并按量付费；云端托管版收费；修改代码若不开源需购买商业许可；手机/桌面 App 仍在 Beta；自托管需 Linux 服务器和 Docker。",
+    "warningTextEn": "Agents require your own model keys and pay-per-use; hosted cloud version is paid; modifying code without open-sourcing needs a commercial license; mobile and desktop apps still in beta; self-hosting requires a Linux server with Docker."
   }
 ]
