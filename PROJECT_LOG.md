@@ -4,6 +4,25 @@
 
 ---
 
+## 2026-11-16 迭代：页脚友链扩充与 Safeguard Status 类型契约对齐
+
+### 1. 本次完成内容
+* **新增页脚友情链接**：
+  - 在 `src/layouts/Layout.astro` 底部友链栏增加 `[GrokBot实战案例][GrokBot Case](https://grokbot.itis.chat/)`。
+  - 严格支持中英双轨切换，配置 `data-i18n-zh="GrokBot实战案例"` 与 `data-i18n-en="GrokBot Case"`。
+* **Safeguard Status 数据契约补齐**：
+  - 在 `src/types.ts`、`src/content.config.ts`、`src/components/SafeguardBadge.tsx` 及 `src/utils/score.ts` 中完全对齐 `'safe'` 状态枚举，确保数据层与展示层零警告。
+
+### 2. 修改文件列表
+* `src/layouts/Layout.astro`
+* `src/types.ts`
+* `src/content.config.ts`
+* `src/components/SafeguardBadge.tsx`
+* `src/utils/score.ts`
+* `PROJECT_LOG.md`
+
+---
+
 ## 2026-11-07 迭代：Agent 自动化生态扩展、质检门禁重构与部署稳定性治理
 
 ### 1. 本次完成内容
