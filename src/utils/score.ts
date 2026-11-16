@@ -13,7 +13,7 @@ export function scoreResource(item: ResourceItem): number {
   let score = 0;
   if (item.isStarred || item.featured) score += 1000;
   if (item.githubUrl) score += 150;
-  if (item.safeguardStatus === 'verified') score += 50;
+  if (item.safeguardStatus === 'verified' || item.safeguardStatus === 'safe') score += 50;
   else if (item.safeguardStatus === 'warning') score -= 500;
   else if (item.safeguardStatus === 'danger') score -= 1000;
   return score;

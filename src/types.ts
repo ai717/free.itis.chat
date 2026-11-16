@@ -1,4 +1,4 @@
-export type SafeguardStatus = 'verified' | 'warning' | 'danger';
+export type SafeguardStatus = 'verified' | 'safe' | 'warning' | 'danger';
 export type BentoSize = 'normal' | 'wide' | 'tall' | 'large';
 
 export type PlatformType = 'web' | 'win' | 'mac' | 'linux' | 'android' | 'ios' | 'docker';

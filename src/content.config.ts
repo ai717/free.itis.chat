@@ -28,7 +28,7 @@ const resources = defineCollection({
     category: z.string(),
     tags: z.array(z.string()),
     tagsEn: z.array(z.string()).optional(),
-    safeguardStatus: z.enum(['verified', 'warning', 'danger']),
+    safeguardStatus: z.enum(['verified', 'safe', 'warning', 'danger']),
     warningText: z.string(),
     warningTextEn: z.string().optional(),
     featured: z.boolean().optional(),

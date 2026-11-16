@@ -22,6 +22,14 @@ export const SafeguardBadge: React.FC<SafeguardBadgeProps> = ({ status, warningT
       iconColor: 'text-emerald-400',
       tooltipBg: 'border-emerald-500/30 shadow-emerald-950/50',
     },
+    safe: {
+      label: isEn ? 'Safe' : '安全认证',
+      sublabel: isEn ? 'Clean & Safe' : '安全无公害',
+      icon: ShieldCheck,
+      bgColor: 'bg-emerald-500/10 text-emerald-400 border-emerald-500/20 hover:bg-emerald-500/20',
+      iconColor: 'text-emerald-400',
+      tooltipBg: 'border-emerald-500/30 shadow-emerald-950/50',
+    },
     warning: {
       label: isEn ? 'Caution' : '避坑提示',
       sublabel: isEn ? 'Has Caveats' : '含注意事项',
