@@ -8761,5 +8761,36 @@
       "mac",
       "linux"
     ]
+  },
+  {
+    "id": "ai-loopforge",
+    "name": "LoopForge",
+    "url": "https://loopforge.cn",
+    "githubUrl": "https://github.com/Tencent/LoopForge",
+    "category": "ai",
+    "subcategory": "编码 Agent 编排平台",
+    "description": "腾讯开源自托管编码 Agent 交付平台，用 SOP 编排 10 种 Agent CLI 并带人工审批关卡，核心免费但需自备模型 API Key。",
+    "descriptionEn": "Tencent's open-source self-hosted coding agent delivery platform orchestrates 10 agent CLIs via SOP with human approval gates; core free but requires your own model API keys.",
+    "tags": [
+      "编码 Agent",
+      "自托管",
+      "MIT"
+    ],
+    "tagsEn": [
+      "coding agent",
+      "self-hosted",
+      "MIT"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "干实活必须自己提供各 Agent 的模型 API Key（按量付费）；默认监听 0.0.0.0:8090，仅适合可信内网环境。",
+    "warningTextEn": "Actual work needs your own model API keys (pay-per-use); default binds 0.0.0.0:8090, suitable only for trusted LAN.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "platforms": [
+      "linux",
+      "docker",
+      "web"
+    ]
   }
 ]

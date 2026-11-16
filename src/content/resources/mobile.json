@@ -26541,5 +26541,64 @@
     "platforms": [
       "android"
     ]
+  },
+  {
+    "id": "mobile-podroid",
+    "name": "Podroid",
+    "url": "https://extv.github.io/Podroid/",
+    "githubUrl": "https://github.com/ExTV/Podroid",
+    "category": "mobile",
+    "subcategory": "安卓 Linux 虚拟机",
+    "description": "安卓免 Root 跑完整 Alpine Linux 虚拟机（含内核），可跑 Docker/Podman/LXC 与 X11 桌面，仅限 ARM64 且默认软模拟较慢。",
+    "descriptionEn": "Run a full Alpine Linux VM (with kernel) on Android without root, supporting Docker/Podman/LXC and X11 desktop; ARM64 only, default QEMU software emulation is slow.",
+    "tags": [
+      "Alpine Linux",
+      "安卓虚拟机",
+      "GPL-2.0"
+    ],
+    "tagsEn": [
+      "Alpine Linux",
+      "Android VM",
+      "GPL-2.0"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "仅限 ARM64、Android 8+ 设备；默认 QEMU 软模拟慢，硬件加速需设备支持 pKVM；无应用商店上架，只能侧载 APK。",
+    "warningTextEn": "ARM64 and Android 8+ only; default QEMU software emulation is slow, hardware acceleration needs pKVM support; not on Play Store, sideload APK only.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "platforms": [
+      "android"
+    ]
+  },
+  {
+    "id": "mobile-cc-pocket",
+    "name": "CC Pocket",
+    "url": "https://k9i-0.github.io/ccpocket/install/",
+    "githubUrl": "https://github.com/K9i-0/ccpocket",
+    "category": "mobile",
+    "subcategory": "手机远程操控编码 Agent",
+    "description": "手机 App 远程操控电脑上的 Codex/Claude Code 会话：发任务、批步骤、看结果，需自建 Bridge Server 并暴露端口，Claude 登录需额外配置。",
+    "descriptionEn": "Mobile app (iOS/Android) to remote-control Codex/Claude Code sessions on your computer: send tasks, approve steps, view results; requires self-hosted Bridge Server and port exposure.",
+    "tags": [
+      "远程控制",
+      "Codex",
+      "MIT"
+    ],
+    "tagsEn": [
+      "remote control",
+      "Codex",
+      "MIT"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "需在自己电脑跑 Bridge Server（Node.js 20.18.1+）并暴露 8765 端口；Claude 订阅登录需显式开启 BRIDGE_ALLOW_CLAUDE_OAUTH=1；有付费内购但 App 本身免费。",
+    "warningTextEn": "Must run Bridge Server (Node.js 20.18.1+) on your computer and expose port 8765; Claude subscription login requires BRIDGE_ALLOW_CLAUDE_OAUTH=1; paid Supporter in-app purchase exists but app is free.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "platforms": [
+      "ios",
+      "android"
+    ]
   }
 ]

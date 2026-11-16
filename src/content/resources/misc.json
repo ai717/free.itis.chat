@@ -6122,10 +6122,10 @@
       "Utilities"
     ],
     "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
+    "warningText": "仅支持比亚迪 DiLink 车机，其他品牌明确不支持；0.2.22 为公开预览版；非苹果认证，内置实验性配件身份，iOS 更新后能否继续用未知。",
+    "warningTextEn": "Only works on BYD DiLink head units; other brands explicitly unsupported; v0.2.22 is public preview; not Apple-certified, uses experimental accessory identity from public firmware, future iOS updates may break it.",
+    "featured": true,
+    "isStarred": true,
     "isCollection": false,
     "githubUrl": "https://github.com/shihabal3amri/DiPlay",
     "platforms": [

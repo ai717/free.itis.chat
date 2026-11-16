@@ -12946,5 +12946,34 @@
       "docker"
     ],
     "isCollection": false
+  },
+  {
+    "id": "text-tools-opengrammar",
+    "name": "OpenGrammar",
+    "url": "https://github.com/swadhinbiswas/opengrammar",
+    "githubUrl": "https://github.com/swadhinbiswas/opengrammar",
+    "category": "text-tools",
+    "subcategory": "本地语法检查",
+    "description": "开源自建 Grammarly 替代：浏览器插件+本地语法引擎（15.6 万词离线词典），检查完全本地运行，AI 改写需自填 API Key，插件仅支持开发者模式加载。",
+    "descriptionEn": "Open-source self-hosted Grammarly alternative: browser extension + local grammar engine (156k offline dict), checks run locally; AI rewriting needs your own API keys; extension loads via developer mode only.",
+    "tags": [
+      "语法检查",
+      "本地运行",
+      "Apache-2.0"
+    ],
+    "tagsEn": [
+      "grammar checker",
+      "local-first",
+      "Apache-2.0"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "AI 改写等深度功能需自填 OpenAI/Groq/OpenRouter/Ollama 等 API Key（费用自付）；插件需手动开发者模式加载，未上架 Chrome 应用商店。",
+    "warningTextEn": "AI rewriting and advanced features need your own OpenAI/Groq/OpenRouter/Ollama API keys (cost borne by you); extension must be loaded manually in developer mode, not on Chrome Web Store.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "platforms": [
+      "web"
+    ]
   }
 ]

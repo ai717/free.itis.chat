@@ -25952,5 +25952,97 @@
       "mac",
       "linux"
     ]
+  },
+  {
+    "id": "developer-tools-univer",
+    "name": "Univer",
+    "url": "https://univer.ai",
+    "githubUrl": "https://github.com/dream-num/univer",
+    "category": "developer-tools",
+    "subcategory": "开源 Office SDK",
+    "description": "开源 Office SDK，可在自有产品中嵌入表格、文档、演示文稿编辑与公式计算，核心 Web SDK 免费，实时协作与 AI 为商业扩展。",
+    "descriptionEn": "Open-source Office SDK to embed spreadsheets, docs, and slides editing with formula calculation in your product; core Web SDK free, real-time collaboration and AI are commercial extensions.",
+    "tags": [
+      "开源办公 SDK",
+      "Apache-2.0",
+      "嵌入式编辑器"
+    ],
+    "tagsEn": [
+      "open-source office SDK",
+      "Apache-2.0",
+      "embeddable editor"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "免费版仅含 Web SDK，实时协作、文件导入导出、AI 功能需购买商业授权。",
+    "warningTextEn": "Free tier only includes Web SDK; real-time collaboration, file import/export, and AI features require commercial license.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "developer-tools-omnidiff",
+    "name": "OmniDiff",
+    "url": "https://ivankovic.github.io/omnidiff/showcase/",
+    "githubUrl": "https://github.com/ivankovic/omnidiff",
+    "category": "developer-tools",
+    "subcategory": "内容感知 Git diff",
+    "description": "内容感知 Git diff 工具，支持 25 种代码语言、图片、PDF、压缩包、字体等结构化对比，带终端交互界面与编辑器插件，浏览器组件仍为实验版。",
+    "descriptionEn": "Content-aware Git diff for code (25 languages), images, PDFs, archives, fonts with interactive terminal UI and editor plugins; browser codereview component still experimental.",
+    "tags": [
+      "Git diff",
+      "内容感知",
+      "AGPL-3.0"
+    ],
+    "tagsEn": [
+      "Git diff",
+      "content-aware",
+      "AGPL-3.0"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "项目较新（v0.3.0），浏览器端 codereview 组件自标 v0.0.0“风险自担”；源码安装需 Rust 1.92+ 且首次编译需数分钟。",
+    "warningTextEn": "New project (v0.3.0), browser codereview component marked v0.0.0 'use at own risk'; building from source requires Rust 1.92+ and takes minutes.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "platforms": [
+      "win",
+      "mac",
+      "linux"
+    ]
+  },
+  {
+    "id": "developer-tools-woxi",
+    "name": "Woxi",
+    "url": "https://woxi.ad-si.com/",
+    "githubUrl": "https://github.com/ad-si/Woxi",
+    "category": "developer-tools",
+    "subcategory": "Wolfram 语言开源复刻",
+    "description": "Rust 实现的 Wolfram Language/Mathematica 开源复刻，含 CLI、REPL、Jupyter 内核、笔记本编辑器与 WASM 版，仅覆盖 6.0 版本子集且无 MathLink。",
+    "descriptionEn": "Rust clone of Wolfram Language/Mathematica: CLI, REPL, Jupyter kernel, notebook editor, Python/JS packages, WASM; covers subset up to version 6.0, no MathLink.",
+    "tags": [
+      "Wolfram Language",
+      "Mathematica 复刻",
+      "AGPL-3.0"
+    ],
+    "tagsEn": [
+      "Wolfram Language",
+      "Mathematica clone",
+      "AGPL-3.0"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "仅实现 Wolfram 语言子集（约 6.0 版本功能），不支持 MathLink；macOS 版 Studio 未公证，下载后需手动移除隔离属性。",
+    "warningTextEn": "Only implements subset of Wolfram Language (~up to version 6.0), no MathLink; macOS Studio not notarized, must remove quarantine attribute manually.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "platforms": [
+      "win",
+      "mac",
+      "linux",
+      "web"
+    ]
   }
 ]

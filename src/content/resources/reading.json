@@ -21279,5 +21279,35 @@
     "isCollection": false,
     "githubUrl": null,
     "platforms": []
+  },
+  {
+    "id": "reading-chaptarr",
+    "name": "Chaptarr",
+    "url": "https://wiki.chaptarr.com",
+    "githubUrl": "https://github.com/Chaptarr/chaptarr",
+    "category": "reading",
+    "subcategory": "有声书与电子书管理",
+    "description": "Readarr 继任者，单实例同时管有声书与电子书，支持旁白识别、多版本、MP3 转章节 M4B，仅提供 Docker 镜像且不播放内容。",
+    "descriptionEn": "Successor to Readarr managing audiobooks and ebooks in one instance, with narrator detection, multi-version, MP3-to-chaptered-M4B; Docker-only, no native packages, does not play content.",
+    "tags": [
+      "有声书管理",
+      "电子书管理",
+      "GPL-3.0"
+    ],
+    "tagsEn": [
+      "audiobook management",
+      "ebook management",
+      "GPL-3.0"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "官方自称 beta，偶有粗糙 bug；仅发布 Docker 镜像，无原生安装包；不播放内容，需另配播放器。",
+    "warningTextEn": "Officially beta with rough edges; only Docker images provided, no native packages; does not play content, requires separate player.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "platforms": [
+      "docker",
+      "web"
+    ]
   }
 ]

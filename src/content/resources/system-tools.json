@@ -9738,5 +9738,36 @@
       "docker"
     ],
     "isCollection": false
+  },
+  {
+    "id": "system-tools-oneuptime",
+    "name": "OneUptime",
+    "url": "https://oneuptime.com",
+    "githubUrl": "https://github.com/OneUptime/oneuptime",
+    "category": "system-tools",
+    "subcategory": "自建监控运维平台",
+    "description": "自建一体化监控运维平台：网站/API 宕机监控、事件管理、值班排班、状态页、日志指标链路追踪与错误追踪，部署需 PostgreSQL+ClickHouse+Valkey。",
+    "descriptionEn": "Self-hosted all-in-one monitoring ops platform: uptime, incident management, on-call, status page, logs/metrics/traces, error tracking; heavy deployment needs PostgreSQL+ClickHouse+Valkey.",
+    "tags": [
+      "监控运维",
+      "自建平台",
+      "Apache-2.0"
+    ],
+    "tagsEn": [
+      "monitoring ops",
+      "self-hosted platform",
+      "Apache-2.0"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "部署较重，需 PostgreSQL + ClickHouse + Valkey 三套存储；高级治理功能在付费企业版。",
+    "warningTextEn": "Heavy deployment requiring PostgreSQL, ClickHouse, and Valkey; advanced governance features locked in paid enterprise edition.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "platforms": [
+      "linux",
+      "docker",
+      "web"
+    ]
   }
 ]
