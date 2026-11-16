@@ -22103,5 +22103,38 @@
       "win",
       "linux"
     ]
+  },
+  {
+    "id": "audio-voicebox",
+    "name": "Voicebox",
+    "url": "https://voicebox.sh",
+    "githubUrl": "https://github.com/jamiepine/voicebox",
+    "category": "audio",
+    "subcategory": "AI 语音工作室",
+    "description": "Voicebox 是本地优先的开源 AI 语音工作室，几秒克隆音色、支持 23 语言合成、全局热键听写，模型数据不出本机，MIT 许可。",
+    "descriptionEn": "Voicebox is a local‑first open‑source AI voice studio: few‑second voice cloning, 23‑language TTS, global hotkey dictation, all data stays on device, MIT licensed.",
+    "tags": [
+      "开源",
+      "语音合成",
+      "本地运行",
+      "MIT"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "voice-synthesis",
+      "local-first",
+      "MIT"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "语音模型需在本机下载运行，对 CPU/GPU 有一定配置要求，低配设备可能跑不动。",
+    "warningTextEn": "Voice models must be downloaded and run locally, requiring decent CPU/GPU; low‑end hardware may struggle.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "platforms": [
+      "win",
+      "mac",
+      "linux"
+    ]
   }
 ]

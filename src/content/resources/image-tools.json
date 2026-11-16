@@ -17806,5 +17806,38 @@
     "url": "https://rembrandteditor.dev",
     "warningText": "避坑提醒：非常年轻，编辑引擎还在变，同一张图升级后效果可能不一样，重要作品导出前要复查；安装包还没代码签名，macOS 和 Windows 首次打开要手动放行；超分和 AI 降噪要 GPU。",
     "warningTextEn": "It is very young and its editing engine is still changing, so results may differ after an upgrade and important work should be rechecked before export. Installers are unsigned, and upscaling and AI denoising need a GPU."
+  },
+  {
+    "id": "image-tools-piclite",
+    "name": "PicLite",
+    "url": "https://amiaoapp.github.io/PicLite/",
+    "githubUrl": "https://github.com/amiaoapp/PicLite",
+    "category": "image-tools",
+    "subcategory": "图片压缩工具",
+    "description": "PicLite 是本地优先的图片与动图压缩工具，支持批量压缩、格式转换、缩放、水印，图片全程本机处理，GPL‑3.0 免费。",
+    "descriptionEn": "PicLite is a local‑first image/GIF compressor with batch processing, format conversion, resizing and watermarking, all on‑device, free under GPL‑3.0.",
+    "tags": [
+      "开源",
+      "图片压缩",
+      "本地处理",
+      "GPL-3.0"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "image-compression",
+      "local-processing",
+      "GPL-3.0"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "桌面端支持文件夹监测与剪贴板自动优化；部分进阶能力走 MCP 接入，需自行配置，对新手有门槛。",
+    "warningTextEn": "Desktop supports folder watching and clipboard auto-optimization; some advanced features require MCP integration and manual setup, which may be non-trivial for beginners.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "platforms": [
+      "win",
+      "mac",
+      "linux"
+    ]
   }
 ]

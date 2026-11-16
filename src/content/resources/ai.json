@@ -8695,5 +8695,71 @@
     "url": "https://flashml.ai",
     "warningText": "需要较强消费级 GPU；模型权重需自行下载且体积巨大；本地跑大模型对显存与内存要求高；面向有动手能力的用户。",
     "warningTextEn": "Requires a strong consumer GPU; model weights must be downloaded separately and are huge; local large-model inference demands high VRAM and RAM; aimed at users comfortable with hands-on setup."
+  },
+  {
+    "id": "ai-openshell",
+    "name": "OpenShell",
+    "url": "https://docs.nvidia.com/openshell/latest/",
+    "githubUrl": "https://github.com/NVIDIA/OpenShell",
+    "category": "ai",
+    "subcategory": "AI 智能体安全沙箱",
+    "description": "OpenShell 是英伟达开源的 AI 智能体安全沙箱，隔离文件、网络与密钥，Apache-2.0 许可，免费供开发者集成。",
+    "descriptionEn": "OpenShell is NVIDIA’s open‑source AI agent sandbox that isolates file system, network and secrets, released under Apache‑2.0 for free developer integration.",
+    "tags": [
+      "开源",
+      "AI沙箱",
+      "安全隔离",
+      "Apache-2.0"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "ai-sandbox",
+      "security-isolation",
+      "Apache-2.0"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "仅提供沙箱基础设施，不是开箱即用的聊天应用，运行智能体仍需自备模型 API Key。",
+    "warningTextEn": "It only supplies the sandbox infrastructure, not a ready‑to‑use chat app; you must bring your own model API keys to run agents.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "platforms": [
+      "linux",
+      "mac",
+      "docker"
+    ]
+  },
+  {
+    "id": "ai-diagram-design",
+    "name": "diagram-design",
+    "url": "https://diagramdesign.dev",
+    "githubUrl": "https://github.com/cathrynlavery/diagram-design",
+    "category": "ai",
+    "subcategory": "AI 图表设计技能",
+    "description": "diagram-design 为 AI 编程助手提供 45 种设计感图表技能，输出可直接打开的 HTML+SVG，MIT 许可免费使用。",
+    "descriptionEn": "diagram-design gives AI coding assistants 45 polished chart skills, emitting ready‑to‑open HTML+SVG, free under MIT.",
+    "tags": [
+      "开源",
+      "图表生成",
+      "AI技能",
+      "MIT"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "chart-generation",
+      "ai-skill",
+      "MIT"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "仅是提示词/技能文件，非独立软件，需配合 Claude Code、Cursor、Codex 等 AI 编程工具才能生效。",
+    "warningTextEn": "It is only a set of prompt/skill files, not a standalone program; it works only when paired with AI coding tools like Claude Code, Cursor or Codex.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "platforms": [
+      "win",
+      "mac",
+      "linux"
+    ]
   }
 ]

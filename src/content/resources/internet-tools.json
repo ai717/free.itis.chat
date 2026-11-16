@@ -18514,5 +18514,36 @@
     "url": "https://tailscale.com/tailcat",
     "warningText": "纯命令行、无图形界面，双方都需安装并按文档交换连接信息；需熟悉终端操作。",
     "warningTextEn": "Command-line only, no GUI; both parties must install and exchange connection info per docs; requires terminal familiarity."
+  },
+  {
+    "id": "internet-tools-geolibre",
+    "name": "GeoLibre",
+    "url": "https://geolibre.app",
+    "githubUrl": "https://github.com/opengeos/GeoLibre",
+    "category": "internet-tools",
+    "subcategory": "开源 GIS 平台",
+    "description": "GeoLibre 是浏览器内运行的开源 GIS 平台，内置 1000+ WebAssembly 分析工具，数据全程本地，MIT 免费。",
+    "descriptionEn": "GeoLibre is a browser‑based open‑source GIS platform with 1000+ WebAssembly analysis tools, keeping all data locally, free under MIT.",
+    "tags": [
+      "开源",
+      "地理信息系统",
+      "浏览器运行",
+      "MIT"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "gis",
+      "browser-based",
+      "MIT"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "大体量地理数据处理对机器性能有要求，低配设备可能出现卡顿或内存不足。",
+    "warningTextEn": "Heavy geospatial datasets demand decent hardware; low‑end machines may experience lag or OOM.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "platforms": [
+      "web"
+    ]
   }
 ]

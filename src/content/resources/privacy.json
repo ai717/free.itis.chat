@@ -8813,5 +8813,37 @@
       "web"
     ],
     "isCollection": false
+  },
+  {
+    "id": "privacy-redlib",
+    "name": "Redlib",
+    "url": "https://github.com/redlib-org/redlib",
+    "githubUrl": "https://github.com/redlib-org/redlib",
+    "category": "privacy",
+    "subcategory": "Reddit 隐私前端",
+    "description": "Redlib 是隐私导向的 Reddit 前端（Libreddit 继任分支），无广告、无追踪、服务端渲染，适合自托管，AGPL‑3.0。",
+    "descriptionEn": "Redlib is a privacy‑focused Reddit frontend (Libreddit fork) with no ads, no tracking, server‑side rendering, suitable for self‑hosting, AGPL‑3.0.",
+    "tags": [
+      "开源",
+      "Reddit前端",
+      "隐私保护",
+      "AGPL-3.0"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "reddit-frontend",
+      "privacy",
+      "AGPL-3.0"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "仅支持只读浏览，无法发帖、评论、投票或登录个人账号；Reddit 限流时可能不稳定。",
+    "warningTextEn": "Read‑only only: cannot post, comment, vote or log in; may become unstable when Reddit rate‑limits.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "platforms": [
+      "web",
+      "docker"
+    ]
   }
 ]

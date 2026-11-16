@@ -25853,5 +25853,104 @@
     "url": "https://agentes.chat",
     "warningText": "智能体运行需自备各模型 Key 并按量付费；云端托管版收费；修改代码若不开源需购买商业许可；手机/桌面 App 仍在 Beta；自托管需 Linux 服务器和 Docker。",
     "warningTextEn": "Agents require your own model keys and pay-per-use; hosted cloud version is paid; modifying code without open-sourcing needs a commercial license; mobile and desktop apps still in beta; self-hosting requires a Linux server with Docker."
+  },
+  {
+    "id": "developer-tools-herdr",
+    "name": "herdr",
+    "url": "https://herdr.dev",
+    "githubUrl": "https://github.com/herdrdev/herdr",
+    "category": "developer-tools",
+    "subcategory": "AI 智能体终端运行时",
+    "description": "herdr 是面向 AI 智能体的终端多路复用运行时，开源免费、支持多机、断线重连与 Agent 互调，协议 Apache‑2.0。",
+    "descriptionEn": "herdr is an open‑source terminal multiplexer runtime for AI agents, free under Apache‑2.0, with multi‑machine support, auto‑reconnect and inter‑agent calls.",
+    "tags": [
+      "开源",
+      "终端多路复用",
+      "AI智能体",
+      "Apache-2.0"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "terminal-multiplex",
+      "ai-agent",
+      "Apache-2.0"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "本体完全免费，但必须搭配 Claude Code、Codex 等付费 Agent 使用，这些 Agent 需单独订阅。",
+    "warningTextEn": "The runtime itself is free, but it requires paid agents such as Claude Code or Codex, which need separate subscriptions.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "platforms": [
+      "win",
+      "mac",
+      "linux"
+    ]
+  },
+  {
+    "id": "developer-tools-ruff",
+    "name": "Ruff",
+    "url": "https://docs.astral.sh/ruff",
+    "githubUrl": "https://github.com/astral-sh/ruff",
+    "category": "developer-tools",
+    "subcategory": "Python 代码检查",
+    "description": "Ruff 由 Rust 编写的极速 Python 代码检查与格式化工具，可替代 Flake8/Black/isort 整套链路，MIT 免费无付费层。",
+    "descriptionEn": "Ruff is a Rust‑based ultra‑fast Python linter and formatter that replaces Flake8, Black and isort, free under MIT with no paid tier.",
+    "tags": [
+      "开源",
+      "Python代码检查",
+      "Rust实现",
+      "MIT"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "python-linter",
+      "rust-implementation",
+      "MIT"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "仅提供命令行工具，没有图形界面，面向开发者而非普通用户。",
+    "warningTextEn": "It is a CLI tool only, no GUI, targeting developers rather than general users.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "platforms": [
+      "win",
+      "mac",
+      "linux"
+    ]
+  },
+  {
+    "id": "developer-tools-skillspector",
+    "name": "SkillSpector",
+    "url": "https://docs.nvidia.com/skills/scanning-agent-skills",
+    "githubUrl": "https://github.com/NVIDIA/SkillSpector",
+    "category": "developer-tools",
+    "subcategory": "AI 技能安全扫描",
+    "description": "SkillSpector 为 NVIDIA 出品的 AI Agent 技能安全扫描器，静态检测 71 种漏洞模式并打分，Apache‑2.0 免费离线可用。",
+    "descriptionEn": "SkillSpector is NVIDIA’s AI agent skill scanner that statically detects 71 vulnerability patterns and scores them, free offline under Apache‑2.0.",
+    "tags": [
+      "开源",
+      "技能安全扫描",
+      "静态分析",
+      "Apache-2.0"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "skill-security-scan",
+      "static-analysis",
+      "Apache-2.0"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "静态扫描完全免费离线；可选的 LLM 语义分析阶段需自行配置 API Key 并可能产生费用。",
+    "warningTextEn": "Static scanning is free and offline; the optional LLM semantic analysis step requires your own API key and may incur costs.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "platforms": [
+      "win",
+      "mac",
+      "linux"
+    ]
   }
 ]

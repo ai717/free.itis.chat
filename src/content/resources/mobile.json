@@ -26510,5 +26510,36 @@
     "url": "https://go.dshtui.com/download",
     "warningText": "非 DeepSeek 官方第三方客户端；模型调用走自行配置的服务商并按量计费；仅安卓需侧载 APK，无 iOS 版；匿名统计默认开启可在设置关闭；需开启无障碍等权限，敏感操作有风险。",
     "warningTextEn": "Not an official DeepSeek client; model calls go through your chosen provider and are billed per use; Android only, sideload APK, no iOS; anonymous analytics enabled by default, can be disabled in settings; requires accessibility permissions, sensitive operations carry risk."
+  },
+  {
+    "id": "mobile-aerial-tv",
+    "name": "aerial-tv",
+    "url": "https://aerial.qust.me",
+    "githubUrl": "https://github.com/pengchujin/aerial-tv",
+    "category": "mobile",
+    "subcategory": "Android TV 桌面",
+    "description": "aerial-tv 参照 tvOS 设计的开源 Android TV 桌面，无广告无推荐流，开机自动接管，MIT 许可完全免费。",
+    "descriptionEn": "aerial-tv is an open‑source Android TV launcher mimicking tvOS, ad‑free, no recommendation feed, auto‑takes over on boot, free under MIT.",
+    "tags": [
+      "开源",
+      "Android TV桌面",
+      "无广告",
+      "MIT"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "android-tv-launcher",
+      "ad-free",
+      "MIT"
+    ],
+    "safeguardStatus": "verified",
+    "warningText": "仅适用于 Android TV/盒子/投影仪，需设为默认桌面并替换系统桌面，有一定学习成本。",
+    "warningTextEn": "Only works on Android TV devices; you must set it as the default home and replace the system launcher, which has a learning curve.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "platforms": [
+      "android"
+    ]
   }
 ]
