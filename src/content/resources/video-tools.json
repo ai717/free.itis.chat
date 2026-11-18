@@ -9684,5 +9684,42 @@
     "isCollection": false,
     "githubUrl": null,
     "platforms": []
+  },
+  {
+    "id": "video-tools-concat",
+    "name": "Concat",
+    "url": "https://concat.standalones.org",
+    "githubUrl": "https://github.com/jub0t/Concat",
+    "category": "video-tools",
+    "subcategory": "本地免费视频剪辑",
+    "description": "真正免费开源的本地视频剪辑器：自动字幕、文字转语音、声音克隆、背景抠除、关键帧与多轨道剪辑、4K 导出全都有，无水印、无账号、无订阅，素材不出本机，还自带 MCP 让 AI 帮你剪，AGPL-3.0 协议。",
+    "descriptionEn": "A truly free, open-source, local-first video editor: auto-captions, text-to-speech, voice cloning, background removal, keyframes, multi-track editing and 4K export with no watermark, no account and no subscription — footage never leaves your machine, and a built-in MCP server lets AI agents edit for you.",
+    "tags": [
+      "开源",
+      "视频剪辑",
+      "本地运行",
+      "无水印",
+      "免费"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Video Editor",
+      "Local-First",
+      "No Watermark",
+      "Free"
+    ],
+    "safeguardStatus": "warning",
+    "warningText": "避坑提醒：项目还在 Beta 测试期，偶尔会遇到小毛病，遇到就去仓库提 Issue；Windows 安装包目前还没签名，SmartScreen 拦截时要点“更多信息”再放行；字幕与抠像用的 AI 模型第一次要先下载，下载完才能离线用。",
+    "warningTextEn": "Still in beta, so expect occasional rough edges — report them on the repo. Windows builds are not yet code-signed, so SmartScreen will block them until you allow the install manually. AI models for captions and background removal download once on first use, then work offline.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "platforms": [
+      "win",
+      "mac",
+      "linux",
+      "android",
+      "ios"
+    ]
   }
 ]

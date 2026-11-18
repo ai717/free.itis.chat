@@ -25133,8 +25133,8 @@
       "Free"
     ],
     "url": "https://agent-browser.dev",
-    "warningText": "避坑提醒：这是给 AI Agent 用的命令行工具，不是给人点的浏览器；首次使用要另下载 Chrome for Testing，Linux 下还要补装浏览器系统依赖；它会真实操作页面，跑自动化前先确认目标网站允许。",
-    "warningTextEn": "Built for AI agents, not for clicking around yourself. First use downloads Chrome for Testing, and Linux needs extra browser system libraries. It performs real actions on pages, so confirm the target site allows automation first."
+    "warningText": "避坑提醒：它本身不带大模型，要接自己的 Agent 才能干活；快照、剪贴板与调试产物可能含桌面上的隐私内容，别贴进公开日志或上传；macOS 第一次用要手动到系统设置里给辅助功能权限，Linux 要 Ubuntu 24.04 以上才行。",
+    "warningTextEn": "It ships no model — you must connect your own agent to drive it. Snapshots, clipboard reads and debug artifacts can contain private desktop content, so keep them out of public logs. macOS needs an Accessibility grant on first use, and Linux requires Ubuntu 24.04 or newer."
   },
   {
     "category": "developer-tools",
@@ -26043,6 +26043,76 @@
       "mac",
       "linux",
       "web"
+    ]
+  },
+  {
+    "id": "developer-tools-worktrunk",
+    "name": "Worktrunk",
+    "url": "https://worktrunk.dev",
+    "githubUrl": "https://github.com/max-sixty/worktrunk",
+    "category": "developer-tools",
+    "subcategory": "Git 工作区管理",
+    "description": "免费开源的 Git worktree 管理命令行工具：三条核心命令就让多分支并行像切换分支一样简单，专为同时跑多个 AI 编程 Agent 设计，带合并流程、钩子自动化、构建缓存共享与 CI 状态查看，MIT 或 Apache-2.0 双协议。",
+    "descriptionEn": "Free open-source CLI for Git worktree management: three core commands make parallel worktrees as easy as branches, built for running several AI coding agents at once, with merge workflows, hooks, shared build caches and CI status per branch.",
+    "tags": [
+      "开源",
+      "Git",
+      "命令行",
+      "AI 编程",
+      "免费"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Git",
+      "CLI",
+      "AI Coding",
+      "Free"
+    ],
+    "safeguardStatus": "warning",
+    "warningText": "避坑提醒：Windows 上 wt 命令会和系统终端自带的 wt 冲突，Winget 装的版本改叫 git-wt；多个 worktree 共享构建缓存只在 APFS、btrfs 与 XFS 文件系统上生效；它是纯命令行工具，没有图形界面，钩子配错可能自动跑命令，配之前先看一眼文档。",
+    "warningTextEn": "On Windows the wt command clashes with Windows Terminal, so the Winget install is named git-wt instead. Shared build caches across worktrees only work on APFS, btrfs and XFS. It is a CLI with no GUI, and misconfigured hooks can run commands automatically — read the docs before wiring them up.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "platforms": [
+      "mac",
+      "linux",
+      "win"
+    ]
+  },
+  {
+    "id": "developer-tools-security-audit-skill",
+    "name": "security-audit-skill",
+    "url": "https://github.com/cloudflare/security-audit-skill",
+    "githubUrl": "https://github.com/cloudflare/security-audit-skill",
+    "category": "developer-tools",
+    "subcategory": "Agent 安全审计技能",
+    "description": "Cloudflare 开源的编程 Agent 安全审计技能：把 Agent 变成安全审计员，按侦察、覆盖式猎捕、候选验证、结构化输出、独立复核与中立报告六个阶段跑完整审计，漏洞结论带源码追踪与机器可读的 findings.json，MIT 协议。",
+    "descriptionEn": "Cloudflare's open-source security-audit skill for coding agents: it turns your agent into a security auditor running a six-phase audit — reconnaissance, coverage-led hunting, candidate validation, structured output, independent verification and target-neutral reporting — with source-traced, machine-readable findings.",
+    "tags": [
+      "开源",
+      "安全审计",
+      "Agent 技能",
+      "漏洞挖掘",
+      "免费"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Security Audit",
+      "Agent Skills",
+      "Vulnerability Hunting",
+      "Free"
+    ],
+    "safeguardStatus": "warning",
+    "warningText": "避坑提醒：它只是给编程 Agent 用的技能包，不是能直接双击打开的独立应用，要有支持并行子 Agent 的编程 Agent 才能跑；完整审计要配操作系统级沙箱，没沙箱时目标代码不会被执行，部分结论只会标成待验证；官方实测跑一次大约只能发现一半漏洞，要多跑几遍补覆盖。",
+    "warningTextEn": "This is a skill pack for coding agents, not a standalone app — you need a coding agent that supports parallel sub-agents. A full audit needs an OS-enforced sandbox; without one, target code is not executed and some findings stay marked needs_validation. Cloudflare's own runs found roughly half the vulnerabilities in one pass, so run it several times for coverage.",
+    "featured": true,
+    "isStarred": true,
+    "isCollection": false,
+    "platforms": [
+      "mac",
+      "linux",
+      "win"
     ]
   }
 ]

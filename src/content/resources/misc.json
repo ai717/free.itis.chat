@@ -14968,13 +14968,18 @@
       "Utilities"
     ],
     "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
+    "warningText": "避坑提醒：AI 教练是可选功能，要自己配大模型 API Key，模型费用自己掏；自建同步版要自己准备服务器跑 Docker，只用手机单机版不用服务器也能记；公网部署记得配好 HTTPS 与登录，训练数据别裸奔上网。",
+    "warningTextEn": "The optional AI coach needs your own model API key, and you pay the model bill. Self-hosted sync needs your own Docker server, but the phone app works standalone without one. If you expose it to the internet, set up HTTPS and login first — don't leave training data open.",
     "featured": true,
     "isStarred": true,
     "isCollection": false,
     "githubUrl": "https://github.com/DuarteSantos8/openGym",
-    "platforms": []
+    "platforms": [
+      "android",
+      "docker",
+      "web",
+      "ios"
+    ]
   },
   {
     "id": "misc-fitness-blender",

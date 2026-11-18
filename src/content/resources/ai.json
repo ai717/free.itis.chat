@@ -5936,15 +5936,19 @@
       "LLM"
     ],
     "safeguardStatus": "verified",
-    "warningText": "社区验证纯净，无恶意推广与流氓捆绑。",
-    "warningTextEn": "Community verified clean, trap-free, and ad-free.",
-    "featured": false,
-    "isStarred": false,
+    "warningText": "避坑提醒：核心的 AGPL-3.0 免费版已够日常用，Pro 是闭源的多设备商业授权、要另外付费；本地跑模型吃显卡，纯 CPU 也能跑但慢得多；克隆别人的声音要先取得本人同意，千万别拿去冒充他人行骗。",
+    "warningTextEn": "The AGPL-3.0 free edition covers everyday use; Pro is a separate paid closed-source commercial license for multi-device client work. Local models need a GPU for good speed — CPU works but is much slower. Only clone a voice with that person's consent; never use it to impersonate anyone.",
+    "featured": true,
+    "isStarred": true,
     "isCollection": false,
     "githubUrl": "https://github.com/debpalash/VoiceStudio",
     "platforms": [
       "win",
-      "mac"
+      "docker",
+      "android",
+      "mac",
+      "web",
+      "linux"
     ]
   },
   {
@@ -8789,6 +8793,43 @@
     "isCollection": false,
     "platforms": [
       "linux",
+      "docker",
+      "web"
+    ]
+  },
+  {
+    "id": "ai-dossier",
+    "name": "Dossier",
+    "url": "https://github.com/AienTech/dossier",
+    "githubUrl": "https://github.com/AienTech/dossier",
+    "category": "ai",
+    "subcategory": "自建求职与简历助手",
+    "description": "免费开源的自建求职与简历工具：一份个人档案，针对每个岗位自动写出量身定制的简历与求职信、只用档案里的真实经历绝不编造，还能搜岗位、跟进从投递到拿 offer 的全过程，数据存在自己的服务器上，AGPL-3.0 协议。",
+    "descriptionEn": "Free open-source self-hosted job search and resume builder: one profile becomes a tailored resume and cover letter for every job, using only facts from your profile — never inventing experience — with job search and full application tracking from draft to offer, all on your own server.",
+    "tags": [
+      "开源",
+      "求职",
+      "简历",
+      "自建",
+      "免费"
+    ],
+    "tagsEn": [
+      "Open Source",
+      "Job Search",
+      "Resume Builder",
+      "Self-Hosted",
+      "Free"
+    ],
+    "safeguardStatus": "warning",
+    "warningText": "避坑提醒：写简历要自己配大模型，可走本地 Ollama 免费跑，也可用付费 API；找工作功能要接 JSearch、Adzuna 等第三方接口，部分要另外申请 Key；目前只支持单人单账号，应用界面只有英文，简历模板支持 21 种语言。",
+    "warningTextEn": "You must bring your own model — free local Ollama or a paid API. Job search goes through third-party sources like JSearch and Adzuna, some needing their own API keys. It is single-user only, and the app interface is English-only, though resume templates support 21 languages.",
+    "featured": false,
+    "isStarred": false,
+    "isCollection": false,
+    "platforms": [
+      "win",
+      "linux",
+      "mac",
       "docker",
       "web"
     ]

@@ -17247,14 +17247,18 @@
       "Browser"
     ],
     "safeguardStatus": "warning",
-    "warningText": "避坑警告: 经社区安全审计标记为存在风险/流氓广告/捆绑安装，请谨慎防范！",
-    "warningTextEn": "Caveat: Listed as unsafe by FMHY community",
-    "featured": false,
-    "isStarred": false,
+    "warningText": "避坑提醒：抓取要遵守目标站的 robots.txt 与使用条款，绕反爬能力只供学习研究，别拿去批量薅别人家的数据；隐身浏览器功能要另外装 Playwright 与浏览器，体积不小；README 里赞助商与代理广告很多，那是广告位，别当成官方推荐。",
+    "warningTextEn": "Respect each target site's robots.txt and terms of use — the anti-bot bypass is for research and learning, not bulk-harvesting other people's data. Stealth browsing needs a separate Playwright and browser install, which is sizeable. The README carries many sponsor and proxy ads; treat them as ads, not official recommendations.",
+    "featured": true,
+    "isStarred": true,
     "isCollection": false,
     "githubUrl": "https://github.com/D4Vinci/Scrapling",
     "platforms": [
-      "web"
+      "win",
+      "docker",
+      "mac",
+      "web",
+      "linux"
     ]
   },
   {
