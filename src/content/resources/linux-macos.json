@@ -17417,5 +17417,32 @@
     "isCollection": false,
     "githubUrl": null,
     "platforms": []
+  },
+  {
+    "id": "linux-macos-vsux",
+    "name": "vsux",
+    "url": "https://vsux.sphrag.com/",
+    "githubUrl": "https://github.com/shadowDragons/vsux",
+    "category": "linux-macos",
+    "subcategory": "Mac 项目工作区",
+    "safeguardStatus": "safe",
+    "featured": false,
+    "isStarred": false,
+    "platforms": [
+      "mac"
+    ],
+    "description": "原生 macOS 轻量编辑器，按项目组织工作区，将分屏终端、文件、Git、保存命令与后台服务集成在一个窗口，SwiftUI+AppKit 构建，终端渲染用 Ghostty，MIT 免费。",
+    "descriptionEn": "Native lightweight macOS editor organizing workspaces by project; combines split terminals, files, Git, saved commands and background services in one window; built with SwiftUI/AppKit, terminal rendered by Ghostty; free under MIT.",
+    "warningText": "仅支持 macOS 14+ Apple Silicon；安装包为 ad-hoc 签名未经公证；无 LSP、智能补全、代码导航、集成调试器和内置 AI Agent；重启后不恢复进程、滚屏和未保存编辑。",
+    "warningTextEn": "Only macOS 14+ on Apple Silicon; ad-hoc signed, not notarized; lacks LSP, smart completion, code navigation, integrated debugger, built-in AI agent; does not restore processes, scrollback or unsaved edits on restart.",
+    "tags": [
+      "macOS 编辑器",
+      "轻量级"
+    ],
+    "tagsEn": [
+      "macos-editor",
+      "lightweight"
+    ],
+    "isCollection": false
   }
 ]

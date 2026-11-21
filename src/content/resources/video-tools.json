@@ -9721,5 +9721,35 @@
       "android",
       "ios"
     ]
+  },
+  {
+    "id": "video-tools-openmotion",
+    "name": "OpenMotion",
+    "url": "https://open-design.ai/motion/",
+    "githubUrl": "https://github.com/nexu-io/openmotion",
+    "category": "video-tools",
+    "subcategory": "动态图形视频",
+    "safeguardStatus": "verified",
+    "featured": true,
+    "isStarred": true,
+    "platforms": [
+      "win",
+      "mac",
+      "linux",
+      "web"
+    ],
+    "description": "开源动态图形视频工作室，替代 Claude Motion 与 CapCut，上传参考视频或链接后用自有品牌素材复刻成可编辑工程，在 Studio 调时序并渲染 MP4，支持本地 Agent，Apache-2.0 免费。",
+    "descriptionEn": "Open-source motion-graphics video studio, alternative to Claude Motion and CapCut; upload a reference video or link, recreate an editable project with your own assets, tweak timing in Studio and render MP4; supports local agents; free under Apache-2.0.",
+    "warningText": "必须自带本地 Agent 及图片/视频/音乐/语音模型服务商的 API Key，按量付费给服务商；源码运行需 Node.js 26.11.1、Chrome/Chromium、FFmpeg。",
+    "warningTextEn": "You must provide your own local agent and API keys for image/video/music/speech model providers (pay-as-you-go); running from source requires Node.js 26.11.1, Chrome/Chromium, and FFmpeg.",
+    "tags": [
+      "视频制作",
+      "动态图形"
+    ],
+    "tagsEn": [
+      "video-production",
+      "motion-graphics"
+    ],
+    "isCollection": false
   }
 ]

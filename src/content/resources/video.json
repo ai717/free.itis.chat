@@ -24279,5 +24279,33 @@
     "isCollection": false,
     "githubUrl": null,
     "platforms": []
+  },
+  {
+    "id": "video-holyarrs",
+    "name": "HolyArrs",
+    "url": "https://holyarrs.com",
+    "githubUrl": "https://github.com/HolyArrs/HolyArrs",
+    "category": "video",
+    "subcategory": "媒体库管理",
+    "safeguardStatus": "verified",
+    "featured": false,
+    "isStarred": false,
+    "platforms": [
+      "docker",
+      "web"
+    ],
+    "description": "自托管单应用替代 Sonarr/Radarr/Lidarr/Prowlarr/Bazarr/Seerr 六件套，统一管理剧集、电影、音乐、字幕与求片，Docker 镜像约 16 MB、空闲内存约 100 MB，AGPL-3.0 免费。",
+    "descriptionEn": "Self-hosted all-in-one replacement for Sonarr, Radarr, Lidarr, Prowlarr, Bazarr, Seerr; manages series, movies, music, subtitles and requests; Docker image ~16 MB, idle ~100 MB RAM; free under AGPL-3.0.",
+    "warningText": "自身不下载，需自备 qBittorrent/SABnzbd 等下载器及 Torznab/Newznab 索引源；元数据来自维护者自费服务器；仅支持 Docker 部署。",
+    "warningTextEn": "Does not download itself; you must provide a downloader (qBittorrent, SABnzbd) and Torznab/Newznab indexers; metadata served from maintainer-funded servers; Docker-only deployment.",
+    "tags": [
+      "媒体管理",
+      "自托管"
+    ],
+    "tagsEn": [
+      "media-management",
+      "self-hosted"
+    ],
+    "isCollection": false
   }
 ]

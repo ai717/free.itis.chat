@@ -26114,5 +26114,94 @@
       "linux",
       "win"
     ]
+  },
+  {
+    "id": "developer-tools-aisoc",
+    "name": "AiSOC",
+    "url": "https://beenuar.github.io/AiSOC/",
+    "githubUrl": "https://github.com/beenuar/AiSOC",
+    "category": "developer-tools",
+    "subcategory": "AI 安全运营中心",
+    "safeguardStatus": "verified",
+    "featured": false,
+    "isStarred": false,
+    "platforms": [
+      "linux",
+      "docker",
+      "web"
+    ],
+    "description": "开源自托管 AI 安全运营中心，融合告警、AI Agent 调查与 MITRE ATT&CK 分析，决策全程可回放，处置需人工批准，MIT 协议免费部署。",
+    "descriptionEn": "Open-source self-hosted AI Security Operations Center that fuses alerts, runs AI agents for investigation and MITRE ATT&CK analysis, records every decision for replay, and requires human approval for actions, free under MIT license.",
+    "warningText": "需 Docker Compose v2、8 GB 内存和 20 GB 磁盘，首次下载约 2 GB 本地模型，内置模型能力有限，非前沿大模型。",
+    "warningTextEn": "Requires Docker Compose v2, 8 GB RAM and 20 GB disk; initial download ~2 GB local model; bundled model is limited, not a cutting-edge LLM.",
+    "tags": [
+      "开源",
+      "自托管",
+      "安全运营"
+    ],
+    "tagsEn": [
+      "open-source",
+      "self-hosted",
+      "security-operations"
+    ],
+    "isCollection": false
+  },
+  {
+    "id": "developer-tools-mini-swe-agent",
+    "name": "mini-swe-agent",
+    "url": "https://mini-swe-agent.com",
+    "githubUrl": "https://github.com/SWE-agent/mini-swe-agent",
+    "category": "developer-tools",
+    "subcategory": "编码 Agent",
+    "safeguardStatus": "verified",
+    "featured": false,
+    "isStarred": false,
+    "platforms": [
+      "linux",
+      "mac",
+      "docker"
+    ],
+    "description": "约 100 行 Python 的极简 AI 软件工程 Agent，仅用 bash 工具解决 GitHub Issue 或命令行任务，支持本地、Docker、Singularity 沙箱，SWE-bench 验证超 74%，MIT 免费。",
+    "descriptionEn": "A ~100-line Python minimal AI software-engineering agent that solves GitHub issues or CLI tasks using only bash, with local/Docker/Singularity sandboxes, >74 % SWE-bench verified, free under MIT.",
+    "warningText": "必须自备模型并通过 litellm/OpenRouter/Portkey 接入，云端模型按量付费；仅提供 bash 一个工具，无专用文件工具。",
+    "warningTextEn": "You must supply your own model via litellm/OpenRouter/Portkey; cloud models are pay-as-you-go; only a single bash tool is provided, no dedicated file tools.",
+    "tags": [
+      "编码 Agent",
+      "MIT"
+    ],
+    "tagsEn": [
+      "coding agent",
+      "MIT"
+    ],
+    "isCollection": false
+  },
+  {
+    "id": "developer-tools-rust-anything",
+    "name": "rust-anything",
+    "url": "https://www.npmjs.com/package/rust-anything",
+    "githubUrl": "https://github.com/erkamyaman/rust-anything",
+    "category": "developer-tools",
+    "subcategory": "Rust 重写工具链",
+    "safeguardStatus": "verified",
+    "featured": false,
+    "isStarred": false,
+    "platforms": [
+      "win",
+      "mac",
+      "linux"
+    ],
+    "description": "把 Node、Python、C、Go 等应用逐块重写为 Rust 的工具链，先录制原版在各种输入下的行为，再回放到 Rust 版逐项比对，全对才放行，支持 CLI、HTTP 服务和库，MIT 免费。",
+    "descriptionEn": "Toolchain that incrementally rewrites Node, Python, C, Go apps to Rust: records original behavior across inputs, then replays tests against the Rust version, passing only if all match; supports CLI, HTTP services and libraries; free under MIT.",
+    "warningText": "录制会反复运行原版代码，写文件、连数据库、调网络等副作用会重复发生，必须在副本和测试库上跑且不要放生产凭证；只能发现录制覆盖到的问题。",
+    "warningTextEn": "Recording re-executes the original code, so file writes, DB calls, network requests repeat; must run on copies/test databases without production credentials; only catches issues covered by the recordings.",
+    "tags": [
+      "代码重写",
+      "Rust"
+    ],
+    "tagsEn": [
+      "code-rewrite",
+      "rust"
+    ],
+    "isCollection": false
   }
 ]

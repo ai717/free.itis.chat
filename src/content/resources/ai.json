@@ -8833,5 +8833,62 @@
       "docker",
       "web"
     ]
+  },
+  {
+    "id": "ai-strata",
+    "name": "Strata",
+    "url": "https://github.com/Niko1221/Strata",
+    "githubUrl": "https://github.com/Niko1221/Strata",
+    "category": "ai",
+    "subcategory": "本地大模型运行器",
+    "safeguardStatus": "verified",
+    "featured": true,
+    "isStarred": true,
+    "platforms": [
+      "win",
+      "mac",
+      "linux"
+    ],
+    "description": "本地大模型运行器，桌面与终端一键安装，在消费级电脑跑 Qwen3.8-Flash-Next 等模型，提供 OpenAI/Anthropic 兼容 API，可接 Claude Code、Codex 等工具，免账号，MIT 免费。",
+    "descriptionEn": "Local LLM runner with one-click desktop/terminal install; runs models like Qwen3.8-Flash-Next on consumer hardware, exposes OpenAI/Anthropic-compatible APIs for tools such as Claude Code, Codex; no account needed; free under MIT.",
+    "warningText": "模型文件需自行下载，大小随量化版本；需受支持显卡（NVIDIA RTX 20-50 系、AMD RX 7700+、Linux Intel Arc、Apple Silicon M1+）；首次启动会下载对应显卡引擎。",
+    "warningTextEn": "Model files must be downloaded separately, size varies by quantization; requires supported GPU (NVIDIA RTX 20-50, AMD RX 7700+, Linux Intel Arc, Apple Silicon M1+); first launch downloads the GPU engine.",
+    "tags": [
+      "本地大模型",
+      "API 兼容"
+    ],
+    "tagsEn": [
+      "local-llm",
+      "api-compatible"
+    ],
+    "isCollection": false
+  },
+  {
+    "id": "ai-dograh",
+    "name": "Dograh",
+    "url": "https://app.dograh.com",
+    "githubUrl": "https://github.com/dograh-hq/dograh",
+    "category": "ai",
+    "subcategory": "语音 AI 平台",
+    "safeguardStatus": "verified",
+    "featured": false,
+    "isStarred": false,
+    "platforms": [
+      "docker",
+      "web"
+    ],
+    "description": "开源自托管语音 AI 平台，替代 Vapi/Retell，可视化工作流搭建语音 Agent，支持自带 LLM/ASR/TTS/电话服务商，含 MCP 接入，BSD-2-Clause 免费。",
+    "descriptionEn": "Open-source self-hosted voice AI platform, alternative to Vapi/Retell; visual workflow builder for voice agents, supports bring-your-own LLM, ASR, TTS, telephony providers, includes MCP integration; free under BSD-2-Clause.",
+    "warningText": "自托管版免费，云版按量付费；自带模型与电话服务商费用另计；默认收集匿名遥测，可用 ENABLE_TELEMETRY=false 关闭；快速启动默认开启公网 Cloudflare 隧道并开放注册，需自行关闭。",
+    "warningTextEn": "Self-hosted edition free; cloud edition pay-as-you-go; custom models and telephony incur extra cost; anonymous telemetry enabled by default (disable with ENABLE_TELEMETRY=false); quickstart exposes a public Cloudflare tunnel with open registration – must be disabled manually.",
+    "tags": [
+      "语音 AI",
+      "自托管"
+    ],
+    "tagsEn": [
+      "voice-ai",
+      "self-hosted"
+    ],
+    "isCollection": false
   }
 ]

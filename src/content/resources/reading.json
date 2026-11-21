@@ -21309,5 +21309,34 @@
       "docker",
       "web"
     ]
+  },
+  {
+    "id": "reading-lastbook",
+    "name": "Lastbook",
+    "url": "https://lastbook.org",
+    "githubUrl": "https://github.com/Immortal-Protocols/lastbook",
+    "category": "reading",
+    "subcategory": "离线生存资料库",
+    "safeguardStatus": "verified",
+    "featured": false,
+    "isStarred": false,
+    "platforms": [
+      "win",
+      "mac",
+      "linux"
+    ],
+    "description": "离线生存资料库桌面应用，将手册、视频、离线百科、地图、指南打包至单机，设置后完全离线，可选本地 AI 带出处回答，支持 Mac/Win/Linux，MIT 免费。",
+    "descriptionEn": "Offline survival knowledge desktop app that bundles manuals, videos, offline encyclopedias, maps and guides into one machine; fully offline after setup; optional local AI with citations; runs on Mac, Windows, Linux; free under MIT.",
+    "warningText": "资料包需下载：小包 7.7 GB、中包 67.5 GB、全量约 388 GB，本地 AI 额外约 17 GB；Mac 需 Apple Silicon M1+ 且 macOS 14+，Intel Mac 不支持；Linux 仅 Ubuntu 24.04/26.04 x86_64；无手机/平板安装包，iPad 仅源码。",
+    "warningTextEn": "Data packs must be downloaded: small 7.7 GB, medium 67.5 GB, full ~388 GB; local AI adds ~17 GB; Mac requires Apple Silicon M1+ and macOS 14+ (Intel Mac unsupported); Linux only Ubuntu 24.04/26.04 x86_64; no mobile/tablet builds, iPad only source code.",
+    "tags": [
+      "离线资料",
+      "生存指南"
+    ],
+    "tagsEn": [
+      "offline-knowledge",
+      "survival-guide"
+    ],
+    "isCollection": false
   }
 ]

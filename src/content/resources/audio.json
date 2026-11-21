@@ -22136,5 +22136,34 @@
       "mac",
       "linux"
     ]
+  },
+  {
+    "id": "audio-hex",
+    "name": "Hex",
+    "url": "https://anoma.ly/hex",
+    "githubUrl": "https://github.com/anomalyco/hex",
+    "category": "audio",
+    "subcategory": "本地语音听写",
+    "safeguardStatus": "verified",
+    "featured": false,
+    "isStarred": false,
+    "platforms": [
+      "win",
+      "mac",
+      "linux"
+    ],
+    "description": "本地语音听写工具，按住快捷键说话松开即粘贴转写文本，支持 Mac/Win/Linux，含历史记录、词表与应用级后处理，MIT 协议免费。",
+    "descriptionEn": "Local voice dictation: hold a hotkey, speak, release to paste transcribed text into the active app; works on Mac, Windows, Linux with history, vocab and per-app post-processing, free under MIT.",
+    "warningText": "首次运行需下载语音模型，历史默认保留 7 天，会议转录仅 macOS 实验功能，项目不接受 PR。",
+    "warningTextEn": "First run downloads a speech model; history kept 7 days by default; meeting transcription is macOS-only experimental; project does not accept pull requests.",
+    "tags": [
+      "语音听写",
+      "本地运行"
+    ],
+    "tagsEn": [
+      "voice-dictation",
+      "local-run"
+    ],
+    "isCollection": false
   }
 ]

@@ -24374,5 +24374,35 @@
     "isCollection": false,
     "githubUrl": null,
     "platforms": []
+  },
+  {
+    "id": "gaming-tools-anyps5",
+    "name": "AnyPS5",
+    "url": "https://boykopovar.github.io/AnyPS5/",
+    "githubUrl": "https://github.com/boykopovar/AnyPS5",
+    "category": "gaming-tools",
+    "subcategory": "PS5 移植工具",
+    "safeguardStatus": "verified",
+    "featured": true,
+    "isStarred": true,
+    "platforms": [
+      "win",
+      "linux",
+      "mac",
+      "web"
+    ],
+    "description": "将 PS5 可执行文件自动移植到 Linux/Windows 的工具，通过重链接器转为目标系统原生格式并提供系统库实现，非模拟，带网页转换器，文件不出本机，GPL-2.0 免费。",
+    "descriptionEn": "Tool that automatically ports PS5 executables to Linux/Windows by re-linking them into native binaries with system-library shims; not an emulator; includes a web converter; files never leave the machine; free under GPL-2.0.",
+    "warningText": "各游戏兼容性不同，需查讨论区逐款确认；不包含也不提供受版权保护的软件、固件、密钥，必须使用自己合法取得的二进制；遇不支持状态会抛异常退出。",
+    "warningTextEn": "Compatibility varies per game; check discussions for each title; does not include or provide copyrighted software, firmware, or keys – you must use legally obtained binaries; unsupported states cause exceptions and exit.",
+    "tags": [
+      "游戏移植",
+      "PS5"
+    ],
+    "tagsEn": [
+      "game-porting",
+      "ps5"
+    ],
+    "isCollection": false
   }
 ]

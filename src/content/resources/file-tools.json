@@ -9267,5 +9267,34 @@
     "isCollection": false,
     "githubUrl": "https://github.com/meganz/MEGAcmd",
     "platforms": []
+  },
+  {
+    "id": "file-tools-markitdown",
+    "name": "MarkItDown",
+    "url": "https://github.com/microsoft/markitdown",
+    "githubUrl": "https://github.com/microsoft/markitdown",
+    "category": "file-tools",
+    "subcategory": "文档转 Markdown",
+    "safeguardStatus": "verified",
+    "featured": true,
+    "isStarred": true,
+    "platforms": [
+      "win",
+      "mac",
+      "linux"
+    ],
+    "description": "微软开源 Python 工具，将 PDF、Office、图片、音频、HTML、CSV、JSON、XML、ZIP、YouTube、EPub 等转为 Markdown，保留标题、列表、表格、链接结构，MIT 免费。",
+    "descriptionEn": "Microsoft’s open-source Python utility converts PDFs, Office files, images, audio, HTML, CSV, JSON, XML, ZIP, YouTube links, EPubs, etc. to Markdown while preserving headings, lists, tables, links; free under MIT.",
+    "warningText": "需 Python 3.10-3.14；输出面向大模型消费，非高保真文档转换；图片说明和语音转写依赖网络托管服务。",
+    "warningTextEn": "Requires Python 3.10-3.14; output targets LLM consumption, not high-fidelity document conversion; image captioning and speech-to-text rely on hosted services.",
+    "tags": [
+      "文档转换",
+      "Markdown"
+    ],
+    "tagsEn": [
+      "document-conversion",
+      "markdown"
+    ],
+    "isCollection": false
   }
 ]
